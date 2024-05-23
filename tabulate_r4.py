@@ -2,8 +2,10 @@ import json
 import os
 import pandas
 import sys
+import warnings
+from datetime import datetime
 
-# SELECTIONS_FILE = sys.argv[1]
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 ABCD_JSON         = 'ABCD_participants.json'
 SELECTIONS_FILE   = 'selections.txt'
@@ -45,16 +47,19 @@ for field in selections:
 # crawl through the release files and collect the data
 for i, survey in enumerate(survey_field_dict):
     survey_fullpath = os.path.join(ABCD_RELEASE_TXTS, survey + '.txt')
-    df = pandas.read_csv(survey_fullpath, sep='\t', header=0, skiprows=[1])
+    df = pandas.read_csv(survey_fullpath, sep='\t', header=0, skiprows=[1], low_memory=False)
 
     if i == 0:
-        data = df[['subjectkey', 'eventname']]
+        data = df[['subjectkey', 'eventname', 'interview_age']]
 
-    for field in survey_field_dict[survey]:
-        data = pandas.merge(data, df[['subjectkey', 'eventname', 'interview_age', field]], how='outer', on=['subjectkey', 'eventname'])
+    for j, field in enumerate(survey_field_dict[survey]):
+        print(datetime.now(), 'Merging field', str(i+1), ':', field)
+        data = pandas.merge(data, df[['subjectkey', 'eventname', 'interview_age', field]].rename(columns={'interview_age': 'interview_age'+str((10*i)+j)}), how='outer', on=['subjectkey', 'eventname'])
 
-# start interview_age as a single column duplicate
-data['interview_age'] = data['interview_age_x'].loc[:,~data['interview_age_x'].columns.duplicated()]
+print(datetime.now(), 'Collapsing duplicate interview_age columns (this step is slow)')
+
+# # start interview_age as a single column duplicate
+# data['interview_age'] = data['interview_age'].loc[:,~data['interview_age'].columns.duplicated()]
 
 # "merge" to fix all the interview_age duplicated columns
 for i, row in enumerate(data[[column for column in data.columns if 'interview_age' in column]].values):
@@ -63,7 +68,7 @@ for i, row in enumerate(data[[column for column in data.columns if 'interview_ag
     data['interview_age'][i] = number
 
 # drop all the duplicate interview_age columns
-data = data.drop(columns=['interview_age_x', 'interview_age_y'])
+data = data.drop(columns=[column for column in data.columns if 'interview_age' in column and column != 'interview_age'])
 
 # reorder the column names
 essentials = ['subjectkey', 'eventname', 'interview_age']
@@ -82,7 +87,7 @@ for field in data.columns:
             data[field] = data[field].fillna(-999.0)
             data[field] = data[field].astype(float)
 
-data.rename(columns={'subjectkey': 'participant_id'})
+data.rename(columns={'subjectkey': 'participant_id'}, inplace=True).sort(columns=['participant_id', 'eventname'], inplace=True)
 
 # write out TSV and JSON files
 data.to_csv(os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + '.tsv.temp'), sep='\t', index=False)
