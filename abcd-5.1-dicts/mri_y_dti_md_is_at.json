@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtimd_fiberat_allfibers": {
+        "Description": "Mean diffusivity within all DTI atlas tract fibers"
+    },
+    "dmri_dtimd_fiberat_allfiblh": {
+        "Description": "Mean diffusivity within left hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtimd_fiberat_allfcclh": {
+        "Description": "Mean diffusivity within left hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtimd_fiberat_allfccrh": {
+        "Description": "Mean diffusivity within right hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtimd_fiberat_allfibrh": {
+        "Description": "Mean diffusivity within right hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtimd_fiberat_atrlh": {
+        "Description": "Mean diffusivity within DTI atlas tract left anterior thalamic radiations"
+    },
+    "dmri_dtimd_fiberat_atrrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right anterior thalamic radiations"
+    },
+    "dmri_dtimd_fiberat_cc": {
+        "Description": "Mean diffusivity within DTI atlas tract corpus callosum"
+    },
+    "dmri_dtimd_fiberat_cgclh": {
+        "Description": "Mean diffusivity within DTI atlas tract left cingulate cingulum"
+    },
+    "dmri_dtimd_fiberat_cgcrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right cingulate cingulum"
+    },
+    "dmri_dtimd_fiberat_cghlh": {
+        "Description": "Mean diffusivity within DTI atlas tract left parahippocampal cingulum"
+    },
+    "dmri_dtimd_fiberat_cghrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right parahippocampal cingulum"
+    },
+    "dmri_dtimd_fiberat_cstlh": {
+        "Description": "Mean diffusivity within DTI atlas tract left corticospinal/pyramidal"
+    },
+    "dmri_dtimd_fiberat_cstrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right corticospinal/pyramidal"
+    },
+    "dmri_dtimd_fiberat_fmaj": {
+        "Description": "Mean diffusivity within DTI atlas tract foreceps major"
+    },
+    "dmri_dtimd_fiberat_fmin": {
+        "Description": "Mean diffusivity within DTI atlas tract foreceps minor"
+    },
+    "dmri_dtimd_fiberat_fscslh": {
+        "Description": "Mean diffusivity within DTI atlas tract left superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtimd_fiberat_fscsrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtimd_fiberat_fxcutlh": {
+        "Description": "Mean diffusivity within DTI atlas tract left fornix, excluding fimbria"
+    },
+    "dmri_dtimd_fiberat_fxcutrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right fornix, excluding fimbria"
+    },
+    "dmri_dtimd_fiberat_fxlh": {
+        "Description": "Mean diffusivity within DTI atlas tract left fornix"
+    },
+    "dmri_dtimd_fiberat_fxrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right fornix"
+    },
+    "dmri_dtimd_fiberat_ifolh": {
+        "Description": "Mean diffusivity within DTI atlas tract left inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtimd_fiberat_iforh": {
+        "Description": "Mean diffusivity within DTI atlas tract right inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtimd_fiberat_ifsfclh": {
+        "Description": "Mean diffusivity within DTI atlas tract left inferior frontal superior frontal cortex"
+    },
+    "dmri_dtimd_fiberat_ifsfcrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right inferior frontal superior frontal cortex"
+    },
+    "dmri_dtimd_fiberat_ilflh": {
+        "Description": "Mean diffusivity within DTI atlas tract left inferior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_ilfrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right inferior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_pscslh": {
+        "Description": "Mean diffusivity within DTI atlas tract left superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtimd_fiberat_pscsrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtimd_fiberat_pslflh": {
+        "Description": "Mean diffusivity within DTI atlas tract left parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_pslfrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_scslh": {
+        "Description": "Mean diffusivity within DTI atlas tract left superior corticostriate"
+    },
+    "dmri_dtimd_fiberat_scsrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right superior corticostriate"
+    },
+    "dmri_dtimd_fiberat_sifclh": {
+        "Description": "Mean diffusivity within DTI atlas tract left striatal inferior frontal cortex"
+    },
+    "dmri_dtimd_fiberat_sifcrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right striatal inferior frontal cortex"
+    },
+    "dmri_dtimd_fiberat_slflh": {
+        "Description": "Mean diffusivity within DTI atlas tract left superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_slfrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_tslflh": {
+        "Description": "Mean diffusivity within DTI atlas tract left  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_tslfrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtimd_fiberat_unclh": {
+        "Description": "Mean diffusivity within DTI atlas tract left uncinate"
+    },
+    "dmri_dtimd_fiberat_uncrh": {
+        "Description": "Mean diffusivity within DTI atlas tract right uncinate"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "hormone_sal_sex": {
+        "Description": "Hormone saliva sample tube cap color: | 1=Pink/Purple (female) ; 2=Blue (male) ; 3=Participant unable to complete ; 4=Participant/Parent refused ; 6=Institution not authorized to collect samples due to COVID ; 7=Staff discomfort due to COVID ; 8=Exceed 15min of < 6ft distance from youth (COVID) ; 9=Not approved by ABCD for collection ; 5=Not collected (other)",
+        "Levels": {
+            "1": "Pink/Purple (female)",
+            "2": "Blue (male)",
+            "3": "Participant unable to complete",
+            "4": "Participant/Parent refused",
+            "6": "Institution not authorized to collect samples due to COVID",
+            "7": "Staff discomfort due to COVID",
+            "8": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "9": "Not approved by ABCD for collection",
+            "5": "Not collected (other)"
+        }
+    },
+    "hormone_sal_wake_y": {
+        "Description": "What time did you wake up today?"
+    },
+    "hormone_sal_caff_y": {
+        "Description": "Have you had any caffeine in the last 12 hours? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "hormone_sal_caff_mg_y": {
+        "Description": "How many drinks (mg) did you have?\n\n RA: Please use the following link to determine total miligrams per serving size and open the link in new window: caffeine chart | record drinks as total miligrams (use 'caffeine chart' link)"
+    },
+    "hormone_sal_active": {
+        "Description": "In the last 12 hours, did you exercise vigorously (sweating, breathing hard) for at least 20 minutes? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "hormone_sal_active_minutes_y": {
+        "Description": "For how long did you exercise? | record time as minutes, minimum is approx 20 minutes"
+    },
+    "hormone_sal_start_y": {
+        "Description": "Hormone saliva sample time collection started?"
+    },
+    "hormone_sal_end_y": {
+        "Description": "Hormone saliva sample time collection finished?"
+    },
+    "hormons_sal_freeztemp_y": {
+        "Description": "Hormone sample storage temperature: | 1 = -20 C freezer; 2 = -80 C freezer | Indicate temperature of 3-month storage freezer here.",
+        "Levels": {
+            "1": "-20 C freezer",
+            "2": "-80 C freezer | Indicate temperature of 3-month storage freezer here."
+        }
+    },
+    "hormone_sal_freezer_y": {
+        "Description": "Time sample moved to freezer:"
+    },
+    "hormon_sal_notes_y___1": {
+        "Description": "Note any concerns about sample (all that apply) (1, None) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormon_sal_notes_y___2": {
+        "Description": "Note any concerns about sample (all that apply) ( 2, Contaminated) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormon_sal_notes_y___3": {
+        "Description": "Note any concerns about sample (all that apply) ( 3, Discoloration) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormon_sal_notes_y___4": {
+        "Description": "Note any concerns about sample (all that apply) ( 4, Excessive bubbles) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormon_sal_notes_y___5": {
+        "Description": "Note any concerns about sample (all that apply) ( 5, Very little saliva provided) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormon_sal_notes_y___6": {
+        "Description": "Note any concerns about sample (all that apply) ( 6, Other) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "hormone_scr_dhea_mean": {
+        "Description": "Salimetrics hormone test DHEA mean of measures (pg/mL)"
+    },
+    "hormone_scr_dhea_rep1": {
+        "Description": "Salimetrics hormone test DHEA repetition 1 (pg/mL)"
+    },
+    "hormone_scr_dhea_rep1_ll": {
+        "Description": "Salimetrics hormone test DHEA below lower limit of sensitivity (repetition 1)"
+    },
+    "hormone_scr_dhea_rep1_qns": {
+        "Description": "Salimetrics hormone test DHEA quantity not sufficient (repetition 1)"
+    },
+    "hormone_scr_dhea_rep1_nd": {
+        "Description": "Salimetrics hormone test DHEA none detected (repetition 1)"
+    },
+    "hormone_scr_dhea_rep2": {
+        "Description": "Salimetrics hormone test DHEA repetition 2 (pg/mL)"
+    },
+    "hormone_scr_dhea_rep2_ll": {
+        "Description": "Salimetrics hormone test DHEA below lower limit of sensitivity (repetition 2)"
+    },
+    "hormone_scr_dhea_rep2_qns": {
+        "Description": "Salimetrics hormone test DHEA quantity not sufficient (repetition 2)"
+    },
+    "hormone_scr_dhea_rep2_nd": {
+        "Description": "Salimetrics hormone test DHEA none detected (repetition 2)"
+    },
+    "hormone_scr_hse_mean": {
+        "Description": "Salimetrics hormone test estradiol (HSE) mean of measures (pg/mL)"
+    },
+    "hormone_scr_hse_rep1": {
+        "Description": "Salimetrics hormone test estradiol (HSE) repetition 1 (pg/mL)"
+    },
+    "hormone_scr_hse_rep1_ll": {
+        "Description": "Salimetrics hormone test estradiol (HSE) below lower limit of sensitivity (repetition 1)"
+    },
+    "hormone_scr_hse_rep1_qns": {
+        "Description": "Salimetrics hormone test estradiol (HSE)  quantity not sufficient (repetition 1)"
+    },
+    "hormone_scr_hse_rep1_nd": {
+        "Description": "Salimetrics hormone test estradiol (HSE) none detected (repetition 1)"
+    },
+    "hormone_scr_hse_rep2": {
+        "Description": "Salimetrics hormone test estradiol (HSE) repetition 2 (pg/mL)"
+    },
+    "hormone_scr_hse_rep2_ll": {
+        "Description": "Salimetrics hormone test estradiol (HSE)  below lower limit of sensitivity (repetition 2)"
+    },
+    "hormone_scr_hse_rep2_qns": {
+        "Description": "Salimetrics hormone test estradiol (HSE)  quantity not sufficient (repetition 2)"
+    },
+    "hormone_scr_hse_rep2_nd": {
+        "Description": "Salimetrics hormone test estradiol (HSE)  none detected (repetition 2)"
+    },
+    "hormone_scr_ert_mean": {
+        "Description": "Salimetrics hormone test testosterone (ERT) mean of measures (pg/mL)"
+    },
+    "hormone_scr_ert_rep1": {
+        "Description": "Salimetrics hormone test testosterone (ERT) repetition 1 (pg/mL)"
+    },
+    "hormone_scr_ert_rep1_ll": {
+        "Description": "Salimetrics hormone test testosterone (ERT) below lower limit of sensitivity (repetition 1)"
+    },
+    "hormone_scr_ert_rep1_qns": {
+        "Description": "Salimetrics hormone test testosterone (ERT)  quantity not sufficient (repetition 1)"
+    },
+    "hormone_scr_ert_rep1_nd": {
+        "Description": "Salimetrics hormone test testosterone (ERT) none detected (repetition 1)"
+    },
+    "hormone_scr_ert_rep2": {
+        "Description": "Salimetrics hormone test testosterone (ERT) repetition 2 (pg/mL)"
+    },
+    "hormone_scr_ert_rep2_ll": {
+        "Description": "Salimetrics hormone test testosterone (ERT) below lower limit of sensitivity (repetition 2)"
+    },
+    "hormone_scr_ert_rep2_qns": {
+        "Description": "Salimetrics hormone test testosterone (ERT)  quantity not sufficient (repetition 2)"
+    },
+    "hormone_scr_ert_rep2_nd": {
+        "Description": "Salimetrics hormone test Salimetrics hormone test testosterone (ERT)  quantity not sufficient (repetition 2) none detected (repetition 2)"
+    }
+}

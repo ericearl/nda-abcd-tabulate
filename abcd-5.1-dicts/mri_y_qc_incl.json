@@ -1,0 +1,55 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "imgincl_t1w_include": {
+        "Description": "T1w data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_t2w_include": {
+        "Description": "T2w data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_dmri_include": {
+        "Description": "dMRI (DTI/RSI) data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_rsfmri_include": {
+        "Description": "rs-fMRI data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_mid_include": {
+        "Description": "MID task-fMRI data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_nback_include": {
+        "Description": "nBack task-fMRI data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "imgincl_sst_include": {
+        "Description": "SST task-fMRI data recommended for inclusion | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

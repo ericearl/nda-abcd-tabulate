@@ -1,0 +1,114 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_area_cf2_frlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 2 clusters-lh-frontal"
+    },
+    "smri_area_cf2_ptlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 2 clusters-lh-posterior"
+    },
+    "smri_area_cf4_frlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-lh-frontal"
+    },
+    "smri_area_cf4_occlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-lh-occipital"
+    },
+    "smri_area_cf4_tmlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-lh-temporal"
+    },
+    "smri_area_cf4_pllh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-lh-parietal"
+    },
+    "smri_area_cf12_cnlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-central"
+    },
+    "smri_area_cf12_occlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-occipital"
+    },
+    "smri_area_cf12_ptoltmlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-posterolateraltemporal"
+    },
+    "smri_area_cf12_supllh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-superiorparietal"
+    },
+    "smri_area_cf12_obfrlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-orbitofrontal"
+    },
+    "smri_area_cf12_sutmlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-superiortemporal"
+    },
+    "smri_area_cf12_ifpllh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-inferiorparietal"
+    },
+    "smri_area_cf12_dmfrlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-dorsomedialfrontal"
+    },
+    "smri_area_cf12_aomtmlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-anteromedialtemporal"
+    },
+    "smri_area_cf12_pclh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-precuneus"
+    },
+    "smri_area_cf12_dlprefrlh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-dorsolateralprefrontal"
+    },
+    "smri_area_cf12_parsopclh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-lh-parsopercularis"
+    },
+    "smri_area_cf2_frrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 2 clusters-rh-frontal"
+    },
+    "smri_area_cf2_ptrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 2 clusters-rh-posterior"
+    },
+    "smri_area_cf4_frrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-rh-frontal"
+    },
+    "smri_area_cf4_occrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-rh-occipital"
+    },
+    "smri_area_cf4_tmrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-rh-temporal"
+    },
+    "smri_area_cf4_plrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 4 clusters-rh-parietal"
+    },
+    "smri_area_cf12_cnrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-central"
+    },
+    "smri_area_cf12_occrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-occipital"
+    },
+    "smri_area_cf12_ptoltmrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-posterolateraltemporal"
+    },
+    "smri_area_cf12_suplrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-superiorparietal"
+    },
+    "smri_area_cf12_obfrrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-orbitofrontal"
+    },
+    "smri_area_cf12_sutmrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-superiortemporal"
+    },
+    "smri_area_cf12_ifplrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-inferiorparietal"
+    },
+    "smri_area_cf12_dmfrrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-dorsomedialfrontal"
+    },
+    "smri_area_cf12_aomtmrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-anteromedialtemporal"
+    },
+    "smri_area_cf12_pcrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-precuneus"
+    },
+    "smri_area_cf12_dlprefrrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-dorsolateralprefrontal"
+    },
+    "smri_area_cf12_parsopcrh": {
+        "Description": "Weighted average area for genetically derived parcellation with 12 clusters-rh-parsopercularis"
+    }
+}

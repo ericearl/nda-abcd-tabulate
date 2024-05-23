@@ -1,0 +1,84 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "led_sch_seda_s_charter": {
+        "Description": "charter school (CCD) (2018)"
+    },
+    "led_sch_seda_s_disab_tot": {
+        "Description": "proportion classified as disabled (CRDC) (2012; 2014; 2016; 2018 weighted average)"
+    },
+    "led_sch_seda_s_disab_tot_idea": {
+        "Description": "proportion classified as disabled (IDEA Only) (CRDC) (2012; 2014; 2016; 2018 weighted average)"
+    },
+    "led_sch_seda_s_gifted_flag": {
+        "Description": "school has 40% plus gifted students"
+    },
+    "led_sch_seda_s_gifted_tot": {
+        "Description": "proportion classified as gifted (CRDC) (2012; 2014; 2016; 2018 weighted average)"
+    },
+    "led_sch_seda_s_lep": {
+        "Description": "proportion limited english proficient (CRDC) (2012; 2014; 2016; 2018 weighted average)"
+    },
+    "led_sch_seda_s_lep_flag": {
+        "Description": "school has 50%plus LEP students"
+    },
+    "led_sch_seda_s_level": {
+        "Description": "school level (CCD) (2018)"
+    },
+    "led_sch_seda_s_magnet": {
+        "Description": "magnet school (CCD) (2018)"
+    },
+    "led_sch_seda_s_maxgrd": {
+        "Description": "max grade of grades 3-8 (CCD) (2018)"
+    },
+    "led_sch_seda_s_mingrd": {
+        "Description": "min grade of grades 3-8 (CCD) (2018)"
+    },
+    "led_sch_seda_s_perasn": {
+        "Description": "proportion asian (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perblk": {
+        "Description": "proportion black (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perecd": {
+        "Description": "proportion economically disadvantaged (Ed Facts) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perfl": {
+        "Description": "proportion free lunch eligible (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perfrl": {
+        "Description": "proportion free or reduced lunch eligible (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perhsp": {
+        "Description": "proportion hispanic (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perind": {
+        "Description": "proportion native american (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perrl": {
+        "Description": "proportion reduced lunch eligible (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_perwht": {
+        "Description": "proportion white (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_sch_sped": {
+        "Description": "special education school indicator flag (CRDC) (2018)"
+    },
+    "led_sch_seda_s_sped_flag": {
+        "Description": "school has 40%plus special education students or is listed as a special education school in CCD or CRDC"
+    },
+    "led_sch_seda_s_spedidea_flag": {
+        "Description": "school has 40%plus sped students (IDEA only) OR is listed as sped school in CCD or CRDC"
+    },
+    "led_sch_seda_s_totenrl": {
+        "Description": "total enrollment (CCD) (2009-18 weighted average)"
+    },
+    "led_sch_seda_s_type": {
+        "Description": "school type (CCD) (2018)"
+    },
+    "led_sch_seda_s_urbanicity": {
+        "Description": "urbanicity locale (CCD) (2018)"
+    }
+}

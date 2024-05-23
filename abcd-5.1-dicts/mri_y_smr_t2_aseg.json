@@ -1,0 +1,126 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_t2w_scs_cbwmatterlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Cerebral-White-Matter"
+    },
+    "smri_t2w_scs_ltventriclelh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Lateral-Ventricle"
+    },
+    "smri_t2w_scs_inflatventlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Inf-Lat-Vent"
+    },
+    "smri_t2w_scs_crbwmatterlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Cerebellum-White-Matter"
+    },
+    "smri_t2w_scs_crbcortexlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Cerebellum-Cortex"
+    },
+    "smri_t2w_scs_tplh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Thalamus-Proper"
+    },
+    "smri_t2w_scs_caudatelh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Caudate"
+    },
+    "smri_t2w_scs_putamenlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Putamen"
+    },
+    "smri_t2w_scs_pallidumlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Pallidum"
+    },
+    "smri_t2w_scs_3rdventricle": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI 3rd-Ventricle"
+    },
+    "smri_t2w_scs_4thventricle": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI 4th-Ventricle"
+    },
+    "smri_t2w_scs_bstem": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Brain-Stem"
+    },
+    "smri_t2w_scs_hpuslh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Hippocampus"
+    },
+    "smri_t2w_scs_amygdalalh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Amygdala"
+    },
+    "smri_t2w_scs_csf": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CSF"
+    },
+    "smri_t2w_scs_lesionlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Lesion"
+    },
+    "smri_t2w_scs_aal": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-Accumbens-Area"
+    },
+    "smri_t2w_scs_vedclh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-VentralDC"
+    },
+    "smri_t2w_scs_cbwmatterrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Cerebral-White-Matter"
+    },
+    "smri_t2w_scs_ltventriclerh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Lateral-Ventricle"
+    },
+    "smri_t2w_scs_inflatventrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Inf-Lat-Vent"
+    },
+    "smri_t2w_scs_crbwmatterrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Cerebellum-White-Matter"
+    },
+    "smri_t2w_scs_crbcortexrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Cerebellum-Cortex"
+    },
+    "smri_t2w_scs_tprh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Thalamus-Proper"
+    },
+    "smri_t2w_scs_caudaterh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Caudate"
+    },
+    "smri_t2w_scs_putamenrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Putamen"
+    },
+    "smri_t2w_scs_pallidumrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Pallidum"
+    },
+    "smri_t2w_scs_hpusrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Hippocampus"
+    },
+    "smri_t2w_scs_amygdalarh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Amygdala"
+    },
+    "smri_t2w_scs_lesionrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Lesion"
+    },
+    "smri_t2w_scs_aar": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-Accumbens-Area"
+    },
+    "smri_t2w_scs_vedcrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-VentralDC"
+    },
+    "smri_t2w_scs_wmhint": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI WM-hypointensities"
+    },
+    "smri_t2w_scs_wmhintlh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Left-WM-hypointensities"
+    },
+    "smri_t2w_scs_wmhintrh": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI Right-WM-hypointensities"
+    },
+    "smri_t2w_scs_ccps": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CC-Posterior"
+    },
+    "smri_t2w_scs_ccmidps": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CC-Mid-Posterior"
+    },
+    "smri_t2w_scs_ccct": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CC-Central"
+    },
+    "smri_t2w_scs_ccmidat": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CC-Mid-Anterior"
+    },
+    "smri_t2w_scs_ccat": {
+        "Description": "Average intensity of the normalized T2-weighted image within ASEG ROI CC-Anterior"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsihnd_scs_cwmlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-cerebral-white-matter"
+    },
+    "dmri_rsihnd_scs_lvlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-lateral-ventricle"
+    },
+    "dmri_rsihnd_scs_ilvlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-inf-lat-vent"
+    },
+    "dmri_rsihnd_scs_cbwmlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-cerebellum-white-matter"
+    },
+    "dmri_rsihnd_scs_cbclh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-cerebellum-cortex"
+    },
+    "dmri_rsihnd_scs_tplh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-thalamus-proper"
+    },
+    "dmri_rsihnd_scs_cdlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-caudate"
+    },
+    "dmri_rsihnd_scs_ptlh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-putamen"
+    },
+    "dmri_rsihnd_scs_pllh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-pallidum"
+    },
+    "dmri_rsihnd_scs_3rdv": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation 3rd-ventricle"
+    },
+    "dmri_rsihnd_scs_4thv": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation 4th-ventricle"
+    },
+    "dmri_rsihnd_scs_bs": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation brain-stem"
+    },
+    "dmri_rsihnd_scs_hclh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-hippocampus"
+    },
+    "dmri_rsihnd_scs_aglh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-amygdala"
+    },
+    "dmri_rsihnd_scs_csf": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation csf"
+    },
+    "dmri_rsihnd_scs_ablh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-accumbens-area"
+    },
+    "dmri_rsihnd_scs_vdclh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation left-ventraldc"
+    },
+    "dmri_rsihnd_scs_cwmrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-cerebral-white-matter"
+    },
+    "dmri_rsihnd_scs_lvrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-lateral-ventricle"
+    },
+    "dmri_rsihnd_scs_ilvrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-inf-lat-vent"
+    },
+    "dmri_rsihnd_scs_cbwmrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-cerebellum-white-matter"
+    },
+    "dmri_rsihnd_scs_cbcrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-cerebellum-cortex"
+    },
+    "dmri_rsihnd_scs_tprh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-thalamus-proper"
+    },
+    "dmri_rsihnd_scs_cdrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-caudate"
+    },
+    "dmri_rsihnd_scs_ptrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-putamen"
+    },
+    "dmri_rsihnd_scs_plrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-pallidum"
+    },
+    "dmri_rsihnd_scs_hcrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-hippocampus"
+    },
+    "dmri_rsihnd_scs_agrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-amygdala"
+    },
+    "dmri_rsihnd_scs_abrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-accumbens-area"
+    },
+    "dmri_rsihnd_scs_vdcrh": {
+        "Description": "hindered normalized directional diffusion aseg subcortical segmentation right-ventraldc"
+    }
+}

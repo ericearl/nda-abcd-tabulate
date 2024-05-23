@@ -1,0 +1,108 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "path_nic_dep_q01_l": {
+        "Description": "How soon after you wake up do you want to use tobacco? | 1 = Within 5 minutes; 2 = From 6 to 30 minutes; 3 = From more than 30 minutes to 1 hour; 4 = After more than 1 hour but less than 24 hours; 5 = I rarely want to use tobacco / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Within 5 minutes",
+            "2": "From 6 to 30 minutes",
+            "3": "From more than 30 minutes to 1 hour",
+            "4": "After more than 1 hour but less than 24 hours",
+            "5": "I rarely want to use tobacco"
+        }
+    },
+    "path_nic_dep_q02_l": {
+        "Description": "Do you ever have strong craving to use tobacco? | 1 = Yes; 0 = No / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "path_nic_dep_q03_l": {
+        "Description": "Have you ever felt like you really needed to use tobacco? | 1 = Yes; 0 = No / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "path_nic_dep_q04_l": {
+        "Description": "I find myself reaching for a tobacco product without thinking about it. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q05_l": {
+        "Description": "I frequently crave tobacco. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q06_l": {
+        "Description": "My tobacco use is out of control. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q07_l": {
+        "Description": "Using tobacco really helps me feel better if I've been feeling down. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q08_l": {
+        "Description": "Using tobacco helps me think better. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q09_l": {
+        "Description": "I would feel alone without my tobacco. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "path_nic_dep_q10_l": {
+        "Description": "I usually want to use my tobacco right after I wake up. | 1 = Not true of me at all1; 2 = 2; 3 = 3; 4 = 4; 5 = Extremely true of me5 / xskipout_tob_l   == '1'",
+        "Levels": {
+            "1": "Not true of me at all1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "Extremely true of me5"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

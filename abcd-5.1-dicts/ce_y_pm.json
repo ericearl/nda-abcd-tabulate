@@ -1,0 +1,73 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "parent_monitor_q1_y": {
+        "Description": "How often do your parents/guardians know where you are? | 1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always or Almost Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Almost Never",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always or Almost Always"
+        }
+    },
+    "parent_monitor_q2_y": {
+        "Description": "How often do your parents know who you are with when you are not at school and away from home? | 1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always or Almost Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Almost Never",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always or Almost Always"
+        }
+    },
+    "parent_monitor_q3_y": {
+        "Description": "If you are at home when your parents or guardians are not, how often do you know how to get in touch with them? | 1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always or Almost Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Almost Never",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always or Almost Always"
+        }
+    },
+    "parent_monitor_q4_y": {
+        "Description": "How often do you talk to your parent or guardian about your plans for the coming day, such as your plans about what will happen at school or what you are going to do with friends? | 1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always or Almost Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Almost Never",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always or Almost Always"
+        }
+    },
+    "parent_monitor_q5_y": {
+        "Description": "In an average week, how many times do you and your parents/guardians, eat dinner together? | 1 = Never; 2 = Almost Never; 3 = Sometimes; 4 = Often; 5 = Always or Almost Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Almost Never",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always or Almost Always"
+        }
+    },
+    "parental_monitor_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "pmq_y_ss_mean": {
+        "Description": "Parental Monitoring: Mean (parent_monitor_q1_y + parent_monitor_q2_y + parent_monitor_q3_y + parent_monitor_q4_y parent_monitor_q5_y)/5; Validation: no minimum number of answers | Karoly, H. C., Callahan, T., et al. (2016) Evaluating the hispanic paradox in the context of adolescent risky sexual behavior: the role of parent monitoring. J Pediatr Psychol 41(4): 429-40."
+    },
+    "pmq_y_ss_mean_nm": {
+        "Description": "Parental Monitoring, Mean: Number Missing Answers"
+    },
+    "pmq_y_ss_mean_nt": {
+        "Description": "Parental Monitoring, Mean: Number Total Questions"
+    }
+}

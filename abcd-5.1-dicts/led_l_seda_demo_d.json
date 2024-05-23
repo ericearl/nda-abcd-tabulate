@@ -1,0 +1,93 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_d_baplusavgall": {
+        "Description": "baand rate, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_gshi": {
+        "Description": "Highest Grade Offered in District (Geo Dist) Ed Facts -1 = pre-k; 0 = kindergarten"
+    },
+    "ledsch_seda_d_gslo": {
+        "Description": "Lowest Grade Offered in District (Geo Dist) CCD -1 = pre-k; 0 = kindergarten"
+    },
+    "ledsch_seda_d_hsecdnec": {
+        "Description": "Information index between schools:ECD/Non ECD (Geo Dist) CCD the information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_d_hsflnfl": {
+        "Description": "Information index between schools: Free Lunch/Non Free Lunch (Geo Dist) CCD the information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_d_lninc50avgall": {
+        "Description": "log of median income, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_perasn": {
+        "Description": "percent asians in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perblk": {
+        "Description": "percent blacks in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perecd": {
+        "Description": "percent economically disadvantaged in the district (Geo Dist) Ed Facts"
+    },
+    "ledsch_seda_d_perell": {
+        "Description": "% of all Students in District that are ELL (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perfl": {
+        "Description": "percent free lunch in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perfrl": {
+        "Description": "percent free or reduced lunch in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perhsp": {
+        "Description": "percent hispanics in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perind": {
+        "Description": "percent native americans in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perrl": {
+        "Description": "percent reduced lunch in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perspeced": {
+        "Description": "% of all Students in District that are Special Ed (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_perwht": {
+        "Description": "percent whites in the district (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_povertyavgall": {
+        "Description": "poverty rate, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_rsecdnec": {
+        "Description": "Relative Diversity index between schools:ECD/Non ECD (Geo Dist) CCD the relative diversity index captures ECD-non ECD differences in exposure to ECD students at the average ECD-non ECD student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_d_rsflnfl": {
+        "Description": "Relative Diversity index between schools: Free Lunch/Non Free Lunch (Geo Dist) CCD the relative diversity index captures free lunch-not free lunch differences in exposure to free lunch students at the average free lunch/not free lunch student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_d_rural": {
+        "Description": "rural locale (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_sesavgall": {
+        "Description": "ses composite, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS see seda documentation for more detailed information on the construction of the SES measures from the ACS"
+    },
+    "ledsch_seda_d_singl_momavgall": {
+        "Description": "single mother HH rate, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_snapavgall": {
+        "Description": "snap receipt rate, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_suburb": {
+        "Description": "suburban locale (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_totenrl": {
+        "Description": "district enrollment, grades 3-8 (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_town": {
+        "Description": "town locale (Geo Dist) CCD"
+    },
+    "ledsch_seda_d_unempavgall": {
+        "Description": "unemployment rate, eb estimate, all families, 2005-09 and 2014-18 avg (Geo Dist) ACS"
+    },
+    "ledsch_seda_d_urban": {
+        "Description": "city/urban locale (Geo Dist) CCD"
+    }
+}

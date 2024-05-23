@@ -1,0 +1,66 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "led_sch_seda_s_cellcount": {
+        "Description": "Total number of math plus RLA cells for pooled estimates EdFacts"
+    },
+    "led_sch_seda_s_cs_mn_mth_eb": {
+        "Description": "School Math-RLA Diff in Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_cs_mn_mth_eb_se": {
+        "Description": "School SE of Math-RLA Diff in Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_cs_mn_mth_ol": {
+        "Description": "School Math-RLA Diff in Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_cs_mn_mth_ol_se": {
+        "Description": "School SE of Math-RLA Diff in Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_grdcenter": {
+        "Description": "Grade used for pooled centering"
+    },
+    "led_sch_seda_s_mn_asmts": {
+        "Description": "Per grade number of math plus RLA cells for pooled estimates (tot_asmts/cellcount)"
+    },
+    "led_sch_seda_s_mn_avg_eb": {
+        "Description": "School Mean Ach; Math&ELA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_avg_eb_se": {
+        "Description": "School SE of Mean Ach; Math&ELA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_avg_ol": {
+        "Description": "School Mean Ach; Math&ELA; OLS est; CS"
+    },
+    "led_sch_seda_s_mn_avg_ol_se": {
+        "Description": "School SE of Mean Ach; Math&ELA; OLS est; CS"
+    },
+    "led_sch_seda_s_mn_coh_eb": {
+        "Description": "School Cohort Slope of Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_coh_eb_se": {
+        "Description": "School SE of Cohort Slope of Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_coh_ol": {
+        "Description": "School Cohort Slope of Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_mn_coh_ol_se": {
+        "Description": "School SE of Cohort Slope of Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_mn_grd_eb": {
+        "Description": "School Grade Slope of Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_grd_eb_se": {
+        "Description": "School SE of Grade Slope of Mean Ach; Math&RLA; EB est; CS"
+    },
+    "led_sch_seda_s_mn_grd_ol": {
+        "Description": "School Grade Slope of Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_mn_grd_ol_se": {
+        "Description": "School SE of Grade Slope of Mean Ach; Math&RLA; OLS est; CS"
+    },
+    "led_sch_seda_s_tot_asmts": {
+        "Description": "Total number of math plus RLA tests for pooled estimates HML using SEDA HETOP EST"
+    }
+}

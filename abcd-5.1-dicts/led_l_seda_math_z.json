@@ -1,0 +1,321 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_zs_cellcount_m_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_cellcount_m_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_cellcount_m_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_cellcount_m_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_cellcount_m_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_cellcount_m_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_cellcount_m_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_asmts_m_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_asmts_m_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_asmts_m_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_asmts_m_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_asmts_m_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_asmts_m_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_asmts_m_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_avg_m_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_avg_m_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_coh_m_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_coh_m_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_grd_m_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_grd_m_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mnavg_m_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mnavg_m_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mnavg_m_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mnavg_m_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mnavg_m_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mnavg_m_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mnavg_m_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mnavg_m_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mnavg_m_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mnavg_m_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mnavg_m_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mnavg_m_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mnavg_m_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mnavg_m_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mncoh_m_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mncoh_m_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mncoh_m_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mncoh_m_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mncoh_m_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mncoh_m_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mncoh_m_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mncoh_m_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mncoh_m_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mncoh_m_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mncoh_m_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mncoh_m_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mncoh_m_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mncoh_m_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mngrd_m_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mngrd_m_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mngrd_m_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mngrd_m_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mngrd_m_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mngrd_m_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mngrd_m_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mngrd_m_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mngrd_m_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mngrd_m_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mngrd_m_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mngrd_m_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mngrd_m_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mngrd_m_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_tot_asmts_m_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_tot_asmts_m_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_tot_asmts_m_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_tot_asmts_m_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_tot_asmts_m_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_tot_asmts_m_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_tot_asmts_m_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

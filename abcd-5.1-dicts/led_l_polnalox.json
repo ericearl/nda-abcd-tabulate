@@ -1,0 +1,33 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_anynal": {
+        "Description": "Residential history derived - indicates if any type of Naloxone law was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_nal_protocol_standing": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing distribution through a standing or protocol order was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_nal_Rx_prescriptive_auth": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing pharmacists prescriptive authority was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_anynal": {
+        "Description": "Residential history derived - indicates if any type of Naloxone law was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_nal_protocol_standing": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing distribution through a standing or protocol order was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_nal_Rx_prescriptive_auth": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing pharmacists prescriptive authority was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_anynal": {
+        "Description": "Residential history derived - indicates if any type of Naloxone law was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_nal_protocol_standing": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing distribution through a standing or protocol order was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_nal_Rx_prescriptive_auth": {
+        "Description": "Residential history derived - indicates if Naloxone law allowing pharmacists prescriptive authority was effective at date of baseline visit (address 3)"
+    }
+}

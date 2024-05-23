@@ -1,0 +1,87 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_dbSPL_L10d_anthro": {
+        "Description": "Residential history derived- L10 daytime anthropogenic sources; 7am - 7 pm"
+    },
+    "reshist_addr1_dbSPL_L10d_all": {
+        "Description": "Residential history derived- L10 daytime existing (all sounds); 7am - 7 pm"
+    },
+    "reshist_addr1_dbSPL_L50d_anthro": {
+        "Description": "Residential history derived- L50 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr1_dbSPL_L50d_all": {
+        "Description": "Residential history derived- L50 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr1_dbSPL_L90d_anthro": {
+        "Description": "Residential history derived- L90 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr1_dbSPL_L90d_all": {
+        "Description": "Residential history derived- L90 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr1_dbSPL_avg_all": {
+        "Description": "Residential history derived- Day-night average sound level over 24-hour period, with night (10 pm \u2013 7 am) upweighted by 10 DB"
+    },
+    "reshist_addr1_dbSPL_Leq_all": {
+        "Description": "Residential history derived- Leq over 24 hours, existing (all sounds)"
+    },
+    "reshist_addr1_dbSPL_Ln_avg_all": {
+        "Description": "Residential history derived- average total sound level from the hours of 10p-7a"
+    },
+    "reshist_addr2_dbSPL_L10d_anthro": {
+        "Description": "Residential history derived- L10 daytime anthropogenic sources; 7am - 7 pm"
+    },
+    "reshist_addr2_dbSPL_L10d_all": {
+        "Description": "Residential history derived- L10 daytime existing (all sounds); 7am - 7 pm"
+    },
+    "reshist_addr2_dbSPL_L50d_anthro": {
+        "Description": "Residential history derived- L50 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr2_dbSPL_L50d_all": {
+        "Description": "Residential history derived- L50 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr2_dbSPL_L90d_anthro": {
+        "Description": "Residential history derived- L90 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr2_dbSPL_L90d_all": {
+        "Description": "Residential history derived- L90 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr2_dbSPL_avg_all": {
+        "Description": "Residential history derived- Day-night average sound level over 24-hour period, with night (10 pm \u2013 7 am) upweighted by 10 DB"
+    },
+    "reshist_addr2_dbSPL_Leq_all": {
+        "Description": "Residential history derived- Leq over 24 hours, existing (all sounds)"
+    },
+    "reshist_addr2_dbSPL_Ln_avg_all": {
+        "Description": "Residential history derived- average total sound level from the hours of 10p-7a"
+    },
+    "reshist_addr3_dbSPL_L10d_anthro": {
+        "Description": "Residential history derived- L10 daytime anthropogenic sources; 7am - 7 pm"
+    },
+    "reshist_addr3_dbSPL_L10d_all": {
+        "Description": "Residential history derived- L10 daytime existing (all sounds); 7am - 7 pm"
+    },
+    "reshist_addr3_dbSPL_L50d_anthro": {
+        "Description": "Residential history derived- L50 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr3_dbSPL_L50d_all": {
+        "Description": "Residential history derived- L50 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr3_dbSPL_L90d_anthro": {
+        "Description": "Residential history derived- L90 daytime anthropogenic sources; 7 am \u2013 7 pm"
+    },
+    "reshist_addr3_dbSPL_L90d_all": {
+        "Description": "Residential history derived- L90 daytime existing (all sounds); 7 am \u2013 7 pm"
+    },
+    "reshist_addr3_dbSPL_avg_all": {
+        "Description": "Residential history derived- Day-night average sound level over 24-hour period, with night (10 pm \u2013 7 am) upweighted by 10 DB"
+    },
+    "reshist_addr3_dbSPL_Leq_all": {
+        "Description": "Residential history derived- Leq over 24 hours, existing (all sounds)"
+    },
+    "reshist_addr3_dbSPL_Ln_avg_all": {
+        "Description": "Residential history derived- average total sound level from the hours of 10p-7a"
+    }
+}

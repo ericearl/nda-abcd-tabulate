@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsifni_fib_fxrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right fornix"
+    },
+    "dmri_rsifni_fib_fxlh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left fornix"
+    },
+    "dmri_rsifni_fib_cgcrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right cingulate cingulum"
+    },
+    "dmri_rsifni_fib_cgclh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left cingulate cingulum"
+    },
+    "dmri_rsifni_fib_cghrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right parahpcm cingulum"
+    },
+    "dmri_rsifni_fib_cghlh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left parahpcm cingulum"
+    },
+    "dmri_rsifni_fib_cstrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right corticospinal/pyramidal"
+    },
+    "dmri_rsifni_fib_cstlh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left corticospinal/pyramidal"
+    },
+    "dmri_rsifni_fib_atrrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right anterior thalamic radiations"
+    },
+    "dmri_rsifni_fib_atrlh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left right anterior thalamic radiations"
+    },
+    "dmri_rsifni_fib_uncrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right uncinate fasciculus"
+    },
+    "dmri_rsifni_fib_unclh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left uncinate"
+    },
+    "dmri_rsifni_fib_ilfrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right inferior longitudinal fasciculus"
+    },
+    "dmri_rsifni_fib_ilflh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left inferior longitudinal fasciculus"
+    },
+    "dmri_rsifni_fib_iforh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsifni_fib_ifolh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsifni_fib_fmaj": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation forceps major"
+    },
+    "dmri_rsifni_fib_fmin": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation forceps minor"
+    },
+    "dmri_rsifni_fib_cc": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation corpus callosum"
+    },
+    "dmri_rsifni_fib_slfrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right superior longitudinal fasciculus"
+    },
+    "dmri_rsifni_fib_slflh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left superior longitudinal fasciculus"
+    },
+    "dmri_rsifni_fib_tslfrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsifni_fib_tslflh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsifni_fib_pslfrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsifni_fib_pslflh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsifni_fib_scsrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right superior corticostriate"
+    },
+    "dmri_rsifni_fib_scslh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left superior corticostriate"
+    },
+    "dmri_rsifni_fib_fscsrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsifni_fib_fscslh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsifni_fib_pscsrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsifni_fib_pscslh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsifni_fib_sifcrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right striatal inferior frontal cortex"
+    },
+    "dmri_rsifni_fib_sifclh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left striatal inferior frontal cortex"
+    },
+    "dmri_rsifni_fib_ifsfcrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right inferior frontal superior frontal cortex"
+    },
+    "dmri_rsifni_fib_ifsfclh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left inferior frontal superior frontal cortex"
+    },
+    "dmri_rsifni_fib_fxcutrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right fornix, excluding fimbria"
+    },
+    "dmri_rsifni_fib_fxcutlh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left fornix, excluding fimbria"
+    },
+    "dmri_rsifni_fib_allfib": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation all fibers"
+    },
+    "dmri_rsifni_fib_afbncrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsifni_fib_afbnclh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsifni_fib_allfibrh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation right hemisphere fibers"
+    },
+    "dmri_rsifni_fib_allfiblh": {
+        "Description": "free normalized isotropic diffusion AtlasTrack fiber segmentation left hemisphere fibers"
+    }
+}

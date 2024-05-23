@@ -1,0 +1,182 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "subj_resp_nic_q01": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you smoked a cigarette. The number 1 indicates none, and 4 represents intense. While smoking your very first cigarette, did you have pleasurable sensations (did you feel a pleasurable buzz or rush; relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q02": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you smoked a cigarette. The number 1 indicates none, and 4 represents intense. While smoking your very first cigarette, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q03": {
+        "Description": "Were you alone the first time you experimented with cigarettes? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "subj_resp_nic_q04": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you used an e-cigarette or e-hookah. The number 1 indicates none, and 4 represents intense. While using your very first e-cigarette or e-hookah, did you have pleasurable sensations (did you feel a pleasurable buzz or rush, relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q05": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you used an e-cigarette or e-hookah. The number 1 indicates none, and 4 represents intense. While using your very first e-cigarette or e-hookah, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q06": {
+        "Description": "Were you alone the first time you experimented with an e-cigarette or e-hookah? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "subj_resp_nic_q07": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you used smokeless tobacco such as snus or chew. The number 1 indicates none, and 4 represents intense. While using your very first smokeless tobacco such as snus or chew, did you have pleasurable sensations (did you feel a pleasurable buzz or rush, relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q08": {
+        "Description": "Please rate the extent to which these words describe your feelings the very first time you used smokeless tobacco such as snus or chew. The number 1 indicates none, and 4 represents intense. While using your very first smokeless tobacco such as snus or chew, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "subj_resp_nic_q09": {
+        "Description": "Were you alone the first time you experimented with smokeless tobacco such as snus or chew? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "res_tobacco_q01_l": {
+        "Description": "While smoking your very first cigarette, did you have pleasurable sensations (did you feel a pleasurable buzz or rush; relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_cig_use_l  == '1' &&  tlfb_cig_use_c_l   == 0",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q02_l": {
+        "Description": "While smoking your very first cigarette, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_cig_use_l  == '1' &&  tlfb_cig_use_c_l   == 0",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q08_l": {
+        "Description": "Were you alone the first time you experimented with cigarettes? | 1 = Yes; 2 = No / tlfb_cig_use_l  == '1' &&  tlfb_cig_use_c_l   == 0",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "res_tobacco_q09_l": {
+        "Description": "While using your very first e-cigarette or e-hookah, did you have pleasurable sensations (did you feel a pleasurable buzz or rush, relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_ecig_use_l  == '1' ||  tlfb_hookah_use_l  == '1'  &&  tlfb_ecig_use_c_l  == '0' &&  tlfb_hookah_use_c_l  == '0'",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q10_l": {
+        "Description": "While using your very first e-cigarette or e-hookah, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_ecig_use_l  == '1' ||  tlfb_hookah_use_l  == '1'  &&  tlfb_ecig_use_c_l  == '0' &&  tlfb_hookah_use_c_l  == '0'",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q16_l": {
+        "Description": "Were you alone the first time you experimented with an e-cigarette or e-hookah? | 1 = Yes; 2 = No / tlfb_ecig_use_l  == '1' ||  tlfb_hookah_use_l  == '1'  &&  tlfb_ecig_use_c_l  == '0' &&  tlfb_hookah_use_c_l  == '0'",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "res_tobacco_q17_l": {
+        "Description": "While using your very first smokeless tobacco such as snus or chew, did you have pleasurable sensations (did you feel a pleasurable buzz or rush, relaxed, dizzy)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_chew_use_l  == '1' &&  tlfb_chew_use_c_l  == '0'",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q18_l": {
+        "Description": "While using your very first smokeless tobacco such as snus or chew, did you have unpleasant sensations (did you feel nausea, did you cough)? | 1 = None1; 2 = 2; 3 = 3; 4 = Intense4 / tlfb_chew_use_l  == '1' &&  tlfb_chew_use_c_l  == '0'",
+        "Levels": {
+            "1": "None1",
+            "2": "2",
+            "3": "3",
+            "4": "Intense4"
+        }
+    },
+    "res_tobacco_q24_l": {
+        "Description": "Were you alone the first time you experimented with smokeless tobacco such as snus or chew? | 1 = Yes; 2 = No / tlfb_chew_use_l  == '1' &&  tlfb_chew_use_c_l  == '0'",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    },
+    "res_tobacco_total_cig": {
+        "Description": "Total intensity of positive and negative effects of first cigarette use | sum(res_tobacco_q01_b4ef79, res_tobacco_q02_fcbb01)"
+    },
+    "res_tobacco_total_cig_i": {
+        "Description": "Total intensity of positive and negative effects of first cigarette use | sum(res_tobacco_q01_l, res_tobacco_q02_l)"
+    },
+    "res_tobacco_total_ecig": {
+        "Description": "Total intensity of positive and negative effects of first ENDs and/or hookah use | sum(res_tobacco_q09_f99ddd, res_tobacco_q10_5e216c)"
+    },
+    "res_tobacco_total_ecig_i": {
+        "Description": "Total intensity of positive and negative effects of first ENDs and/or hookah use | sum(res_tobacco_q09_l, res_tobacco_q10_l)"
+    },
+    "res_tobacco_total_chew": {
+        "Description": "Total intensity of positive and negative effects of first smokeless tobacco or chew use | sum(res_tobacco_q17_d5609f, res_tobacco_q18_5e32d4)"
+    },
+    "res_tobacco_total_chew_i": {
+        "Description": "Total intensity of positive and negative effects of first smokeless tobacco or chew use | sum(res_tobacco_q17_l, res_tobacco_q18_l)"
+    }
+}

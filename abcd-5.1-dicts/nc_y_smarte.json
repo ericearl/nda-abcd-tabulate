@@ -1,0 +1,183 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smarte_ss_mdf_regroup_to": {
+        "Description": "Number timeout for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_challenge_err": {
+        "Description": "Number error for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_challenge_nt": {
+        "Description": "Attempted items for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_challenge_rt": {
+        "Description": "(Correct) response times for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_challenge_to": {
+        "Description": "Number timeout for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_acc": {
+        "Description": "Proportion of accuracy for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_corr": {
+        "Description": "Number correct for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_err": {
+        "Description": "Number error for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_nt": {
+        "Description": "Attempted items for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_rt": {
+        "Description": "(Correct) response times for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_noregroup_to": {
+        "Description": "Number timeout for no-regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_regroup_acc": {
+        "Description": "Proportion of accuracy for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_regroup_corr": {
+        "Description": "Number correct for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_regroup_err": {
+        "Description": "Number error for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_regroup_nt": {
+        "Description": "Attempted items for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_regroup_rt": {
+        "Description": "(Correct) response times for regroup items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_challenge_corr": {
+        "Description": "Number correct for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_mdf_total_corr": {
+        "Description": "Total number correct for the mixed-digit arithmetic task (SMARTE mixed-digit arithmetic subscore)"
+    },
+    "smarte_ss_sdf_norule_acc": {
+        "Description": "Proportion of accuracy for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_norule_corr": {
+        "Description": "Number correct for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_norule_err": {
+        "Description": "Number error for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_norule_nt": {
+        "Description": "Attempted items for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_norule_rt": {
+        "Description": "(Correct) response times for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_norule_to": {
+        "Description": "Number timeout for no-rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_acc": {
+        "Description": "Proportion of accuracy for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_corr": {
+        "Description": "Number correct for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_err": {
+        "Description": "Number error for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_nt": {
+        "Description": "Attempted items for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_rt": {
+        "Description": "(Correct) response times for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_rule_to": {
+        "Description": "Number timeout for rule items in the single-digit arithmetic task"
+    },
+    "smarte_ss_sdf_total_corr": {
+        "Description": "Total number correct for the single-digit arithmetic task (SMARTE single-digit subscore)"
+    },
+    "smarte_ss_mdf_challenge_acc": {
+        "Description": "Proportion of accuracy for challenge items in the mixed-digit arithmetic task"
+    },
+    "smarte_ss_all_total_corr": {
+        "Description": "Total number correct across all three SMARTE subscores (SMARTE total score)"
+    },
+    "smarte_ss_completedenumeration": {
+        "Description": "Was the dot enumeration task completed? (Exclude if not 1) | 0=Not completed; 1=Completed",
+        "Levels": {
+            "0": "Not completed",
+            "1": "Completed"
+        }
+    },
+    "smarte_ss_completed_fluency": {
+        "Description": "Was the single-digit arithmetic task completed? (Exclude if not 1) | 0=Not completed; 1=Completed",
+        "Levels": {
+            "0": "Not completed",
+            "1": "Completed"
+        }
+    },
+    "smarte_ss_completed_recall": {
+        "Description": "Was the mixed-digit arithmetic task completed? (Exclude if not 1) | 0=Not completed; 1=Completed",
+        "Levels": {
+            "0": "Not completed",
+            "1": "Completed"
+        }
+    },
+    "smarte_ss_dot_1to4subit_acc": {
+        "Description": "Proportion of accuracy for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_1to4subit_corr": {
+        "Description": "Number correct for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_1to4subit_err": {
+        "Description": "Number error for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_1to4subit_nt": {
+        "Description": "Attempted items for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_1to4subit_rt": {
+        "Description": "(Correct) response times for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_1to4subit_to": {
+        "Description": "Number timeout for 1-4 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_acc": {
+        "Description": "Proportion of accuracy for grouped 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_corr": {
+        "Description": "Number correct for grouped 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_nt": {
+        "Description": "Attempted items for grouped 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_total_corr": {
+        "Description": "Total number correct for the enumeration task (SMARTE ennumeration subscore)"
+    },
+    "smarte_ss_dot_6to9nogroup_to": {
+        "Description": "Number timeout for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9nogroup_rt": {
+        "Description": "(Correct) response times for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9nogroup_nt": {
+        "Description": "Attempted items for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9nogroup_err": {
+        "Description": "Number error for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9nogroup_corr": {
+        "Description": "Number correct for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9nogroup_acc": {
+        "Description": "Proportion of accuracy for random 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_to": {
+        "Description": "Number timeout for grouped 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_rt": {
+        "Description": "(Correct) response times for grouped 6-9 dots arrays in the enumeration task"
+    },
+    "smarte_ss_dot_6to9group_err": {
+        "Description": "Number error for grouped 6-9 dots arrays in the enumeration task"
+    }
+}

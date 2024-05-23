@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_t1wcnt_cdk_banksstslh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI lh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_t1wcnt_cdk_cdacatelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-caudalanteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_cdmdfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-caudalmiddlefrontal"
+    },
+    "smri_t1wcnt_cdk_cuneuslh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-cuneus"
+    },
+    "smri_t1wcnt_cdk_ehinallh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-entorhinal"
+    },
+    "smri_t1wcnt_cdk_fusiformlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-fusiform"
+    },
+    "smri_t1wcnt_cdk_ifpllh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-inferiorparietal"
+    },
+    "smri_t1wcnt_cdk_iftmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-inferiortemporal"
+    },
+    "smri_t1wcnt_cdk_ihcatelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-isthmuscingulate"
+    },
+    "smri_t1wcnt_cdk_locclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-lateraloccipital"
+    },
+    "smri_t1wcnt_cdk_lobfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-lateralorbitofrontal"
+    },
+    "smri_t1wcnt_cdk_linguallh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-lingual"
+    },
+    "smri_t1wcnt_cdk_mobfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-medialorbitofrontal"
+    },
+    "smri_t1wcnt_cdk_mdtmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-middletemporal"
+    },
+    "smri_t1wcnt_cdk_parahpallh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-parahippocampal"
+    },
+    "smri_t1wcnt_cdk_paracnlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-paracentral"
+    },
+    "smri_t1wcnt_cdk_parsopclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-parsopercularis"
+    },
+    "smri_t1wcnt_cdk_parsobislh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-parsorbitalis"
+    },
+    "smri_t1wcnt_cdk_parstgrislh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-parstriangularis"
+    },
+    "smri_t1wcnt_cdk_pericclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-pericalcarine"
+    },
+    "smri_t1wcnt_cdk_postcnlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-postcentral"
+    },
+    "smri_t1wcnt_cdk_ptcatelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-posteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_precnlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-precentral"
+    },
+    "smri_t1wcnt_cdk_pclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-precuneus"
+    },
+    "smri_t1wcnt_cdk_rracatelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-rostralanteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_rrmdfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-rostralmiddlefrontal"
+    },
+    "smri_t1wcnt_cdk_sufrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-superiorfrontal"
+    },
+    "smri_t1wcnt_cdk_supllh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-superiorparietal"
+    },
+    "smri_t1wcnt_cdk_sutmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-superiortemporal"
+    },
+    "smri_t1wcnt_cdk_smlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-supramarginal"
+    },
+    "smri_t1wcnt_cdk_frpolelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-frontalpole"
+    },
+    "smri_t1wcnt_cdk_tmpolelh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-temporalpole"
+    },
+    "smri_t1wcnt_cdk_trvtmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-transversetemporal"
+    },
+    "smri_t1wcnt_cdk_insulalh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  lh-insula"
+    },
+    "smri_t1wcnt_cdk_banksstsrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_t1wcnt_cdk_cdacaterh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-caudalanteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_cdmdfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-caudalmiddlefrontal"
+    },
+    "smri_t1wcnt_cdk_cuneusrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-cuneus"
+    },
+    "smri_t1wcnt_cdk_ehinalrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-entorhinal"
+    },
+    "smri_t1wcnt_cdk_fusiformrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-fusiform"
+    },
+    "smri_t1wcnt_cdk_ifplrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-inferiorparietal"
+    },
+    "smri_t1wcnt_cdk_iftmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-inferiortemporal"
+    },
+    "smri_t1wcnt_cdk_ihcaterh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-isthmuscingulate"
+    },
+    "smri_t1wcnt_cdk_loccrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-lateraloccipital"
+    },
+    "smri_t1wcnt_cdk_lobfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-lateralorbitofrontal"
+    },
+    "smri_t1wcnt_cdk_lingualrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-lingual"
+    },
+    "smri_t1wcnt_cdk_mobfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-medialorbitofrontal"
+    },
+    "smri_t1wcnt_cdk_mdtmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-middletemporal"
+    },
+    "smri_t1wcnt_cdk_parahpalrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-parahippocampal"
+    },
+    "smri_t1wcnt_cdk_paracnrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-paracentral"
+    },
+    "smri_t1wcnt_cdk_parsopcrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-parsopercularis"
+    },
+    "smri_t1wcnt_cdk_parsobisrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-parsorbitalis"
+    },
+    "smri_t1wcnt_cdk_parstgrisrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-parstriangularis"
+    },
+    "smri_t1wcnt_cdk_periccrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-pericalcarine"
+    },
+    "smri_t1wcnt_cdk_postcnrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-postcentral"
+    },
+    "smri_t1wcnt_cdk_ptcaterh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-posteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_precnrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-precentral"
+    },
+    "smri_t1wcnt_cdk_pcrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-precuneus"
+    },
+    "smri_t1wcnt_cdk_rracaterh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-rostralanteriorcingulate"
+    },
+    "smri_t1wcnt_cdk_rrmdfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-rostralmiddlefrontal"
+    },
+    "smri_t1wcnt_cdk_sufrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-superiorfrontal"
+    },
+    "smri_t1wcnt_cdk_suplrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-superiorparietal"
+    },
+    "smri_t1wcnt_cdk_sutmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-superiortemporal"
+    },
+    "smri_t1wcnt_cdk_smrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-supramarginal"
+    },
+    "smri_t1wcnt_cdk_frpolerh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-frontalpole"
+    },
+    "smri_t1wcnt_cdk_tmpolerh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-temporalpole"
+    },
+    "smri_t1wcnt_cdk_trvtmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-transversetemporal"
+    },
+    "smri_t1wcnt_cdk_insularh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for APARC ROI  rh-insula"
+    },
+    "smri_t1wcnt_cdk_meanlh": {
+        "Description": "Mean of (CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere"
+    },
+    "smri_t1wcnt_cdk_meanrh": {
+        "Description": "Mean of (CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere"
+    },
+    "smri_t1wcnt_cdk_mean": {
+        "Description": "Mean of (CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for whole brain"
+    }
+}

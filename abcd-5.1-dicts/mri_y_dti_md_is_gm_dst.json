@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ddtidp_761": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_835": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_762": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_836": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_763": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_837": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtidp_756": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "ddtidp_830": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "ddtidp_757": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "ddtidp_831": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "ddtidp_758": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "ddtidp_832": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "ddtidp_759": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "ddtidp_833": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "ddtidp_760": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "ddtidp_834": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "ddtidp_764": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "ddtidp_838": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "ddtidp_765": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "ddtidp_839": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "ddtidp_766": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "ddtidp_840": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "ddtidp_767": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "ddtidp_841": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "ddtidp_768": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "ddtidp_842": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "ddtidp_769": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "ddtidp_843": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "ddtidp_770": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "ddtidp_844": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "ddtidp_771": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "ddtidp_845": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "ddtidp_772": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "ddtidp_846": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "ddtidp_773": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "ddtidp_847": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "ddtidp_774": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "ddtidp_848": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "ddtidp_775": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "ddtidp_849": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "ddtidp_776": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "ddtidp_850": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "ddtidp_777": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "ddtidp_851": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "ddtidp_778": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "ddtidp_852": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "ddtidp_779": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "ddtidp_853": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "ddtidp_782": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "ddtidp_856": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "ddtidp_780": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "ddtidp_854": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "ddtidp_781": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "ddtidp_855": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "ddtidp_783": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "ddtidp_857": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "ddtidp_784": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "ddtidp_858": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "ddtidp_785": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "ddtidp_859": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "ddtidp_786": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "ddtidp_860": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "ddtidp_787": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "ddtidp_861": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "ddtidp_792": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "ddtidp_866": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "ddtidp_793": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "ddtidp_867": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "ddtidp_788": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "ddtidp_862": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "ddtidp_789": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "ddtidp_863": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "ddtidp_790": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "ddtidp_864": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "ddtidp_791": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "ddtidp_865": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "ddtidp_794": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtidp_868": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtidp_795": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtidp_869": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtidp_796": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "ddtidp_870": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "ddtidp_906": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with cortical Destrieux ROI mean"
+    },
+    "ddtidp_904": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI mean"
+    },
+    "ddtidp_905": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI mean"
+    },
+    "ddtidp_797": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "ddtidp_871": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "ddtidp_798": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "ddtidp_872": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "ddtidp_799": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "ddtidp_873": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "ddtidp_800": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "ddtidp_874": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "ddtidp_801": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "ddtidp_875": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "ddtidp_802": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_876": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_803": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_877": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_804": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_878": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "ddtidp_805": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "ddtidp_879": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "ddtidp_806": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "ddtidp_880": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "ddtidp_807": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "ddtidp_881": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "ddtidp_808": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "ddtidp_882": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "ddtidp_809": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "ddtidp_883": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "ddtidp_810": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "ddtidp_884": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "ddtidp_811": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "ddtidp_885": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "ddtidp_814": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "ddtidp_888": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "ddtidp_812": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "ddtidp_886": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "ddtidp_813": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "ddtidp_887": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "ddtidp_815": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "ddtidp_889": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "ddtidp_816": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "ddtidp_890": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "ddtidp_819": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "ddtidp_893": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "ddtidp_817": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "ddtidp_891": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "ddtidp_818": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "ddtidp_892": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "ddtidp_820": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "ddtidp_894": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "ddtidp_821": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "ddtidp_895": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "ddtidp_822": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "ddtidp_896": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "ddtidp_823": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "ddtidp_897": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "ddtidp_824": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "ddtidp_898": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "ddtidp_825": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "ddtidp_899": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "ddtidp_826": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "ddtidp_900": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "ddtidp_827": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "ddtidp_901": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "ddtidp_828": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "ddtidp_902": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "ddtidp_829": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "ddtidp_903": {
+        "Description": "Mean diffusivity within parcellation of cortical gray matter associated with right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    }
+}

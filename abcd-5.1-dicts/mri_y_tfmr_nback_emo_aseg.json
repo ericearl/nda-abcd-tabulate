@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_nback_all_100": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_all_101": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_all_106": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_all_119": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_all_104": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_all_118": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_all_102": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_all_97": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_all_114": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_all_95": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_all_112": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_all_94": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_111": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_91": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_all_108": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_all_105": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_all_103": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_all_117": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_all_93": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_all_110": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_all_92": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_all_109": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_all_99": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_all_116": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_all_98": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_all_115": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_all_96": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_all_113": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_all_107": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_all_120": {
+        "Description": "Beta weight for nBack all emotion contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbackallsem_100": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbackallsem_101": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbackallsem_106": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbackallsem_119": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbackallsem_104": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbackallsem_118": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbackallsem_102": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbackallsem_97": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbackallsem_114": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbackallsem_95": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_112": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_94": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_111": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_91": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_108": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_105": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI csf"
+    },
+    "tfmrinbackallsem_103": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbackallsem_117": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbackallsem_93": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbackallsem_110": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbackallsem_92": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbackallsem_109": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbackallsem_99": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbackallsem_116": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbackallsem_98": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbackallsem_115": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbackallsem_96": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbackallsem_113": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbackallsem_107": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbackallsem_120": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1_100": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1_101": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1_106": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1_119": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1_104": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1_118": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1_102": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1_97": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1_114": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1_95": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_112": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_94": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_111": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_91": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_108": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_105": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1_103": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1_117": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1_93": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1_110": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1_92": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1_109": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1_99": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1_116": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1_98": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1_115": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1_96": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1_113": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1_107": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1_120": {
+        "Description": "Beta weight for nBack run1 emotion contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1sem_100": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1sem_101": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1sem_106": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1sem_119": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1sem_104": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1sem_118": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1sem_102": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1sem_97": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1sem_114": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1sem_95": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_112": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_94": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_111": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_91": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_108": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_105": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1sem_103": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1sem_117": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1sem_93": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_110": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_92": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_109": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_99": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1sem_116": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1sem_98": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1sem_115": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1sem_96": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_113": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_107": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1sem_120": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r2_100": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r2_101": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r2_106": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r2_119": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r2_104": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r2_118": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r2_102": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r2_97": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r2_114": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r2_95": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_112": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_94": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_111": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_91": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_108": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_105": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r2_103": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r2_117": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r2_93": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r2_110": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r2_92": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r2_109": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r2_99": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r2_116": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r2_98": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r2_115": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r2_96": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r2_113": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r2_107": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r2_120": {
+        "Description": "Beta weight for nBack run2 emotion contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbr2esscs3rdvt": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbr2esscs4thvt": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbr2esscsaalh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbr2esscsaarh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbr2esscsaylh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbr2esscsayrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbr2esscsbs": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbr2esscscdelh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbr2esscscderh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbr2esscscrbcxlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbr2esscscrbcxrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbr2esscscrbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbr2esscscrbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbr2esscscbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbr2esscscbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbr2esscscsf": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI csf"
+    },
+    "tfmrinbr2esscshpuslh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbr2esscshpusrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbr2esscsinfvtlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbr2esscsinfvtrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbr2esscslvtlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbr2esscslvtrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbr2esscspalh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbr2esscsparh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbr2esscspulh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbr2esscspurh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbr2esscstplh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbr2esscstprh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbr2esscsvtrdclh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbr2esscsvtrdcrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in ASEG ROI right-ventraldc"
+    }
+}

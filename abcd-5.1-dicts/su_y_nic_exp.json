@@ -1,0 +1,116 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ascq_section_q01": {
+        "Description": "Cigarettes help with concentration. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "ascq_section_q02": {
+        "Description": "When someone is sad, smoking helps them feel better. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "ascq_section_q03": {
+        "Description": "The look and feel of a cigarette in the mouth is good. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "ascq_section_q04": {
+        "Description": "Parties are more enjoyable when a person is smoking. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "ascq_section_q05": {
+        "Description": "Smoking will make a person cough. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "ascq_section_q06": {
+        "Description": "Smoking makes people look ridiculous or silly. | 1 = Never; 2 = Rarely; 3 = Sometimes; 4 = Often; 5 = Always; 0 = Uncertain / tlfb_tob_c_l   == '1' ||  tlfb_tob_l   == '1'",
+        "Levels": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Sometimes",
+            "4": "Often",
+            "5": "Always",
+            "0": "Uncertain"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    },
+    "ascq_positive_expectanciesv1nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ascq_positive_expectanciesv1nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ascq_positive_expectanciesv1ss": {
+        "Description": "Strength of positive expectancies for tobacco/smoking. Score prorated if some item responses were missing. | Sum of [ascq_section_q01_R1, ascq_section_q02_R1, ascq_section_q03_R1, ascq_section_q04_R1]"
+    },
+    "ascq_positive_expectanciesv2nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ascq_positive_expectanciesv2nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ascq_positive_expectanciesv2ss": {
+        "Description": "Strength of positive expectancies for tobacco/smoking. Score prorated if some item responses were missing. NOTE: response values of ''uncertain'' were recoded to the lowest response option, ''never'', for computing this score. | Sum of [ascq_section_q01_R2, ascq_section_q02_R2, ascq_section_q03_R2, ascq_section_q04_R2]"
+    },
+    "ascq_negative_expectanciesv1nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ascq_negative_expectanciesv1nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ascq_negative_expectanciesv1ss": {
+        "Description": "Strength of negative expectancies for tobacco/smoking. Score prorated if some item responses were missing. | Sum of [ascq05_R1, ascq06_R1]"
+    },
+    "ascq_negative_expectanciesv2nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ascq_negative_expectanciesv2nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ascq_negative_expectanciesv2ss": {
+        "Description": "Strength of negative expectancies for tobacco/smoking. Score prorated if some item responses were missing. NOTE: response values of ''uncertain'' were recoded to the lowest response option, ''never'', for computing this score. | Sum of [ascq05_R2, ascq06_R2]"
+    }
+}

@@ -1,0 +1,1076 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "irmasubirma_child_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_gatea_c": {
+        "Description": "Do you live in the state of Florida? \u00ac\u00f8Vives en el estado de la Florida? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_gateb_c": {
+        "Description": "Do you live in the state of South Carolina)? \u00ac\u00f8Vives en el estado de Carolina del Sur? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irmasubirma_c2_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_1": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (1, TV (e.g., weather channel, news reports) TV (e.g., Canal de clima, reportes de noticia)) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_2": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (2, Internet (e.g., online news) Internet (e.g., noticias del internet)) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_3": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (3, Social media (e.g., Facebook, Twitter, Instagram) Medios de ComunicaciAn social (e.g., Facebook, Twitter, Instagram)) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_4": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (4, From family and friends De familia y amigos) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_5": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (5, Other Otro) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b7_6": {
+        "Description": "How did you get news of information about Hurricane Irma? Check all that apply. \u00ac\u00f8CAmo obtuvo noticias de informaciAn sobre el hurac\u221a\u00b0n? Marque todo lo que corresponda. (6, I did not get news or information about Hurricane Irma No recib\u221a\u2260 noticias o informaciAn sobre el hurac\u221a\u00b0n Irma) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_b8": {
+        "Description": "How often did you check reports about the hurricane in the days before the storm? \u00ac\u00f8Con qu\u221a\u00a9 frecuencia revisA los reportes sobre el hurac\u221a\u00b0n en los d\u221a\u2260as antes de la tormenta? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b9": {
+        "Description": "Overall, how scared or upset were you before the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan asustado o enojado estaba usted antes del hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b10": {
+        "Description": "Overall, how scared or upset do you think your parent(s) was before the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan asustados o molestos piensan que eran tus padres antes del hurac\u221a\u00b0n? \" | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b11": {
+        "Description": "Overall, how stressed did you feel before the hurricane? En general, \u00ac\u00f8Qu\u221a\u00a9 tan estresado te sentiste antes del hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b12": {
+        "Description": "Overall, how stressed do you think your parent(s) felt before the hurricane? En general, \u00ac\u00f8Qu\u221a\u00a9 tan estresados crees que se sintieron tus padres antes del hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b13": {
+        "Description": "Overall, how safe did you feel before the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguro usted sintiA antes del hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b14": {
+        "Description": "Overall, how safe do you think your parent(s) felt before the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguro crees que se sintieron tus padres(s) antes del hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_b15": {
+        "Description": "At any time before the hurricane, did you think you might die? En cualquier momento antes del hurac\u221a\u00b0n, \u00ac\u00f8pensaste que podr\u221a\u2260as morir? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_b16": {
+        "Description": "At any time before the hurricane, did you think that a family member might be hurt badly? En cualquier momento antes del hurac\u221a\u00b0n, \u00ac\u00f8pensaste que t\u221a\u222b o un miembro de tu familia podr\u221a\u2260an estar lastimados? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_b17": {
+        "Description": "At any time before the hurricane, did you think that the hurricane might cause major damage to your home, or that you might lose your home? En cualquier momento antes del hurac\u221a\u00b0n, \u00ac\u00f8pensA que el hurac\u221a\u00b0n podr\u221a\u2260a causar un da\u221a\u00b1o mayor a su hogar, o que podr\u221a\u2260a perder su hogar? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_b18": {
+        "Description": "If another severe weather event, such as a hurricane, was predicted to strike where you live, would you stay in your home or evacuate? Si se pronostica que otro hurac\u221a\u00b0n golpea donde usted vive, \u00ac\u00f8preferir\u221a\u2260a quedarse en su casa o evacuar? | 1 = Definitely Stay at Home Definitivamente quedarme en casa; 2 = Probably Stay at Home Probablemente quedarme en casa; 3 = Unsure Inseguro; 4 = Probably Leave (evacuate) Probablemente salir (evacuar); 5 = Definitely Leave (evacuate) Definitivamente salir (evacuar)",
+        "Levels": {
+            "1": "Definitely Stay at Home Definitivamente quedarme en casa",
+            "2": "Probably Stay at Home Probablemente quedarme en casa",
+            "3": "Unsure Inseguro",
+            "4": "Probably Leave (evacuate) Probablemente salir (evacuar)",
+            "5": "Definitely Leave (evacuate) Definitivamente salir (evacuar)"
+        }
+    },
+    "irmasubirma_c3_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_d5": {
+        "Description": "At any time during the hurricane, did you think you might die? En cualquier momento durante el hurac\u221a\u00b0n, \u00ac\u00f8pensaste que podr\u221a\u2260as morir? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_d11": {
+        "Description": "Did you think a family member might die during the hurricane? \u00ac\u00f8Pensaste que un miembro de la familia podr\u221a\u2260a morir durante el hurac\u221a\u00b0n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_d12": {
+        "Description": "Did you think you might be hurt badly during the hurricane? \u00ac\u00f8Pensaste que podr\u221a\u2260as herirte de gravedad durante el hurac\u221a\u00b0n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_d13": {
+        "Description": "Did you think a family member might be hurt badly during the hurricane? \u00ac\u00f8PensA que un miembro de la familia podr\u221a\u2260a estar herido gravemente durante el hurac\u221a\u00b0n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_d14": {
+        "Description": "During the hurricane, did you think that the hurricane was causing major damage to your home, or that you might lose your home? Durante el hurac\u221a\u00b0n, \u00ac\u00f8 usted penso que el hurac\u221a\u00b0n estaba causando un da\u221a\u00b1o grave a tu casa, o que podr\u221a\u2260as perder tu casa? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_hurtec_d15": {
+        "Description": "Overall, how scared or upset were you during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan asustado o molesto estuvo usted durante el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_d16": {
+        "Description": "Overall, how scared or upset do you think your parent(s) were during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan asustado o molesto crees que fueron tus padres duranteel hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_d17": {
+        "Description": "Overall, how stressed did you feel during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan estresado ustedse sintiA duranteel hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_d18": {
+        "Description": "Overall, how stressed do you think your parent(s) felt during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan estresado crees que se sintieron tus padres durante el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_d19": {
+        "Description": "Overall, how safe did you feel during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguro ustedsintiA durante el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_d20": {
+        "Description": "Overall how safe do you think your parent(s) felt during the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguro crees que se sintieron tus padres durante el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irmasubirma_c4_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_a15": {
+        "Description": "Overall, how upset about things have you been since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan molesto por las cosas ha estado usted desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a16": {
+        "Description": "Overall, how upset do you think your parent(s) has been since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan molesto crees que han estado tus padres desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a17": {
+        "Description": "Overall, how stressed have you felt since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan estresado se ha sentido usted desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a18": {
+        "Description": "Overall, how stressed do you think your parent(s) has been since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan estresados crees que han estado tus padres desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a19": {
+        "Description": "Overall, how safe have you felt since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguro se ha sentido usted desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a20": {
+        "Description": "Overall how safe do you think your parent(s) has felt since the hurricane? En general, \u00ac\u00f8qu\u221a\u00a9 tan seguros crees que se sienten tus padres desde el hurac\u221a\u00b0n? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a21a": {
+        "Description": "a. The way things look in your neighborhood a. La forma en que se ven las cosas en tu vecindario | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a21b": {
+        "Description": "b. Problems spending time with friends b. Problemas pasando tiempo con amigos | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a21c": {
+        "Description": "c. Family members not getting along c. Los miembros de la familia no se llevan bien | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a21d": {
+        "Description": "d. The way things look at home d. La forma en que las cosas se ven en casa | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_a21e": {
+        "Description": "e. Problems keeping up with work or school e. Problemas para manteniendo el trabajo escolar | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irmasubirma_c5_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_hurtec_c1": {
+        "Description": "Keep you from enjoying or doing things at school? \u00ac\u00f8Evita que disfrute o haga cosas en la escuela? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_c2": {
+        "Description": "Keep you from making friends or doing things with friends? \u00ac\u00f8Evita hacer amigos o hacer cosas con amigos? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_c3": {
+        "Description": "Keep you from enjoying or doing things with your family? \u00ac\u00f8Evita que disfrute o haga cosas con tu familia? | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irma_hurtec_c4": {
+        "Description": "Keep you from enjoying or doing other things?(For example: do you have problems sleeping, eating, or keeping your mind on things like work or school?) \u00ac\u00f8Evita que disfrute o haga otras cosas?(Por ejemplo: \u00ac\u00f8tiene problemas para dormir, comer o mantener la mente en cosas como la tarea?) | 0 = Not at all De ningun modo; 1 = A little Un poco; 2 = A lot Mucho; 3 = A whole lot Muchisimo",
+        "Levels": {
+            "0": "Not at all De ningun modo",
+            "1": "A little Un poco",
+            "2": "A lot Mucho",
+            "3": "A whole lot Muchisimo"
+        }
+    },
+    "irmasubirma_c6_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_meqc_1": {
+        "Description": "1. Media coverage of Hurricane Harvey 1. Cobertura medi\u221a\u00b0tica del Hurac\u221a\u00b0n Harvey | 0 = Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0; 1 = A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1; 2 = Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2; 3 = A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3; 4 = A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4",
+        "Levels": {
+            "0": "Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0",
+            "1": "A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1",
+            "2": "Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2",
+            "3": "A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3",
+            "4": "A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4"
+        }
+    },
+    "irma_meqc_2": {
+        "Description": "2. Media coverage of Hurricane Irma before the storm 2. Cobertura medi\u221a\u00b0tica del Hurac\u221a\u00b0n Irma antes de la tormenta | 0 = Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0; 1 = A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1; 2 = Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2; 3 = A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3; 4 = A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4",
+        "Levels": {
+            "0": "Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0",
+            "1": "A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1",
+            "2": "Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2",
+            "3": "A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3",
+            "4": "A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4"
+        }
+    },
+    "irma_meqc_3": {
+        "Description": "3. Media coverage of Hurricane Irma during the storm 3. Cobertura medi\u221a\u00b0tica del Hurac\u221a\u00b0n Irma durante la tormenta | 0 = Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0; 1 = A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1; 2 = Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2; 3 = A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3; 4 = A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4",
+        "Levels": {
+            "0": "Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0",
+            "1": "A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1",
+            "2": "Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2",
+            "3": "A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3",
+            "4": "A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4"
+        }
+    },
+    "irma_meqc_4": {
+        "Description": "4. Media coverage of Hurricane Irma after the storm 4. Cobertura medi\u221a\u00b0tica del Hurac\u221a\u00b0n Irma despu\u221a\u00a9s de la tormenta | 0 = Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0; 1 = A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1; 2 = Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2; 3 = A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3; 4 = A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4",
+        "Levels": {
+            "0": "Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0",
+            "1": "A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1",
+            "2": "Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2",
+            "3": "A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3",
+            "4": "A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4"
+        }
+    },
+    "irma_meqc_5": {
+        "Description": "5. Media coverage of other storms (e.g., Hurricane Jose, Hurricane Maria) after Irma 5. Cobertura medi\u221a\u00b0tica de otras tormentas (por ejemplo, Hurac\u221a\u00b0n Jos\u221a\u00a9, Hurac\u221a\u00b0n Mar\u221a\u2260a) despu\u221a\u00a9s de Irma | 0 = Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0; 1 = A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1; 2 = Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2; 3 = A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3; 4 = A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4",
+        "Levels": {
+            "0": "Not at all (did not view news related to hurricane)0 De ningun modo (no vio noticias relacionadas con el hurac\u221a\u00b0n)0",
+            "1": "A little (less than 1 hour per day)1 Un poco (menos de 1 hora por dia)1",
+            "2": "Somewhat (about an hour per day)2 Alg\u221a\u222bn tanto (alrededor de una hora por d\u221a\u2260a)2",
+            "3": "A lot (1 to 2 hours per day)3 Mucho (1 a 2 horas por dia)3",
+            "4": "A whole lot (more than 2 hours per day)4 Muchisimo (mas de 2 horas por dia)4"
+        }
+    },
+    "irma_meqc_6": {
+        "Description": "6. Internet media coverage of Hurricane Harvey 6. Cobertura de los medios de Internet del Hurac\u221a\u00b0n Harvey | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_7": {
+        "Description": "7. Internet media coverage of Hurricane Irma before the storm 7. Cobertura de los medios de Internet del Hurac\u221a\u00b0n Irma antes de la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_8": {
+        "Description": "8. Internet media coverage of Hurricane Irma during the storm 8. Cobertura de los medios de Internet del Hurac\u221a\u00b0n Irma durante la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_9": {
+        "Description": "9. Internet media coverage of Hurricane Irma after the storm 9. Cobertura de los medios de Internet del Hurac\u221a\u00b0n Irma despu\u221a\u00a9s de la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_10": {
+        "Description": "10. Internet media coverage of other storms (e.g., Hurricane Jose, Hurricane Maria) after Irma 10. Cobertura de los medios de Internet de otras tormentas (por ejemplo, Hurac\u221a\u00b0n Jos\u221a\u00a9, Hurac\u221a\u00b0n Mar\u221a\u2260a) despu\u221a\u00a9s de Irma | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_11": {
+        "Description": "11. Social media activity related to Hurricane Harvey 11. Actividad de medios sociales relacionada con el hurac\u221a\u00b0n Harvey | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_12": {
+        "Description": "12. Irma-related social media activity before the storm 12. Actividad de medios sociales relacionada con Irma antes de la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_13": {
+        "Description": "13. Irma-related social media activity during the storm 13.Actividad de medios sociales relacionada con Irma durante la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_14": {
+        "Description": "14. Irma-related social media activity after the storm 14. Actividad de medios sociales relacionada con Irma despu\u221a\u00a9s de la tormenta | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_15": {
+        "Description": "15. Social media activity related to other storms (e.g., Hurricane Jose, Hurricane Maria) after Irma 15. Actividad de medios sociales relacionada con otras tormentas (por ejemplo, el hurac\u221a\u00b0n Jos\u221a\u00a9, el hurac\u221a\u00b0n Mar\u221a\u2260a) despu\u221a\u00a9s de Irma | 0 = Once per day or less0 Una ves por d\u221a\u2260a on menos0; 1 = Several times per day1 Varias veses por d\u221a\u2260a1; 2 = Almost every hour2 Casi cada hora2; 3 = Several times per hour3 Varias veses por hora3; 4 = Almost continuously4 Casi continuamente4",
+        "Levels": {
+            "0": "Once per day or less0 Una ves por d\u221a\u2260a on menos0",
+            "1": "Several times per day1 Varias veses por d\u221a\u2260a1",
+            "2": "Almost every hour2 Casi cada hora2",
+            "3": "Several times per hour3 Varias veses por hora3",
+            "4": "Almost continuously4 Casi continuamente4"
+        }
+    },
+    "irma_meqc_16": {
+        "Description": "16. Which Television channel did you watch most when viewing news related to Hurricane Irma? 16. \u00ac\u00f8Qu\u221a\u00a9 canal de televisiAn viste m\u221a\u00b0s cuando viste noticias relacionadas con el hurac\u221a\u00b0n? | 1 = The Weather Channel The Weather Channel; 2 = CNN CNN; 3 = Fox News Fox News; 4 = MSNBC MSNBC; 5 = Local news station EstaciAn de noticias local; 6 = Other Otro; 7 = I did not watch any television related to Hurricane Irma No vi ning\u221a\u222bn televisor relacionado con el hurac\u221a\u00b0n Irma",
+        "Levels": {
+            "1": "The Weather Channel The Weather Channel",
+            "2": "CNN CNN",
+            "3": "Fox News Fox News",
+            "4": "MSNBC MSNBC",
+            "5": "Local news station EstaciAn de noticias local",
+            "6": "Other Otro",
+            "7": "I did not watch any television related to Hurricane Irma No vi ning\u221a\u222bn televisor relacionado con el hurac\u221a\u00b0n Irma"
+        }
+    },
+    "irma_meqc_17": {
+        "Description": "17. Which Social Media platform did you use the most when checking for news related to Hurricane Irma? 17. \u00ac\u00f8Qu\u221a\u00a9 plataforma de medios sociales usA m\u221a\u00b0s al buscar noticias relacionadas con el hurac\u221a\u00b0n? | 1 = Facebook Facebook; 2 = Twitter Twitter; 3 = Instagram Instagram; 4 = Snapchat Snapchat; 5 = YouTube YouTube; 6 = Other Otro; 7 = I did not check any social media platforms for news related to Hurricane Irma No revis\u221a\u00a9 ninguna plataforma de redes sociales para noticias relacionadas con el hurac\u221a\u00b0n Irma",
+        "Levels": {
+            "1": "Facebook Facebook",
+            "2": "Twitter Twitter",
+            "3": "Instagram Instagram",
+            "4": "Snapchat Snapchat",
+            "5": "YouTube YouTube",
+            "6": "Other Otro",
+            "7": "I did not check any social media platforms for news related to Hurricane Irma No revis\u221a\u00a9 ninguna plataforma de redes sociales para noticias relacionadas con el hurac\u221a\u00b0n Irma"
+        }
+    },
+    "irmasubirma_c7_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_dsm5_1": {
+        "Description": "1. I am on the lookout for danger or things that I am afraid of (like looking over my shoulder even when nothing is there). 1. Estoy atento al peligro o cosas que temo (como mirar por encima del hombre incluso cuando no hay nada). | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_2": {
+        "Description": "2. I have thoughts like \"I am bad.\" 2. Tengo pensamientos como \"Soy malo.\" | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_3": {
+        "Description": "3. I try to stay away from people, places, or things that remind me about Hurricane Irma or my experiences with the storm. 3. Intento alejarme de personas, lugares o cosas que me recuerdan el hurac\u221a\u00b0n Irma o mis experiencias con la tormenta. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_4": {
+        "Description": "4. I get upset easily or get into arguments or physical fights. 4. Me enojo f\u221a\u00b0cilmente o me meto en discusiones o peleas f\u221a\u2260sicas. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_5": {
+        "Description": "5. I feel like I am back in Hurricane Irma, like it's happening all over again. 5. Siento que estoy de vuelta en el hurac\u221a\u00b0n Irma, como si estuviera sucediendo de nuevo. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_6": {
+        "Description": "6. I feel like what happened during Hurricane Irma was sickening or gross. 6. Siento que lo que sucediA durante el hurac\u221a\u00b0n Irma fue repugnante o asqueroso. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_7": {
+        "Description": "7. I don't feel like doing things with my family or friends or other things that I liked to do. 7. No tengo ganas de hacer cosas con mi familia o amigos u otras cosas que me gusta hacer. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_8": {
+        "Description": "8. I have trouble concentrating or paying attention. 8. Tengo problemas para concentrarme o prestar atenciAn. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_9": {
+        "Description": "9. I have thoughts like, \"The world is really dangerous.\" 9. Tengo pensamientos como: \"El mundo es realmente peligroso.\" | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_10": {
+        "Description": "10. I have bad dreams about Hurricane Irma, or other bad dreams. 10. Tengo malos sue\u221a\u00b1os sobre el hurac\u221a\u00b0n Irma u otros malos sue\u221a\u00b1os. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_11": {
+        "Description": "11. When something reminds me of Hurricane Irma I get very upset, afraid, or sad. 11. Cuando algo me recuerda al hurac\u221a\u00b0n Irma, me siento muy enojado, asustado o triste. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_12": {
+        "Description": "12. I have trouble feeling happiness or love. 12. Tengo problemas para sentir felicidad o amor. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_13": {
+        "Description": "13. I try not to think about or have feelings about what Hurricane Irma. 13. Trato de no pensar o tener sentimientos acerca del hurac\u221a\u00b0n Irma. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_14": {
+        "Description": "14. When something reminds me of Hurricane Irma, I have strong feelings in my body like my heart beats fast, my head aches or my stomach aches. 14. Cuando algo me recuerda al hurac\u221a\u00b0n Irma, tengo Fuertes sentimientos en mi cuerpo como si mi corazAn late r\u221a\u00b0pido, me duele la cabeza o me duele el estAmago. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_15": {
+        "Description": "15. I am mad with someone for making Hurricane Irma happen, not doing more to stop it, or to help after. 15. Estoy enojado con alguien por hacer que ocurra el hurac\u221a\u00b0n Irma, sin hacer m\u221a\u00b0s para detenerlo, o para ayudar despu\u221a\u00a9s. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_16": {
+        "Description": "16. I have thoughts like \"I will never be able to trust other people.\" 16. Tengo pensamientos como: \"Nunca podr\u221a\u00a9 confiar en otras personas.\" | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_17": {
+        "Description": "17. I feel alone even when I am around other people. 17. Siento solo incluso cuando estoy cerca de otras personas. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_18": {
+        "Description": "18. I have upsetting thoughts, pictures or sounds of Hurricane Irma come into my mind when I don't want them to. 18. Tengo pensamientos perturbadores, im\u221a\u00b0genes o sonidos del hurac\u221a\u00b0n Irma que vienen a mi mente cuando no quiero que lo hagan. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_19": {
+        "Description": "19. I think that part of what happened during Hurricane Irma was my fault. 19. Creo que parte de lo que sucediA durante el hurac\u221a\u00b0n Irma fue mi culpa. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_20": {
+        "Description": "20. I hurt myself on purpose. 20. Me lastimo a propAsito. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_21": {
+        "Description": "21. I have trouble going to sleep, wake up often, or have trouble getting back to sleep. 21. Tengo problemas para dormir, me levanto a menudo o tengo problemas para volver a dormir. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_22": {
+        "Description": "22. I feel ashamed or guilty about some part of what happened during Hurricane Irma. 22. Me siento avergonzado o culpable por parte de lo que sucediA durante el hurac\u221a\u00b0n Irma. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_23": {
+        "Description": "23. I have trouble remembering important parts of Hurricane Irma. 23. Tengo problemas para recordar partes importantes del hurac\u221a\u00b0n Irma. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_24": {
+        "Description": "24. I feel jumpy or startle easily, like when I hear a loud noise or when something surprises me. 24. Siento nervioso o sobresalto con facilidad, como cuando escucho un ruido fuerte o cuando algo me sorprende. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_25": {
+        "Description": "25. I feel afraid or scared. 25. Estoy asustado(a) o tengo miedo. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_26": {
+        "Description": "26. I do risky or unsafe things that could really hurt me or someone else. 26. Hago cosas arriesgadas o inseguras que realmente podr\u221a\u2260an lastimarme a m\u221a\u2260 o a alguien m\u221a\u00b0s. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_27": {
+        "Description": "27. I want to get back at someone for what happened during Hurricane Irma. 27. Quiero castigar a alguien por lo que sucediA durante el hurac\u221a\u00b0n Irma. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_28": {
+        "Description": "28. I feel like I am seeing myself or what I am doing from outside my body (like watching myself in a movie). 28. Siento que me veo o que estoy hacienda cosas desde fuera de mi cuerpo (como si yo estaba en una pel\u221a\u2260cula). | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_29": {
+        "Description": "29. I feel not connected to my body, like I'm not really there inside. 29. No me siento conectado a mi cuerpo, como si realmente no estuviera adentro. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_30": {
+        "Description": "30. I feel like things around me look strange, different, or like I am in a fog. 30. Siento que las cosas a mi alrededor se ven extra\u221a\u00b1as, diferentes o como si estuviera en una niebla. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_31": {
+        "Description": "31. I feel like things around me are not real, like I am in a dream. 31. Siento que las cosas a mi alrededor no son reales, como que estoy en un sue\u221a\u00b1o. | 0 = None (Never)0 De ningun modo (Nunca)0; 1 = Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1; 2 = Some (1-2 days a week)2 A veces (1-2 dias a la semana)2; 3 = Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3; 4 = Most (Almost every day)4 Munchisimo (Casi todos los dias)4",
+        "Levels": {
+            "0": "None (Never)0 De ningun modo (Nunca)0",
+            "1": "Little (2 days over the past month)1 Un poco (2 dias durante el ultimo mes)1",
+            "2": "Some (1-2 days a week)2 A veces (1-2 dias a la semana)2",
+            "3": "Much (2-3 days a week)3 Mucho (2-3 dias a la semana)3",
+            "4": "Most (Almost every day)4 Munchisimo (Casi todos los dias)4"
+        }
+    },
+    "irma_dsm5_cs1": {
+        "Description": "CS1. Do these reactions, thoughts, and feelings bother or upset you a lot? CS1. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos te molesta o te altera mucho? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs2": {
+        "Description": "CS2. Do these reactions, thoughts, and feelings make it harder for you to get along with people at home? CS2. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos hace m\u221a\u00b0s dif\u221a\u2260cil para usted llevarse bien con las personas en el hogar? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs3": {
+        "Description": "CS3. Do these reactions, thoughts, and feelings get you into trouble at home? CS3. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos te meten en problemas en casa? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs4": {
+        "Description": "CS4. Do these reactions, thoughts, and feelings cause some other problem at home? CS4. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos causan alg\u221a\u222bn otro problema en casa? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs5": {
+        "Description": "CS5. Do these reactions, thoughts, and feelings make it harder for you to do well in school? CS5. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos hace m\u221a\u00b0s dif\u221a\u2260cil que te vaya bien en la escuela? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs6": {
+        "Description": "CS6. Do these reactions, thoughts, and feelings cause other problems at school? CS6. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos causan otros problemas en la escuela? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs7": {
+        "Description": "CS7. Do these reactions, thoughts, and feelings make it harder for you to get along with your friends or make new friends? CS7. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos hace m\u221a\u00b0s dif\u221a\u2260cil para usted llevarse bien con sus amigos o hacer nuevos amigos? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irma_dsm5_cs8": {
+        "Description": "CS8. Do these reactions, thoughts, and feelings make it harder for you to do important things that other kids your age are doing? CS8. \u00ac\u00f8Estas reacciones, pensamientos y sentimientos hace m\u221a\u00b0s dif\u221a\u2260cil para usted hacer cosas importantes que otros ni\u221a\u00b1os de su edad est\u221a\u00b0n haciendo? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "irmasubirma_c8_select_lg_1": {
+        "Description": "\u00ac\u00f8Espa\u221a\u00b1ol? (1, S\u221a\u2260) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "irma_pssc_1": {
+        "Description": "1. In the last month, how often have you been upset because of something that happened unexpectedly? 1. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia se ha sentido molestado(a) por algo inesperado? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_2": {
+        "Description": "2. In the last month, how often have you felt that you were unable to control the important things in your life? 2. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia sintiA que no pod\u221a\u2260a controlar las cosas importantes en su vida? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_3": {
+        "Description": "3. In the last month, how often have you felt nervous and stressed? 3. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia se sintiA nervioso(a) y estresado(a)? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_4": {
+        "Description": "4. In the last month, how often have you felt confident about your ability to handle your personal problems? 4. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia se sintiA seguro acerca de su capacidad para encargarse de sus problemas personales? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_5": {
+        "Description": "5. In the last month, how often have you felt that things were going your way? 5. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia ha sentido que las cosas siguen tu camino? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_6": {
+        "Description": "6. In the last month, how often have you found that you could not cope with all the things that you had to do? 6. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia descubriA que no pod\u221a\u2260a enfrentarse a todas las cosas que ten\u221a\u2260a que hacer? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_7": {
+        "Description": "7. In the last month, how often have you been able to control irritations in your life? 7. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia ha podido controlar las irritaciones en su vida? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_8": {
+        "Description": "8. In the last month, how often have you felt that you were on top of things? 8. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia sintiA que estaba al tanto de las cosas? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_9": {
+        "Description": "9. In the last month, how often have you been angered because of things that happened that were outside of your control? 9. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia se ha enojado por cosas que sucedieron fuera de su control? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    },
+    "irma_pssc_10": {
+        "Description": "10. In the last month, how often have you felt difficulties were piling up so high that you could not overcome them? 10. En el \u221a\u222bltimo mes, \u00ac\u00f8con qu\u221a\u00a9 frecuencia sintiA que las dificultades se acumulaban tanto que no pod\u221a\u2260a superarlas? | 0 = Never0 Nunca0; 1 = Almost Never1 Casi nunca1; 2 = Sometimes2 A veces2; 3 = Fairly Often3 Bastante a menudo3; 4 = Very Often4 Muchisimo a menudo4",
+        "Levels": {
+            "0": "Never0 Nunca0",
+            "1": "Almost Never1 Casi nunca1",
+            "2": "Sometimes2 A veces2",
+            "3": "Fairly Often3 Bastante a menudo3",
+            "4": "Very Often4 Muchisimo a menudo4"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsihnd_fib_fxrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right fornix"
+    },
+    "dmri_rsihnd_fib_fxlh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left fornix"
+    },
+    "dmri_rsihnd_fib_cgcrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right cingulate cingulum"
+    },
+    "dmri_rsihnd_fib_cgclh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left cingulate cingulum"
+    },
+    "dmri_rsihnd_fib_cghrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right parahpcm cingulum"
+    },
+    "dmri_rsihnd_fib_cghlh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left parahpcm cingulum"
+    },
+    "dmri_rsihnd_fib_cstrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right corticospinal/pyramidal"
+    },
+    "dmri_rsihnd_fib_cstlh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left corticospinal/pyramidal"
+    },
+    "dmri_rsihnd_fib_atrrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right anterior thalamic radiations"
+    },
+    "dmri_rsihnd_fib_atrlh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left right anterior thalamic radiations"
+    },
+    "dmri_rsihnd_fib_uncrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right uncinate fasciculus"
+    },
+    "dmri_rsihnd_fib_unclh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left uncinate"
+    },
+    "dmri_rsihnd_fib_ilfrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right inferior longitudinal fasciculus"
+    },
+    "dmri_rsihnd_fib_ilflh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left inferior longitudinal fasciculus"
+    },
+    "dmri_rsihnd_fib_iforh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsihnd_fib_ifolh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsihnd_fib_fmaj": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation forceps major"
+    },
+    "dmri_rsihnd_fib_fmin": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation forceps minor"
+    },
+    "dmri_rsihnd_fib_cc": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation corpus callosum"
+    },
+    "dmri_rsihnd_fib_slfrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right superior longitudinal fasciculus"
+    },
+    "dmri_rsihnd_fib_slflh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left superior longitudinal fasciculus"
+    },
+    "dmri_rsihnd_fib_tslfrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsihnd_fib_tslflh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsihnd_fib_pslfrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsihnd_fib_pslflh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsihnd_fib_scsrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right superior corticostriate"
+    },
+    "dmri_rsihnd_fib_scslh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left superior corticostriate"
+    },
+    "dmri_rsihnd_fib_fscsrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsihnd_fib_fscslh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsihnd_fib_pscsrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsihnd_fib_pscslh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsihnd_fib_sifcrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right striatal inferior frontal cortex"
+    },
+    "dmri_rsihnd_fib_sifclh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left striatal inferior frontal cortex"
+    },
+    "dmri_rsihnd_fib_ifsfcrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right inferior frontal superior frontal cortex"
+    },
+    "dmri_rsihnd_fib_ifsfclh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left inferior frontal superior frontal cortex"
+    },
+    "dmri_rsihnd_fib_fxcutrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right fornix, excluding fimbria"
+    },
+    "dmri_rsihnd_fib_fxcutlh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left fornix, excluding fimbria"
+    },
+    "dmri_rsihnd_fib_allfib": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation all fibers"
+    },
+    "dmri_rsihnd_fib_afbncrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsihnd_fib_afbnclh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsihnd_fib_allfibrh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation right hemisphere fibers"
+    },
+    "dmri_rsihnd_fib_allfiblh": {
+        "Description": "hindered normalized directional diffusion AtlasTrack fiber segmentation left hemisphere fibers"
+    }
+}

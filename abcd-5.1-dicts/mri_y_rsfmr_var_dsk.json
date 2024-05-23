@@ -1,0 +1,210 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "rsfmri_var_cdk_banksstslh": {
+        "Description": "Temporal variance in APARC ROI left-bankssts"
+    },
+    "rsfmri_var_cdk_banksstsrh": {
+        "Description": "Temporal variance in APARC ROI right-bankssts"
+    },
+    "rsfmri_var_cdk_cdaclatelh": {
+        "Description": "Temporal variance in APARC ROI left-caudalanteriorcingulate"
+    },
+    "rsfmri_var_cdk_cdaclaterh": {
+        "Description": "Temporal variance in APARC ROI right-caudalanteriorcingulate"
+    },
+    "rsfmri_var_cdk_cdmdflh": {
+        "Description": "Temporal variance in APARC ROI left-caudalmiddlefrontal"
+    },
+    "rsfmri_var_cdk_cdmdfrh": {
+        "Description": "Temporal variance in APARC ROI right-caudalmiddlefrontal"
+    },
+    "rsfmri_var_cdk_cuneuslh": {
+        "Description": "Temporal variance in APARC ROI left-cuneus"
+    },
+    "rsfmri_var_cdk_cuneusrh": {
+        "Description": "Temporal variance in APARC ROI right-cuneus"
+    },
+    "rsfmri_var_cdk_entorhinallh": {
+        "Description": "Temporal variance in APARC ROI left-entorhinal"
+    },
+    "rsfmri_var_cdk_entorhinalrh": {
+        "Description": "Temporal variance in APARC ROI right-entorhinal"
+    },
+    "rsfmri_var_cdk_fpolelh": {
+        "Description": "Temporal variance in APARC ROI left-frontalpole"
+    },
+    "rsfmri_var_cdk_fpolerh": {
+        "Description": "Temporal variance in APARC ROI right-frontalpole"
+    },
+    "rsfmri_var_cdk_fflh": {
+        "Description": "Temporal variance in APARC ROI left-fusiform"
+    },
+    "rsfmri_var_cdk_ffrh": {
+        "Description": "Temporal variance in APARC ROI right-fusiform"
+    },
+    "rsfmri_var_cdk_ifpalh": {
+        "Description": "Temporal variance in APARC ROI left-inferiorparietal"
+    },
+    "rsfmri_var_cdk_ifparh": {
+        "Description": "Temporal variance in APARC ROI right-inferiorparietal"
+    },
+    "rsfmri_var_cdk_iftlh": {
+        "Description": "Temporal variance in APARC ROI left-inferiorTemporal"
+    },
+    "rsfmri_var_cdk_iftrh": {
+        "Description": "Temporal variance in APARC ROI right-inferiorTemporal"
+    },
+    "rsfmri_var_cdk_insulalh": {
+        "Description": "Temporal variance in APARC ROI left-insula"
+    },
+    "rsfmri_var_cdk_insularh": {
+        "Description": "Temporal variance in APARC ROI right-insula"
+    },
+    "rsfmri_var_cdk_ihclatelh": {
+        "Description": "Temporal variance in APARC ROI left-isthmuscingulate"
+    },
+    "rsfmri_var_cdk_ihclaterh": {
+        "Description": "Temporal variance in APARC ROI right-isthmuscingulate"
+    },
+    "rsfmri_var_cdk_loccipitallh": {
+        "Description": "Temporal variance in APARC ROI left-lateraloccipital"
+    },
+    "rsfmri_var_cdk_loccipitalrh": {
+        "Description": "Temporal variance in APARC ROI right-lateraloccipital"
+    },
+    "rsfmri_var_cdk_loboflh": {
+        "Description": "Temporal variance in APARC ROI left-lateralorbitofrontal"
+    },
+    "rsfmri_var_cdk_lobofrh": {
+        "Description": "Temporal variance in APARC ROI right-lateralorbitofrontal"
+    },
+    "rsfmri_var_cdk_linguallh": {
+        "Description": "Temporal variance in APARC ROI left-lingual"
+    },
+    "rsfmri_var_cdk_lingualrh": {
+        "Description": "Temporal variance in APARC ROI right-lingual"
+    },
+    "rsfmri_var_cdk_moboflh": {
+        "Description": "Temporal variance in APARC ROI left-medialorbitofrontal"
+    },
+    "rsfmri_var_cdk_mobofrh": {
+        "Description": "Temporal variance in APARC ROI right-medialorbitofrontal"
+    },
+    "rsfmri_var_cdk_mdtlh": {
+        "Description": "Temporal variance in APARC ROI left-middleTemporal"
+    },
+    "rsfmri_var_cdk_mdtrh": {
+        "Description": "Temporal variance in APARC ROI right-middleTemporal"
+    },
+    "rsfmri_var_cdk_paracentrallh": {
+        "Description": "Temporal variance in APARC ROI left-paracentral"
+    },
+    "rsfmri_var_cdk_paracentralrh": {
+        "Description": "Temporal variance in APARC ROI right-paracentral"
+    },
+    "rsfmri_var_cdk_parahpallh": {
+        "Description": "Temporal variance in APARC ROI left-parahippocampal"
+    },
+    "rsfmri_var_cdk_parahpalrh": {
+        "Description": "Temporal variance in APARC ROI right-parahippocampal"
+    },
+    "rsfmri_var_cdk_parsopllh": {
+        "Description": "Temporal variance in APARC ROI left-parsopercularis"
+    },
+    "rsfmri_var_cdk_parsoplrh": {
+        "Description": "Temporal variance in APARC ROI right-parsopercularis"
+    },
+    "rsfmri_var_cdk_parsobalislh": {
+        "Description": "Temporal variance in APARC ROI left-parsorbitalis"
+    },
+    "rsfmri_var_cdk_parsobalisrh": {
+        "Description": "Temporal variance in APARC ROI right-parsorbitalis"
+    },
+    "rsfmri_var_cdk_parstularislh": {
+        "Description": "Temporal variance in APARC ROI left-parstriangularis"
+    },
+    "rsfmri_var_cdk_parstularisrh": {
+        "Description": "Temporal variance in APARC ROI right-parstriangularis"
+    },
+    "rsfmri_var_cdk_pericclh": {
+        "Description": "Temporal variance in APARC ROI left-pericalcarine"
+    },
+    "rsfmri_var_cdk_periccrh": {
+        "Description": "Temporal variance in APARC ROI right-pericalcarine"
+    },
+    "rsfmri_var_cdk_postcentrallh": {
+        "Description": "Temporal variance in APARC ROI left-postcentral"
+    },
+    "rsfmri_var_cdk_postcentralrh": {
+        "Description": "Temporal variance in APARC ROI right-postcentral"
+    },
+    "rsfmri_var_cdk_psclatelh": {
+        "Description": "Temporal variance in APARC ROI left-posteriorcingulate"
+    },
+    "rsfmri_var_cdk_psclaterh": {
+        "Description": "Temporal variance in APARC ROI right-posteriorcingulate"
+    },
+    "rsfmri_var_cdk_precentrallh": {
+        "Description": "Temporal variance in APARC ROI left-precentral"
+    },
+    "rsfmri_var_cdk_precentralrh": {
+        "Description": "Temporal variance in APARC ROI right-precentral"
+    },
+    "rsfmri_var_cdk_precuneuslh": {
+        "Description": "Temporal variance in APARC ROI left-precuneus"
+    },
+    "rsfmri_var_cdk_precuneusrh": {
+        "Description": "Temporal variance in APARC ROI right-precuneus"
+    },
+    "rsfmri_var_cdk_rlaclatelh": {
+        "Description": "Temporal variance in APARC ROI left-rostralanteriorcingulate"
+    },
+    "rsfmri_var_cdk_rlaclaterh": {
+        "Description": "Temporal variance in APARC ROI right-rostralanteriorcingulate"
+    },
+    "rsfmri_var_cdk_rlmdflh": {
+        "Description": "Temporal variance in APARC ROI left-rostralmiddlefrontal"
+    },
+    "rsfmri_var_cdk_rlmdfrh": {
+        "Description": "Temporal variance in APARC ROI right-rostralmiddlefrontal"
+    },
+    "rsfmri_var_cdk_suflh": {
+        "Description": "Temporal variance in APARC ROI left-superiorfrontal"
+    },
+    "rsfmri_var_cdk_sufrh": {
+        "Description": "Temporal variance in APARC ROI right-superiorfrontal"
+    },
+    "rsfmri_var_cdk_spetallh": {
+        "Description": "Temporal variance in APARC ROI left-superiorparietal"
+    },
+    "rsfmri_var_cdk_spetalrh": {
+        "Description": "Temporal variance in APARC ROI right-superiorparietal"
+    },
+    "rsfmri_var_cdk_sutlh": {
+        "Description": "Temporal variance in APARC ROI left-superiorTemporal"
+    },
+    "rsfmri_var_cdk_sutrh": {
+        "Description": "Temporal variance in APARC ROI right-superiorTemporal"
+    },
+    "rsfmri_var_cdk_smlh": {
+        "Description": "Temporal variance in APARC ROI left-supramarginal"
+    },
+    "rsfmri_var_cdk_smrh": {
+        "Description": "Temporal variance in APARC ROI right-supramarginal"
+    },
+    "rsfmri_var_cdk_tpolelh": {
+        "Description": "Temporal variance in APARC ROI left-Temporalpole"
+    },
+    "rsfmri_var_cdk_tpolerh": {
+        "Description": "Temporal variance in APARC ROI right-Temporalpole"
+    },
+    "rsfmri_var_cdk_tvtlh": {
+        "Description": "Temporal variance in APARC ROI left-transverseTemporal"
+    },
+    "rsfmri_var_cdk_tvtrh": {
+        "Description": "Temporal variance in APARC ROI right-transverseTemporal"
+    }
+}

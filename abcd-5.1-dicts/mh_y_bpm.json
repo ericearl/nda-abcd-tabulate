@@ -1,0 +1,288 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bpm_1_y": {
+        "Description": "I act too young for my age | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_2_y": {
+        "Description": "I argue a lot | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_3_y": {
+        "Description": "I fail to finish things I start | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_4_y": {
+        "Description": "I have trouble concentrating or paying attention | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_5_y": {
+        "Description": "I have trouble sitting still | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_6_y": {
+        "Description": "I destroy things belonging to others | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_7_y": {
+        "Description": "I disobey my parents | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_8_y": {
+        "Description": "I disobey at school. (Interviewer: Please select \"Not True\" when participant is not in school at the time of the assessment.) | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_9_y": {
+        "Description": "I feel worthless or inferior  Definition of inferior: less good | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_10_y": {
+        "Description": "I act without stopping to think | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_11_y": {
+        "Description": "I am too fearful or anxious | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_12_y": {
+        "Description": "I feel too guilty | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_13_y": {
+        "Description": "I am self-conscious or easily embarrassed | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_14_y": {
+        "Description": "I am inattentive or easily distracted | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_15_y": {
+        "Description": "I am stubborn | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_16_y": {
+        "Description": "I have a hot temper  Definition of \"hot temper\": bad temper, get mad easily | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_17_y": {
+        "Description": "I threaten to hurt people | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_18_y": {
+        "Description": "I am unhappy, sad, or depressed | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_19_y": {
+        "Description": "I worry a lot | 0 = Not True; 1 = Somewhat True; 2 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "bpm_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event-name] = 3_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "bpm_y_scr_attention_r": {
+        "Description": "Raw Score: bpm_1_y plus bpm_3_y plus bpm_4_y plus bpm_5_y plus bpm_10_y plus bpm_14_y; Validation: All items must be answered"
+    },
+    "bpm_y_scr_attention_t": {
+        "Description": "T-Score | T scores are based on the \"r\" score and the sex at birth (male or female) of the child"
+    },
+    "bpm_y_scr_attention_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_scr_attention_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_ss_attention_mean": {
+        "Description": "Mean Score: Mean(bpm_1_y plus bpm_3_y plus bpm_4_y plus bpm_5_y plus bpm_10_y plus bpm_14_y); Validation: All items must be answered"
+    },
+    "bpm_y_ss_attention_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_ss_attention_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_scr_internal_r": {
+        "Description": "Raw Score: bpm_9_y plus bpm_11_y plus bpm_12_y plus bpm_13_y plus bpm_18_y plus bpm_19_y Validation: All items must be answered"
+    },
+    "bpm_y_scr_internal_t": {
+        "Description": "T-Score"
+    },
+    "bpm_y_scr_internal_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_scr_internal_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_ss_internal_mean": {
+        "Description": "Mean Score: Mean(bpm_9_y plus bpm_11_y plus bpm_12_y plus bpm_13_y plus bpm_18_y plus bpm_19_y) Validation: Minimum of 4 items must be answered"
+    },
+    "bpm_y_ss_internal_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_ss_internal_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_scr_external_r": {
+        "Description": "Raw Score: bpm_2_y plus bpm_6_y plus bpm_7_y plus bpm_8_y plus bpm_15_y plus bpm_16_y plus bpm_17_y; Validation: All items must be answered"
+    },
+    "bpm_y_scr_external_t": {
+        "Description": "T-Score"
+    },
+    "bpm_y_scr_external_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_scr_external_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_ss_external_mean": {
+        "Description": "Mean Score: Mean(bpm_2_y plus bpm_6_y plus bpm_7_y plus bpm_8_y plus bpm_15_y plus bpm_16_y plus bpm_17_y); Validation: All items must be answered"
+    },
+    "bpm_y_ss_external_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_ss_external_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_scr_totalprob_r": {
+        "Description": "Raw Score: bpm_1_y plus bpm_2_y plus bpm_3_y plus bpm_4_y plus bpm_5_y plus bpm_6_y plus bpm_7_y plus bpm_8_y plus bpm_9_y plus bpm_10_y plus bpm_11_y plus bpm_12_y plus bpm_13_y plus bpm_14_y plus bpm_15_y plus bpm_16_y plus bpm_17_y plus bpm_18_y plus bpm_19_y; Validation: All items must be answered"
+    },
+    "bpm_y_scr_totalprob_t": {
+        "Description": "T-Score"
+    },
+    "bpm_y_scr_totalprob_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_scr_totalprob_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_y_ss_totalprob_mean": {
+        "Description": "Mean: Mean(bpm_1_y plus bpm_2_y plus bpm_3_y plus bpm_4_y plus bpm_5_y plus bpm_6_y plus bpm_7_y plus bpm_8_y plus bpm_9_y plus bpm_10_y plus bpm_11_y plus bpm_12_y plus bpm_13_y plus bpm_14_y plus bpm_15_y plus bpm_16_y plus bpm_17_y plus bpm_18_y plus bpm_19_y); Validation: All items must be answered"
+    },
+    "bpm_y_ss_totalprob_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_y_ss_totalprob_nt": {
+        "Description": "Number Total Questions"
+    }
+}

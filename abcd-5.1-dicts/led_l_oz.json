@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_oz_designation": {
+        "Description": "Residential history derived - Opportunity Zone designation; Urban Institute; census tract (addr1)"
+    },
+    "reshist_addr1_oz_invest_decile": {
+        "Description": "Residential history derived - Investment Score, National Deciles; Urban Institute; census tract (addr1)"
+    },
+    "reshist_addr2_oz_designation": {
+        "Description": "Residential history derived - Opportunity Zone designation; Urban Institute; census tract (addr2)"
+    },
+    "reshist_addr2_oz_invest_decile": {
+        "Description": "Residential history derived - Investment Score, National Deciles; Urban Institute; census tract (addr2)"
+    },
+    "reshist_addr3_oz_designation": {
+        "Description": "Residential history derived - Opportunity Zone designation; Urban Institute; census tract (addr3)"
+    },
+    "reshist_addr3_oz_invest_decile": {
+        "Description": "Residential history derived - Investment Score, National Deciles; Urban Institute; census tract (addr3)"
+    }
+}

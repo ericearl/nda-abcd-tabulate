@@ -1,0 +1,114 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_t1wcnt_cf2_frlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 2 clusters-lh-frontal"
+    },
+    "smri_t1wcnt_cf2_ptlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 2 clusters-lh-posterior"
+    },
+    "smri_t1wcnt_cf4_frlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-lh-frontal"
+    },
+    "smri_t1wcnt_cf4_occlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-lh-occipital"
+    },
+    "smri_t1wcnt_cf4_tmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-lh-temporal"
+    },
+    "smri_t1wcnt_cf4_pllh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-lh-parietal"
+    },
+    "smri_t1wcnt_cf12_cnlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-central"
+    },
+    "smri_t1wcnt_cf12_occlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-occipital"
+    },
+    "smri_t1wcnt_cf12_ptoltmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-posterolateraltemporal"
+    },
+    "smri_t1wcnt_cf12_supllh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-superiorparietal"
+    },
+    "smri_t1wcnt_cf12_obfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-orbitofrontal"
+    },
+    "smri_t1wcnt_cf12_sutmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-superiortemporal"
+    },
+    "smri_t1wcnt_cf12_ifpllh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-inferiorparietal"
+    },
+    "smri_t1wcnt_cf12_dmfrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-dorsomedialfrontal"
+    },
+    "smri_t1wcnt_cf12_aomtmlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-anteromedialtemporal"
+    },
+    "smri_t1wcnt_cf12_pclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-precuneus"
+    },
+    "smri_t1wcnt_cf12_dlprefrlh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-dorsolateralprefrontal"
+    },
+    "smri_t1wcnt_cf12_parsopclh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-lh-parsopercularis"
+    },
+    "smri_t1wcnt_cf2_frrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 2 clusters-rh-frontal"
+    },
+    "smri_t1wcnt_cf2_ptrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 2 clusters-rh-posterior"
+    },
+    "smri_t1wcnt_cf4_frrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-rh-frontal"
+    },
+    "smri_t1wcnt_cf4_occrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-rh-occipital"
+    },
+    "smri_t1wcnt_cf4_tmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-rh-temporal"
+    },
+    "smri_t1wcnt_cf4_plrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 4 clusters-rh-parietal"
+    },
+    "smri_t1wcnt_cf12_cnrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-central"
+    },
+    "smri_t1wcnt_cf12_occrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-occipital"
+    },
+    "smri_t1wcnt_cf12_ptoltmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-posterolateraltemporal"
+    },
+    "smri_t1wcnt_cf12_suplrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-superiorparietal"
+    },
+    "smri_t1wcnt_cf12_obfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-orbitofrontal"
+    },
+    "smri_t1wcnt_cf12_sutmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-superiortemporal"
+    },
+    "smri_t1wcnt_cf12_ifplrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-inferiorparietal"
+    },
+    "smri_t1wcnt_cf12_dmfrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-dorsomedialfrontal"
+    },
+    "smri_t1wcnt_cf12_aomtmrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-anteromedialtemporal"
+    },
+    "smri_t1wcnt_cf12_pcrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-precuneus"
+    },
+    "smri_t1wcnt_cf12_dlprefrrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-dorsolateralprefrontal"
+    },
+    "smri_t1wcnt_cf12_parsopcrh": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for genetically derived parcellation with 12 clusters-rh-parsopercularis"
+    }
+}

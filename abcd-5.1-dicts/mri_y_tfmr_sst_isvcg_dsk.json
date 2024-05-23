@@ -1,0 +1,1230 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_saisvcg_bcdk_bktslh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_saisvcg_bcdk_bktsrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_saisvcg_bcdk_cdacgelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_cdacgerh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_cdmdfrlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_saisvcg_bcdk_cdmdfrrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_saisvcg_bcdk_culh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_saisvcg_bcdk_curh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_saisvcg_bcdk_ehinallh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_saisvcg_bcdk_ehinalrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_saisvcg_bcdk_frpelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_saisvcg_bcdk_frperh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_saisvcg_bcdk_fflh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_saisvcg_bcdk_ffrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_saisvcg_bcdk_ifpalh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_saisvcg_bcdk_ifparh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_saisvcg_bcdk_iftplh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_saisvcg_bcdk_iftprh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_saisvcg_bcdk_isalh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_saisvcg_bcdk_isarh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_saisvcg_bcdk_ihcgelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_saisvcg_bcdk_ihcgerh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_saisvcg_bcdk_laoclh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_saisvcg_bcdk_laocrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_saisvcg_bcdk_laobofrlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_saisvcg_bcdk_laobofrrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_saisvcg_bcdk_lglh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_saisvcg_bcdk_lgrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_saisvcg_bcdk_mobofrlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_saisvcg_bcdk_mobofrrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_saisvcg_bcdk_mdtplh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_saisvcg_bcdk_mdtprh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_saisvcg_bcdk_pacnlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_saisvcg_bcdk_pacnrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_saisvcg_bcdk_pahpallh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_saisvcg_bcdk_pahpalrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_saisvcg_bcdk_psopelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_saisvcg_bcdk_psoperh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_saisvcg_bcdk_psobslh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_saisvcg_bcdk_psobsrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_saisvcg_bcdk_pstglh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_saisvcg_bcdk_pstgrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_saisvcg_bcdk_pcnlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_saisvcg_bcdk_pcnrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_saisvcg_bcdk_postcnlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_saisvcg_bcdk_postcnrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_saisvcg_bcdk_pocgelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_pocgerh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_precnlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_saisvcg_bcdk_precnrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_saisvcg_bcdk_pculh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_saisvcg_bcdk_pcurh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_saisvcg_bcdk_racgelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_racgerh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_saisvcg_bcdk_rmdfrlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_saisvcg_bcdk_rmdfrrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_saisvcg_bcdk_sufrlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_saisvcg_bcdk_sufrrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_saisvcg_bcdk_supalh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_saisvcg_bcdk_suparh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_saisvcg_bcdk_sutplh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_saisvcg_bcdk_sutprh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_saisvcg_bcdk_smlh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_saisvcg_bcdk_smrh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_saisvcg_bcdk_tppelh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_saisvcg_bcdk_tpperh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_saisvcg_bcdk_tvtplh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_saisvcg_bcdk_tvtprh": {
+        "Description": "Beta weight for SST all incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_all_347": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_all_381": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_all_348": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_all_382": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_all_349": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_all_383": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_all_350": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_all_384": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_all_351": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_all_385": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_all_377": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_all_411": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_all_352": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_all_386": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_all_353": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_all_387": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_all_354": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_all_388": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_all_380": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_all_414": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_all_355": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_all_389": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_all_356": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_all_390": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_all_357": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_all_391": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_all_358": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_all_392": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_all_359": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_all_393": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_all_360": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_all_394": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_all_362": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_all_396": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_all_361": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_all_395": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_all_363": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_all_397": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_all_364": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_all_398": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_all_365": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_all_399": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_all_366": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_all_400": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_all_367": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_all_401": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_all_368": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_all_402": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_all_369": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_all_403": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_all_370": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_all_404": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_all_371": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_all_405": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_all_372": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_all_406": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_all_373": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_all_407": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_all_374": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_all_408": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_all_375": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_all_409": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_all_376": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_all_410": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_all_378": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_all_412": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_all_379": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_all_413": {
+        "Description": "Standard error of the mean for SST all incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sstr1_347": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sstr1_381": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sstr1_348": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr1_382": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr1_349": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr1_383": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr1_350": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sstr1_384": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sstr1_351": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sstr1_385": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sstr1_377": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sstr1_411": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sstr1_352": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sstr1_386": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sstr1_353": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sstr1_387": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sstr1_354": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sstr1_388": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sstr1_380": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sstr1_414": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sstr1_355": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sstr1_389": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sstr1_356": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sstr1_390": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sstr1_357": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sstr1_391": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sstr1_358": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sstr1_392": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sstr1_359": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sstr1_393": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sstr1_360": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sstr1_394": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sstr1_362": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sstr1_396": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sstr1_361": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sstr1_395": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sstr1_363": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sstr1_397": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sstr1_364": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sstr1_398": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sstr1_365": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sstr1_399": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sstr1_366": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sstr1_400": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sstr1_367": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sstr1_401": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sstr1_368": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sstr1_402": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sstr1_369": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sstr1_403": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sstr1_370": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sstr1_404": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sstr1_371": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr1_405": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr1_372": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr1_406": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr1_373": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sstr1_407": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sstr1_374": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sstr1_408": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sstr1_375": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sstr1_409": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sstr1_376": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sstr1_410": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sstr1_378": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sstr1_412": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sstr1_379": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sstr1_413": {
+        "Description": "Beta weight for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_r1sem_347": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_r1sem_381": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_r1sem_348": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_382": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_349": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_383": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_350": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_r1sem_384": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_r1sem_351": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_r1sem_385": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_r1sem_377": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_r1sem_411": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_r1sem_352": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_r1sem_386": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_r1sem_353": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_r1sem_387": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_r1sem_354": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_r1sem_388": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_r1sem_380": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_r1sem_414": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_r1sem_355": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_r1sem_389": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_r1sem_356": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_r1sem_390": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_r1sem_357": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r1sem_391": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r1sem_358": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_r1sem_392": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_r1sem_359": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_r1sem_393": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_r1sem_360": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_r1sem_394": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_r1sem_362": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_r1sem_396": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_r1sem_361": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_r1sem_395": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_r1sem_363": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_r1sem_397": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_r1sem_364": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_r1sem_398": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_r1sem_365": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_r1sem_399": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_r1sem_366": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_r1sem_400": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_r1sem_367": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_r1sem_401": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_r1sem_368": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_r1sem_402": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_r1sem_369": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_r1sem_403": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_r1sem_370": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_r1sem_404": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_r1sem_371": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_405": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_372": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_406": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_373": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_r1sem_407": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_r1sem_374": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_r1sem_408": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_r1sem_375": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_r1sem_409": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_r1sem_376": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_r1sem_410": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_r1sem_378": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_r1sem_412": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_r1sem_379": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_r1sem_413": {
+        "Description": "Standard error of the mean for SST run1 incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sstr2_347": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sstr2_381": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sstr2_348": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr2_382": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr2_349": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr2_383": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr2_350": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sstr2_384": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sstr2_351": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sstr2_385": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sstr2_377": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sstr2_411": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sstr2_352": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sstr2_386": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sstr2_353": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sstr2_387": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sstr2_354": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sstr2_388": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sstr2_380": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sstr2_414": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sstr2_355": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sstr2_389": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sstr2_356": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sstr2_390": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sstr2_357": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sstr2_391": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sstr2_358": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sstr2_392": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sstr2_359": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sstr2_393": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sstr2_360": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sstr2_394": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sstr2_362": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sstr2_396": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sstr2_361": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sstr2_395": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sstr2_363": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sstr2_397": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sstr2_364": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sstr2_398": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sstr2_365": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sstr2_399": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sstr2_366": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sstr2_400": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sstr2_367": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sstr2_401": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sstr2_368": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sstr2_402": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sstr2_369": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sstr2_403": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sstr2_370": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sstr2_404": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sstr2_371": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr2_405": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr2_372": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr2_406": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr2_373": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sstr2_407": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sstr2_374": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sstr2_408": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sstr2_375": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sstr2_409": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sstr2_376": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sstr2_410": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sstr2_378": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sstr2_412": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sstr2_379": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sstr2_413": {
+        "Description": "Beta weight for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_r2sem_347": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_r2sem_381": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_r2sem_348": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_382": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_349": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_383": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_350": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_r2sem_384": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_r2sem_351": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_r2sem_385": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_r2sem_377": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_r2sem_411": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_r2sem_352": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_r2sem_386": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_r2sem_353": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_r2sem_387": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_r2sem_354": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_r2sem_388": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_r2sem_380": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_r2sem_414": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_r2sem_355": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_r2sem_389": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_r2sem_356": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_r2sem_390": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_r2sem_357": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r2sem_391": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r2sem_358": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_r2sem_392": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_r2sem_359": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_r2sem_393": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_r2sem_360": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_r2sem_394": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_r2sem_362": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_r2sem_396": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_r2sem_361": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_r2sem_395": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_r2sem_363": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_r2sem_397": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_r2sem_364": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_r2sem_398": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_r2sem_365": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_r2sem_399": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_r2sem_366": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_r2sem_400": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_r2sem_367": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_r2sem_401": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_r2sem_368": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_r2sem_402": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_r2sem_369": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_r2sem_403": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_r2sem_370": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_r2sem_404": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_r2sem_371": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_405": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_372": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_406": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_373": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_r2sem_407": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_r2sem_374": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_r2sem_408": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_r2sem_375": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_r2sem_409": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_r2sem_376": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_r2sem_410": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_r2sem_378": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_r2sem_412": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_r2sem_379": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_r2sem_413": {
+        "Description": "Standard error of the mean for SST run2 incorrect stop versus correct go contrast in APARC ROI rh-transversetemporal"
+    }
+}

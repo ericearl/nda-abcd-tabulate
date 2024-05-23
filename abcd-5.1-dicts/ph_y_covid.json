@@ -1,0 +1,307 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "school_cv_y": {
+        "Description": "In the past week, is your schooling like it was in January 2020? | 1 = No - I was going to school in person and now it's online /school-at-home; 2 = No - I was going to school in person and now I'm not doing any in-person or school-at-home activity; 3 = No - I was going to school in person all school days; now my school is in-person only some days or part of the usual school day; 4 = No - The school is out for a break; 5 = Yes - I go to my school all school days, in person; 6 = Yes - I am doing my same homeschool/online school program; 7 = Other",
+        "Levels": {
+            "1": "No - I was going to school in person and now it's online /school-at-home",
+            "2": "No - I was going to school in person and now I'm not doing any in-person or school-at-home activity",
+            "3": "No - I was going to school in person all school days",
+            "4": "No - The school is out for a break",
+            "5": "Yes - I go to my school all school days, in person",
+            "6": "Yes - I am doing my same homeschool/online school program",
+            "7": "Other"
+        }
+    },
+    "school_cv_2_y": {
+        "Description": "In the past week, was your schooling taking place: | 1 = Online/school-at-home; 2 = In person; 3 = In person some days and online some other days; 5 = School is out for summer/break, or I'm doing a summer school program; 4 = Other",
+        "Levels": {
+            "1": "Online/school-at-home",
+            "2": "In person",
+            "3": "In person some days and online some other days",
+            "5": "School is out for summer/break, or I'm doing a summer school program",
+            "4": "Other"
+        }
+    },
+    "school_in_person_cv_y": {
+        "Description": "Is in-person schooling available at your school? | 1 = Yes; 2 = No; 999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "999": "Don't know"
+        }
+    },
+    "online_arts_cv_y": {
+        "Description": "Reading/Language Arts/Social Studies: | 0 = 0; 1 = 15 minutes; 2 = 30 minutes; 3 = 45 minutes; 4 = 1 hour; 5 = 1.5 hours; 6 = 2 hours; 7 = 3 hours; 8 = 4 hours; 9 = 5 hours; 10 = 6 hours; 11 = 7 hours; 12 = 8 hours; 13 = 9 hours; 14 = 10 hours; 15 = More than 10 hours; 999 = Don't know",
+        "Levels": {
+            "0": "0",
+            "1": "15 minutes",
+            "2": "30 minutes",
+            "3": "45 minutes",
+            "4": "1 hour",
+            "5": "1.5 hours",
+            "6": "2 hours",
+            "7": "3 hours",
+            "8": "4 hours",
+            "9": "5 hours",
+            "10": "6 hours",
+            "11": "7 hours",
+            "12": "8 hours",
+            "13": "9 hours",
+            "14": "10 hours",
+            "15": "More than 10 hours",
+            "999": "Don't know"
+        }
+    },
+    "online_science_cv_y": {
+        "Description": "Math/Science: | 0 = 0; 1 = 15 minutes; 2 = 30 minutes; 3 = 45 minutes; 4 = 1 hour; 5 = 1.5 hours; 6 = 2 hours; 7 = 3 hours; 8 = 4 hours; 9 = 5 hours; 10 = 6 hours; 11 = 7 hours; 12 = 8 hours; 13 = 9 hours; 14 = 10 hours; 15 = More than 10 hours; 999 = Don't know",
+        "Levels": {
+            "0": "0",
+            "1": "15 minutes",
+            "2": "30 minutes",
+            "3": "45 minutes",
+            "4": "1 hour",
+            "5": "1.5 hours",
+            "6": "2 hours",
+            "7": "3 hours",
+            "8": "4 hours",
+            "9": "5 hours",
+            "10": "6 hours",
+            "11": "7 hours",
+            "12": "8 hours",
+            "13": "9 hours",
+            "14": "10 hours",
+            "15": "More than 10 hours",
+            "999": "Don't know"
+        }
+    },
+    "online_other_cv_y": {
+        "Description": "Other; including all academic electives (e.g. foreign languages, art, music, gym) but NOT extracurricular activities: | 0 = 0; 1 = 15 minutes; 2 = 30 minutes; 3 = 45 minutes; 4 = 1 hour; 5 = 1.5 hours; 6 = 2 hours; 7 = 3 hours; 8 = 4 hours; 9 = 5 hours; 10 = 6 hours; 11 = 7 hours; 12 = 8 hours; 13 = 9 hours; 14 = 10 hours; 15 = More than 10 hours; 999 = Don't know",
+        "Levels": {
+            "0": "0",
+            "1": "15 minutes",
+            "2": "30 minutes",
+            "3": "45 minutes",
+            "4": "1 hour",
+            "5": "1.5 hours",
+            "6": "2 hours",
+            "7": "3 hours",
+            "8": "4 hours",
+            "9": "5 hours",
+            "10": "6 hours",
+            "11": "7 hours",
+            "12": "8 hours",
+            "13": "9 hours",
+            "14": "10 hours",
+            "15": "More than 10 hours",
+            "999": "Don't know"
+        }
+    },
+    "school_like_activities_cv_y": {
+        "Description": "Of this time, how many hours per day did you spend in on-line classes, or other school-related on-line gatherings with other students or teachers? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = 6; 7 = 7; 8 = 8; 9 = 9; 10 = 10; 11 = 11; 12 = 12; 13 = 13; 14 = 14; 15 = 15; 16 = 16; 17 = 17; 18 = 18; 19 = 19; 20 = 20; 21 = 21; 22 = 22; 23 = 23",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "21": "21",
+            "22": "22",
+            "23": "23"
+        }
+    },
+    "enjoyed_school_wk_y_cv_y": {
+        "Description": "How much did you enjoy school? | 1 = Much more than when my school was fully physically opened; 2 = A little more than when my school was fully physically opened; 3 = About the same when my school was fully physically opened; 4 = A little less than when my school was fully physically opened; 5 = Much less than when my school was fully physically opened",
+        "Levels": {
+            "1": "Much more than when my school was fully physically opened",
+            "2": "A little more than when my school was fully physically opened",
+            "3": "About the same when my school was fully physically opened",
+            "4": "A little less than when my school was fully physically opened",
+            "5": "Much less than when my school was fully physically opened"
+        }
+    },
+    "school_work_cv_y": {
+        "Description": "Did you find that your school work was: | 1 = Very easy; 2 = A little easy; 3 = Medium; 4 = A little hard; 5 = Very hard",
+        "Levels": {
+            "1": "Very easy",
+            "2": "A little easy",
+            "3": "Medium",
+            "4": "A little hard",
+            "5": "Very hard"
+        }
+    },
+    "missing_school_cv_y": {
+        "Description": "How worried are you about missing school in-person? | 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Very; 5 = Extremely",
+        "Levels": {
+            "1": "Not at all",
+            "2": "Slightly",
+            "3": "Moderately",
+            "4": "Very",
+            "5": "Extremely"
+        }
+    },
+    "assist_sched_cv_y": {
+        "Description": "Assist you with managing school schedule | 0 = 0 days; 1 = 1 days; 2 = 2 days; 3 = 3 days; 4 = 4 days; 5 = 5 days; 6 = 6 days; 7 = 7 days; 8 = Don't know",
+        "Levels": {
+            "0": "0 days",
+            "1": "1 days",
+            "2": "2 days",
+            "3": "3 days",
+            "4": "4 days",
+            "5": "5 days",
+            "6": "6 days",
+            "7": "7 days",
+            "8": "Don't know"
+        }
+    },
+    "check_hw_cv_y": {
+        "Description": "Check homework and assignments with you | 0 = 0 days; 1 = 1 days; 2 = 2 days; 3 = 3 days; 4 = 4 days; 5 = 5 days; 6 = 6 days; 7 = 7 days; 8 = Don't know",
+        "Levels": {
+            "0": "0 days",
+            "1": "1 days",
+            "2": "2 days",
+            "3": "3 days",
+            "4": "4 days",
+            "5": "5 days",
+            "6": "6 days",
+            "7": "7 days",
+            "8": "Don't know"
+        }
+    },
+    "teach_concept_cv_y": {
+        "Description": "Directly teach you concepts | 0 = 0 days; 1 = 1 days; 2 = 2 days; 3 = 3 days; 4 = 4 days; 5 = 5 days; 6 = 6 days; 7 = 7 days; 8 = Don't know",
+        "Levels": {
+            "0": "0 days",
+            "1": "1 days",
+            "2": "2 days",
+            "3": "3 days",
+            "4": "4 days",
+            "5": "5 days",
+            "6": "6 days",
+            "7": "7 days",
+            "8": "Don't know"
+        }
+    },
+    "create_asgn_act_cv_y": {
+        "Description": "Create assignments and activities beyond what your school assigned | 0 = 0 days; 1 = 1 days; 2 = 2 days; 3 = 3 days; 4 = 4 days; 5 = 5 days; 6 = 6 days; 7 = 7 days; 8 = Don't know",
+        "Levels": {
+            "0": "0 days",
+            "1": "1 days",
+            "2": "2 days",
+            "3": "3 days",
+            "4": "4 days",
+            "5": "5 days",
+            "6": "6 days",
+            "7": "7 days",
+            "8": "Don't know"
+        }
+    },
+    "demo_online_cv_y": {
+        "Description": "How has the frequency of your on-line communication changed? | 1 = Noticeably Decreased; 2 = Somewhat Decreased; 3 = Has Not Changed; 4 = Somewhat Increased; 5 = Noticeably Increased; 6 = Not applicable",
+        "Levels": {
+            "1": "Noticeably Decreased",
+            "2": "Somewhat Decreased",
+            "3": "Has Not Changed",
+            "4": "Somewhat Increased",
+            "5": "Noticeably Increased",
+            "6": "Not applicable"
+        }
+    },
+    "demo_friends_cv_y": {
+        "Description": "How has the frequency of your communication changed during this time with friends? | 1 = Noticeably Decreased; 2 = Somewhat Decreased; 3 = Has Not Changed; 4 = Somewhat Increased; 5 = Noticeably Increased; 6 = Not applicable",
+        "Levels": {
+            "1": "Noticeably Decreased",
+            "2": "Somewhat Decreased",
+            "3": "Has Not Changed",
+            "4": "Somewhat Increased",
+            "5": "Noticeably Increased",
+            "6": "Not applicable"
+        }
+    },
+    "demo_parents_cv_y": {
+        "Description": "How has the frequency of your communication changed during this time with parents? | 1 = Noticeably Decreased; 2 = Somewhat Decreased; 3 = Has Not Changed; 4 = Somewhat Increased; 5 = Noticeably Increased; 6 = Not applicable",
+        "Levels": {
+            "1": "Noticeably Decreased",
+            "2": "Somewhat Decreased",
+            "3": "Has Not Changed",
+            "4": "Somewhat Increased",
+            "5": "Noticeably Increased",
+            "6": "Not applicable"
+        }
+    },
+    "demo_siblings_cv_y": {
+        "Description": "How has the frequency of your communication changed during this time with siblings? | 1 = Noticeably Decreased; 2 = Somewhat Decreased; 3 = Has Not Changed; 4 = Somewhat Increased; 5 = Noticeably Increased; 6 = Not applicable",
+        "Levels": {
+            "1": "Noticeably Decreased",
+            "2": "Somewhat Decreased",
+            "3": "Has Not Changed",
+            "4": "Somewhat Increased",
+            "5": "Noticeably Increased",
+            "6": "Not applicable"
+        }
+    },
+    "demo_stayed_away_cv_y": {
+        "Description": "I stay away from people (other than those who live in my house) | 1 = I have not done this in the last week; 2 = I did this some of the time last week; 3 = I did this most of the time last week; 4 = I did this all the time last week",
+        "Levels": {
+            "1": "I have not done this in the last week",
+            "2": "I did this some of the time last week",
+            "3": "I did this most of the time last week",
+            "4": "I did this all the time last week"
+        }
+    },
+    "demo_avoid_news_y": {
+        "Description": "I avoid news or information about bad illnesses or viruses | 1 = I have not done this in the last week; 2 = I did this some of the time last week; 3 = I did this most of the time last week; 4 = I did this all the time last week",
+        "Levels": {
+            "1": "I have not done this in the last week",
+            "2": "I did this some of the time last week",
+            "3": "I did this most of the time last week",
+            "4": "I did this all the time last week"
+        }
+    },
+    "demo_wash_hands_cv_y": {
+        "Description": "I wash my hands at times other than just after I use the bathroom or before eating | 1 = I have not done this in the last week; 2 = I did this some of the time last week; 3 = I did this most of the time last week; 4 = I did this all the time last week",
+        "Levels": {
+            "1": "I have not done this in the last week",
+            "2": "I did this some of the time last week",
+            "3": "I did this most of the time last week",
+            "4": "I did this all the time last week"
+        }
+    },
+    "demo_mask_coverage_cv_y": {
+        "Description": "I wore a mask over my face when in public places | 1 = I have not done this in the last week; 2 = I did this some of the time last week; 3 = I did this most of the time last week; 4 = I did this all the time last week",
+        "Levels": {
+            "1": "I have not done this in the last week",
+            "2": "I did this some of the time last week",
+            "3": "I did this most of the time last week",
+            "4": "I did this all the time last week"
+        }
+    },
+    "stressed_cv_y": {
+        "Description": "COVID-19 presents a lot of uncertainty about the future. In the past 7 days, including today, how stressful have you found this uncertainty to be? | 1 = Very slightly or not at all; 2 = Slightly; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "Slightly",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    }
+}

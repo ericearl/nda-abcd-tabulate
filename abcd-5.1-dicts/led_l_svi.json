@@ -1,0 +1,330 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_svi_tot_20142018": {
+        "Description": "Residential history derived - Census tract CDC Social Vulnerability Index (SVI) (overall percentile) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_tot_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (overall percentile) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_tot_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (overall percentile) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_pov_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % below poverty subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_emp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile unemployment rate subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_cap_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile per capita income subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_hs_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % no high school diploma subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_65_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 65 and older subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_17_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 17 and younger subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_dis_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % population with a disability subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_sin_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % single parent households with children under 18 subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_min_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % minority subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_eng_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons who speak English ''less than well'' subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_hous20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % housing structures with 10 or more units subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_mob_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % mobile homes subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_crwd20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % crowding subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_veh_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % households with no vehicle) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_grp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons in group quarters) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_th1_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile socioeconomic theme) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_th2_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile household composition theme) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_th3_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile minority/language theme) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_th4_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile housing type/transportation theme) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_pov_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % below poverty subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_emp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile unemployment rate subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_cap_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile per capita income subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_hs_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % no high school diploma subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_65_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 65 and older subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_17_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 17 and younger subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_dis_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % population with a disability subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_sin_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % single parent households with children under 18 subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_min_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % minority subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_eng_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons who speak English ''less than well'' subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_hous20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % housing structures with 10 or more units subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_mob_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % mobile homes subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_crwd20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % crowding subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_veh_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % households with no vehicle) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_grp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons in group quarters) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_th1_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile socioeconomic theme) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_th2_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile household composition theme) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_th3_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile minority/language theme) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_th4_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile housing type/transportation theme) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_pov_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % below poverty subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_emp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile unemployment rate subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_cap_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile per capita income subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_hs_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % no high school diploma subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_65_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 65 and older subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_17_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons 17 and younger subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_dis_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % population with a disability subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_sin_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % single parent households with children under 18 subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_min_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % minority subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_eng_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons who speak English ''less than well'' subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_hous20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % housing structures with 10 or more units subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_mob_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % mobile homes subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_crwd20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % crowding subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_veh_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % households with no vehicle) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_grp_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile % persons in group quarters) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_th1_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile socioeconomic theme) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_th2_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile household composition theme) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_th3_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile minority/language theme) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_th4_20142018": {
+        "Description": "Residential history derived - Census tract CDC SVI (percentile housing type/transportation theme) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_pov_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % below poverty subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_emp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate unemployment rate subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_cap_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate per capita income subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_hs_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % no high school diploma subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_65_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 65 and older subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_17_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 17 and younger subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_dis_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % population with a disability subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_sin_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % single parent households with children under 18 subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_min_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % minority subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_eng_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons who speak English ''less than well'' subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_hous_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % housing structures with 10 or more units subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_mob_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % mobile homes subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_crwd_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % crowding subcomponent) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_veh_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % households with no vehicle) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_grp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons in group quarters) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr1_svi_unins_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons uninsured) at primary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_pov_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % below poverty subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_emp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate unemployment rate subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_cap_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate per capita income subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_hs_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % no high school diploma subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_65_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 65 and older subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_17_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 17 and younger subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_dis_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % population with a disability subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_sin_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % single parent households with children under 18 subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_min_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % minority subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_eng_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons who speak English ''less than well'' subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_hous_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % housing structures with 10 or more units subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_mob_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % mobile homes subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_crwd_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % crowding subcomponent) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_veh_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % households with no vehicle) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_grp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons in group quarters) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr2_svi_unins_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons uninsured) at secondary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_pov_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % below poverty subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_emp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate unemployment rate subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_cap_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate per capita income subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_hs_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % no high school diploma subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_65_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 65 and older subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_17_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons 17 and younger subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_dis_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % population with a disability subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_sin_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % single parent households with children under 18 subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_min_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % minority subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_eng_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons who speak English ''less than well'' subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_hous_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % housing structures with 10 or more units subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_mob_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % mobile homes subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_crwd_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % crowding subcomponent) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_veh_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % households with no vehicle) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_grp_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons in group quarters) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    },
+    "reshist_addr3_svi_unins_ppe": {
+        "Description": "Residential history derived - Census tract CDC SVI (percent population estimate % persons uninsured) at tertiary residential address (ACS 2014-2018 5 yr avg)"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmdtifp1_206": {
+        "Description": "Fiber tract volume in mm^3 of all DTI atlas tract fiber tracts"
+    },
+    "dmdtifp1_210": {
+        "Description": "Fiber tract volume in mm^3 of left hemisphere DTI atlas tract fiber tracts"
+    },
+    "dmdtifp1_208": {
+        "Description": "Fiber tract volume in mm^3 of left hemisphere DTI atlas tract fiber tracts without corpus callosum"
+    },
+    "dmdtifp1_207": {
+        "Description": "Fiber tract volume in mm^3 of right hemisphere DTI atlas tract fiber tracts without corpus callosum"
+    },
+    "dmdtifp1_209": {
+        "Description": "Fiber tract volume in mm^3 of right hemisphere DTI atlas tract fiber tracts"
+    },
+    "dmdtifp1_178": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left anterior thalamic radiations"
+    },
+    "dmdtifp1_177": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right anterior thalamic radiations"
+    },
+    "dmdtifp1_187": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract corpus callosum"
+    },
+    "dmdtifp1_172": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left cingulate cingulum"
+    },
+    "dmdtifp1_171": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right cingulate cingulum"
+    },
+    "dmdtifp1_174": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left parahippocampal cingulum"
+    },
+    "dmdtifp1_173": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right parahippocampal cingulum"
+    },
+    "dmdtifp1_176": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left corticospinal/pyramidal"
+    },
+    "dmdtifp1_175": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right corticospinal/pyramidal"
+    },
+    "dmdtifp1_185": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract foreceps major"
+    },
+    "dmdtifp1_186": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract foreceps minor"
+    },
+    "dmdtifp1_197": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate-frontal cortex only"
+    },
+    "dmdtifp1_196": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate-frontal cortex only"
+    },
+    "dmdtifp1_205": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left fornix, excluding fimbria"
+    },
+    "dmdtifp1_204": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right fornix, excluding fimbria"
+    },
+    "dmdtifp1_170": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left fornix"
+    },
+    "dmdtifp1_169": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right fornix"
+    },
+    "dmdtifp1_184": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior-fronto-occipital fasiculus"
+    },
+    "dmdtifp1_183": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior-fronto-occipital fasiculus"
+    },
+    "dmdtifp1_203": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior frontal superior frontal cortex"
+    },
+    "dmdtifp1_202": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior frontal superior frontal cortex"
+    },
+    "dmdtifp1_182": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior longitudinal fasiculus"
+    },
+    "dmdtifp1_181": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior longitudinal fasiculus"
+    },
+    "dmdtifp1_199": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate-parietal cortex only"
+    },
+    "dmdtifp1_198": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate-parietal cortex only"
+    },
+    "dmdtifp1_193": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left parietal superior longitudinal fasiculus"
+    },
+    "dmdtifp1_192": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right parietal superior longitudinal fasiculus"
+    },
+    "dmdtifp1_195": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate"
+    },
+    "dmdtifp1_194": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate"
+    },
+    "dmdtifp1_201": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left striatal inferior frontal cortex"
+    },
+    "dmdtifp1_200": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right striatal inferior frontal cortex"
+    },
+    "dmdtifp1_189": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior longitudinal fasiculus"
+    },
+    "dmdtifp1_188": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior longitudinal fasiculus"
+    },
+    "dmdtifp1_191": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left temporal superior longitudinal fasiculus"
+    },
+    "dmdtifp1_190": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right temporal superior longitudinal fasiculus"
+    },
+    "dmdtifp1_180": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left uncinate"
+    },
+    "dmdtifp1_179": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right uncinate"
+    }
+}

@@ -1,0 +1,1230 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_ma_alvsr_b_cds_bkslh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_ma_alvsr_b_cds_bksrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_ma_alvsr_b_cds_clatcgelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_clatcgerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_clmdfrlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_clmdfrrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_culh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_ma_alvsr_b_cds_curh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_ma_alvsr_b_cds_ehinallh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_ma_alvsr_b_cds_ehinalrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_ma_alvsr_b_cds_frpolelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_ma_alvsr_b_cds_frpolerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_ma_alvsr_b_cds_fflh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_ma_alvsr_b_cds_ffrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_ma_alvsr_b_cds_ifpalh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_ma_alvsr_b_cds_ifparh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_ma_alvsr_b_cds_iftplh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_iftprh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_insulalh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmri_ma_alvsr_b_cds_insularh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmri_ma_alvsr_b_cds_ihcgelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_ihcgerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_loclh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_ma_alvsr_b_cds_locrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_ma_alvsr_b_cds_lobofrlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_lobofrrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_lglh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_ma_alvsr_b_cds_lgrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_ma_alvsr_b_cds_mobofrlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_mobofrrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_mdtplh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_mdtprh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_pctlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_ma_alvsr_b_cds_pctrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_ma_alvsr_b_cds_phpallh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_ma_alvsr_b_cds_phpalrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_ma_alvsr_b_cds_ppclh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_ma_alvsr_b_cds_ppcrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_ma_alvsr_b_cds_pbalislh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_ma_alvsr_b_cds_pbalisrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_ma_alvsr_b_cds_prgislh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_ma_alvsr_b_cds_prgisrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_ma_alvsr_b_cds_pcelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_ma_alvsr_b_cds_pcerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_ma_alvsr_b_cds_postclh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_ma_alvsr_b_cds_postcrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_ma_alvsr_b_cds_pocgelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_pocgerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_preclh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_ma_alvsr_b_cds_precrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_ma_alvsr_b_cds_pulh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_ma_alvsr_b_cds_purh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_ma_alvsr_b_cds_roatcgelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_roatcgerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_b_cds_romdfrlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_romdfrrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_sufrlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_sufrrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_ma_alvsr_b_cds_supalh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_ma_alvsr_b_cds_suparh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_ma_alvsr_b_cds_sutplh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_sutprh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_smglh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_ma_alvsr_b_cds_smgrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_ma_alvsr_b_cds_tppolelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_ma_alvsr_b_cds_tppolerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_ma_alvsr_b_cds_tvtplh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_ma_alvsr_b_cds_tvtprh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_ma_alvsr_secdk_bstslh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_ma_alvsr_secdk_bstsrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_ma_alvsr_secdk_clancglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_clancgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_clmdftlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_secdk_clmdftrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_secdk_culh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_ma_alvsr_secdk_curh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_ma_alvsr_secdk_ehinallh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_ma_alvsr_secdk_ehinalrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_ma_alvsr_secdk_ftpolelh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_ma_alvsr_secdk_ftpolerh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_ma_alvsr_secdk_fflh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_ma_alvsr_secdk_ffrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_ma_alvsr_secdk_ifpalh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_ma_alvsr_secdk_ifparh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_ma_alvsr_secdk_iftllh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_ma_alvsr_secdk_iftlrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_ma_alvsr_secdk_inalh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmri_ma_alvsr_secdk_inarh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmri_ma_alvsr_secdk_ihcglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_ma_alvsr_secdk_ihcgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_ma_alvsr_secdk_laocclh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_ma_alvsr_secdk_laoccrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_ma_alvsr_secdk_laoftlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_ma_alvsr_secdk_laoftrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_ma_alvsr_secdk_lglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_ma_alvsr_secdk_lgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_ma_alvsr_secdk_moftlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_ma_alvsr_secdk_moftrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_ma_alvsr_secdk_mdtllh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_ma_alvsr_secdk_mdtlrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_ma_alvsr_secdk_pactlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_ma_alvsr_secdk_pactrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_ma_alvsr_secdk_pahpallh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_ma_alvsr_secdk_pahpalrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_ma_alvsr_secdk_psopclh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_ma_alvsr_secdk_psopcrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_ma_alvsr_secdk_psoblh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_ma_alvsr_secdk_psobrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_ma_alvsr_secdk_pstglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_ma_alvsr_secdk_pstgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_ma_alvsr_secdk_pclh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_ma_alvsr_secdk_pcrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_ma_alvsr_secdk_postctlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_ma_alvsr_secdk_postctrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_ma_alvsr_secdk_prcglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_prcgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_prectlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_ma_alvsr_secdk_prectrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_ma_alvsr_secdk_pculh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_ma_alvsr_secdk_pcurh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_ma_alvsr_secdk_rancglh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_rancgrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_ma_alvsr_secdk_rmdftlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_secdk_rmdftrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_ma_alvsr_secdk_suftlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_ma_alvsr_secdk_suftrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_ma_alvsr_secdk_supalh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_ma_alvsr_secdk_suparh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_ma_alvsr_secdk_sutllh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_ma_alvsr_secdk_sutlrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_ma_alvsr_secdk_smlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_ma_alvsr_secdk_smrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_ma_alvsr_secdk_tlpolelh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_ma_alvsr_secdk_tlpolerh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_ma_alvsr_secdk_tvtllh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_ma_alvsr_secdk_tvtlrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_bstslh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_mr1_alvsr_bcdk_bstsrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_mr1_alvsr_bcdk_cdatcglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_cdatcgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_cdmdftlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_cdmdftrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_culh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_mr1_alvsr_bcdk_curh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_mr1_alvsr_bcdk_ehinallh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_mr1_alvsr_bcdk_ehinalrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_mr1_alvsr_bcdk_ftpolelh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_mr1_alvsr_bcdk_ftpolerh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_mr1_alvsr_bcdk_fflh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_mr1_alvsr_bcdk_ffrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_mr1_alvsr_bcdk_ifpalh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_mr1_alvsr_bcdk_ifparh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_mr1_alvsr_bcdk_iftplh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_iftprh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_ilalh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmri_mr1_alvsr_bcdk_ilarh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmri_mr1_alvsr_bcdk_ihcglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_ihcgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_laocclh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_mr1_alvsr_bcdk_laoccrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_mr1_alvsr_bcdk_laobftlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_laobftrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_lglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_mr1_alvsr_bcdk_lgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_mr1_alvsr_bcdk_mobftlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_mobftrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_mdtplh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_mdtprh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_pacnlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_pacnrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_pahpallh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_mr1_alvsr_bcdk_pahpalrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_mr1_alvsr_bcdk_psoprcslh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_mr1_alvsr_bcdk_psoprcsrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_mr1_alvsr_bcdk_psoblh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_mr1_alvsr_bcdk_psobrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_mr1_alvsr_bcdk_pstglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_mr1_alvsr_bcdk_pstgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_mr1_alvsr_bcdk_pclh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_mr1_alvsr_bcdk_pcrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_mr1_alvsr_bcdk_postcnlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_postcnrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_pstcglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_pstcgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_precnlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_precnrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_mr1_alvsr_bcdk_pculh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_mr1_alvsr_bcdk_pcurh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_mr1_alvsr_bcdk_ratcglh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_ratcgrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_mr1_alvsr_bcdk_rmdftlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_rmdftrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_suftlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_suftrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_mr1_alvsr_bcdk_supalh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_mr1_alvsr_bcdk_suparh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_mr1_alvsr_bcdk_sutplh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_sutprh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_smlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_mr1_alvsr_bcdk_smrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_mr1_alvsr_bcdk_tppolelh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_mr1_alvsr_bcdk_tppolerh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_mr1_alvsr_bcdk_tvtplh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_mr1_alvsr_bcdk_tvtprh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_bstslh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_mr1_alrvsr_scdk_bstsrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_mr1_alrvsr_scdk_cdtgelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_cdtgerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_cdmdftlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_cdmdftrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_culh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_mr1_alrvsr_scdk_curh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_mr1_alrvsr_scdk_ehinallh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_mr1_alrvsr_scdk_ehinalrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_mr1_alrvsr_scdk_ftpolelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_mr1_alrvsr_scdk_ftpolerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_mr1_alrvsr_scdk_fflh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_mr1_alrvsr_scdk_ffrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_mr1_alrvsr_scdk_ifpalh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_mr1_alrvsr_scdk_ifparh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_mr1_alrvsr_scdk_iftplh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_iftprh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_islh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmri_mr1_alrvsr_scdk_isrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmri_mr1_alrvsr_scdk_ihcgelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_ihcgerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_laocclh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_mr1_alrvsr_scdk_laoccrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_mr1_alrvsr_scdk_laobftlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_laobftrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_lglh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_mr1_alrvsr_scdk_lgrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_mr1_alrvsr_scdk_mobftlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_mobftrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_mdtplh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_mdtprh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_pacnlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_pacnrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_pahpallh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_mr1_alrvsr_scdk_pahpalrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_mr1_alrvsr_scdk_prspclh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_mr1_alrvsr_scdk_prspcrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_mr1_alrvsr_scdk_prsblh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_mr1_alrvsr_scdk_prsbrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_mr1_alrvsr_scdk_parstglh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_mr1_alrvsr_scdk_parstgrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_mr1_alrvsr_scdk_pcllh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_mr1_alrvsr_scdk_pclrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_mr1_alrvsr_scdk_postcnlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_postcnrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_pstcgelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_pstcgerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_precnlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_precnrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_mr1_alrvsr_scdk_prculh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_mr1_alrvsr_scdk_prcurh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_mr1_alrvsr_scdk_ratcgelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_ratcgerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_mr1_alrvsr_scdk_rmdftlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_rmdftrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_suftlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_suftrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_mr1_alrvsr_scdk_supalh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_mr1_alrvsr_scdk_suparh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_mr1_alrvsr_scdk_sutplh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_sutprh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_smlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_mr1_alrvsr_scdk_smrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_mr1_alrvsr_scdk_tppolelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_mr1_alrvsr_scdk_tppolerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_mr1_alrvsr_scdk_tvtplh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_mr1_alrvsr_scdk_tvtprh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_bktslh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_mr2_alvsr_bcdk_bktsrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_mr2_alvsr_bcdk_clancglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_clancgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_clmdflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_clmdfrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_eculh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_mr2_alvsr_bcdk_ecurh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_mr2_alvsr_bcdk_ehinallh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_mr2_alvsr_bcdk_ehinalrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_mr2_alvsr_bcdk_fpolelh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_mr2_alvsr_bcdk_fpolerh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_mr2_alvsr_bcdk_fflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_mr2_alvsr_bcdk_ffrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_mr2_alvsr_bcdk_ifpalh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_mr2_alvsr_bcdk_ifparh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_mr2_alvsr_bcdk_iftplh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_iftprh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_inalh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmri_mr2_alvsr_bcdk_inarh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmri_mr2_alvsr_bcdk_ihcglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_ihcgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_locclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_mr2_alvsr_bcdk_loccrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_mr2_alvsr_bcdk_loroflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_lorofrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_lglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_mr2_alvsr_bcdk_lgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_mr2_alvsr_bcdk_moroflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_morofrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_mdtplh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_mdtprh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_paraclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_paracrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_phpallh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_mr2_alvsr_bcdk_phpalrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_mr2_alvsr_bcdk_poprclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_mr2_alvsr_bcdk_poprcrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_mr2_alvsr_bcdk_poblh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_mr2_alvsr_bcdk_pobrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_mr2_alvsr_bcdk_parstrglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_mr2_alvsr_bcdk_parstrgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_mr2_alvsr_bcdk_pcnlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_mr2_alvsr_bcdk_pcnrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_mr2_alvsr_bcdk_postclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_postcrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_pocglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_pocgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_preclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_precrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_mr2_alvsr_bcdk_pclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_mr2_alvsr_bcdk_pcrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_mr2_alvsr_bcdk_rancglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_rancgrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_mr2_alvsr_bcdk_rmdflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_rmdfrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_suflh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_sufrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_mr2_alvsr_bcdk_spalh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_mr2_alvsr_bcdk_sparh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_mr2_alvsr_bcdk_sutplh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_sutprh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_smlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_mr2_alvsr_bcdk_smrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_mr2_alvsr_bcdk_tppolelh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_mr2_alvsr_bcdk_tppolerh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_mr2_alvsr_bcdk_trvtplh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_mr2_alvsr_bcdk_trvtprh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmrimr2_709": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-bankssts"
+    },
+    "tfmrimr2_743": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-bankssts"
+    },
+    "tfmrimr2_710": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmrimr2_744": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmrimr2_711": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmrimr2_745": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmrimr2_712": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-cuneus"
+    },
+    "tfmrimr2_746": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-cuneus"
+    },
+    "tfmrimr2_713": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmrimr2_747": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmrimr2_739": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmrimr2_773": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmrimr2_714": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-fusiform"
+    },
+    "tfmrimr2_748": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-fusiform"
+    },
+    "tfmrimr2_715": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmrimr2_749": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmrimr2_716": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmrimr2_750": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmrimr2_742": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-insula"
+    },
+    "tfmrimr2_776": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-insula"
+    },
+    "tfmrimr2_717": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmrimr2_751": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmrimr2_718": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmrimr2_752": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmrimr2_719": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmrimr2_753": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmrimr2_720": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-lingual"
+    },
+    "tfmrimr2_754": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-lingual"
+    },
+    "tfmrimr2_721": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmrimr2_755": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmrimr2_722": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmrimr2_756": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmrimr2_724": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-paracentral"
+    },
+    "tfmrimr2_758": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-paracentral"
+    },
+    "tfmrimr2_723": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmrimr2_757": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmrimr2_725": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmrimr2_759": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmrimr2_726": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmrimr2_760": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmrimr2_727": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmrimr2_761": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmrimr2_728": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmrimr2_762": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmrimr2_729": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-postcentral"
+    },
+    "tfmrimr2_763": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-postcentral"
+    },
+    "tfmrimr2_730": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmrimr2_764": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmrimr2_731": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-precentral"
+    },
+    "tfmrimr2_765": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-precentral"
+    },
+    "tfmrimr2_732": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-precuneus"
+    },
+    "tfmrimr2_766": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-precuneus"
+    },
+    "tfmrimr2_733": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmrimr2_767": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmrimr2_734": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmrimr2_768": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmrimr2_735": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmrimr2_769": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmrimr2_736": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmrimr2_770": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmrimr2_737": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmrimr2_771": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmrimr2_738": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmrimr2_772": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmrimr2_740": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmrimr2_774": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmrimr2_741": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmrimr2_775": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in APARC ROI rh-transversetemporal"
+    }
+}

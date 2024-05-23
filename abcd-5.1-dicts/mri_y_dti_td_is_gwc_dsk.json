@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtitdgwc_cdsn_bslh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-banks of superior temporal sulcus"
+    },
+    "dmri_dtitdgwc_cdsn_bsrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-banks of superior temporal sulcus"
+    },
+    "dmri_dtitdgwc_cdsn_cdacatelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-caudal anterior cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_cdacaterh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-caudal anterior cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_cdmflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-caudal middle frontal"
+    },
+    "dmri_dtitdgwc_cdsn_cdmfrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-caudal middle frontal"
+    },
+    "dmri_dtitdgwc_cdsn_cuneuslh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-cuneus"
+    },
+    "dmri_dtitdgwc_cdsn_cuneusrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-cuneus"
+    },
+    "dmri_dtitdgwc_cdsn_ehinallh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-entorhinal"
+    },
+    "dmri_dtitdgwc_cdsn_ehinalrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-entorhinal"
+    },
+    "dmri_dtitdgwc_cdsn_fpolelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-frontal pole"
+    },
+    "dmri_dtitdgwc_cdsn_fpolerh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-frontal pole"
+    },
+    "dmri_dtitdgwc_cdsn_fflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-fusiform"
+    },
+    "dmri_dtitdgwc_cdsn_ffrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-fusiform"
+    },
+    "dmri_dtitdgwc_cdsn_ifpalh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-inferior parietal"
+    },
+    "dmri_dtitdgwc_cdsn_ifparh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-inferior parietal"
+    },
+    "dmri_dtitdgwc_cdsn_iftmlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-inferior temporal"
+    },
+    "dmri_dtitdgwc_cdsn_iftmrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-inferior temporal"
+    },
+    "dmri_dtitdgwc_cdsn_insulalh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-insula"
+    },
+    "dmri_dtitdgwc_cdsn_insularh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-insula"
+    },
+    "dmri_dtitdgwc_cdsn_ihcatelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-isthmus cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_ihcaterh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-isthmus cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_loclh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-lateral occipital"
+    },
+    "dmri_dtitdgwc_cdsn_locrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-lateral occipital"
+    },
+    "dmri_dtitdgwc_cdsn_loboflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-lateral orbital frontal"
+    },
+    "dmri_dtitdgwc_cdsn_lobofrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-lateral orbital frontal"
+    },
+    "dmri_dtitdgwc_cdsn_llh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-lingual"
+    },
+    "dmri_dtitdgwc_cdsn_lrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-lingual"
+    },
+    "dmri_dtitdgwc_cortdesikan_mean": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI whole brain"
+    },
+    "dmri_dtitdgwc_cdsn_meanlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-hemisphere"
+    },
+    "dmri_dtitdgwc_cdsn_meanrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-hemisphere"
+    },
+    "dmri_dtitdgwc_cdsn_mdoboflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-medial orbito frontal"
+    },
+    "dmri_dtitdgwc_cdsn_mdobofrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-medial orbito frontal"
+    },
+    "dmri_dtitdgwc_cdsn_mtmlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-middle temporal"
+    },
+    "dmri_dtitdgwc_cdsn_mtmrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-middle temporal"
+    },
+    "dmri_dtitdgwc_cdsn_pcllh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-paracentral"
+    },
+    "dmri_dtitdgwc_cdsn_pclrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-paracentral"
+    },
+    "dmri_dtitdgwc_cdsn_phpallh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-parahippocampal"
+    },
+    "dmri_dtitdgwc_cdsn_phpalrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-parahippocampal"
+    },
+    "dmri_dtitdgwc_cdsn_pprslh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-pars opercularis"
+    },
+    "dmri_dtitdgwc_cdsn_pprsrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-pars opercularis"
+    },
+    "dmri_dtitdgwc_cdsn_pbalislh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-pars orbitalis"
+    },
+    "dmri_dtitdgwc_cdsn_pbalisrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-pars orbitalis"
+    },
+    "dmri_dtitdgwc_cdsn_ptislh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-pars triangularis"
+    },
+    "dmri_dtitdgwc_cdsn_ptisrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-pars triangularis"
+    },
+    "dmri_dtitdgwc_cdsn_periccelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-pericalcarine"
+    },
+    "dmri_dtitdgwc_cdsn_periccerh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-pericalcarine"
+    },
+    "dmri_dtitdgwc_cdsn_postcllh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-post central"
+    },
+    "dmri_dtitdgwc_cdsn_postclrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-post central"
+    },
+    "dmri_dtitdgwc_cdsn_pscatelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-post cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_pscaterh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-post cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_precllh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-precentral"
+    },
+    "dmri_dtitdgwc_cdsn_preclrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-precentral"
+    },
+    "dmri_dtitdgwc_cdsn_pnlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-precuneus"
+    },
+    "dmri_dtitdgwc_cdsn_pnrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-precuneus"
+    },
+    "dmri_dtitdgwc_cdsn_rlacatelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-rostral anterior cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_rlacaterh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-rostral anterior cingulate"
+    },
+    "dmri_dtitdgwc_cdsn_rlmflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-rostral middle frontal"
+    },
+    "dmri_dtitdgwc_cdsn_rlmfrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-rostral middle frontal"
+    },
+    "dmri_dtitdgwc_cdsn_srflh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI  left-superior frontal"
+    },
+    "dmri_dtitdgwc_cdsn_srfrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-superior frontal"
+    },
+    "dmri_dtitdgwc_cdsn_srpalh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-superior parietal"
+    },
+    "dmri_dtitdgwc_cdsn_srparh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-superior parietal"
+    },
+    "dmri_dtitdgwc_cdsn_srtmlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-superior temporal"
+    },
+    "dmri_dtitdgwc_cdsn_srtmrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-superior temporal"
+    },
+    "dmri_dtitdgwc_cdsn_umllh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-superior marginal"
+    },
+    "dmri_dtitdgwc_cdsn_umlrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-superior marginal"
+    },
+    "dmri_dtitdgwc_cdsn_tmpolelh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-temporal pole"
+    },
+    "dmri_dtitdgwc_cdsn_tmpolerh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-temporal pole"
+    },
+    "dmri_dtitdgwc_cdsn_trvtmlh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI left-transverse temporal"
+    },
+    "dmri_dtitdgwc_cdsn_trvtmrh": {
+        "Description": "Average transverse diffusivity, parcellation of gray matter-white matter contrast associated with cortical ROI right-transverse temporal"
+    }
+}

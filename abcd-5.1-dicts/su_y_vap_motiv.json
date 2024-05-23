@@ -1,0 +1,104 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_vape_motiv_01": {
+        "Description": "It is less harmful to my health than smoking | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_02": {
+        "Description": "It is less harmful to others' health than smoking | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_03": {
+        "Description": "It comes in flavors I like | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_04": {
+        "Description": "I can use it at times when or in places where smoking isn't allowed | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_05": {
+        "Description": "It is low-cost | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_06": {
+        "Description": "It doesn't smell | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_07": {
+        "Description": "It looks cool | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_08": {
+        "Description": "It's easier to hide | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_vape_motiv_09": {
+        "Description": "I get a stronger buzz or high | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_vape] = '1' and ([event-name] = '2_year_follow_up_y_arm_1' or [event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

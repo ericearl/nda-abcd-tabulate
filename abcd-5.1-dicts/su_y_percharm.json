@@ -1,0 +1,174 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "phs_1_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try one or two drinks of an alcoholic beverage (beer, wine, liquor)? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_alc_l  =='1'  ||  tlfb_alc_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_2_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they take one or two drinks nearly every day? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_alc_l  =='1'  ||  tlfb_alc_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_3_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they have five or more drinks of an alcoholic beverage, once or twice each weekend? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_alc_l  =='1'  ||  tlfb_alc_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_4_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try one or two cigarettes? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_5_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they smoke cigarettes occasionally? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_6_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they smoking one or more packs of cigarettes per day? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_7_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they use e-cigarettes regularly? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_8_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they use smokeless tobacco regularly? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_9_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try marijuana once or twice? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_10_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they use marijuana occasionally? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_11_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they use marijuana regularly? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_12_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try liquid, sprays, and gases that people sniff or inhale to get high (such as gasoline, glue, and nitrous oxide) once or twice? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_inhalant_l   =='1' ||   tlfb_inhalant_c_l   =='1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_13_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try prescription pain relievers (such as Vicodin, hydrocodone, and Oxycontin; not over the counter drugs like Tylenol) in a way that a doctor did not direct them to use it once or twice? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_14_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try prescription use of tranquilizers to relax people (such as Xanax or Ativan) in a way a doctor did not direct them to use it once or twice? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_15_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try prescription stimulants (such as Adderall or Ritalin) in a way a doctor did not direct them to use it once or twice? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "phs_16_y": {
+        "Description": "How much do you think people risk harming themselves (physically or in other ways) if they try other drugs like cocaine, heroin, or methamphetamine? | 0 = No Risk; 1 = Slight Risk; 2 = Moderate Risk; 3 = Great Risk; 999 = Don't Know / tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___2   == '1' ||  tlfb_list_l___3   == '1' ||   tlfb_list_l___4   == '1' ||  tlfb_list_l___5   == '1' ||  tlfb_list_l___6   == '1' ||  tlfb_list_l___7   == '1' ||  tlfb_list_l___8   == '1' ||   tlfb_list_l___9   == '1' ||  tlfb_list_l___10   == '1' ||  tlfb_list_l___11   == '1' ||  tlfb_list_l___12   == '1'",
+        "Levels": {
+            "0": "No Risk",
+            "1": "Slight Risk",
+            "2": "Moderate Risk",
+            "3": "Great Risk",
+            "999": "Don't Know"
+        }
+    },
+    "sua_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

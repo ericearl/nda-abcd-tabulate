@@ -1,0 +1,156 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_general_gb_dates": {
+        "Description": "Dates of policy changes in General Gathering Bans due to COVID"
+    },
+    "reshist_addr1_general_gb_order_codes": {
+        "Description": "General Gathering Ban Order codes | 1 - No order found, 2 - Ban of gatherings over 101 or more people, 3 - Ban of gatherings over 51-100 people, 4 - Ban of gatherings over 26-50 people, 5 - Ban of gatherings over 11-25 people, 6 - Ban of gatherings over 1-10 people, 7 - Bans gatherings of any size"
+    },
+    "reshist_addr1_stay_home_dates": {
+        "Description": "Dates of policy changes in Stay At Home Orders due to COVID"
+    },
+    "reshist_addr1_stay_home_order_codes": {
+        "Description": "Stay At Home Order codes | 1 - Mandatory for all individuals, 2 - Mandatory only for all individuals in certain areas of the jurisdiction, 3 - Mandatory only for at-risk individuals in the jurisdiction, 5 - Mandatory only for at-risk individuals in certain areas of the jurisdiction, 6 - Advisory/Recommendation, 7 - No order for individuals to stay home,"
+    },
+    "reshist_addr1_public_mask_dates": {
+        "Description": "Dates of policy changes in Public Masking Orders due to COVID"
+    },
+    "reshist_addr1_public_mask_order_codes": {
+        "Description": "Public Masking Order codes | 1 - Yes, 2 - No/NA"
+    },
+    "reshist_addr1_bar_order_dates": {
+        "Description": "Dates of policy changes for Bars due to COVID"
+    },
+    "reshist_addr1_bar_order_codes": {
+        "Description": "Bar Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr1_restaurant_order_dates": {
+        "Description": "Dates of policy changes for Restaurants due to COVID"
+    },
+    "reshist_addr1_restaurant_order_codes": {
+        "Description": "Restaurant Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr2_general_gb_dates": {
+        "Description": "Dates of policy changes in General Gathering Bans due to COVID"
+    },
+    "reshist_addr2_general_gb_order_codes": {
+        "Description": "General Gathering Ban Order codes | 1 - No order found, 2 - Ban of gatherings over 101 or more people, 3 - Ban of gatherings over 51-100 people, 4 - Ban of gatherings over 26-50 people, 5 - Ban of gatherings over 11-25 people, 6 - Ban of gatherings over 1-10 people, 7 - Bans gatherings of any size"
+    },
+    "reshist_addr2_stay_home_dates": {
+        "Description": "Dates of policy changes in Stay At Home Orders due to COVID"
+    },
+    "reshist_addr2_stay_home_order_codes": {
+        "Description": "Stay At Home Order codes | 1 - Mandatory for all individuals, 2 - Mandatory only for all individuals in certain areas of the jurisdiction, 3 - Mandatory only for at-risk individuals in the jurisdiction, 5 - Mandatory only for at-risk individuals in certain areas of the jurisdiction, 6 - Advisory/Recommendation, 7 - No order for individuals to stay home,"
+    },
+    "reshist_addr2_public_mask_dates": {
+        "Description": "Dates of policy changes in Public Masking Orders due to COVID"
+    },
+    "reshist_addr2_public_mask_order_codes": {
+        "Description": "Public Masking Order codes | 1 - Yes, 2 - No/NA"
+    },
+    "reshist_addr2_bar_order_dates": {
+        "Description": "Dates of policy changes for Bars due to COVID"
+    },
+    "reshist_addr2_bar_order_codes": {
+        "Description": "Bar Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr2_restaurant_order_dates": {
+        "Description": "Dates of policy changes for Restaurants due to COVID"
+    },
+    "reshist_addr2_restaurant_order_codes": {
+        "Description": "Restaurant Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr3_general_gb_dates": {
+        "Description": "Dates of policy changes in General Gathering Bans due to COVID"
+    },
+    "reshist_addr3_general_gb_order_codes": {
+        "Description": "General Gathering Ban Order codes | 1 - No order found, 2 - Ban of gatherings over 101 or more people, 3 - Ban of gatherings over 51-100 people, 4 - Ban of gatherings over 26-50 people, 5 - Ban of gatherings over 11-25 people, 6 - Ban of gatherings over 1-10 people, 7 - Bans gatherings of any size"
+    },
+    "reshist_addr3_stay_home_dates": {
+        "Description": "Dates of policy changes in Stay At Home Orders due to COVID"
+    },
+    "reshist_addr3_stay_home_order_codes": {
+        "Description": "Stay At Home Order codes | 1 - Mandatory for all individuals, 2 - Mandatory only for all individuals in certain areas of the jurisdiction, 3 - Mandatory only for at-risk individuals in the jurisdiction, 5 - Mandatory only for at-risk individuals in certain areas of the jurisdiction, 6 - Advisory/Recommendation, 7 - No order for individuals to stay home,"
+    },
+    "reshist_addr3_public_mask_dates": {
+        "Description": "Dates of policy changes in Public Masking Orders due to COVID"
+    },
+    "reshist_addr3_public_mask_order_codes": {
+        "Description": "Public Masking Order codes | 1 - Yes, 2 - No/NA"
+    },
+    "reshist_addr3_bar_order_dates": {
+        "Description": "Dates of policy changes for Bars due to COVID"
+    },
+    "reshist_addr3_bar_order_codes": {
+        "Description": "Bar Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr3_restaurant_order_dates": {
+        "Description": "Dates of policy changes for Restaurants due to COVID"
+    },
+    "reshist_addr3_restaurant_order_codes": {
+        "Description": "Restaurant Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr4_general_gb_dates": {
+        "Description": "Dates of policy changes in General Gathering Bans due to COVID"
+    },
+    "reshist_addr4_general_gb_order_codes": {
+        "Description": "General Gathering Ban Order codes | 1 - No order found, 2 - Ban of gatherings over 101 or more people, 3 - Ban of gatherings over 51-100 people, 4 - Ban of gatherings over 26-50 people, 5 - Ban of gatherings over 11-25 people, 6 - Ban of gatherings over 1-10 people, 7 - Bans gatherings of any size"
+    },
+    "reshist_addr4_stay_home_dates": {
+        "Description": "Dates of policy changes in Stay At Home Orders due to COVID"
+    },
+    "reshist_addr4_stay_home_order_codes": {
+        "Description": "Stay At Home Order codes | 1 - Mandatory for all individuals, 2 - Mandatory only for all individuals in certain areas of the jurisdiction, 3 - Mandatory only for at-risk individuals in the jurisdiction, 5 - Mandatory only for at-risk individuals in certain areas of the jurisdiction, 6 - Advisory/Recommendation, 7 - No order for individuals to stay home,"
+    },
+    "reshist_addr4_public_mask_dates": {
+        "Description": "Dates of policy changes in Public Masking Orders due to COVID"
+    },
+    "reshist_addr4_public_mask_order_codes": {
+        "Description": "Public Masking Order codes | 1 - Yes, 2 - No/NA"
+    },
+    "reshist_addr4_bar_order_dates": {
+        "Description": "Dates of policy changes for Bars due to COVID"
+    },
+    "reshist_addr4_bar_order_codes": {
+        "Description": "Bar Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr4_restaurant_order_dates": {
+        "Description": "Dates of policy changes for Restaurants due to COVID"
+    },
+    "reshist_addr4_restaurant_order_codes": {
+        "Description": "Restaurant Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr5_general_gb_dates": {
+        "Description": "Dates of policy changes in General Gathering Bans due to COVID"
+    },
+    "reshist_addr5_general_gb_order_codes": {
+        "Description": "General Gathering Ban Order codes | 1 - No order found, 2 - Ban of gatherings over 101 or more people, 3 - Ban of gatherings over 51-100 people, 4 - Ban of gatherings over 26-50 people, 5 - Ban of gatherings over 11-25 people, 6 - Ban of gatherings over 1-10 people, 7 - Bans gatherings of any size"
+    },
+    "reshist_addr5_stay_home_dates": {
+        "Description": "Dates of policy changes in Stay At Home Orders due to COVID"
+    },
+    "reshist_addr5_stay_home_order_codes": {
+        "Description": "Stay At Home Order codes | 1 - Mandatory for all individuals, 2 - Mandatory only for all individuals in certain areas of the jurisdiction, 3 - Mandatory only for at-risk individuals in the jurisdiction, 5 - Mandatory only for at-risk individuals in certain areas of the jurisdiction, 6 - Advisory/Recommendation, 7 - No order for individuals to stay home,"
+    },
+    "reshist_addr5_public_mask_dates": {
+        "Description": "Dates of policy changes in Public Masking Orders due to COVID"
+    },
+    "reshist_addr5_public_mask_order_codes": {
+        "Description": "Public Masking Order codes | 1 - Yes, 2 - No/NA"
+    },
+    "reshist_addr5_bar_order_dates": {
+        "Description": "Dates of policy changes for Bars due to COVID"
+    },
+    "reshist_addr5_bar_order_codes": {
+        "Description": "Bar Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    },
+    "reshist_addr5_restaurant_order_dates": {
+        "Description": "Dates of policy changes for Restaurants due to COVID"
+    },
+    "reshist_addr5_restaurant_order_codes": {
+        "Description": "Restaurant Order codes | 1 - NA, 2 - Authorized to fully reopen, 3 - Open with social distancing/reduced seating/enhanced sanitation, 4 - Open with social distancing/reduced seating/enhanced sanitation, 5 - Curbside/carryout/delivery only, 6 - Closed"
+    }
+}

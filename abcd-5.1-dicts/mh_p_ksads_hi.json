@@ -1,0 +1,57 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ksads_homicidal_raw_835_p": {
+        "Description": "In the past two weeks, how often did your child think seriously about wanting to kill someone? | 0=Not at all; 1=Rarely; 2=Several days; 3=More than half the days; 4=Nearly every day",
+        "Levels": {
+            "0": "Not at all",
+            "1": "Rarely",
+            "2": "Several days",
+            "3": "More than half the days",
+            "4": "Nearly every day"
+        }
+    },
+    "ksads_homicidal_raw_836_p": {
+        "Description": "Was there ever a time that your child thought seriously about wanting to kill someone? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_homicidal_raw_837_p": {
+        "Description": "Was there ever another time that your child thought seriously about wanting to kill someone? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_homicidal_raw_838_p": {
+        "Description": "In the past two weeks, did your child actually make any preparations to kill someone, like buy a gun or explosives? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_homicidal_raw_839_p": {
+        "Description": "Was there ever a time that your child made plans to kill someone or go on a killing spree? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_homicidal_raw_840_p": {
+        "Description": "Was there ever another time that your child made plans to kill someone or go on a killing spree? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_homicidal_raw_841_p": {
+        "Description": "You said that in the past your child thought seriously about wanting to kill someone. When was that? If this was true of your child more than once, let me know when it was the most serious."
+    },
+    "ksads_homicidal_raw_842_p": {
+        "Description": "You said that in the past your child made plans to kill someone or go on a killing spree. When was that? If this was true of your child more than once, let me know when it was the most serious."
+    }
+}

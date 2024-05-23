@@ -1,0 +1,61 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_cfire_1": {
+        "Description": "Have you ever carried a gun other than for hunting or for a sport such as target shooting? | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "socialdev_cfire_2": {
+        "Description": "How old were you the first time you carried a gun other than for hunting or for a sport such as target shooting?"
+    },
+    "socialdev_cfire_3": {
+        "Description": "During the past 12 months=on how many days did you carry a gun? (Do not count the days when you carried a gun only for hunting or for sport=such as target shooting.) | 1=1 day; 2=2 or 3 days; 3=4 or 5 days; 4=6 days or more",
+        "Levels": {
+            "1": "1 day",
+            "2": "2 or 3 days",
+            "3": "4 or 5 days",
+            "4": "6 days or more"
+        }
+    },
+    "socialdev_cfire_4": {
+        "Description": "If you wanted to get a gun=how easy would it be for you to get one? | 1=Very hard; 2=Sort of hard; 3=Sort of easy; 4=Very easy; 98=I don't know",
+        "Levels": {
+            "1": "Very hard",
+            "2": "Sort of hard",
+            "3": "Sort of easy",
+            "4": "Very easy",
+            "98": "I don't know"
+        }
+    },
+    "socialdev_cfire_1_l": {
+        "Description": "Since your last SD visit, have you carried a gun other than for hunting or for a sport such as target shooting? | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "socialdev_cfire_3_l": {
+        "Description": "Since your last SD visit, on how many days did you carry a gun? (Do not count the days when you carried a gun only for hunting or for sport, such as target shooting.) | 1=1 day ; 2=2 or 3 days ; 3=4 or 5 days ; 4=6 days or more [socialdev_cfire_1_l]='1'",
+        "Levels": {
+            "1": "1 day",
+            "2": "2 or 3 days",
+            "3": "4 or 5 days",
+            "4": "6 days or more"
+        }
+    },
+    "socialdev_cfire_4_l": {
+        "Description": "If you wanted to get a gun, how easy would it be for you to get one? | 1=Very hard ; 2=Sort of hard ; 3=Sort of easy ; 4=Very easy ; 98=I don't know",
+        "Levels": {
+            "1": "Very hard",
+            "2": "Sort of hard",
+            "3": "Sort of easy",
+            "4": "Very easy",
+            "98": "I don't know"
+        }
+    }
+}

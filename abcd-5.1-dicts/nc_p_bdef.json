@@ -1,0 +1,158 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bdefs_p_select_language___1": {
+        "Description": "Espa\u00f1ol? | 1= Si"
+    },
+    "bdefs_start_time": {
+        "Description": "Start time"
+    },
+    "bdefs_calm_down_p": {
+        "Description": "Has trouble calming themselves down once they are emotionally upset | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_consequences_p": {
+        "Description": "Likely to do things without considering the consequences for doing them | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_distract_upset_p": {
+        "Description": "Cannot seem to distract themselves away from whatever is upsetting them emotionally to help calm down Can't refocus their mind to a more positive framework. | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_explain_idea_p": {
+        "Description": "Has trouble explaining their ideas as well or as quickly as others | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_explain_pt_p": {
+        "Description": "Can't seem to get to the point of their explanations | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_explain_seq_p": {
+        "Description": "Has difficulty explaining things in their proper order or sequence | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_impulsive_action_p": {
+        "Description": "Acts without thinking things over | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_inconsistant_p": {
+        "Description": "Inconsistent in the quality or quantity of their work performance | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_lazy_p": {
+        "Description": "Seems lazy or unmotivated | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_process_info_p": {
+        "Description": "Doesn't seem to process information quickly or accurately | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_rechannel_p": {
+        "Description": "Not able to re-channel or redirect their emotions into more positive ways or outlets when they get upset | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_sense_time_p": {
+        "Description": "Has a poor sense of time | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_shortcuts_p": {
+        "Description": "Takes short cuts in their chores, school work, or other assignments and not do all that they are supposed to do | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_stop_think_p": {
+        "Description": "Doesn't stop and talk things over with themselves before deciding to do something | 1= Never or Rarely ; 2= Sometimes ; 3= Often ; 4= Very Often ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "Never or Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "bdefs_ss_sum": {
+        "Description": "Executive function summary score: Sum of all items; maximally 1 item missing / refused to answer"
+    },
+    "bdefs_ss_sympt": {
+        "Description": "Executive function symptom count: Sum of all items with value >= 3; maximally 1 item missing / refused to answer"
+    }
+}

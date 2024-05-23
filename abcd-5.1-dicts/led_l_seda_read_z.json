@@ -1,0 +1,321 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_zs_cellcount_r_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_cellcount_r_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_cellcount_r_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_cellcount_r_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_cellcount_r_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_cellcount_r_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_cellcount_r_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_asmts_r_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_asmts_r_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_asmts_r_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_asmts_r_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_asmts_r_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_asmts_r_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_asmts_r_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_avg_r_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_avg_r_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_coh_r_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_coh_r_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_grd_r_eb_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mn_grd_r_ol_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mnavg_r_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mnavg_r_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mnavg_r_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mnavg_r_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mnavg_r_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mnavg_r_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mnavg_r_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mnavg_r_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mnavg_r_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mnavg_r_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mnavg_r_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mnavg_r_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mnavg_r_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mnavg_r_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mncoh_r_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mncoh_r_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mncoh_r_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mncoh_r_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mncoh_r_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mncoh_r_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mncoh_r_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mncoh_r_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mncoh_r_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mncoh_r_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mncoh_r_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mncoh_r_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mncoh_r_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mncoh_r_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mngrd_r_ebseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mngrd_r_ebseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mngrd_r_ebsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mngrd_r_ebsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mngrd_r_ebsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mngrd_r_ebsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mngrd_r_ebseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_mngrd_r_olseall": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_mngrd_r_olseecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_mngrd_r_olsefem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_mngrd_r_olsemal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_mngrd_r_olsemfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_mngrd_r_olsenec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_mngrd_r_olseneg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Commuting Zone SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_zs_tot_asmts_r_all": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_zs_tot_asmts_r_ecd": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_zs_tot_asmts_r_fem": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_zs_tot_asmts_r_mal": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_zs_tot_asmts_r_mfg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_zs_tot_asmts_r_nec": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_zs_tot_asmts_r_neg": {
+        "Description": "CZ Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

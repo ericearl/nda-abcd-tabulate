@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_ma_alvcr_b_scs_3rdvl": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_ma_alvcr_b_scs_4thvl": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_ma_alvcr_b_scs_aalh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_ma_alvcr_b_scs_aarh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_ma_alvcr_b_scs_aylh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_ma_alvcr_b_scs_ayrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_ma_alvcr_b_scs_bs": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_ma_alvcr_b_scs_cdlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_ma_alvcr_b_scs_cdrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_ma_alvcr_b_scs_ccxlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_ma_alvcr_b_scs_ccxrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_ma_alvcr_b_scs_cwmlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_ma_alvcr_b_scs_cwmrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_ma_alvcr_b_scs_cbwmlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_ma_alvcr_b_scs_cbwmrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_ma_alvcr_b_scs_csf": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmri_ma_alvcr_b_scs_hpuslh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_ma_alvcr_b_scs_hpusrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_ma_alvcr_b_scs_ivlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_ma_alvcr_b_scs_ivrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_ma_alvcr_b_scs_lvticlelh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_ma_alvcr_b_scs_lvticlerh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_ma_alvcr_b_scs_pdlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_ma_alvcr_b_scs_pdrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_ma_alvcr_b_scs_ptlh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_ma_alvcr_b_scs_ptrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_ma_alvcr_b_scs_tplh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_ma_alvcr_b_scs_tprh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_ma_alvcr_b_scs_vndclh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_ma_alvcr_b_scs_vndcrh": {
+        "Description": "Beta weight for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_ma_alvsr_smscs_3rdvicle": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_ma_alvsr_smscs_4thvicle": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_ma_alvsr_smscs_aalh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_ma_alvsr_smscs_aarh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_ma_alvsr_smscs_aylh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_ma_alvsr_smscs_ayrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_ma_alvsr_smscs_bs": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_ma_alvsr_smscs_celh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_ma_alvsr_smscs_cerh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_ma_alvsr_smscs_crbcxlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_ma_alvsr_smscs_crbcxrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_ma_alvsr_smscs_crbwmlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_ma_alvsr_smscs_crbwmrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_ma_alvsr_smscs_cbwmlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_ma_alvsr_smscs_cbwmrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_ma_alvsr_smscs_csf": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmri_ma_alvsr_smscs_hpuslh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_ma_alvsr_smscs_hpusrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_ma_alvsr_smscs_inflatvlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_ma_alvsr_smscs_inflatvh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_ma_alvsr_smscs_lcelh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_ma_alvsr_smscs_lcerh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_ma_alvsr_smscs_pdlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_ma_alvsr_smscs_pdrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_ma_alvsr_smscs_ptlh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_ma_alvsr_smscs_ptrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_ma_alvsr_smscs_tplh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_ma_alvsr_smscs_tprh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_ma_alvsr_smscs_valdclh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_ma_alvsr_smscs_valdcrh": {
+        "Description": "Standard error of the mean for MID all anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_mr1_alvsr_bscs_3rdvicle": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_mr1_alvsr_bscs_4thvicle": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_mr1_alvsr_bscs_aalh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_mr1_alvsr_bscs_aarh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_mr1_alvsr_bscs_aylh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_mr1_alvsr_bscs_ayrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_mr1_alvsr_bscs_bs": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_mr1_alvsr_bscs_ctelh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_mr1_alvsr_bscs_cterh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_mr1_alvsr_bscs_crbcxlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_mr1_alvsr_bscs_crbcxrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_mr1_alvsr_bscs_crbwmlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_mr1_alvsr_bscs_crbwmrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_mr1_alvsr_bscs_cbwmlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_mr1_alvsr_bscs_cbwmrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_mr1_alvsr_bscs_csf": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmri_mr1_alvsr_bscs_hpuslh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_mr1_alvsr_bscs_hpusrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_mr1_alvsr_bscs_iftvlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_mr1_alvsr_bscs_iftvh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_mr1_alvsr_bscs_lvelh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_mr1_alvsr_bscs_lverh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_mr1_alvsr_bscs_pdlh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_mr1_alvsr_bscs_pdrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_mr1_alvsr_bscs_pulh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_mr1_alvsr_bscs_purh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_mr1_alvsr_bscs_tplh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_mr1_alvsr_bscs_tprh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_mr1_alvsr_bscs_vtdclh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_mr1_alvsr_bscs_vtdcrh": {
+        "Description": "Beta weight for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_mr1_alrvsr_sscs_3rdvicle": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_mr1_alrvsr_sscs_4thvicle": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_mr1_alrvsr_sscs_aalh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_mr1_alrvsr_sscs_aarh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_mr1_alrvsr_sscs_aylh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_mr1_alrvsr_sscs_ayrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_mr1_alrvsr_sscs_bs": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_mr1_alrvsr_sscs_ctelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_mr1_alrvsr_sscs_cterh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_mr1_alrvsr_sscs_crbcxlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_mr1_alrvsr_sscs_crbcxrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_mr1_alrvsr_sscs_crbwmlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_mr1_alrvsr_sscs_crbwmrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_mr1_alrvsr_sscs_cbwmlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_mr1_alrvsr_sscs_cbwmrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_mr1_alrvsr_sscs_csf": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmri_mr1_alrvsr_sscs_hpuslh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_mr1_alrvsr_sscs_hpusrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_mr1_alrvsr_sscs_inftvlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_mr1_alrvsr_sscs_inflatvh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_mr1_alrvsr_sscs_lvclelh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_mr1_alrvsr_sscs_lvclerh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_mr1_alrvsr_sscs_pllh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_mr1_alrvsr_sscs_plrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_mr1_alrvsr_sscs_ptlh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_mr1_alrvsr_sscs_ptrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_mr1_alrvsr_sscs_tplh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_mr1_alrvsr_sscs_tprh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_mr1_alrvsr_sscs_valdclh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_mr1_alrvsr_sscs_valdcrh": {
+        "Description": "Standard error of the mean for MID run1 anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_mr2_alvsr_bscs_3rdvtcle": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_mr2_alvsr_bscs_4thvtcle": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_mr2_alvsr_bscs_aalh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_mr2_alvsr_bscs_aarh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_mr2_alvsr_bscs_aglh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_mr2_alvsr_bscs_agrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_mr2_alvsr_bscs_bs": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_mr2_alvsr_bscs_cdelh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_mr2_alvsr_bscs_cderh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_mr2_alvsr_bscs_cbcxlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_mr2_alvsr_bscs_cbcxrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_mr2_alvsr_bscs_cbwmlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_mr2_alvsr_bscs_cbwmrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_mr2_alvsr_bscs_crbwmlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_mr2_alvsr_bscs_crbwmrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_mr2_alvsr_bscs_csf": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmri_mr2_alvsr_bscs_hpuslh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_mr2_alvsr_bscs_hpusrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_mr2_alvsr_bscs_inftvtlh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_mr2_alvsr_bscs_inftvtrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_mr2_alvsr_bscs_lvtclelh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_mr2_alvsr_bscs_lvtclerh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_mr2_alvsr_bscs_pllh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_mr2_alvsr_bscs_plrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_mr2_alvsr_bscs_pulh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_mr2_alvsr_bscs_purh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_mr2_alvsr_bscs_tplh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_mr2_alvsr_bscs_tprh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_mr2_alvsr_bscs_vtraldclh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_mr2_alvsr_bscs_vtraldcrh": {
+        "Description": "Beta weight for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrimr2_190": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrimr2_191": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrimr2_196": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrimr2_209": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrimr2_194": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrimr2_208": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrimr2_192": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI brain-stem"
+    },
+    "tfmrimr2_187": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-caudate"
+    },
+    "tfmrimr2_204": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-caudate"
+    },
+    "tfmrimr2_185": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrimr2_202": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrimr2_184": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrimr2_201": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrimr2_181": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrimr2_198": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrimr2_195": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI csf"
+    },
+    "tfmrimr2_193": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrimr2_207": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrimr2_183": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrimr2_200": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrimr2_182": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrimr2_199": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrimr2_189": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrimr2_206": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrimr2_188": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-putamen"
+    },
+    "tfmrimr2_205": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-putamen"
+    },
+    "tfmrimr2_186": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrimr2_203": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrimr2_197": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrimr2_210": {
+        "Description": "Standard error of the mean for MID run2 anticipation of large reward versus small reward contrast in ASEG ROI right-ventraldc"
+    }
+}

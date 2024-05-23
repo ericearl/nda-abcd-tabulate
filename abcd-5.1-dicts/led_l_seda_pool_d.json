@@ -1,0 +1,408 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_d_cellcount_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) all"
+    },
+    "ledsch_seda_d_cellcount_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) economically disadvantaged"
+    },
+    "ledsch_seda_d_cellcount_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) female"
+    },
+    "ledsch_seda_d_cellcount_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) male"
+    },
+    "ledsch_seda_d_cellcount_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) male minus female opportunity gap"
+    },
+    "ledsch_seda_d_cellcount_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) not disadvantaged economically"
+    },
+    "ledsch_seda_d_cellcount_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (District) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_grdcenter": {
+        "Description": "Grade used for pooled centering (District)"
+    },
+    "ledsch_seda_d_mn_asmts_all": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) all"
+    },
+    "ledsch_seda_d_mn_asmts_ecd": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_asmts_fem": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) female"
+    },
+    "ledsch_seda_d_mn_asmts_mal": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) male"
+    },
+    "ledsch_seda_d_mn_asmts_mfg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_asmts_nec": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_asmts_neg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (District) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_avg_eb_all": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_avg_eb_ecd": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_avg_eb_fem": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_avg_eb_mal": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_avg_eb_mfg": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_avg_eb_nec": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_avg_eb_neg": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_all": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_ecd": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_fem": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_mal": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_mfg": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_nec": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_avg_eb_se_neg": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_avg_ol_all": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_avg_ol_ecd": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_avg_ol_fem": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_avg_ol_mal": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_avg_ol_mfg": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_avg_ol_nec": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_avg_ol_neg": {
+        "Description": "Geographically Defined District Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_all": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_ecd": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_fem": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_mal": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math and Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_mfg": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_nec": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_avg_ol_se_neg": {
+        "Description": "Geographically Defined District SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_coh_eb_all": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_coh_eb_ecd": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_coh_eb_fem": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_coh_eb_mal": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_coh_eb_mfg": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_coh_eb_nec": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_coh_eb_neg": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_all": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_ecd": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_fem": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_mal": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_mfg": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_nec": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_coh_eb_se_neg": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_coh_ol_all": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_coh_ol_ecd": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_coh_ol_fem": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_coh_ol_mal": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_coh_ol_mfg": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_coh_ol_nec": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_coh_ol_neg": {
+        "Description": "Geographically Defined District Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_all": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_ecd": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_fem": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_mal": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_mfg": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_nec": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_coh_ol_se_neg": {
+        "Description": "Geographically Defined District SE of Cohort Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_grd_eb_all": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_grd_eb_ecd": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_grd_eb_fem": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_grd_eb_mal": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_grd_eb_mfg": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_grd_eb_nec": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_grd_eb_neg": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_all": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_ecd": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_fem": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_mal": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_mfg": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_nec": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_grd_eb_se_neg": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_grd_ol_all": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_grd_ol_ecd": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_grd_ol_fem": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_grd_ol_mal": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_grd_ol_mfg": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_grd_ol_nec": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_grd_ol_neg": {
+        "Description": "Geographically Defined District Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_all": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_ecd": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_fem": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_mal": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_mfg": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_nec": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_grd_ol_se_neg": {
+        "Description": "Geographically Defined District SE of Grade Slope of Mean Ach, Math and Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_mth_eb_all": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_mth_eb_ecd": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_mth_eb_fem": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_mth_eb_mal": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_mth_eb_mfg": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_mth_eb_nec": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_mth_eb_neg": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_all": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS all"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_ecd": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_fem": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS female"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_mal": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS male"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_mfg": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_nec": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_mth_eb_se_neg": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_mth_ol_all": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_mth_ol_ecd": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_mth_ol_fem": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_mth_ol_mal": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_mth_ol_mfg": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_mth_ol_nec": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_mth_ol_neg": {
+        "Description": "Geo Dist Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_all": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS all"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_ecd": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_fem": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS female"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_mal": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS male"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_mfg": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_nec": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_d_mn_mth_ol_se_neg": {
+        "Description": "Geo Dist SE of Math-ELA Diff in Mean Ach, Math and ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_d_tot_asmts_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) all"
+    },
+    "ledsch_seda_d_tot_asmts_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) economically disadvantaged"
+    },
+    "ledsch_seda_d_tot_asmts_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) female"
+    },
+    "ledsch_seda_d_tot_asmts_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) male"
+    },
+    "ledsch_seda_d_tot_asmts_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) male minus female opportunity gap"
+    },
+    "ledsch_seda_d_tot_asmts_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) not disadvantaged economically"
+    },
+    "ledsch_seda_d_tot_asmts_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (District) not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

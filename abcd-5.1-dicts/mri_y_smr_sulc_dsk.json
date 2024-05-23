@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_sulc_cdk_banksstslh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_sulc_cdk_cdacatelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-caudalanteriorcingulate"
+    },
+    "smri_sulc_cdk_cdmdfrlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-caudalmiddlefrontal"
+    },
+    "smri_sulc_cdk_cuneuslh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-cuneus"
+    },
+    "smri_sulc_cdk_ehinallh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-entorhinal"
+    },
+    "smri_sulc_cdk_fusiformlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-fusiform"
+    },
+    "smri_sulc_cdk_ifpllh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-inferiorparietal"
+    },
+    "smri_sulc_cdk_iftmlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-inferiortemporal"
+    },
+    "smri_sulc_cdk_ihcatelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-isthmuscingulate"
+    },
+    "smri_sulc_cdk_locclh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-lateraloccipital"
+    },
+    "smri_sulc_cdk_lobfrlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-lateralorbitofrontal"
+    },
+    "smri_sulc_cdk_linguallh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-lingual"
+    },
+    "smri_sulc_cdk_mobfrlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-medialorbitofrontal"
+    },
+    "smri_sulc_cdk_mdtmlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-middletemporal"
+    },
+    "smri_sulc_cdk_parahpallh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-parahippocampal"
+    },
+    "smri_sulc_cdk_paracnlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-paracentral"
+    },
+    "smri_sulc_cdk_parsopclh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-parsopercularis"
+    },
+    "smri_sulc_cdk_parsobislh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-parsorbitalis"
+    },
+    "smri_sulc_cdk_parstgrislh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-parstriangularis"
+    },
+    "smri_sulc_cdk_pericclh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-pericalcarine"
+    },
+    "smri_sulc_cdk_postcnlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-postcentral"
+    },
+    "smri_sulc_cdk_ptcatelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-posteriorcingulate"
+    },
+    "smri_sulc_cdk_precnlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-precentral"
+    },
+    "smri_sulc_cdk_pclh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-precuneus"
+    },
+    "smri_sulc_cdk_rracatelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-rostralanteriorcingulate"
+    },
+    "smri_sulc_cdk_rrmdfrlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-rostralmiddlefrontal"
+    },
+    "smri_sulc_cdk_sufrlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-superiorfrontal"
+    },
+    "smri_sulc_cdk_supllh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-superiorparietal"
+    },
+    "smri_sulc_cdk_sutmlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-superiortemporal"
+    },
+    "smri_sulc_cdk_smlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-supramarginal"
+    },
+    "smri_sulc_cdk_frpolelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-frontalpole"
+    },
+    "smri_sulc_cdk_tmpolelh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-temporalpole"
+    },
+    "smri_sulc_cdk_trvtmlh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-transversetemporal"
+    },
+    "smri_sulc_cdk_insulalh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI lh-insula"
+    },
+    "smri_sulc_cdk_banksstsrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_sulc_cdk_cdacaterh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-caudalanteriorcingulate"
+    },
+    "smri_sulc_cdk_cdmdfrrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-caudalmiddlefrontal"
+    },
+    "smri_sulc_cdk_cuneusrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-cuneus"
+    },
+    "smri_sulc_cdk_ehinalrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-entorhinal"
+    },
+    "smri_sulc_cdk_fusiformrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-fusiform"
+    },
+    "smri_sulc_cdk_ifplrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-inferiorparietal"
+    },
+    "smri_sulc_cdk_iftmrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-inferiortemporal"
+    },
+    "smri_sulc_cdk_ihcaterh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-isthmuscingulate"
+    },
+    "smri_sulc_cdk_loccrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-lateraloccipital"
+    },
+    "smri_sulc_cdk_lobfrrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-lateralorbitofrontal"
+    },
+    "smri_sulc_cdk_lingualrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-lingual"
+    },
+    "smri_sulc_cdk_mobfrrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-medialorbitofrontal"
+    },
+    "smri_sulc_cdk_mdtmrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-middletemporal"
+    },
+    "smri_sulc_cdk_parahpalrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-parahippocampal"
+    },
+    "smri_sulc_cdk_paracnrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-paracentral"
+    },
+    "smri_sulc_cdk_parsopcrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-parsopercularis"
+    },
+    "smri_sulc_cdk_parsobisrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-parsorbitalis"
+    },
+    "smri_sulc_cdk_parstgrisrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-parstriangularis"
+    },
+    "smri_sulc_cdk_periccrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-pericalcarine"
+    },
+    "smri_sulc_cdk_postcnrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-postcentral"
+    },
+    "smri_sulc_cdk_ptcaterh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-posteriorcingulate"
+    },
+    "smri_sulc_cdk_precnrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-precentral"
+    },
+    "smri_sulc_cdk_pcrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-precuneus"
+    },
+    "smri_sulc_cdk_rracaterh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-rostralanteriorcingulate"
+    },
+    "smri_sulc_cdk_rrmdfrrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-rostralmiddlefrontal"
+    },
+    "smri_sulc_cdk_sufrrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-superiorfrontal"
+    },
+    "smri_sulc_cdk_suplrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-superiorparietal"
+    },
+    "smri_sulc_cdk_sutmrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-superiortemporal"
+    },
+    "smri_sulc_cdk_smrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-supramarginal"
+    },
+    "smri_sulc_cdk_frpolerh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-frontalpole"
+    },
+    "smri_sulc_cdk_tmpolerh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-temporalpole"
+    },
+    "smri_sulc_cdk_trvtmrh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-transversetemporal"
+    },
+    "smri_sulc_cdk_insularh": {
+        "Description": "Cortical sulcal depth in mm of APARC ROI rh-insula"
+    },
+    "smri_sulc_cdk_meanlh": {
+        "Description": "Mean Cortical Sulcal Depth in mm for left hemisphere"
+    },
+    "smri_sulc_cdk_meanrh": {
+        "Description": "Mean Cortical Sulcal Depth in mm for right hemisphere"
+    },
+    "smri_sulc_cdk_mean": {
+        "Description": "Mean Cortical Sulcal Depth in mm for whole brain"
+    }
+}

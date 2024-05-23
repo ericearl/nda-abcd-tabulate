@@ -1,0 +1,105 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_urbsat_built": {
+        "Description": "Built-up land use: (2017) build-up land area (urban area) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_built": {
+        "Description": "Built-up land use: (2017) build-up land area (urban area) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_built": {
+        "Description": "Built-up land use: (2017) build-up land area (urban area) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr1_urbsat_crop": {
+        "Description": "Cropland land use: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_crop": {
+        "Description": "Cropland land use: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_crop": {
+        "Description": "Cropland land use: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr1_urbsat_forest": {
+        "Description": "Forest land use: (2017) CGLS fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_forest": {
+        "Description": "Forest land use: (2017) CGLS fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_forest": {
+        "Description": "Forest land use: (2017) CGLS fraction of total pixel area [0 1]"
+    },
+    "reshist_addr1_urbsat_grass": {
+        "Description": "Grass land use: (2017) CGLS herbaceous vegetation fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_grass": {
+        "Description": "Grass land use: (2017) CGLS herbaceous vegetation fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_grass": {
+        "Description": "Grass land use: (2017) CGLS herbaceous vegetation fraction of total pixel area [0 1]"
+    },
+    "reshist_addr1_urbsat_ndbi": {
+        "Description": "Normalized Difference Built-up Index: (2017) average of NDBI index value [NDBI index values]"
+    },
+    "reshist_addr2_urbsat_ndbi": {
+        "Description": "Normalized Difference Built-up Index: (2017) average of NDBI index value [NDBI index values]"
+    },
+    "reshist_addr3_urbsat_ndbi": {
+        "Description": "Normalized Difference Built-up Index: (2017) average of NDBI index value [NDBI index values]"
+    },
+    "reshist_addr1_urbsat_ndvi": {
+        "Description": "Normalized Difference Vegetation Index: (2017) Fraction of pixel area with NDVI index over 0.2 [0 1]"
+    },
+    "reshist_addr2_urbsat_ndvi": {
+        "Description": "Normalized Difference Vegetation Index: (2017) Fraction of pixel area with NDVI index over 0.2 [0 1]"
+    },
+    "reshist_addr3_urbsat_ndvi": {
+        "Description": "Normalized Difference Vegetation Index: (2017) Fraction of pixel area with NDVI index over 0.2 [0 1]"
+    },
+    "reshist_addr1_urbsat_ndwi": {
+        "Description": "Normalized Difference Water Index: (2017) Fraction of pixel area with NDWI index over 0.3 [0 1]"
+    },
+    "reshist_addr2_urbsat_ndwi": {
+        "Description": "Normalized Difference Water Index: (2017) Fraction of pixel area with NDWI index over 0.3 [0 1]"
+    },
+    "reshist_addr3_urbsat_ndwi": {
+        "Description": "Normalized Difference Water Index: (2017) Fraction of pixel area with NDWI index over 0.3 [0 1]"
+    },
+    "reshist_addr1_urbsat_ntl": {
+        "Description": "Nighttime lights: (2017) Total monthly average night light radiance [nW/cm2/sr]"
+    },
+    "reshist_addr2_urbsat_ntl": {
+        "Description": "Nighttime lights: (2017) Total monthly average night light radiance [nW/cm2/sr]"
+    },
+    "reshist_addr3_urbsat_ntl": {
+        "Description": "Nighttime lights: (2017) Total monthly average night light radiance [nW/cm2/sr]"
+    },
+    "reshist_addr1_urbsat_pop": {
+        "Description": "Population: (2017) WorldPop population density, people per pixel [people]"
+    },
+    "reshist_addr2_urbsat_pop": {
+        "Description": "Population: (2017) WorldPop population density, people per pixel [people]"
+    },
+    "reshist_addr3_urbsat_pop": {
+        "Description": "Population: (2017) WorldPop population density, people per pixel [people]"
+    },
+    "reshist_addr1_urbsat_pwat": {
+        "Description": "Permanent inland water: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_pwat": {
+        "Description": "Permanent inland water: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_pwat": {
+        "Description": "Permanent inland water: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr1_urbsat_swat": {
+        "Description": "Seasonal water area: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr2_urbsat_swat": {
+        "Description": "Seasonal water area: (2017) fraction of total pixel area [0 1]"
+    },
+    "reshist_addr3_urbsat_swat": {
+        "Description": "Seasonal water area: (2017) fraction of total pixel area [0 1]"
+    }
+}

@@ -1,0 +1,882 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bkfs_cereal_y": {
+        "Description": "Cereal, like cornflakes, Frosted Flakes | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_cereal_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Bowl | 2, 2 Bowl | 3, 3 Bowl"
+    },
+    "bkfs_cereal_kind_y": {
+        "Description": "What kind of cereal did you eat? (Select one) | 0, Plain Cheerios, Grape Nuts, Shredded Wheat, Wheaties, Wheat Chex, Kix | 1, Honey Nut Cheerios, Cap'n Crunch, Lucky Charms, Life, Golden Grahams, Frosted Mini Wheats, Raisin Bran | 2, Other sweet cereals, like Frosted Flakes, Froot Loops | 3, Any other cereal, like Corn Flakes, Rice Krispies"
+    },
+    "bkfs_cooked_cereal_y": {
+        "Description": "Cooked cereal, like oatmeal | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_cooked_cereal_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY?<font> | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_eggs_y": {
+        "Description": "Eggs, breakfast sandwiches or breakfast burritos | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_eggs_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Egg | 2, 2 Eggs | 3, 3 Eggs"
+    },
+    "bkfs_bars_y": {
+        "Description": "Breakfast bars, granola bars, Protein bars | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_bars_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1/2 | 2, 1 | 3, 2"
+    },
+    "bkfs_milk_y": {
+        "Description": "Glasses of milk | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_milk_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Glass | 2, 2 Glasses| 3, 3+ Glasses"
+    },
+    "bkfs_milk_kind_y": {
+        "Description": "What kind of milk did you drink? | 0, Whole Milk | 1, Reduced fat 2% milk | 2, Low fat 1% milk | 3, Nonfat milk | 4, Chocolate milk | 5, Soy milk | 6, Lactaid milk | 777, Don't know"
+    },
+    "bkfs_juice_y": {
+        "Description": "Real fruit juice, like orange juice, apple juice, or Mexican fruit drink like licuados (DO NOT include soda) | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_juice_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 bottle | 2, 2 bottles | 3, 3+ bottles"
+    },
+    "bkfs_soda_y": {
+        "Description": "Drinks like Coke or 7-Up, Sunny Delight, Hawaiian Punch, or aguas frescas (DO NOT include diet soda) [Include sports drinks like Gatorade, Powerade, etc.] | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_soda_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 bottle | 2, 2 bottles | 3, 3+ bottles"
+    },
+    "bkfs_apples_y": {
+        "Description": "Apples, bananas, or oranges | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_apples_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1/2 | 2, 1 | 3, 2"
+    },
+    "bkfs_applesauce_y": {
+        "Description": "Applesauce, fruit cocktail | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_applesauce_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_other_fruit_y": {
+        "Description": "Any other fruit, like strawberries, grapes | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_other_fruit_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_fries_y": {
+        "Description": "French fries, hash browns, tater tots | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_fries_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_potatoes_y": {
+        "Description": "Other potatoes, like mashed or boiled | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_potatoes_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_ketchup_y": {
+        "Description": "Ketchup or salsa | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_ketchup_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_salad_y": {
+        "Description": "Lettuce salad | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_salad_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_tomatoes_y": {
+        "Description": "Tomatoes, including on salad | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_tomatoes_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1/4 tomato | 2, 1/2 tomato | 3, 1 tomato"
+    },
+    "bkfs_green_beans_y": {
+        "Description": "Green beans or peas | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_green_beans_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_vegetables_y": {
+        "Description": "Other vegetables, like corn, carrots, greens, broccoli | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_vegetables_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_soup_y": {
+        "Description": "Vegetable soup, tomato soup, any soup or stew with vegetables in it | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_soup_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_beans_y": {
+        "Description": "Chili beans, pinto beans, black beans, including in burritos | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_beans_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_refried_beans_y": {
+        "Description": "Refried beans | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_refried_beans_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_burgers_y": {
+        "Description": "Hamburgers, cheeseburgers | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_burgers_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Small | 2, 1 Large | 3, 2 Large"
+    },
+    "bkfs_hotdogs_y": {
+        "Description": "Hot dogs, corn dogs, or sausage | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_hotdogs_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 | 2, 2 | 3, 3"
+    },
+    "bkfs_lunch_meat_y": {
+        "Description": "Lunch meat like bologna, ham, Lunchables | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_lunch_meat_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Slice | 2, 2 Slices | 3, 3+ Slices"
+    },
+    "bkfs_pizza_y": {
+        "Description": "Pizza or pizza pockets | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_pizza_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_spaghetti_y": {
+        "Description": "Spaghetti or ravioli <u>with tomato sauce</u> | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_spaghetti_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_mac_and_cheese_y": {
+        "Description": "Macaroni and cheese | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_mac_and_cheese_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_chicken_y": {
+        "Description": "Chicken, including nuggets, wings, tenders, also in sandwiches or stew | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_chicken_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_fish_y": {
+        "Description": "Fish, fish sticks or sandwiches, tuna, shrimp | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_fish_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_burritos_y": {
+        "Description": "Burritos or tacos | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_burritos_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1/2 | 2, 1 | 3, 2"
+    },
+    "bkfs_beef_y": {
+        "Description": "Beef like roast, steak or in sandwiches | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_beef_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_meat_y": {
+        "Description": "Meat balls, meat loaf, beef stew, Hamburger Helper | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_meat_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_pork_y": {
+        "Description": "Pork, like chops, roast, ribs | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_pork_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_popcorn_y": {
+        "Description": "Popcorn | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_popcorn_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_chips_y": {
+        "Description": "Snack chips like potato chips, Doritos, Fritos, tortilla chips | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_chips_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A few | 2, Small bag | 3, Large bag"
+    },
+    "bkfs_icecream_y": {
+        "Description": "Ice cream | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_icecream_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Scoop | 2, 2 Scoop | 3, 3 Scoop"
+    },
+    "bkfs_candy_y": {
+        "Description": "Candy, candy bars | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_candy_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, Mini | 2, Small | 3, Large"
+    },
+    "bkfs_cookies_y": {
+        "Description": "Cookies, donuts, cakes like Ho-Hos | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_cookies_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, A little | 2, Some | 3, A lot"
+    },
+    "bkfs_cheese_y": {
+        "Description": "Cheese, Remember cheese in sandwiches or nachos with cheese or quesadillas | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_cheese_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Slice | 2, 2 Slices | 3, 3+ Slices"
+    },
+    "bkfs_bread_y": {
+        "Description": "Whole wheat bread or rolls (NOT white bread) | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "bkfs_bread_1_day_y": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 Slice | 2, 2 Slices | 3, 3+ Slices"
+    },
+    "meatsubstitutefreq": {
+        "Description": "Meat substitutes, like veggie burgers, veggie chicken, vegetarian hot dogs or vegetarian lunch meats. | 0, None last week | 1, 1 day last week | 2, 2 days last week | 3, 3-4 days last week | 4, 5-6 days last week | 5, Every day last week | 777, Refuse to answer"
+    },
+    "meatsubstitutequan": {
+        "Description": "HOW MUCH IN ONE DAY? | 1, 1 burger/dog, 4 nuggets, 4 slices | 2, 2 burgers/dogs, 8 nuggets, 8 slices | 3, 3 burgers/dogs, 12 nuggets, 12 slices"
+    },
+    "bkfs_age_y": {
+        "Description": "Respondent's Age, years"
+    },
+    "bkfs_coldcerealfreq_y": {
+        "Description": "Cold cereal, Frequency last week"
+    },
+    "bkfs_coldcerealquan_y": {
+        "Description": "Cold cereal, Quantity in one day"
+    },
+    "bkfs_cookcerfreq_y": {
+        "Description": "Cooked cereal, Frequency last week"
+    },
+    "bkfs_cookcerquan_y": {
+        "Description": "Cooked cereal, Quantity in one day"
+    },
+    "bkfs_eggfreq_y": {
+        "Description": "Eggs, Frequency last week"
+    },
+    "bkfs_respondentid_y": {
+        "Description": "Respondent ID #"
+    },
+    "bkfs_sex_y": {
+        "Description": "Respondent's Sex"
+    },
+    "bkfs_eggquan_y": {
+        "Description": "Eggs, Quantity in one day"
+    },
+    "bkfs_granbarfreq_y": {
+        "Description": "Breakfast bars..., Frequency last week"
+    },
+    "bkfs_granbarquan_y": {
+        "Description": "Breakfast bars..., Quantity in one day"
+    },
+    "bkfs_milkfreq_y": {
+        "Description": "Glasses of milk, Frequency last week"
+    },
+    "bkfs_milkquan_y": {
+        "Description": "Glasses of milk, Quantity in one day"
+    },
+    "bkfs_fruitjcfreq_y": {
+        "Description": "Real fruit juice, Frequency last week"
+    },
+    "bkfs_fruitjcquan_y": {
+        "Description": "Real fruit juice, Quantity in one day"
+    },
+    "bkfs_sodafreq_y": {
+        "Description": "Drinks like Coke, soft drinks, Frequency last week"
+    },
+    "bkfs_sodaquan_y": {
+        "Description": "Drinks like Coke, soft drinks, Quantity in one day"
+    },
+    "bkfs_applefreq_y": {
+        "Description": "Apples, Frequency last week"
+    },
+    "bkfs_applequan_y": {
+        "Description": "Apples, Quantity in one day"
+    },
+    "bkfs_applscfreq_y": {
+        "Description": "Applesauce, Frequency last week"
+    },
+    "bkfs_applscquan_y": {
+        "Description": "Applesauce, Quantity in one day"
+    },
+    "bkfs_othfrutfreq_y": {
+        "Description": "Any other fruit, Frequency last week"
+    },
+    "bkfs_othfrutquan_y": {
+        "Description": "Any other fruit, Quantity in one day"
+    },
+    "bkfs_frenchfreq_y": {
+        "Description": "French fries, Frequency last week"
+    },
+    "bkfs_frenchquan_y": {
+        "Description": "French fries, Quantity in one day"
+    },
+    "bkfs_othpotfreq_y": {
+        "Description": "Other potatoes, Frequency last week"
+    },
+    "bkfs_othpotquan_y": {
+        "Description": "Other potatoes, Quantity in one day"
+    },
+    "bkfs_ketchupfreq_y": {
+        "Description": "Ketchup or salsa, Frequency last week"
+    },
+    "bkfs_ketchupquan_y": {
+        "Description": "Ketchup or salsa, Quantity in one day"
+    },
+    "bkfs_lettucefreq_y": {
+        "Description": "Lettuce salad, Frequency last week"
+    },
+    "bkfs_lettucequan_y": {
+        "Description": "Lettuce salad, Quantity in one day"
+    },
+    "bkfs_tomatofreq_y": {
+        "Description": "Tomatoes, Frequency last week"
+    },
+    "bkfs_tomatoquan_y": {
+        "Description": "Tomatoes, Quantity in one day"
+    },
+    "bkfs_grnbeanfreq_y": {
+        "Description": "Green beans, Frequency last week"
+    },
+    "bkfs_grnbeanquan_y": {
+        "Description": "Green beans, Quantity in one day"
+    },
+    "bkfs_othvegfreq_y": {
+        "Description": "Other vegetables, Frequency last week"
+    },
+    "bkfs_othvegquan_y": {
+        "Description": "Other vegetables, Quantity in one day"
+    },
+    "bkfs_vegsoupfreq_y": {
+        "Description": "Vegetable soup, Frequency last week"
+    },
+    "bkfs_vegsoupquan_y": {
+        "Description": "Vegetable soup, Quantity in one day"
+    },
+    "bkfs_pintofreq_y": {
+        "Description": "Chili beans, Frequency last week"
+    },
+    "bkfs_pintoquan_y": {
+        "Description": "Chili beans, Quantity in one day"
+    },
+    "bkfs_refriedfreq_y": {
+        "Description": "Refried beans, Frequency last week"
+    },
+    "bkfs_refriedquan_y": {
+        "Description": "Refried beans, Quantity in one day"
+    },
+    "bkfs_hambgrfreq_y": {
+        "Description": "Hamburgers, Frequency last week"
+    },
+    "bkfs_hambgrquan_y": {
+        "Description": "Hamburgers, Quantity in one day"
+    },
+    "bkfs_hotdogfreq_y": {
+        "Description": "Hot dogs, Frequency last week"
+    },
+    "bkfs_hotdogquan_y": {
+        "Description": "Hot dogs, Quantity in one day"
+    },
+    "bkfs_lunchmtfreq_y": {
+        "Description": "Lunch meat, Frequency last week"
+    },
+    "bkfs_lunchmtquan_y": {
+        "Description": "Lunch meat, Quantity in one day"
+    },
+    "bkfs_pizzafreq_y": {
+        "Description": "Pizza, Frequency last week"
+    },
+    "bkfs_pizzaquan_y": {
+        "Description": "Pizza, Quantity in one day"
+    },
+    "bkfs_spagfreq_y": {
+        "Description": "Spaghetti, Frequency last week"
+    },
+    "bkfs_spagquan_y": {
+        "Description": "Spaghetti, Quantity in one day"
+    },
+    "bkfs_macfreq_y": {
+        "Description": "Macaroni and cheese, Frequency last week"
+    },
+    "bkfs_macquan_y": {
+        "Description": "Macaroni and cheese, Quantity in one day"
+    },
+    "bkfs_chickfreq_y": {
+        "Description": "Chicken, Frequency last week"
+    },
+    "bkfs_chickquan_y": {
+        "Description": "Chicken, Quantity in one day"
+    },
+    "bkfs_fishfreq_y": {
+        "Description": "Fish, Frequency last week"
+    },
+    "bkfs_fishquan_y": {
+        "Description": "Fish, Quantity in one day"
+    },
+    "bkfs_burritofreq_y": {
+        "Description": "Burritos, Frequency last week"
+    },
+    "bkfs_burritoquan_y": {
+        "Description": "Burritos, Quantity in one day"
+    },
+    "bkfs_rstbffreq_y": {
+        "Description": "Beef like roast, Frequency last week"
+    },
+    "bkfs_rstbfquan_y": {
+        "Description": "Beef like roast, Quantity in one day"
+    },
+    "bkfs_othmeatfreq_y": {
+        "Description": "Meat balls, Frequency last week"
+    },
+    "bkfs_othmeatquan_y": {
+        "Description": "Meat balls, Quantity in one day"
+    },
+    "bkfs_porkfreq_y": {
+        "Description": "Pork, Frequency last week"
+    },
+    "bkfs_porkquan_y": {
+        "Description": "Pork, Quantity in one day"
+    },
+    "bkfs_popcornfreq_y": {
+        "Description": "Popcorn, Frequency last week"
+    },
+    "bkfs_popcornquan_y": {
+        "Description": "Popcorn, Quantity in one day"
+    },
+    "bkfs_snkchpfreq_y": {
+        "Description": "Snack chips, Frequency last week"
+    },
+    "bkfs_snkchpquan_y": {
+        "Description": "Snack chips, Quantity in one day"
+    },
+    "bkfs_icecrmfreq_y": {
+        "Description": "Ice cream, Frequency last week"
+    },
+    "bkfs_icecrmquan_y": {
+        "Description": "Ice cream, Quantity in one day"
+    },
+    "bkfs_candyfreq_y": {
+        "Description": "Candy, Frequency last week"
+    },
+    "bkfs_candyquan_y": {
+        "Description": "Candy, Quantity in one day"
+    },
+    "bkfs_cookiefreq_y": {
+        "Description": "Cookies, Frequency last week"
+    },
+    "bkfs_cookiequan_y": {
+        "Description": "Cookies, Quantity in one day"
+    },
+    "bkfs_cheesefreq_y": {
+        "Description": "Cheese, Frequency last week"
+    },
+    "bkfs_cheesequan_y": {
+        "Description": "Cheese, Quantity in one day"
+    },
+    "bkfs_wheatbrdfreq_y": {
+        "Description": "Whole wheat bread, Frequency last week"
+    },
+    "bkfs_wheatbrdquan_y": {
+        "Description": "Whole wheat bread, Quantity in one day"
+    },
+    "bkfs_meatsubstitutequan_y": {
+        "Description": "Meat substitutes, Quantity in one day"
+    },
+    "bkfs_coldcerealtype_y": {
+        "Description": "Cold cereal type"
+    },
+    "bkfs_fruit_ce_y": {
+        "Description": "fruit_ce"
+    },
+    "bkfs_milktype_y": {
+        "Description": "Milk type"
+    },
+    "bkfs_vegnopot_ce_y": {
+        "Description": "vegnopot_ce"
+    },
+    "bkfs_potato_ce_y": {
+        "Description": "potato_ce"
+    },
+    "bkfs_whlgrain_oze_y": {
+        "Description": "whlgrain_oze"
+    },
+    "bkfs_satfat_g_y": {
+        "Description": "satfat_g"
+    },
+    "bkfs_meatpoulfish_oze_y": {
+        "Description": "meatpoulfish_oze"
+    },
+    "bkfs_dairy_ce_y": {
+        "Description": "dairy_ce"
+    },
+    "bkfs_legumes_ce_y": {
+        "Description": "legumes_ce"
+    },
+    "bkfs_sugaradded_tsp_y": {
+        "Description": "sugaradded_tsp"
+    },
+    "bkfs_gi_y": {
+        "Description": "gi"
+    },
+    "bkfs_gl_y": {
+        "Description": "gl"
+    },
+    "bkfs_dt_kcal_y": {
+        "Description": "dt_kcal"
+    },
+    "bkfs_dt_prot_y": {
+        "Description": "dt_prot"
+    },
+    "bkfs_dt_tfat_y": {
+        "Description": "dt_tfat"
+    },
+    "bkfs_dt_carb_y": {
+        "Description": "dt_carb"
+    },
+    "bkfs_dt_fibe_y": {
+        "Description": "dt_fibe"
+    },
+    "bkfs_dt_sug_t_y": {
+        "Description": "dt_sug_t"
+    },
+    "bkfs_group_sugarybevg_total_kcal_y": {
+        "Description": "group_sugarybevg_total_kcal"
+    },
+    "bkfs_group_sugarybevg_total_frequency_y": {
+        "Description": "group_sugarybevg_total_frequency"
+    },
+    "bkfs_group_solid_total_grams_y": {
+        "Description": "group_solid_total_grams"
+    },
+    "bkfs_foodsperday_y": {
+        "Description": "foodsperday"
+    },
+    "bkfs_group_solid_count_y": {
+        "Description": "group_solid_count"
+    },
+    "bkfs_group_solid_total_frequency_y": {
+        "Description": "group_solid_total_frequency"
+    },
+    "bkfs_drximfat_y": {
+        "Description": "drximfat"
+    },
+    "bkfs_drxipfat_y": {
+        "Description": "drxipfat"
+    },
+    "bkfs_drxichol_y": {
+        "Description": "drxichol"
+    },
+    "bkfs_drxiatoc_y": {
+        "Description": "drxiatoc"
+    },
+    "bkfs_drxiret_y": {
+        "Description": "drxiret"
+    },
+    "bkfs_drxivara_y": {
+        "Description": "drxivara"
+    },
+    "bkfs_drxiacar_y": {
+        "Description": "drxiacar"
+    },
+    "bkfs_drxibcar_y": {
+        "Description": "drxibcar"
+    },
+    "bkfs_drxicryp_y": {
+        "Description": "drxicryp"
+    },
+    "bkfs_drxilyco_y": {
+        "Description": "drxilyco"
+    },
+    "bkfs_drxilz_y": {
+        "Description": "drxilz"
+    },
+    "bkfs_drxivb1_y": {
+        "Description": "drxivb1"
+    },
+    "bkfs_drxivb2_y": {
+        "Description": "drxivb2"
+    },
+    "bkfs_drxiniac_y": {
+        "Description": "drxiniac"
+    },
+    "bkfs_drxivb6_y": {
+        "Description": "drxivb6"
+    },
+    "bkfs_drxifola_y": {
+        "Description": "drxifola"
+    },
+    "bkfs_drxifa_y": {
+        "Description": "drxifa"
+    },
+    "bkfs_drxiff_y": {
+        "Description": "drxiff"
+    },
+    "bkfs_drxivk_y": {
+        "Description": "drxivk"
+    },
+    "bkfs_drxifdfe_y": {
+        "Description": "drxifdfe"
+    },
+    "bkfs_drxicalc_y": {
+        "Description": "drxicalc"
+    },
+    "bkfs_drxivb12_y": {
+        "Description": "drxivb12"
+    },
+    "bkfs_drxivc_y": {
+        "Description": "drxivc"
+    },
+    "bkfs_drxiphos_y": {
+        "Description": "drxiphos"
+    },
+    "bkfs_drximagn_y": {
+        "Description": "drximagn"
+    },
+    "bkfs_drxiiron_y": {
+        "Description": "drxiiron"
+    },
+    "bkfs_drxizinc_y": {
+        "Description": "drxizinc"
+    },
+    "bkfs_drxicopp_y": {
+        "Description": "drxicopp"
+    },
+    "bkfs_drdisodi_y": {
+        "Description": "drdisodi"
+    },
+    "bkfs_drxipota_y": {
+        "Description": "drxipota"
+    },
+    "bkfs_drxisele_y": {
+        "Description": "drxisele"
+    },
+    "bkfs_drxicaff_y": {
+        "Description": "drxicaff"
+    },
+    "bkfs_drxitheo_y": {
+        "Description": "drxitheo"
+    },
+    "bkfs_drxialco_y": {
+        "Description": "drxialco"
+    },
+    "bkfs_drximois_y": {
+        "Description": "drximois"
+    },
+    "bkfs_drxis040_y": {
+        "Description": "drxis040"
+    },
+    "bkfs_drxis060_y": {
+        "Description": "drxis060"
+    },
+    "bkfs_drxis080_y": {
+        "Description": "drxis080"
+    },
+    "bkfs_drxis100_y": {
+        "Description": "drxis100"
+    },
+    "bkfs_drxis120_y": {
+        "Description": "drxis120"
+    },
+    "bkfs_drxis140_y": {
+        "Description": "drxis140"
+    },
+    "bkfs_drxis160_y": {
+        "Description": "drxis160"
+    },
+    "bkfs_drxis180_y": {
+        "Description": "drxis180"
+    },
+    "bkfs_drxim161_y": {
+        "Description": "drxim161"
+    },
+    "bkfs_drxim181_y": {
+        "Description": "drxim181"
+    },
+    "bkfs_drxim201_y": {
+        "Description": "drxim201"
+    },
+    "bkfs_drxim221_y": {
+        "Description": "drxim221"
+    },
+    "bkfs_drxip182_y": {
+        "Description": "drxip182"
+    },
+    "bkfs_drxip183_y": {
+        "Description": "drxip183"
+    },
+    "bkfs_drxip184_y": {
+        "Description": "drxip184"
+    },
+    "bkfs_drxip204_y": {
+        "Description": "drxip204"
+    },
+    "bkfs_drxip205_y": {
+        "Description": "drxip205"
+    },
+    "bkfs_drxip225_y": {
+        "Description": "drxip225"
+    },
+    "bkfs_drxip226_y": {
+        "Description": "drxip226"
+    },
+    "bkfs_group_fd_cerealnotwgsweet_total_grams_y": {
+        "Description": "group_fd_cerealnotwgsweet_total_grams"
+    },
+    "bkfs_group_fd_cookedcereal_total_grams_y": {
+        "Description": "group_fd_cookedcereal_total_grams"
+    },
+    "bkfs_group_fd_eggsandwich_total_grams_y": {
+        "Description": "group_fd_eggsandwich_total_grams"
+    },
+    "bkfs_group_fd_breakfastproteinbars_total_grams_y": {
+        "Description": "group_fd_breakfastproteinbars_total_grams"
+    },
+    "bkfs_group_fd_milk2pct_total_grams_y": {
+        "Description": "group_fd_milk2pct_total_grams"
+    },
+    "bkfs_group_fd_fruitjuice_total_grams_y": {
+        "Description": "group_fd_fruitjuice_total_grams"
+    },
+    "bkfs_group_fd_softdrinks_total_grams_y": {
+        "Description": "group_fd_softdrinks_total_grams"
+    },
+    "bkfs_group_fd_applebananaorange_total_grams_y": {
+        "Description": "group_fd_applebananaorange_total_grams"
+    },
+    "bkfs_group_fd_applesaucecannedfruit_total_grams_y": {
+        "Description": "group_fd_applesaucecannedfruit_total_grams"
+    },
+    "bkfs_group_fd_anyotherfruit_total_grams_y": {
+        "Description": "group_fd_anyotherfruit_total_grams"
+    },
+    "bkfs_group_fd_friedpotatoes_total_grams_y": {
+        "Description": "group_fd_friedpotatoes_total_grams"
+    },
+    "bkfs_group_fd_otherpotatoes_total_grams_y": {
+        "Description": "group_fd_otherpotatoes_total_grams"
+    },
+    "bkfs_group_fd_ketchupsalsa_total_grams_y": {
+        "Description": "group_fd_ketchupsalsa_total_grams"
+    },
+    "bkfs_group_fd_chilibeans_total_grams_y": {
+        "Description": "group_fd_chilibeans_total_grams"
+    },
+    "bkfs_group_fd_lettucesalad_total_grams_y": {
+        "Description": "group_fd_lettucesalad_total_grams"
+    },
+    "bkfs_group_fd_tomatoes_total_grams_y": {
+        "Description": "group_fd_tomatoes_total_grams"
+    },
+    "bkfs_group_fd_refriedbeans_total_grams_y": {
+        "Description": "group_fd_refriedbeans_total_grams"
+    },
+    "bkfs_group_fd_greenbeanspeas_total_grams_y": {
+        "Description": "group_fd_greenbeanspeas_total_grams"
+    },
+    "bkfs_group_fd_hamburgercheeseburger_total_grams_y": {
+        "Description": "group_fd_hamburgercheeseburger_total_grams"
+    },
+    "bkfs_group_fd_hotdogssausage_total_grams_y": {
+        "Description": "group_fd_hotdogssausage_total_grams"
+    },
+    "bkfs_group_fd_othervegetables_total_grams_y": {
+        "Description": "group_fd_othervegetables_total_grams"
+    },
+    "bkfs_group_fd_lunchmeat_total_grams_y": {
+        "Description": "group_fd_lunchmeat_total_grams"
+    },
+    "bkfs_group_fd_vegetablesoupstew_total_grams_y": {
+        "Description": "group_fd_vegetablesoupstew_total_grams"
+    },
+    "bkfs_group_fd_pizza_total_grams_y": {
+        "Description": "group_fd_pizza_total_grams"
+    },
+    "bkfs_group_fd_spaghettitomatosauce_total_grams_y": {
+        "Description": "group_fd_spaghettitomatosauce_total_grams"
+    },
+    "bkfs_group_fd_macncheese_total_grams_y": {
+        "Description": "group_fd_macncheese_total_grams"
+    },
+    "bkfs_group_fd_chickenndishes_total_grams_y": {
+        "Description": "group_fd_chickenndishes_total_grams"
+    },
+    "bkfs_group_fd_fishndishes_total_grams_y": {
+        "Description": "group_fd_fishndishes_total_grams"
+    },
+    "bkfs_group_fd_burritostacos_total_grams_y": {
+        "Description": "group_fd_burritostacos_total_grams"
+    },
+    "bkfs_group_fd_beefroaststeak_total_grams_y": {
+        "Description": "group_fd_beefroaststeak_total_grams"
+    },
+    "bkfs_group_fd_meatballsbeefdishes_total_grams_y": {
+        "Description": "group_fd_meatballsbeefdishes_total_grams"
+    },
+    "bkfs_group_fd_pork_total_grams_y": {
+        "Description": "group_fd_pork_total_grams"
+    },
+    "bkfs_group_fd_popcorn_total_grams_y": {
+        "Description": "group_fd_popcorn_total_grams"
+    },
+    "bkfs_group_fd_chipscornpotato_total_grams_y": {
+        "Description": "group_fd_chipscornpotato_total_grams"
+    },
+    "bkfs_group_fd_icecream_total_grams_y": {
+        "Description": "group_fd_icecream_total_grams"
+    },
+    "bkfs_group_fd_candynbars_total_grams_y": {
+        "Description": "group_fd_candynbars_total_grams"
+    },
+    "bkfs_group_fd_cookiedonutcake_total_grams_y": {
+        "Description": "group_fd_cookiedonutcake_total_grams"
+    },
+    "bkfs_group_fd_cheesendishes_total_grams_y": {
+        "Description": "group_fd_cheesendishes_total_grams"
+    },
+    "bkfs_group_fd_wholewheatbread_total_grams_y": {
+        "Description": "group_fd_wholewheatbread_total_grams"
+    },
+    "bkfs_group_fd_cerealwgnotsweet_total_grams_y": {
+        "Description": "group_fd_cerealwgnotsweet_total_grams"
+    },
+    "bkfs_group_fd_cerealwgsweet_total_grams_y": {
+        "Description": "group_fd_cerealwgsweet_total_grams"
+    },
+    "bkfs_group_fd_cerealnotwgnotsweet_total_grams_y": {
+        "Description": "group_fd_cerealnotwgnotsweet_total_grams"
+    },
+    "bkfs_group_fd_milk4pct_total_grams_y": {
+        "Description": "group_fd_milk4pct_total_grams"
+    },
+    "bkfs_group_fd_milk1pct_total_grams_y": {
+        "Description": "group_fd_milk1pct_total_grams"
+    },
+    "bkfs_group_fd_milkchocolate_total_grams_y": {
+        "Description": "group_fd_milkchocolate_total_grams"
+    },
+    "bkfs_group_fd_milklactosereduced_total_grams_y": {
+        "Description": "group_fd_milklactosereduced_total_grams"
+    },
+    "bkfs_group_fd_milknonfat_total_grams_y": {
+        "Description": "group_fd_milknonfat_total_grams"
+    },
+    "bkfs_group_fd_milksoy_total_grams_y": {
+        "Description": "group_fd_milksoy_total_grams"
+    },
+    "bkfs_group_fd_meatsubstitutes_total_grams_y": {
+        "Description": "group_fd_meatsubstitutes_total_grams"
+    }
+}

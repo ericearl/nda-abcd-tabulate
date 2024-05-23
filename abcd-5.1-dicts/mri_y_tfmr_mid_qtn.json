@@ -1,0 +1,323 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mid_intro_y": {
+        "Description": "Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner. | Descriptive field"
+    },
+    "midq_exc_1a_y": {
+        "Description": "How EXCITED were you when: You saw a circle saying you could win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1b_y": {
+        "Description": "How EXCITED were you when: You saw a circle saying you could win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1c_y": {
+        "Description": "How EXCITED were you when: You saw a square saying you could lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1d_y": {
+        "Description": "How EXCITED were you when: You saw a square saying you could lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1e_y": {
+        "Description": "How EXCITED were you when: You saw a triangle saying there was no money at stake? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1a_y": {
+        "Description": "How NERVOUS were you when:You saw a circle saying you could win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1b_y": {
+        "Description": "How NERVOUS were you when: You saw a circle saying you could win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1c_y": {
+        "Description": "How NERVOUS were you when: You saw a square saying you could lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1d_y": {
+        "Description": "How NERVOUS were you when: You saw a square saying you could lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1e_y": {
+        "Description": "How NERVOUS were you when: You saw a triangle saying there was no money at stake? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1a_y": {
+        "Description": "How hard did you try: to win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1b_y": {
+        "Description": "How hard did you try: to win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1c_y": {
+        "Description": "How hard did you try: to not lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1d_y": {
+        "Description": "How hard did you try: to not lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1e_y": {
+        "Description": "How hard did you try: on the \"no money at stake\" trials? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_2": {
+        "Description": "While the game was being explained to you, did you think about what you would like to do with the money you might win during the game? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "midq_exc_1a_rescan_y": {
+        "Description": "How EXCITED were you when: You saw a circle saying you could win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1b_rescan_y": {
+        "Description": "How EXCITED were you when: You saw a circle saying you could win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1c_rescan_y": {
+        "Description": "How EXCITED were you when: You saw a square saying you could lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1d_rescan_y": {
+        "Description": "How EXCITED were you when: You saw a square saying you could lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_exc_1e_rescan_y": {
+        "Description": "How EXCITED were you when: You saw a triangle saying there was no money at stake? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1a_rescan_y": {
+        "Description": "How NERVOUS were you when:You saw a circle saying you could win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1b_rescan_y": {
+        "Description": "How NERVOUS were you when:You saw a circle saying you could win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1c_rescan_y": {
+        "Description": "How NERVOUS were you when: You saw a square saying you could lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1d_rescan_y": {
+        "Description": "How NERVOUS were you when: You saw a square saying you could lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_nerv_1e_rescan_y": {
+        "Description": "How NERVOUS were you when: You saw a triangle saying there was no money at stake? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1a_rescan_y": {
+        "Description": "How hard did you try: to win $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1b_rescan_y": {
+        "Description": "How hard did you try: to win $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1c_rescan_y": {
+        "Description": "How hard did you try: to not lose $5? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1d_rescan_y": {
+        "Description": "How hard did you try: to not lose $0.20? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_try_1e_rescan_y": {
+        "Description": "How hard did you try: on the \"no money at stake\" trials? | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "midq_2_rescan_y": {
+        "Description": "While the game was being explained to you, did you think about what you would like to do with the money you might win during the game? | 1 = Yes; 2 = No; THIS INSTRUMENT SHOULD ONLY BE USED FOR RESCANS. Read each of the following questions and then mark the appropriate answer in the space next to that question. Indicate how much you felt this way while in the scanner.",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    }
+}

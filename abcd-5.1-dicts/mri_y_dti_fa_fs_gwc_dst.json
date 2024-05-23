@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ddtifp_1214": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1288": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1215": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1289": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1216": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1290": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "ddtifp_1209": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "ddtifp_1283": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "ddtifp_1210": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "ddtifp_1284": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "ddtifp_1211": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "ddtifp_1285": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "ddtifp_1212": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "ddtifp_1286": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "ddtifp_1213": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "ddtifp_1287": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "ddtifp_1217": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "ddtifp_1291": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "ddtifp_1218": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "ddtifp_1292": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "ddtifp_1219": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "ddtifp_1293": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "ddtifp_1220": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "ddtifp_1294": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "ddtifp_1221": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "ddtifp_1295": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "ddtifp_1222": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "ddtifp_1296": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "ddtifp_1223": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "ddtifp_1297": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "ddtifp_1224": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "ddtifp_1298": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "ddtifp_1225": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "ddtifp_1299": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "ddtifp_1226": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "ddtifp_1300": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "ddtifp_1227": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "ddtifp_1301": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "ddtifp_1228": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "ddtifp_1302": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "ddtifp_1229": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "ddtifp_1303": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "ddtifp_1230": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "ddtifp_1304": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "ddtifp_1231": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "ddtifp_1305": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "ddtifp_1232": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "ddtifp_1306": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "ddtifp_1235": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "ddtifp_1309": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "ddtifp_1233": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "ddtifp_1307": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "ddtifp_1234": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "ddtifp_1308": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "ddtifp_1236": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "ddtifp_1310": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "ddtifp_1237": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "ddtifp_1311": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "ddtifp_1238": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "ddtifp_1312": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "ddtifp_1239": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "ddtifp_1313": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "ddtifp_1240": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "ddtifp_1314": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "ddtifp_1245": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "ddtifp_1319": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "ddtifp_1246": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "ddtifp_1320": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "ddtifp_1241": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "ddtifp_1315": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "ddtifp_1242": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "ddtifp_1316": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "ddtifp_1243": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "ddtifp_1317": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "ddtifp_1244": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "ddtifp_1318": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "ddtifp_1247": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtifp_1321": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtifp_1248": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtifp_1322": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "ddtifp_1249": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "ddtifp_1323": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "ddtifp_1359": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with cortical Destrieux ROI mean"
+    },
+    "ddtifp_1357": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI mean"
+    },
+    "ddtifp_1358": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI mean"
+    },
+    "ddtifp_1250": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "ddtifp_1324": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "ddtifp_1251": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "ddtifp_1325": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "ddtifp_1252": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "ddtifp_1326": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "ddtifp_1253": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "ddtifp_1327": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "ddtifp_1254": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "ddtifp_1328": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "ddtifp_1255": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1329": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1256": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1330": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1257": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1331": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "ddtifp_1258": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "ddtifp_1332": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "ddtifp_1259": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "ddtifp_1333": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "ddtifp_1260": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "ddtifp_1334": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "ddtifp_1261": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "ddtifp_1335": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "ddtifp_1262": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "ddtifp_1336": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "ddtifp_1263": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "ddtifp_1337": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "ddtifp_1264": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "ddtifp_1338": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "ddtifp_1267": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "ddtifp_1341": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "ddtifp_1265": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "ddtifp_1339": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "ddtifp_1266": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "ddtifp_1340": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "ddtifp_1268": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "ddtifp_1342": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "ddtifp_1269": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "ddtifp_1343": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "ddtifp_1272": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "ddtifp_1346": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "ddtifp_1270": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "ddtifp_1344": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "ddtifp_1271": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "ddtifp_1345": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "ddtifp_1273": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "ddtifp_1347": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "ddtifp_1274": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "ddtifp_1348": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "ddtifp_1275": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "ddtifp_1349": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "ddtifp_1276": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "ddtifp_1350": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "ddtifp_1277": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "ddtifp_1351": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "ddtifp_1278": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "ddtifp_1352": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "ddtifp_1279": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "ddtifp_1353": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "ddtifp_1280": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "ddtifp_1354": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "ddtifp_1281": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "ddtifp_1355": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "ddtifp_1282": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "ddtifp_1356": {
+        "Description": "Average fractional anisotropy within parcellation of gray matter-white matter contrast associated with right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    }
+}

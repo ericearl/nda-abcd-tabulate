@@ -1,0 +1,109 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "sit_scr_script_lastupdate": {
+        "Description": "Date of last update"
+    },
+    "sit_scr_version": {
+        "Description": "Task Version Number"
+    },
+    "sit_scr_values_startdate": {
+        "Description": "script.startdate:\n\nDate script was run"
+    },
+    "sit_scr_script_starttime": {
+        "Description": "script.starttime:\n\nTime script was started"
+    },
+    "sit_scr_script_subjectid": {
+        "Description": "script.subjectid:\n\nSubject id number"
+    },
+    "sit_scr_script_groupid": {
+        "Description": "script.groupid:\n\nGroup id number"
+    },
+    "sit_scr_event": {
+        "Description": "Event selected by RA if not 2-year follow-up"
+    },
+    "sit_scr_session": {
+        "Description": "Session number (01,02,03)"
+    },
+    "sit_scr_script_elapsedtime": {
+        "Description": "script.elapsedtime:\n\nTime it took to run script (in ms)"
+    },
+    "sit_scr_computer_platform": {
+        "Description": "computer.platform:\n\nThe platform the script was run on"
+    },
+    "sit_scr_expr_minitialrat": {
+        "Description": "expressions.meanInitialRating:\n\nThe mean initial rating"
+    },
+    "sit_scr_expr_mrt_initialrat": {
+        "Description": "expressions.meanRT_initialRating:\n\nMean reaction time (in ms) of submitting initial rating after onset of rating scale"
+    },
+    "sit_scr_expr_mfinalrat": {
+        "Description": "expressions.meanFinalRating:\n\nThe mean final rating"
+    },
+    "sit_scr_expr_mrt_finalrat": {
+        "Description": "expressions.meanRT_finalRating:\n\nMean reaction time (in ms) of submitting final rating after onset of rating scale\n\nNote: \npositive values => final rating was higher than initial rating\nnegative values => final rating was lower than initial rating"
+    },
+    "sit_scr_expr_mratdiff1": {
+        "Description": "expressions.meanRatingDiff1:\n\nThe mean difference in ratings (final - initial) for peer rating condition '-4'\n\nNote: positive values => final rating was higher than initial ratingnegative values => final rating was lower than initial rating"
+    },
+    "sit_scr_expr_mratdiff2": {
+        "Description": "expressions.meanRatingDiff2:\n\nThe mean difference in ratings (final - initial) for peer rating condition '-2'\n\nNote: positive values => final rating was higher than initial ratingnegative values => final rating was lower than initial rating"
+    },
+    "sit_scr_expr_mratdiff3": {
+        "Description": "expressions.meanRatingDiff3:\n\nThe mean difference in ratings (final - initial) for peer rating condition '+2'\n\nNote: positive values => final rating was higher than initial ratingnegative values => final rating was lower than initial rating"
+    },
+    "sit_scr_expr_mratdiff4": {
+        "Description": "expressions.meanRatingDiff4:\n\nThe mean difference in ratings (final - initial) for peer rating condition '+4'\n\nNote: positive values => final rating was higher than initial ratingnegative values => final rating was lower than initial rating"
+    },
+    "sit_scr_values_count1": {
+        "Description": "values.count1:\n\nCounts the number peer rating condition '-4' was run"
+    },
+    "sit_scr_values_count2": {
+        "Description": "values.count2:\n\nCounts the number peer rating condition '-2' was run"
+    },
+    "sit_scr_values_count3": {
+        "Description": "values.count3:\n\nCounts the number peer rating condition '+2' was run"
+    },
+    "sit_scr_values_count4": {
+        "Description": "values.count4:\n\nCounts the number peer rating condition '+4' was run"
+    },
+    "sit_scr_values_countflips": {
+        "Description": "values.countflips"
+    },
+    "sit_scr_values_countnr_initial": {
+        "Description": "values.countNR_initial:\n\nCounts the number of 'no response' for initial rating trials"
+    },
+    "sit_scr_values_countnr_final": {
+        "Description": "values.countNR_final:\n\nCounts the number of 'no response' for final rating trials"
+    },
+    "neurocog_2_sit___1": {
+        "Description": "Method of SIT administration [Check all that apply]: 1, Audio | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_sit___2": {
+        "Description": "Method of SIT administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_sit___3": {
+        "Description": "Method of SIT administration [Check all that apply]: 3, In person (ONLY if issues arise and hybrid) | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_sit___4": {
+        "Description": "Method of SIT administration [Check all that apply]: 4, Unmonitored | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "parent_rules_q1": {
+        "Description": "Which statement best describes the rules for your child's drinking in your house? / \u00bfCu\u00e1l de las siguientes afirmaciones describe mejor las reglas que debe seguir su ni\u00f1o(a) con respecto al consumo de alcohol en su casa? | 1 = My child is not allowed to drink under any circumstances  / Mi ni\u00f1o(a) no tiene permitido beber bajo ninguna circunstancia; 2 = My child is allowed to drink at home but only on special occasions and under parent supervision / Mi ni\u00f1o(a) tiene permitido beber en casa; 3 = My child can have a drink when he/she asks for one  /Mi ni\u00f1o(a) puede tomar una copa cuando pide una; 4 = My child can drink at home whenever he/she wants to / Mi ni\u00f1o(a) puede beber en casa cuando lo desee; 5 = I don't set rules about my child's drinking / No le pongo reglas a mi ni\u00f1o(a) con respecto al consumo de alcohol; 6 = I haven't made rules yet about my child drinking   /Todav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto al consumo de alcohol",
+        "Levels": {
+            "1": "My child is not allowed to drink under any circumstances  / Mi ni\u00f1o(a) no tiene permitido beber bajo ninguna circunstancia",
+            "2": "My child is allowed to drink at home but only on special occasions and under parent supervision / Mi ni\u00f1o(a) tiene permitido beber en casa",
+            "3": "My child can have a drink when he/she asks for one  /Mi ni\u00f1o(a) puede tomar una copa cuando pide una",
+            "4": "My child can drink at home whenever he/she wants to / Mi ni\u00f1o(a) puede beber en casa cuando lo desee",
+            "5": "I don't set rules about my child's drinking / No le pongo reglas a mi ni\u00f1o(a) con respecto al consumo de alcohol",
+            "6": "I haven't made rules yet about my child drinking   /Todav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto al consumo de alcohol"
+        }
+    },
+    "parent_rules_q1a": {
+        "Description": "Are these the same rules for all family members? /Estas reglas son las mismas para todos los miembros de la familia? | 1 = No, applies only to children, not teen or adults; 2 = No, applies only to children and teen, not adults; 3 = Yes",
+        "Levels": {
+            "1": "No, applies only to children, not teen or adults",
+            "2": "No, applies only to children and teen, not adults",
+            "3": "Yes"
+        }
+    },
+    "parent_rules_q2": {
+        "Description": "Do you have penalties for violating family rules about drinking?? / \u00bfTiene sanciones establecidas por no respetar las reglas familiares con respecto al consumo de alcohol? | 1 = Yes /S\u00ed; 0 = No",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No"
+        }
+    },
+    "parent_rules_q3": {
+        "Description": "Are these rules enforced? / \u00bfSe  hacen cumplir estas reglas? | 0 = No; 1 = Yes /S\u00ed; 4 = I have not had to enforce these rules /No he tenido que hacer cumplir estas reglas",
+        "Levels": {
+            "0": "No",
+            "1": "Yes /S\u00ed",
+            "4": "I have not had to enforce these rules /No he tenido que hacer cumplir estas reglas"
+        }
+    },
+    "parent_rules_q4": {
+        "Description": "What are the family rules about smoking cigarettes for your son/daughter? / \u00bfCu\u00e1les son las reglas familiares que debe seguir su ni\u00f1o(a) con respecto a fumar cigarrillos? | 1 = Not allowed to smoke under any circumstances /No tiene permitido fumar bajo ninguna circunstancia; 2 = Not allowed to smoke in home - no family rules outside home /No tiene permitido fumar en casa; no hay reglas familiares con respecto a fumar fuera de la casa; 3 = Allowed to smoke in designated areas at home Tiene permitido fumar en /\u00e1reas designadas de la casa; 4 = Allowed to smoke anywhere /Tiene permitido fumar donde sea; 5 = I don't set rules about smoking cigarettes /No le pongo reglas con respecto a fumar cigarrillos; 6 = I haven't made rules yet about my child smoking cigarettes /Todav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto a fumar cigarrillos",
+        "Levels": {
+            "1": "Not allowed to smoke under any circumstances /No tiene permitido fumar bajo ninguna circunstancia",
+            "2": "Not allowed to smoke in home - no family rules outside home /No tiene permitido fumar en casa",
+            "3": "Allowed to smoke in designated areas at home Tiene permitido fumar en /\u00e1reas designadas de la casa",
+            "4": "Allowed to smoke anywhere /Tiene permitido fumar donde sea",
+            "5": "I don't set rules about smoking cigarettes /No le pongo reglas con respecto a fumar cigarrillos",
+            "6": "I haven't made rules yet about my child smoking cigarettes /Todav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto a fumar cigarrillos"
+        }
+    },
+    "parent_rules_q5": {
+        "Description": "Are these the same rules for all family members? /Estas reglas son las mismas para todos los miembros de la familia? | 1 = No, applies only to children, not teen or adults; 2 = No, applies only to children and teen, not adults; 3 = Yes",
+        "Levels": {
+            "1": "No, applies only to children, not teen or adults",
+            "2": "No, applies only to children and teen, not adults",
+            "3": "Yes"
+        }
+    },
+    "parent_rules_q6": {
+        "Description": "Do you enforce penalties for violating family rules about smoking? /\u00bfAplica sanciones por no respetar las reglas familiares con respecto a fumar cigarrillos? | 0 = Never /Nunca; 1 = Rarely/ Rara vez; 2 = Sometimes /A veces; 3 = Often/ Con frecuencia; 4 = I have not had to enforce these rules /No he tenido que hacer que cumplan estas reglas",
+        "Levels": {
+            "0": "Never /Nunca",
+            "1": "Rarely/ Rara vez",
+            "2": "Sometimes /A veces",
+            "3": "Often/ Con frecuencia",
+            "4": "I have not had to enforce these rules /No he tenido que hacer que cumplan estas reglas"
+        }
+    },
+    "parent_rules_q7": {
+        "Description": "What are the family rules about using marijuana for your son/daughter? /\u00bfCu\u00e1les son las reglas familiares que debe seguir su ni\u00f1o(a) con respecto al consumo de marihuana? | 1 = Not allowed to use marijuana under any circumstances /No tiene permitido consumir marihuana bajo ninguna circunstancia; 2 = Not allowed to use marijuana in home - no family rules outside home /No tiene permitido consumir marihuana en casa; no hay reglas familiares con respecto al consumo de marihuana fuera de la casa; 3 = Allowed to use marijuana in home with permission /Tiene permitido consumir marihuana en casa; 4 = Allowed to use marijuana in home whenever he/she wants /Tiene permitido consumir marihuana en casa cuando lo desee; 5 = I don't set rules about marijuana use /No pongo reglas con respecto al consumo de marihuana; 6 = I haven't made rules yet about my child's marijuana use T/odav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto al consumo de marihuana",
+        "Levels": {
+            "1": "Not allowed to use marijuana under any circumstances /No tiene permitido consumir marihuana bajo ninguna circunstancia",
+            "2": "Not allowed to use marijuana in home - no family rules outside home /No tiene permitido consumir marihuana en casa",
+            "3": "Allowed to use marijuana in home with permission /Tiene permitido consumir marihuana en casa",
+            "4": "Allowed to use marijuana in home whenever he/she wants /Tiene permitido consumir marihuana en casa cuando lo desee",
+            "5": "I don't set rules about marijuana use /No pongo reglas con respecto al consumo de marihuana",
+            "6": "I haven't made rules yet about my child's marijuana use T/odav\u00eda no le he puesto reglas a mi ni\u00f1o(a) con respecto al consumo de marihuana"
+        }
+    },
+    "parent_rules_q8": {
+        "Description": "Are these the same rules for all family members? / \u00bfEstas reglas son las mismas para todos los miembros de la familia? | 1 = No, applies only to children, not teen or adults; 2 = No, applies only to children and teen, not adults; 3 = Yes",
+        "Levels": {
+            "1": "No, applies only to children, not teen or adults",
+            "2": "No, applies only to children and teen, not adults",
+            "3": "Yes"
+        }
+    },
+    "parent_rules_q9": {
+        "Description": "Do you enforce penalties for violating family rules about using marijuana? /\u00bfAplica sanciones por no respetar las reglas familiares sobre el consumo de marihuana? | 0 = Never /Nunca; 1 = Rarely/ Rara vez; 2 = Sometimes /A veces; 3 = Often/ Con frecuencia; 4 = I have not had to enforce these rules /No he tenido que hacer que cumplan estas reglas",
+        "Levels": {
+            "0": "Never /Nunca",
+            "1": "Rarely/ Rara vez",
+            "2": "Sometimes /A veces",
+            "3": "Often/ Con frecuencia",
+            "4": "I have not had to enforce these rules /No he tenido que hacer que cumplan estas reglas"
+        }
+    },
+    "parent_rules_q_10": {
+        "Description": "What are the family rules about using electronic nicotine or vaping products | 1=Not allowed to use electronic nicotine products under any circumstances ; 2=Not allowed to use electronic nicotine products in home - no family rules outside home ; 3=Allowed to use electronic nicotine products in designated areas at home ; 4=Allowed to use electronic nicotine products anywhere ; 5=I don't set rules about using electronic nicotine products ; 6=I haven't made rules yet about my child using electronic nicotine products",
+        "Levels": {
+            "1": "Not allowed to use electronic nicotine products under any circumstances",
+            "2": "Not allowed to use electronic nicotine products in home - no family rules outside home",
+            "3": "Allowed to use electronic nicotine products in designated areas at home",
+            "4": "Allowed to use electronic nicotine products anywhere",
+            "5": "I don't set rules about using electronic nicotine products",
+            "6": "I haven't made rules yet about my child using electronic nicotine products"
+        }
+    },
+    "parent_rules_q_11": {
+        "Description": "Are these the same rules for all family members? | 1=No=applies only to children=not teen or adults ; 2=No=applies only to children and teen=not adult ; 3=Yes=applies to everyone"
+    },
+    "parent_rules_q_12": {
+        "Description": "Do you enforce penalties for violating family rules about using electronic nicotine or vaping products? | 0=Never ; 1=Rarely  ; 2=Sometimes ; 3=Often ; 4=I have not had to enforce these rules",
+        "Levels": {
+            "0": "Never",
+            "1": "Rarely",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "I have not had to enforce these rules"
+        }
+    },
+    "pr_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

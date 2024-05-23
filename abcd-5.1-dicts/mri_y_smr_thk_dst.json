@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mrisdp_1": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_2": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_3": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_4": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_5": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_6": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_7": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_8": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_9": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_10": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_11": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_12": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_13": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_14": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_15": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_16": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_17": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_18": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_19": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_20": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_21": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_22": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_23": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_24": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_25": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_26": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_27": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_28": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_29": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_30": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_31": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_32": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_33": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_34": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_35": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_36": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_37": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_38": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_39": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_40": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_41": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_42": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_43": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_44": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_45": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_46": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_47": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_48": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_49": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_50": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_51": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_52": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_53": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_54": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_55": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_56": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_57": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_58": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_59": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_60": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_61": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_62": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_63": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_64": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_65": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_66": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_67": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_68": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_69": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_70": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_71": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_72": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_73": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_74": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_75": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_76": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_77": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_78": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_79": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_80": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_81": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_82": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_83": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_84": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_85": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_86": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_87": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_88": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_89": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_90": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_91": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_92": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_93": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_94": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_95": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_96": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_97": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_98": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_99": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_100": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_101": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_102": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_103": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_104": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_105": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_106": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_107": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_108": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_109": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_110": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_111": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_112": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_113": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_114": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_115": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_116": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_117": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_118": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_119": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_120": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_121": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_122": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_123": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_124": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_125": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_126": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_127": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_128": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_129": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_130": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_131": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_132": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_133": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_134": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_135": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_136": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_137": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_138": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_139": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_140": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_141": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_142": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_143": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_144": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_145": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_146": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_147": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_148": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_149": {
+        "Description": "Cortical thickness in mm for left hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_150": {
+        "Description": "Cortical thickness in mm for right hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_151": {
+        "Description": "Cortical thickness in mm for cortical Destrieux ROI mean"
+    }
+}

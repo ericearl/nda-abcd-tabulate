@@ -1,0 +1,921 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_nback_1_suid": {
+        "Description": "nBack #1: Study instance UID"
+    },
+    "iqc_nback_1_seuid": {
+        "Description": "nBack #1: Series instance UID"
+    },
+    "iqc_nback_1_studydate": {
+        "Description": "nBack #1: Study date"
+    },
+    "iqc_nback_1_seriestime": {
+        "Description": "nBack #1: Series time"
+    },
+    "iqc_nback_1_fm_missing": {
+        "Description": "nBack #1: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_1_fm_wronglocus": {
+        "Description": "nBack #1: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_1_fm_invalid": {
+        "Description": "nBack #1: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_1_fm_qc_score": {
+        "Description": "nBack FM #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_1_fm_pc_score": {
+        "Description": "nBack FM #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_1_fm_complete": {
+        "Description": "nBack FM #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_1_qc_score": {
+        "Description": "nBack #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_1_pc_score": {
+        "Description": "nBack #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_1_complete": {
+        "Description": "nBack #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_1_voxvol": {
+        "Description": "nBack #1: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_1_brainvol": {
+        "Description": "nBack #1: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_1_brain_mean": {
+        "Description": "nBack #1: Mean intensity within brain mask"
+    },
+    "iqc_nback_1_brain_std": {
+        "Description": "nBack #1: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_1_nreps": {
+        "Description": "nBack #1: Number of pulse repetitions"
+    },
+    "iqc_nback_1_tr": {
+        "Description": "nBack #1: Repetition time in seconds"
+    },
+    "iqc_nback_1_mean_motion": {
+        "Description": "nBack #1: Mean framewise displacement in mm"
+    },
+    "iqc_nback_1_mean_motion_nody": {
+        "Description": "nBack #1: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_1_mean_motion_filt": {
+        "Description": "nBack #1: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_1_mm_filt_nody": {
+        "Description": "nBack #1: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_1_fwhm_x": {
+        "Description": "nBack #1: Full width half max in x direction"
+    },
+    "iqc_nback_1_fwhm_y": {
+        "Description": "nBack #1: Full width half max in y direction"
+    },
+    "iqc_nback_1_fwhm_z": {
+        "Description": "nBack #1: Full width half max in z direction"
+    },
+    "iqc_nback_1_brain_tsnr_mean": {
+        "Description": "nBack #1: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_1_brain_tsnr_median": {
+        "Description": "nBack #1: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_1_brain_tsnr_std": {
+        "Description": "nBack #1: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_1_sub_02_nody": {
+        "Description": "nBack #1: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_1_sub_02_filt_nody": {
+        "Description": "nBack #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_1_sub_02_filt": {
+        "Description": "nBack #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_1_sub_02": {
+        "Description": "nBack #1: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_2_suid": {
+        "Description": "nBack #2: Study instance UID"
+    },
+    "iqc_nback_2_seuid": {
+        "Description": "nBack #2: Series instance UID"
+    },
+    "iqc_nback_2_studydate": {
+        "Description": "nBack #2: Study date"
+    },
+    "iqc_nback_2_seriestime": {
+        "Description": "nBack #2: Series time"
+    },
+    "iqc_nback_2_fm_missing": {
+        "Description": "nBack #2: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_2_fm_wronglocus": {
+        "Description": "nBack #2: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_2_fm_invalid": {
+        "Description": "nBack #2: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_2_fm_qc_score": {
+        "Description": "nBack FM #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_2_fm_pc_score": {
+        "Description": "nBack FM #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_2_fm_complete": {
+        "Description": "nBack FM #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_2_qc_score": {
+        "Description": "nBack #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_2_pc_score": {
+        "Description": "nBack #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_2_complete": {
+        "Description": "nBack #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_2_voxvol": {
+        "Description": "nBack #2: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_2_brainvol": {
+        "Description": "nBack #2: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_2_brain_mean": {
+        "Description": "nBack #2: Mean intensity within brain mask"
+    },
+    "iqc_nback_2_brain_std": {
+        "Description": "nBack #2: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_2_nreps": {
+        "Description": "nBack #2: Number of pulse repetitions"
+    },
+    "iqc_nback_2_tr": {
+        "Description": "nBack #2: Repetition time in seconds"
+    },
+    "iqc_nback_2_mean_motion": {
+        "Description": "nBack #2: Mean framewise displacement in mm"
+    },
+    "iqc_nback_2_mean_motion_nody": {
+        "Description": "nBack #2: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_2_mean_motion_filt": {
+        "Description": "nBack #2: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_2_mm_filt_nody": {
+        "Description": "nBack #2: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_2_fwhm_x": {
+        "Description": "nBack #2: Full width half max in x direction"
+    },
+    "iqc_nback_2_fwhm_y": {
+        "Description": "nBack #2: Full width half max in y direction"
+    },
+    "iqc_nback_2_fwhm_z": {
+        "Description": "nBack #2: Full width half max in z direction"
+    },
+    "iqc_nback_2_brain_tsnr_mean": {
+        "Description": "nBack #2: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_2_brain_tsnr_median": {
+        "Description": "nBack #2: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_2_brain_tsnr_std": {
+        "Description": "nBack #2: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_2_sub_02_nody": {
+        "Description": "nBack #2: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_2_sub_02_filt_nody": {
+        "Description": "nBack #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_2_sub_02_filt": {
+        "Description": "nBack #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_2_sub_02": {
+        "Description": "nBack #2: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_3_suid": {
+        "Description": "nBack #3: Study instance UID"
+    },
+    "iqc_nback_3_seuid": {
+        "Description": "nBack #3: Series instance UID"
+    },
+    "iqc_nback_3_studydate": {
+        "Description": "nBack #3: Study date"
+    },
+    "iqc_nback_3_seriestime": {
+        "Description": "nBack #3: Series time"
+    },
+    "iqc_nback_3_fm_missing": {
+        "Description": "nBack #3: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_3_fm_wronglocus": {
+        "Description": "nBack #3: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_3_fm_invalid": {
+        "Description": "nback #3: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_3_fm_qc_score": {
+        "Description": "nBack FM #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_3_fm_pc_score": {
+        "Description": "nBack FM #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_3_fm_complete": {
+        "Description": "nBack FM #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_3_qc_score": {
+        "Description": "nBack #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_3_pc_score": {
+        "Description": "nBack #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_3_complete": {
+        "Description": "nBack #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_3_voxvol": {
+        "Description": "nBack #3: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_3_brainvol": {
+        "Description": "nBack #3: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_3_brain_mean": {
+        "Description": "nBack #3: Mean intensity within brain mask"
+    },
+    "iqc_nback_3_brain_std": {
+        "Description": "nBack #3: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_3_nreps": {
+        "Description": "nBack #3: Number of pulse repetitions"
+    },
+    "iqc_nback_3_tr": {
+        "Description": "nBack #3: Repetition time in seconds"
+    },
+    "iqc_nback_3_mean_motion": {
+        "Description": "nBack #3: Mean framewise displacement in mm"
+    },
+    "iqc_nback_3_mean_motion_nody": {
+        "Description": "nBack #3: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_3_mean_motion_filt": {
+        "Description": "nBack #3: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_3_mm_filt_nody": {
+        "Description": "nBack #3: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_3_fwhm_x": {
+        "Description": "nBack #3: Full width half max in x direction"
+    },
+    "iqc_nback_3_fwhm_y": {
+        "Description": "nBack #3: Full width half max in y direction"
+    },
+    "iqc_nback_3_fwhm_z": {
+        "Description": "nBack #3: Full width half max in z direction"
+    },
+    "iqc_nback_3_brain_tsnr_mean": {
+        "Description": "nBack #3: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_3_brain_tsnr_median": {
+        "Description": "nBack #3: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_3_brain_tsnr_std": {
+        "Description": "nBack #3: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_3_sub_02_nody": {
+        "Description": "nBack #3: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_3_sub_02_filt_nody": {
+        "Description": "nBack #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_3_sub_02_filt": {
+        "Description": "nBack #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_3_sub_02": {
+        "Description": "nBack #3: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_4_suid": {
+        "Description": "nBack #4: Study instance UID"
+    },
+    "iqc_nback_4_seuid": {
+        "Description": "nBack #4: Series instance UID"
+    },
+    "iqc_nback_4_studydate": {
+        "Description": "nBack #4: Study date"
+    },
+    "iqc_nback_4_seriestime": {
+        "Description": "nBack #4: Series time"
+    },
+    "iqc_nback_4_fm_missing": {
+        "Description": "nBack #4: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_4_fm_wronglocus": {
+        "Description": "nBack #4: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_4_fm_invalid": {
+        "Description": "nBack #4: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_4_fm_qc_score": {
+        "Description": "nBack FM #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_4_fm_pc_score": {
+        "Description": "nBack FM #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_4_fm_complete": {
+        "Description": "nBack FM #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_4_qc_score": {
+        "Description": "nBack #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_4_pc_score": {
+        "Description": "nBack #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_4_complete": {
+        "Description": "nBack #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_4_voxvol": {
+        "Description": "nBack #4: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_4_brainvol": {
+        "Description": "nBack #4: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_4_brain_mean": {
+        "Description": "nBack #4: Mean intensity within brain mask"
+    },
+    "iqc_nback_4_brain_std": {
+        "Description": "nBack #4: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_4_nreps": {
+        "Description": "nBack #4: Number of pulse repetitions"
+    },
+    "iqc_nback_4_tr": {
+        "Description": "nBack #4: Repetition time in seconds"
+    },
+    "iqc_nback_4_mean_motion": {
+        "Description": "nBack #4: Mean framewise displacement in mm"
+    },
+    "iqc_nback_4_mean_motion_nody": {
+        "Description": "nBack #4: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_4_mean_motion_filt": {
+        "Description": "nBack #4: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_4_mm_filt_nody": {
+        "Description": "nBack #4: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_4_fwhm_x": {
+        "Description": "nBack #4: Full width half max in x direction"
+    },
+    "iqc_nback_4_fwhm_y": {
+        "Description": "nBack #4: Full width half max in y direction"
+    },
+    "iqc_nback_4_fwhm_z": {
+        "Description": "nBack #4: Full width half max in z direction"
+    },
+    "iqc_nback_4_brain_tsnr_mean": {
+        "Description": "nBack #4: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_4_brain_tsnr_median": {
+        "Description": "nBack #4: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_4_brain_tsnr_std": {
+        "Description": "nBack #4: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_4_sub_02_nody": {
+        "Description": "nBack #4: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_4_sub_02_filt_nody": {
+        "Description": "nBack #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_4_sub_02_filt": {
+        "Description": "nBack #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_4_sub_02": {
+        "Description": "nBack #4: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_5_suid": {
+        "Description": "nBack #5: Study instance UID"
+    },
+    "iqc_nback_5_seuid": {
+        "Description": "nBack #5: Series instance UID"
+    },
+    "iqc_nback_5_studydate": {
+        "Description": "nBack #5: Study date"
+    },
+    "iqc_nback_5_seriestime": {
+        "Description": "nBack #5: Series time"
+    },
+    "iqc_nback_5_fm_missing": {
+        "Description": "nBack #5: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_5_fm_wronglocus": {
+        "Description": "nBack #5: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_5_fm_invalid": {
+        "Description": "nBack #5: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_5_fm_qc_score": {
+        "Description": "nBack FM #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_5_fm_pc_score": {
+        "Description": "nBack FM #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_5_fm_complete": {
+        "Description": "nBack FM #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_5_qc_score": {
+        "Description": "nBack #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_5_pc_score": {
+        "Description": "nBack #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_5_complete": {
+        "Description": "nBack #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_5_voxvol": {
+        "Description": "nBack #5: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_5_brainvol": {
+        "Description": "nBack #5: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_5_brain_mean": {
+        "Description": "nBack #5: Mean intensity within brain mask"
+    },
+    "iqc_nback_5_brain_std": {
+        "Description": "nBack #5: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_5_nreps": {
+        "Description": "nBack #5: Number of pulse repetitions"
+    },
+    "iqc_nback_5_tr": {
+        "Description": "nBack #5: Repetition time in seconds"
+    },
+    "iqc_nback_5_mean_motion": {
+        "Description": "nBack #5: Mean framewise displacement in mm"
+    },
+    "iqc_nback_5_mean_motion_nody": {
+        "Description": "nBack #5: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_5_mean_motion_filt": {
+        "Description": "nBack #5: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_5_mm_filt_nody": {
+        "Description": "nBack #5: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_5_fwhm_x": {
+        "Description": "nBack #5: Full width half max in x direction"
+    },
+    "iqc_nback_5_fwhm_y": {
+        "Description": "nBack #5: Full width half max in y direction"
+    },
+    "iqc_nback_5_fwhm_z": {
+        "Description": "nBack #5: Full width half max in z direction"
+    },
+    "iqc_nback_5_brain_tsnr_mean": {
+        "Description": "nBack #5: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_5_brain_tsnr_median": {
+        "Description": "nBack #5: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_5_brain_tsnr_std": {
+        "Description": "nBack #5: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_5_sub_02_nody": {
+        "Description": "nBack #5: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_5_sub_02_filt_nody": {
+        "Description": "nBack #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_5_sub_02_filt": {
+        "Description": "nBack #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_5_sub_02": {
+        "Description": "nBack #5: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_6_suid": {
+        "Description": "nBack #6: Study instance UID"
+    },
+    "iqc_nback_6_seuid": {
+        "Description": "nBack #6: Series instance UID"
+    },
+    "iqc_nback_6_studydate": {
+        "Description": "nBack #6: Study date"
+    },
+    "iqc_nback_6_seriestime": {
+        "Description": "nBack #6: Series time"
+    },
+    "iqc_nback_6_fm_missing": {
+        "Description": "nBack #6: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_nback_6_fm_wronglocus": {
+        "Description": "nBack #6: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_nback_6_fm_invalid": {
+        "Description": "nBack #6: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_nback_6_fm_qc_score": {
+        "Description": "nBack FM #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_6_fm_pc_score": {
+        "Description": "nBack FM #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_6_fm_complete": {
+        "Description": "nBack FM #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_6_qc_score": {
+        "Description": "nBack #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_6_pc_score": {
+        "Description": "nBack #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_nback_6_complete": {
+        "Description": "nBack #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_nback_6_voxvol": {
+        "Description": "nBack #6: Volume of single voxel (mm^3)"
+    },
+    "iqc_nback_6_brainvol": {
+        "Description": "nBack #6: Volume of brain mask (mm^3)"
+    },
+    "iqc_nback_6_brain_mean": {
+        "Description": "nBack #6: Mean intensity within brain mask"
+    },
+    "iqc_nback_6_brain_std": {
+        "Description": "nBack #6: Standard deviation of intensities within brain mask"
+    },
+    "iqc_nback_6_nreps": {
+        "Description": "nBack #6: Number of pulse repetitions"
+    },
+    "iqc_nback_6_tr": {
+        "Description": "nBack #6: Repetition time in seconds"
+    },
+    "iqc_nback_6_mean_motion": {
+        "Description": "nBack #6: Mean framewise displacement in mm"
+    },
+    "iqc_nback_6_mean_motion_nody": {
+        "Description": "nBack #6: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_nback_6_mean_motion_filt": {
+        "Description": "nBack #6: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_nback_6_mm_filt_nody": {
+        "Description": "nBack #6: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_6_fwhm_x": {
+        "Description": "nBack #6: Full width half max in x direction"
+    },
+    "iqc_nback_6_fwhm_y": {
+        "Description": "nBack #6: Full width half max in y direction"
+    },
+    "iqc_nback_6_fwhm_z": {
+        "Description": "nBack #6: Full width half max in z direction"
+    },
+    "iqc_nback_6_brain_tsnr_mean": {
+        "Description": "nBack #6: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_6_brain_tsnr_median": {
+        "Description": "nBack #6: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_6_brain_tsnr_std": {
+        "Description": "nBack #6: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_nback_6_sub_02_nody": {
+        "Description": "nBack #6: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_nback_6_sub_02_filt_nody": {
+        "Description": "nBack #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_nback_6_sub_02_filt": {
+        "Description": "nBack #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_nback_6_sub_02": {
+        "Description": "nBack #6: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_nback_total_ser": {
+        "Description": "nBack: Total number received"
+    },
+    "iqc_nback_total_passpc": {
+        "Description": "nBack: Number that passed protocol compliance"
+    },
+    "iqc_nback_total_passqc": {
+        "Description": "nBack: Number that passed visual quality control (QC)"
+    },
+    "iqc_nback_good_ser": {
+        "Description": "nBack: Number of runs that were complete, passed protocol compliance and QC, and had field maps acquired within 2 scans prior to the run that were complete and passed QC and protocol compliance"
+    },
+    "iqc_nback_ok_ser": {
+        "Description": "nBack: Number of series that are complete and passed QC (ignoring PC)"
+    },
+    "iqc_nback_bad_ser": {
+        "Description": "nBack: Number that failed either protocol compliance or QC"
+    },
+    "iqc_nback_ser_pc_issues": {
+        "Description": "nBack: Number with protocol compliance issues"
+    },
+    "iqc_nback_ser_qcs": {
+        "Description": "nBack: Number with QC issues"
+    },
+    "iqc_nback_ser_incomp": {
+        "Description": "nBack: Number of series missing files at DAIC"
+    },
+    "iqc_nback_good_ser_wofm": {
+        "Description": "nBack: Number that passed protocol compliance and QC ignoring field maps"
+    },
+    "iqc_nback_fm_missing": {
+        "Description": "nBack FM: Number of missing field maps"
+    },
+    "iqc_nback_fm_wronglocus": {
+        "Description": "nBack FM: Number of field maps not acquired within 2 scans prior to fMRI run"
+    },
+    "iqc_nback_fm_invalid": {
+        "Description": "nBack FM: number of invalid field maps"
+    },
+    "iqc_nback_fm_pc_issues": {
+        "Description": "nBack FM: Number with protocol compliance issues"
+    },
+    "iqc_nback_fm_qcs": {
+        "Description": "nBack FM: Number with QC issues"
+    },
+    "iqc_nback_fm_incomp": {
+        "Description": "nBack FM: Number of series missing files at DAIC"
+    },
+    "iqc_nback_gh_qc": {
+        "Description": "nBack: Number with ghosting"
+    },
+    "iqc_nback_hb_qc": {
+        "Description": "nBack: Number with horizontal banding"
+    },
+    "iqc_nback_sus_qc": {
+        "Description": "nBack: Number with susceptibility artifact"
+    },
+    "iqc_nback_moire_qc": {
+        "Description": "nBack: Number with moire artifact"
+    },
+    "iqc_nback_other_qc": {
+        "Description": "nBack: Number with other QC issue"
+    },
+    "iqc_nback_fm_gh_qc": {
+        "Description": "nBack FM: Number with ghosting"
+    },
+    "iqc_nback_fm_hb_qc": {
+        "Description": "nBack FM: Number with horizontal banding"
+    },
+    "iqc_nback_fm_sus_qc": {
+        "Description": "nBack FM: Number with susceptibility artifact"
+    },
+    "iqc_nback_fm_moire_qc": {
+        "Description": "nBack FM: Number with moire artifact"
+    },
+    "iqc_nback_fm_other_qc": {
+        "Description": "nBack FM: Number with other QC issue"
+    },
+    "iqc_nback_all_voxvol": {
+        "Description": "nBack: Mean volume of single voxel averaged across all scans (mm^3)"
+    },
+    "iqc_nback_ok_voxvol": {
+        "Description": "nBack: Mean volume of single voxel averaged across all OK scans (mm^3)"
+    },
+    "iqc_nback_all_brainvol": {
+        "Description": "nBack: Mean volume of brain mask averaged across all scans (mm^3)"
+    },
+    "iqc_nback_ok_brainvol": {
+        "Description": "nBack: Mean volume of brain mask for averaged across all OK scans (mm^3)"
+    },
+    "iqc_nback_all_brain_mean": {
+        "Description": "nBack: Mean intensity within brain mask averaged across all scans"
+    },
+    "iqc_nback_ok_brain_mean": {
+        "Description": "nBack: Mean intensity within brain mask averaged across all OK scans"
+    },
+    "iqc_nback_all_brain_std": {
+        "Description": "nBack: Standard deviation of intensities within brain mask averaged across all scans"
+    },
+    "iqc_nback_ok_brain_std": {
+        "Description": "nBack: Standard deviation of intensities within brain mask averaged across all OK scans"
+    },
+    "iqc_nback_all_nreps": {
+        "Description": "nBack: Total number of repetitions for all scans"
+    },
+    "iqc_nback_ok_nreps": {
+        "Description": "nBack: Total number of repetitions for all OK scans"
+    },
+    "iqc_nback_all_tr": {
+        "Description": "nBack: Repetition time for all scans"
+    },
+    "iqc_nback_ok_tr": {
+        "Description": "nBack: Repetition time for all OK scans"
+    },
+    "iqc_nback_all_mean_motion": {
+        "Description": "nBack: Mean framewise displacement in mm for all scans"
+    },
+    "iqc_nback_ok_mean_motion": {
+        "Description": "nBack: Mean framewise displacement in mm for all OK scans"
+    },
+    "iqc_nback_all_mean_motion_nody": {
+        "Description": "nBack: Mean framewise displacement in mm for all scans without y-displacement"
+    },
+    "iqc_nback_ok_mean_motion_nody": {
+        "Description": "nBack: Mean framewise displacement in mm for all OK scans without y-displacement"
+    },
+    "iqc_nback_all_mean_motion_filt": {
+        "Description": "nBack: Mean framewise displacement in mm using the filtering technique for all scans"
+    },
+    "iqc_nback_ok_mean_motion_filt": {
+        "Description": "nBack: Mean framewise displacement in mm using the filtering technique for all OK scans"
+    },
+    "iqc_nback_all_mm_filt_nody": {
+        "Description": "nBack: Mean framewise displacement in mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_nback_ok_mm_filt_nody": {
+        "Description": "nBack: Mean framewise displacement in mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "iqc_nback_all_fwhm_x": {
+        "Description": "nBack: Full width half max in x direction for all scans"
+    },
+    "iqc_nback_ok_fwhm_x": {
+        "Description": "nBack: Full width half max in x direction for all OK scans"
+    },
+    "iqc_nback_all_fwhm_y": {
+        "Description": "nBack: Full width half max in y direction for all scans"
+    },
+    "iqc_nback_ok_fwhm_y": {
+        "Description": "nBack: Full width half max in y direction for all OK scans"
+    },
+    "iqc_nback_all_fwhm_z": {
+        "Description": "nBack: Full width half max in z direction for all scans"
+    },
+    "iqc_nback_ok_fwhm_z": {
+        "Description": "nBack: Full width half max in z direction for all OK scans"
+    },
+    "iqc_nback_all_brain_tsnr_mean": {
+        "Description": "nBack: Mean temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_nback_ok_brain_tsnr_mean": {
+        "Description": "nBack: Mean temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_nback_all_b_tsnr_median": {
+        "Description": "nBack: Median temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_nback_ok_brain_tsnr_median": {
+        "Description": "nBack: Median temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_nback_all_brain_tsnr_std": {
+        "Description": "nBack: Standard deviation of temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_nback_ok_brain_tsnr_std": {
+        "Description": "nBack: Standard deviation of temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_nback_total_sub_02_nody": {
+        "Description": "nBack: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all scans"
+    },
+    "iqc_nback_ok_sub_02_nody": {
+        "Description": "nBack: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all OK scans"
+    },
+    "iqc_nback_tl_sub_02_filt_nody": {
+        "Description": "nBack: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_nback_total_sub_02_filt": {
+        "Description": "nBack: Total number of seconds with framewise displacement below 0.2mm using the filtering technique for all scans"
+    },
+    "iqc_nback_total_sub_02": {
+        "Description": "nBack: Total number of seconds of run(s) with framewise displacement below 0.2mm"
+    },
+    "iqc_nback_ok_sub_02": {
+        "Description": "nBack: Total number of seconds with framewise displacement below 0.2mm for all OK scans"
+    },
+    "iqc_nback_ok_sub_02_filt": {
+        "Description": "nBack: Total number of seconds of framewise displacement below 0.2mm using the filtering technique for all OK scans"
+    },
+    "iqc_nback_ep_behav_readable": {
+        "Description": "Able to read behavioral data from E-Prime nBack file"
+    },
+    "iqc_nback_ep_contents_ok": {
+        "Description": "File contains an EPrime spreadsheet"
+    },
+    "iqc_nback_ep_exper_ok": {
+        "Description": "File contains EPrime nBack data"
+    },
+    "iqc_nback_epextrabehavreadable": {
+        "Description": "Able to read behavioral data from EPrime nBack REC file"
+    },
+    "iqc_nback_ep_run": {
+        "Description": "Run, inside the E-Prime nBack file that best matches the corresponding image series"
+    },
+    "iqc_nback_fm_fov_qc": {
+        "Description": "nBack FM: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_nback_fm_line_qc": {
+        "Description": "nBack FM: Number of dark axial slices across the brain"
+    },
+    "iqc_nback_fov_qc": {
+        "Description": "nBack: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_nback_line_qc": {
+        "Description": "nBack: Number of dark axial slices across the brain"
+    },
+    "iqc_nback_mbr_qc": {
+        "Description": "nBack: Number of multiband interleave degradation"
+    },
+    "iqc_nback_ok_sub_02_filt_nody": {
+        "Description": "nBack: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "eprime_mismatch_ok_nback": {
+        "Description": "Ignore difference between time of nBack image series and nBack E-prime file"
+    },
+    "iqc_nback_ep_date": {
+        "Description": "Eprime nBack date"
+    },
+    "iqc_nback_ep_datetime_found": {
+        "Description": "Eprime nBack file found and readable"
+    },
+    "iqc_nback_ep_file_found": {
+        "Description": "nBACK E-prime file found and readable"
+    },
+    "iqc_nback_ep_file_resf": {
+        "Description": "Diagnostic number, formed by summing:       File found?   0  -->  [Unable to find file];    Encoding:   1,      2  -->  ['utf-8','utf-16'];   Separator: 10,     20  -->  [Tab, Comma];    Quoted rows?   0,    100  -->  [No, Yes];  Start_time_info:              0,   1000  -->  [Found, Unable to extract]; File read?  0,  10000  -->  [Yes,   Unable to read];  Filename contains '()':   100000  -->  [Yes];   Experiment matches filename?    1000000  -->  [No]"
+    },
+    "iqc_nback_ep_lap_missing": {
+        "Description": "Nback eprime file (laptop) missing"
+    },
+    "iqc_nback_ep_pguid_mis": {
+        "Description": "nBack eprime data file has mismatched pGUID"
+    },
+    "iqc_nback_ep_scan_missing": {
+        "Description": "Nback eprime file (scanner) missing"
+    },
+    "iqcnbackeptreltoseriesmax": {
+        "Description": "Maximum time difference found between E-prime nBack file and associated fMRI or MRI from the same session   (Float),  minutes."
+    },
+    "iqcnbackeptreltoseriesmin": {
+        "Description": "Minimum time difference found between E-prime nBack file and associated fMRI or MRI from the same session   (Float),  minutes."
+    },
+    "iqc_nback_ep_t_series_match": {
+        "Description": "NBACK imaging-series and behavioral-data files match, i.e. time difference less than a threshold time."
+    },
+    "iqc_nback_ep_time": {
+        "Description": "Eprime nBack starting time"
+    },
+    "iqc_nback_eprime_missing": {
+        "Description": "nBACK E-prime file missing"
+    },
+    "iqc_nback_epx_file_found": {
+        "Description": "nBACK extra E-prime file found and readable"
+    },
+    "iqc_nback_epx_missing": {
+        "Description": "nBACK extra E-prime file missing"
+    },
+    "iqc_nback_epx_pguid_mis": {
+        "Description": "nBack extra eprime data file has mismatched pGUID"
+    },
+    "iqc_nback_imported": {
+        "Description": "nBACK: Total number imported"
+    },
+    "iqc_nback_missing": {
+        "Description": "nBACK: Total number missing"
+    },
+    "iqc_nback_missing_ks": {
+        "Description": "nBACK: Total number with missing kspace data"
+    },
+    "iqc_nback_needrawqc": {
+        "Description": "nBack: at least one series needs rawQC"
+    },
+    "iqc_nback_procfail": {
+        "Description": "nBack: at least one series has a processing error before autoQC"
+    },
+    "iqc_nback_received": {
+        "Description": "nBACK: Total number received"
+    },
+    "iqc_nback_recon_err": {
+        "Description": "nBACK: Total number with reconstruction errors"
+    },
+    "iqc_nback_recon_req": {
+        "Description": "nBACK: Total number require reconstruction"
+    },
+    "iqc_nback_reconned": {
+        "Description": "nBACK: Total number reconstructed"
+    },
+    "iqc_nback_rename_err": {
+        "Description": "nBack: Total number with rename error"
+    },
+    "iqc_nback_series_time": {
+        "Description": "Time of first NBACK imaging series"
+    },
+    "iqc_nback_study_date": {
+        "Description": "Date of first NBACK imaging series"
+    },
+    "iqc_nback_unpack_err": {
+        "Description": "nBACK: Total number with unpack errors"
+    },
+    "iqc_nback_unpacked": {
+        "Description": "nBACK: Total number unpacked"
+    },
+    "iqc_nback_waitautoqc": {
+        "Description": "nBack: at least one series is waiting for autoQC"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_state_sexism_factor": {
+        "Description": "State level indicators of sexism from survey and implicit bias measures"
+    },
+    "reshist_state_so_factor": {
+        "Description": "State level indicators of bias against sexual orientation from structural variables"
+    }
+}

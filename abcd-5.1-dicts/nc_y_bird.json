@@ -1,0 +1,88 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bird_scr_score": {
+        "Description": "Score"
+    },
+    "bird_scr_meandotlatency": {
+        "Description": "Mean dot latency"
+    },
+    "bird_scr_challenge_latency": {
+        "Description": "Challenge latency"
+    },
+    "bird_scr_quit": {
+        "Description": "Quit"
+    },
+    "bird_scr_lvl3_duration": {
+        "Description": "Level 3 duration"
+    },
+    "bird_scr_lvl1_correct": {
+        "Description": "Level 1 correct"
+    },
+    "bird_scr_lvl2_a_correct": {
+        "Description": "Level 2 a correct"
+    },
+    "bird_scr_lvl2_b_correct": {
+        "Description": "Level 2 b correct"
+    },
+    "bird_scr_lvl2_correct": {
+        "Description": "Level 2 correct"
+    },
+    "birc_src_lvl3_correct": {
+        "Description": "Level 3 correct"
+    },
+    "bird_scr_pre_anxiety": {
+        "Description": "Pre-anxiety"
+    },
+    "bird_scr_pre_frustration": {
+        "Description": "Pre-frustration"
+    },
+    "bird_scr_pre_irritability": {
+        "Description": "Pre-irritability"
+    },
+    "bird_scr_pre_happiness": {
+        "Description": "Pre-happiness"
+    },
+    "bird_scr_post_anxiety": {
+        "Description": "Post-anxiety"
+    },
+    "bird_scr_post_frustration": {
+        "Description": "Post-frustration"
+    },
+    "bird_scr_post_irritability": {
+        "Description": "Post-irritability"
+    },
+    "bird_scr_post_happiness": {
+        "Description": "Post-happiness"
+    },
+    "neurocog_2_bird___1": {
+        "Description": "Method of BIRD administration [Check all that apply]: 1, Audio | 1=Yes; 0=No ([sched_delay] = '9' and [sched_hybrid] = '1') and [event-name] = '4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No ("
+        }
+    },
+    "neurocog_2_bird___2": {
+        "Description": "Method of BIRD administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No ([sched_delay] = '9' and [sched_hybrid] = '1') and [event-name] = '4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No ("
+        }
+    },
+    "neurocog_2_bird___3": {
+        "Description": "Method of BIRD administration [Check all that apply]: 3, In person (ONLY if issues arise and hybrid) | 1=Yes; 0=No ([sched_delay] = '9' and [sched_hybrid] = '1') and [event-name] = '4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No ("
+        }
+    },
+    "neurocog_2_bird___4": {
+        "Description": "Method of BIRD administration [Check all that apply]: 4, Unmonitored | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtitd_scts_3rdvt": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI 3rd-ventricle"
+    },
+    "dmri_dtitd_scts_4thvt": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI 4th-ventricle"
+    },
+    "dmri_dtitd_scts_accarealh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-accumbens-area"
+    },
+    "dmri_dtitd_scts_accarearh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-accumbens-area"
+    },
+    "dmri_dtitd_scts_amygdalalh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-amygdala"
+    },
+    "dmri_dtitd_scts_amygdalarh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-amygdala"
+    },
+    "dmri_dtitd_scts_brainstem": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI brain-stem"
+    },
+    "dmri_dtitd_scts_caudatelh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-caudate"
+    },
+    "dmri_dtitd_scts_caudaterh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-caudate"
+    },
+    "dmri_dtitd_scts_cblcortexlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-cerebellum-cortex"
+    },
+    "dmri_dtitd_scts_cblcortexrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-cerebellum-cortex"
+    },
+    "dmri_dtitd_scts_cblwmlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-cerebellum-white-matter"
+    },
+    "dmri_dtitd_scts_cblwmrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-cerebellum-white-matter"
+    },
+    "dmri_dtitd_scts_crwmlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-cerebral-white-matter"
+    },
+    "dmri_dtitd_scts_crwmrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-cerebral-white-matter"
+    },
+    "dmri_dtitd_scts_csf": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI csf"
+    },
+    "dmri_dtitd_scts_hpuslh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-hippocampus"
+    },
+    "dmri_dtitd_scts_hpusrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-hippocampus"
+    },
+    "dmri_dtitd_scts_inflatventlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-inf-lat-vent"
+    },
+    "dmri_dtitd_scts_inflatventrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-inf-lat-vent"
+    },
+    "dmri_dtitd_scts_lvtlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-lateral-ventricle"
+    },
+    "dmri_dtitd_scts_lvtrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-lateral-ventricle"
+    },
+    "dmri_dtitd_scts_pdlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-pallidum"
+    },
+    "dmri_dtitd_scts_pdrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-pallidum"
+    },
+    "dmri_dtitd_scts_putamenlh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-putamen"
+    },
+    "dmri_dtitd_scts_putamenrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-putamen"
+    },
+    "dmri_dtitd_scts_thplh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-thalamus-proper"
+    },
+    "dmri_dtitd_scts_thprh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-thalamus-proper"
+    },
+    "dmri_dtitd_scts_ventraldclh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI left-ventraldc"
+    },
+    "dmri_dtitd_scts_ventraldcrh": {
+        "Description": "Average transverse diffusion coefficient within ASEG ROI right-ventraldc"
+    }
+}

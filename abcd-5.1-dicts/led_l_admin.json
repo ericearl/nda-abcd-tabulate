@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_percentile": {
+        "Description": "percentage of time spent at primary residential address"
+    },
+    "reshist_addr2_percentile": {
+        "Description": "percentage of time spent at a second residential address"
+    },
+    "reshist_addr3_percentile": {
+        "Description": "percentage of time spent at a third residential address"
+    },
+    "reshist_addr1_years": {
+        "Description": "Residential history years of residence 1"
+    },
+    "reshist_addr2_years": {
+        "Description": "Residential history years of residence 2"
+    },
+    "reshist_addr3_years": {
+        "Description": "Residential history years of residence 3"
+    }
+}

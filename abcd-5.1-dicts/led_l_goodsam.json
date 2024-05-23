@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_anygsl": {
+        "Description": "Residential history derived - indicates if any type of Good Samaritan law was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_gsl_arrest": {
+        "Description": "Residential history derived - indicates if Good Samaritan law that provides protection from arrest for controlled substance possession was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_anygsl": {
+        "Description": "Residential history derived - indicates if any type of Good Samaritan law was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_gsl_arrest": {
+        "Description": "Residential history derived - indicates if Good Samaritan law that provides protection from arrest for controlled substance possession was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_anygsl": {
+        "Description": "Residential history derived - indicates if any type of Good Samaritan law was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_gsl_arrest": {
+        "Description": "Residential history derived - indicates if Good Samaritan law that provides protection from arrest for controlled substance possession was effective at date of baseline visit (address 3)"
+    }
+}

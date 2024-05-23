@@ -1,0 +1,114 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_thick_cf2_frlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 2 clusters-lh-frontal"
+    },
+    "smri_thick_cf2_ptlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 2 clusters-lh-posterior"
+    },
+    "smri_thick_cf4_frlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-lh-frontal"
+    },
+    "smri_thick_cf4_occlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-lh-occipital"
+    },
+    "smri_thick_cf4_tmlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-lh-temporal"
+    },
+    "smri_thick_cf4_pllh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-lh-parietal"
+    },
+    "smri_thick_cf12_cnlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-central"
+    },
+    "smri_thick_cf12_occlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-occipital"
+    },
+    "smri_thick_cf12_ptoltmlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-posterolateraltemporal"
+    },
+    "smri_thick_cf12_supllh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-superiorparietal"
+    },
+    "smri_thick_cf12_obfrlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-orbitofrontal"
+    },
+    "smri_thick_cf12_sutmlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-superiortemporal"
+    },
+    "smri_thick_cf12_ifpllh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-inferiorparietal"
+    },
+    "smri_thick_cf12_dmfrlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-dorsomedialfrontal"
+    },
+    "smri_thick_cf12_aomtmlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-anteromedialtemporal"
+    },
+    "smri_thick_cf12_pclh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-precuneus"
+    },
+    "smri_thick_cf12_dlprefrlh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-dorsolateralprefrontal"
+    },
+    "smri_thick_cf12_parsopclh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-lh-parsopercularis"
+    },
+    "smri_thick_cf2_frrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 2 clusters-rh-frontal"
+    },
+    "smri_thick_cf2_ptrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 2 clusters-rh-posterior"
+    },
+    "smri_thick_cf4_frrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-rh-frontal"
+    },
+    "smri_thick_cf4_occrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-rh-occipital"
+    },
+    "smri_thick_cf4_tmrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-rh-temporal"
+    },
+    "smri_thick_cf4_plrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 4 clusters-rh-parietal"
+    },
+    "smri_thick_cf12_cnrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-central"
+    },
+    "smri_thick_cf12_occrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-occipital"
+    },
+    "smri_thick_cf12_ptoltmrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-posterolateraltemporal"
+    },
+    "smri_thick_cf12_suplrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-superiorparietal"
+    },
+    "smri_thick_cf12_obfrrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-orbitofrontal"
+    },
+    "smri_thick_cf12_sutmrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-superiortemporal"
+    },
+    "smri_thick_cf12_ifplrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-inferiorparietal"
+    },
+    "smri_thick_cf12_dmfrrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-dorsomedialfrontal"
+    },
+    "smri_thick_cf12_aomtmrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-anteromedialtemporal"
+    },
+    "smri_thick_cf12_pcrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-precuneus"
+    },
+    "smri_thick_cf12_dlprefrrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-dorsolateralprefrontal"
+    },
+    "smri_thick_cf12_parsopcrh": {
+        "Description": "Weighted average thickness for genetically derived parcellation with 12 clusters-rh-parsopercularis"
+    }
+}

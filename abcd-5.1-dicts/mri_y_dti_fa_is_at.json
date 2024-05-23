@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtifa_fiberat_allfibers": {
+        "Description": "Average fractional anisotropy within all DTI atlas tract fibers"
+    },
+    "dmri_dtifa_fiberat_allfiblh": {
+        "Description": "Average fractional anisotropy within left hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtifa_fiberat_allfcclh": {
+        "Description": "Average fractional anisotropy within left hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtifa_fiberat_allfccrh": {
+        "Description": "Average fractional anisotropy within right hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtifa_fiberat_allfibrh": {
+        "Description": "Average fractional anisotropy within right hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtifa_fiberat_atrlh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left anterior thalamic radiations"
+    },
+    "dmri_dtifa_fiberat_atrrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right anterior thalamic radiations"
+    },
+    "dmri_dtifa_fiberat_cc": {
+        "Description": "Average fractional anisotropy within DTI atlas tract corpus callosum"
+    },
+    "dmri_dtifa_fiberat_cgclh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left cingulate cingulum"
+    },
+    "dmri_dtifa_fiberat_cgcrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right cingulate cingulum"
+    },
+    "dmri_dtifa_fiberat_cghlh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left parahippocampal cingulum"
+    },
+    "dmri_dtifa_fiberat_cghrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right parahippocampal cingulum"
+    },
+    "dmri_dtifa_fiberat_cstlh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left corticospinal/pyramidal"
+    },
+    "dmri_dtifa_fiberat_cstrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right corticospinal/pyramidal"
+    },
+    "dmri_dtifa_fiberat_fmaj": {
+        "Description": "Average fractional anisotropy within DTI atlas tract foreceps major"
+    },
+    "dmri_dtifa_fiberat_fmin": {
+        "Description": "Average fractional anisotropy within DTI atlas tract foreceps minor"
+    },
+    "dmri_dtifa_fiberat_fscslh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtifa_fiberat_fscsrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtifa_fiberat_fxcutlh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left fornix, excluding fimbria"
+    },
+    "dmri_dtifa_fiberat_fxcutrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right fornix, excluding fimbria"
+    },
+    "dmri_dtifa_fiberat_fxlh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left fornix"
+    },
+    "dmri_dtifa_fiberat_fxrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right fornix"
+    },
+    "dmri_dtifa_fiberat_ifolh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtifa_fiberat_iforh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtifa_fiberat_ifsfclh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left inferior frontal superior frontal cortex"
+    },
+    "dmri_dtifa_fiberat_ifsfcrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right inferior frontal superior frontal cortex"
+    },
+    "dmri_dtifa_fiberat_ilflh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left inferior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_ilfrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right inferior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_pscslh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtifa_fiberat_pscsrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtifa_fiberat_pslflh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_pslfrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_scslh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left superior corticostriate"
+    },
+    "dmri_dtifa_fiberat_scsrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right superior corticostriate"
+    },
+    "dmri_dtifa_fiberat_sifclh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left striatal inferior frontal cortex"
+    },
+    "dmri_dtifa_fiberat_sifcrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right striatal inferior frontal cortex"
+    },
+    "dmri_dtifa_fiberat_slflh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_slfrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_tslflh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_tslfrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtifa_fiberat_unclh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract left uncinate"
+    },
+    "dmri_dtifa_fiberat_uncrh": {
+        "Description": "Average fractional anisotropy within DTI atlas tract right uncinate"
+    }
+}

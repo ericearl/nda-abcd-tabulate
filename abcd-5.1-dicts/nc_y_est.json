@@ -1,0 +1,150 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "strp_scr_script_startdate": {
+        "Description": "date script was run"
+    },
+    "strp_scr_script_starttime": {
+        "Description": "time script was run"
+    },
+    "strp_scr_script_subjectid": {
+        "Description": "subject id number"
+    },
+    "strp_scr_script_wrong_event": {
+        "Description": "script.wrong_event"
+    },
+    "strp_scr_script_session": {
+        "Description": "script.session"
+    },
+    "strp_scr_script_groupid": {
+        "Description": "script.groupid"
+    },
+    "strp_scr_script_elapsedtime": {
+        "Description": "Time it took to run script (in ms)"
+    },
+    "strp_scr_comp_platform": {
+        "Description": "The platform the script was run on"
+    },
+    "strp_scr_values_completed": {
+        "Description": "0 = script was not completed (prematurely aborted); 1 = script was completed (all conditions run)"
+    },
+    "strp_scr_values_keyassign": {
+        "Description": "values.keyAssignment"
+    },
+    "strp_scr_val_acc_prac1": {
+        "Description": "Proportion correct in final practice1 run"
+    },
+    "strp_scr_val_prac1runs": {
+        "Description": "Number of practice1 runs needed"
+    },
+    "strp_scr_val_acc_prac2": {
+        "Description": "Proportion correct in final practice2 run"
+    },
+    "strp_scr_val_prac2runs": {
+        "Description": "Number of practice2 runs needed"
+    },
+    "strp_scr_acc_all": {
+        "Description": "Proportion correct overall (across all test trials)"
+    },
+    "strp_scr_acc_morecongr": {
+        "Description": "Proportion correct in \"more congruent pairings\" block"
+    },
+    "strp_scr_acc_morecongrcongr": {
+        "Description": "Proportion correct on congruent trials in \"more congruent pairings\" block"
+    },
+    "strp_scr_acc_morecongrincongr": {
+        "Description": "Proportion correct on incongruent trials in \"more congruent pairings\" block"
+    },
+    "strp_scr_acc_equal": {
+        "Description": "Proportion correct in \"equal numbers of congruent/incongruent pairings\" block"
+    },
+    "strp_scr_acc_equalcongr": {
+        "Description": "Proportion correct in \"equal numbers of congruent/incongruent pairings\" block"
+    },
+    "strp_scr_acc_equalincongr": {
+        "Description": "Proportion correct in \"equal numbers of congruent/incongruent pairings\" block"
+    },
+    "strp_scr_acc_congr": {
+        "Description": "Proportion correct in \"congruent\" pairings trials (across test blocks)"
+    },
+    "strp_scr_acc_incongr": {
+        "Description": "Proportion correct in \"incongruent\" pairings trials (across test blocks)"
+    },
+    "strp_scr_mnrt_all": {
+        "Description": "Mean correct latency (in ms) overall"
+    },
+    "strp_scr_mnrt_morecongr": {
+        "Description": "Mean correct latency (in ms) in \"more congruent pairings\" block"
+    },
+    "strp_scr_mnrt_morecongrcongr": {
+        "Description": "Mean correct latency (in ms) on congruent trials in \"more congruent pairings\" block"
+    },
+    "strp_scr_mnrt_morecongrincongr": {
+        "Description": "Mean correct latency (in ms) on incongruent trials in \"more congruent pairings\" block"
+    },
+    "strp_scr_mnrt_eq": {
+        "Description": "Mean correct latency (in ms) in \"equal numbers of congruent/incongruent pairings\" block"
+    },
+    "strp_scr_mnrt_eqcongr": {
+        "Description": "Mean correct latency (in ms) in \"equal numbers of congruent/incongruent"
+    },
+    "strp_scr_mnrt_eqincongr": {
+        "Description": "Mean correct latency (in ms) in \"equal numbers of congruent/incongruent pairings\" block"
+    },
+    "strp_scr_mnrt_congr": {
+        "Description": "mean correct latency (in ms) in \"congruent\" pairings trials (across test blocks)"
+    },
+    "strp_scr_mnrt_incongr": {
+        "Description": "Mean correct latency (in ms) in \"incongruent\" pairings trials (across test blocks)"
+    },
+    "strp_scr_conhapfequal_acc": {
+        "Description": "expressions.Str_ConHapfEqual_ACC"
+    },
+    "strp_scr_conangfequal_acc": {
+        "Description": "expressions.Str_ConAngfEqual_ACC"
+    },
+    "strp_scr_inchapfequal_acc": {
+        "Description": "expressions.Str_IncHapfEqual_ACC"
+    },
+    "strp_scr_incangfequal_acc": {
+        "Description": "expressions.Str_IncAngfEqual_ACC"
+    },
+    "strp_scr_conhapf75con_acc": {
+        "Description": "expressions.Str_ConHapf75Con_ACC"
+    },
+    "strp_scr_conangf75con_acc": {
+        "Description": "expressions.Str_ConAngf75Con_ACC"
+    },
+    "strp_scr_inchapf75con_acc": {
+        "Description": "expressions.Str_IncHapf75Con_ACC"
+    },
+    "strp_scr_incangf75con_acc": {
+        "Description": "expressions.Str_IncAngf75Con_ACC"
+    },
+    "strp_scr_conhapfequal_rt": {
+        "Description": "expressions.Str_ConHapfEqual_RT"
+    },
+    "strp_scr_conangfequal_rt": {
+        "Description": "expressions.Str_ConAngfEqual_RT"
+    },
+    "strp_scr_inchapfequal_rt": {
+        "Description": "expressions.Str_IncHapfEqual_RT"
+    },
+    "strp_scr_incangfequal_rt": {
+        "Description": "expressions.Str_IncAngfEqual_RT"
+    },
+    "strp_scr_conhapf75con_rt": {
+        "Description": "expressions.Str_ConHapf75Con_RT"
+    },
+    "strp_scr_conangf75con_rt": {
+        "Description": "expressions.Str_ConAngf75Con_RT"
+    },
+    "strp_scr_inchapf75con_rt": {
+        "Description": "expressions.Str_IncHapf75Con_RT"
+    },
+    "strp_scr_incangf75con_rt": {
+        "Description": "expressions.Str_IncAngf75Con_RT"
+    }
+}

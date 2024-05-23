@@ -1,0 +1,152 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_ceq_q01": {
+        "Description": "Become more popular | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q02": {
+        "Description": "Feel relaxed | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q03": {
+        "Description": "Enjoy ''smoking'' without bothering others | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q04": {
+        "Description": "Smell good | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q05": {
+        "Description": "Hurt your lungs | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q06": {
+        "Description": "Look awkward | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q07": {
+        "Description": "Become addicted to e-cigarettes | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_ceq_q08": {
+        "Description": "Have a bad taste in your mouth | 0=Unlikely ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=Likely  [event-name] = ''3_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "Unlikely",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "Likely"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    },
+    "ceq_positive_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ceq_positive_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ceq_positive_expectancies_ss": {
+        "Description": "Strength of positive expectancies for electronic nicotine delivery systems. Score prorated if some item responses were missing. | Sum of [su_ceq_01, su_ceq_02, su_ceq_03, su_ceq_04]"
+    },
+    "ceq_negative_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "ceq_negative_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "ceq_negative_expectancies_ss": {
+        "Description": "Strength of negative expectancies for electronic nicotine delivery systems. Score prorated if some item responses were missing. | Sum of [su_ceq_05, su_ceq_06, su_ceq_07, su_ceq_08]"
+    }
+}

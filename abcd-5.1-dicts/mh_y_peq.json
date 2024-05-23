@@ -1,0 +1,248 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "peq_left_out_perp": {
+        "Description": "I left another kid out of an activity or conversation that they really wanted to be included in. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_left_out_vic": {
+        "Description": "Some kids left me out of an activity or conversation I really wanted to be included in. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_chase_perp": {
+        "Description": "I chased a kid like I was really trying to hurt him or her. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_chase_vic": {
+        "Description": "A kid chased me like he or she was really trying to hurt me. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_rumor_perp": {
+        "Description": "I tried to damage another kid's social reputation by spreading rumors about them. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_rumor_vic": {
+        "Description": "A kid tried to damage my social reputation by spreading rumors about me | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_invite_perp": {
+        "Description": "I did not invite a kid to a party or other social event even though I knew the kid wanted to go. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_invite_vic": {
+        "Description": "A kid did not invite me to a party or social event though they knew that I wanted to go. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_exclude_perp": {
+        "Description": "I left another kid out of what I was doing. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_exclude_vic": {
+        "Description": "A kid left me out of what they were doing. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_gossip_perp": {
+        "Description": "I gossiped about another kid so others would not like him/her. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_gossip_vic": {
+        "Description": "Another kid gossiped about me so others would not like me. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_threat_perp": {
+        "Description": "I threatened to hurt or beat up another kid. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_threat_vic": {
+        "Description": "A kid threatened to hurt or beat me up. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_loser_perp": {
+        "Description": "I said mean things about a kid so that people would think s/he was a loser. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_loser_vic": {
+        "Description": "Another kid said mean things about me so that people would think I was a loser. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_hit_perp": {
+        "Description": "I hit, kicked, or pushed another kid in a mean way. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_hit_vic": {
+        "Description": "A kid hit, kicked, or pushed me in a mean way. | 1=Never; 2=Once or twice; 3=A few times; 4=About once a week; 5=A few times a week",
+        "Levels": {
+            "1": "Never",
+            "2": "Once or twice",
+            "3": "A few times",
+            "4": "About once a week",
+            "5": "A few times a week"
+        }
+    },
+    "peq_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "peq_ss_relational_aggs_nm": {
+        "Description": "Peer Experiences: Relational Aggression Number Missing"
+    },
+    "peq_ss_relational_aggs_nt": {
+        "Description": "Peer Experiences: Relational Aggression Total"
+    },
+    "peq_ss_relational_victim": {
+        "Description": "Peer Experiences: Relational Victimization Summary Score; sum(peq_left_out_vic,peq_invite_vic, peq_exclude_vic); Validation: All items must be answered"
+    },
+    "peq_ss_relational_victim_nm": {
+        "Description": "Peer Experiences: Relational Victimization Number Missing"
+    },
+    "peq_ss_relational_victim_nt": {
+        "Description": "Peer Experiences: Relational Victimization Number Total"
+    },
+    "peq_ss_reputation_aggs": {
+        "Description": "Peer Experiences: Reputational Aggression Summary Score; sum(peq_rumor_perp, peq_gossip_perp, peq_loser_perp); Validation: All items must be answered"
+    },
+    "peq_ss_reputation_aggs_nm": {
+        "Description": "Peer Experiences: Reputational Aggression Number Missing"
+    },
+    "peq_ss_reputation_aggs_nt": {
+        "Description": "Peer Experiences: Reputational Aggression Number Total"
+    },
+    "peq_ss_reputation_victim": {
+        "Description": "Peer Experiences: Reputational Victimization Summary Score; sum(peq_rumor_vic, peq_gossip_vic, peq_loser_vic); Validation: All items must be answered"
+    },
+    "peq_ss_reputation_victim_nm": {
+        "Description": "Peer Experiences: Reputational Victimization Number Missing"
+    },
+    "peq_ss_reputation_victim_nt": {
+        "Description": "Peer Experiences: Reputational Victimization Number Total"
+    },
+    "peq_ss_overt_aggression": {
+        "Description": "Overt Aggression Summary Score; sum (peq_chase_perp, peq_threat_perp, peq_hit_perp); Validation: All items must be answered"
+    },
+    "peq_ss_overt_aggression_nm": {
+        "Description": "Peer Experiences: Overt Aggression Number Missing"
+    },
+    "peq_ss_overt_aggression_nt": {
+        "Description": "Peer Experiences: Overt Aggression Number Total"
+    },
+    "peq_ss_overt_victim": {
+        "Description": "Peer Experiences: Overt Victimization Summary Score; sum(peq_chase_vic, peq_threat_vic, peq_hit_vic); Validation: All items must be answered"
+    },
+    "peq_ss_overt_victim_nm": {
+        "Description": "Peer Experiences: Overt Victimization Number Missing"
+    },
+    "peq_ss_overt_victim_nt": {
+        "Description": "Peer Experiences: Overt Victimization Number Total"
+    },
+    "peq_ss_relational_aggs": {
+        "Description": "Peer Experiences: Relational Aggression Summary Score; sum(peq_left_out_perp, peq_invite_perp, peq_exclude_perp); Validation: All items must be answered"
+    }
+}

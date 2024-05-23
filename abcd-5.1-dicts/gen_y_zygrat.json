@@ -1,0 +1,242 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "zyg_ss_fam_no": {
+        "Description": "Fam. No."
+    },
+    "zyg_ss_rater": {
+        "Description": "Rater"
+    },
+    "zyg_ss_age": {
+        "Description": "Twin's Age"
+    },
+    "zyg_ss_consent_photos": {
+        "Description": "Your Twin Consented to Twin Photos? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "zyg_ss_photos_y_n": {
+        "Description": "Photos taken? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "zyg_ss_fac": {
+        "Description": "Facial Appearance | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_eye_col": {
+        "Description": "Eye Color | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_cmplxn": {
+        "Description": "Complexion | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_hair_col": {
+        "Description": "Hair color | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_hair_txtr": {
+        "Description": "Hair texture | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_hair_crly": {
+        "Description": "Hair curliness | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_hair_pttrn": {
+        "Description": "Hair pattern | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_hair_amt": {
+        "Description": "Amount of hair | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_ear_app": {
+        "Description": "Ear appearance | 0 = 0 Not Observed; 1 = 1 Very similar; 2 = 2; 3 = 3; 4 = 4; 5 = 5 Not at All Similar",
+        "Levels": {
+            "0": "0 Not Observed",
+            "1": "1 Very similar",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5 Not at All Similar"
+        }
+    },
+    "zyg_ss_t1_hair_col": {
+        "Description": "Hair color: | 0 = light blond; 1 = blond; 2 = red; 3 = brown; 4 = black",
+        "Levels": {
+            "0": "light blond",
+            "1": "blond",
+            "2": "red",
+            "3": "brown",
+            "4": "black"
+        }
+    },
+    "zyg_ss_t1_hair_dark": {
+        "Description": "Hair darkness: | 0 = light; 1 = medium; 2 = dark",
+        "Levels": {
+            "0": "light",
+            "1": "medium",
+            "2": "dark"
+        }
+    },
+    "zyg_ss_t1_hair_txtr": {
+        "Description": "Hair texture: | 0 = coarse; 1 = medium; 2 = fine",
+        "Levels": {
+            "0": "coarse",
+            "1": "medium",
+            "2": "fine"
+        }
+    },
+    "zyg_ss_t1_hair_amt": {
+        "Description": "Amount of hair: | 0 = lots; 1 = some; 2 = little",
+        "Levels": {
+            "0": "lots",
+            "1": "some",
+            "2": "little"
+        }
+    },
+    "zyg_ss_t1_hair_type": {
+        "Description": "Hair type: | 0 = curly; 1 = wavy; 2 = straight",
+        "Levels": {
+            "0": "curly",
+            "1": "wavy",
+            "2": "straight"
+        }
+    },
+    "zyg_ss_t1_eye_col": {
+        "Description": "Eye Color: | 0 = blue; 1 = gray; 2 = green; 3 = hazel; 4 = brown",
+        "Levels": {
+            "0": "blue",
+            "1": "gray",
+            "2": "green",
+            "3": "hazel",
+            "4": "brown"
+        }
+    },
+    "zyg_ss_t2_hair_col": {
+        "Description": "Hair color: | 0 = light blond; 1 = blond; 2 = red; 3 = brown; 4 = black",
+        "Levels": {
+            "0": "light blond",
+            "1": "blond",
+            "2": "red",
+            "3": "brown",
+            "4": "black"
+        }
+    },
+    "zyg_ss_t2_hair_dark": {
+        "Description": "Hair darkness: | 0 = light; 1 = medium; 2 = dark",
+        "Levels": {
+            "0": "light",
+            "1": "medium",
+            "2": "dark"
+        }
+    },
+    "zyg_ss_t2_hair_txtr": {
+        "Description": "Hair texture: | 0 = coarse; 1 = medium; 2 = fine",
+        "Levels": {
+            "0": "coarse",
+            "1": "medium",
+            "2": "fine"
+        }
+    },
+    "zyg_ss_t2_hair_amt": {
+        "Description": "Amount of hair: | 0 = lots; 1 = some; 2 = little",
+        "Levels": {
+            "0": "lots",
+            "1": "some",
+            "2": "little"
+        }
+    },
+    "zyg_ss_t2_hair_type": {
+        "Description": "Hair type: | 0 = curly; 1 = wavy; 2 = straight",
+        "Levels": {
+            "0": "curly",
+            "1": "wavy",
+            "2": "straight"
+        }
+    },
+    "zyg_ss_t2_eye_col": {
+        "Description": "Eye Color: | 0 = blue; 1 = gray; 2 = green; 3 = hazel; 4 = brown",
+        "Levels": {
+            "0": "blue",
+            "1": "gray",
+            "2": "green",
+            "3": "hazel",
+            "4": "brown"
+        }
+    },
+    "zyg_ss_r1_judgement": {
+        "Description": "Rating: | 1 = DZ; 2 = MZ",
+        "Levels": {
+            "1": "DZ",
+            "2": "MZ"
+        }
+    },
+    "zyg_ss_twin2_pguid": {
+        "Description": "Co-Twin's pGUID: Copy and pasted from REDCap by RAs"
+    }
+}

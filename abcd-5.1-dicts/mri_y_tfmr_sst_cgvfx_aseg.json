@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_sacgvf_bscs_3rdvte": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sacgvf_bscs_4thvte": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sacgvf_bscs_aalh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sacgvf_bscs_aarh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sacgvf_bscs_aylh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sacgvf_bscs_ayrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sacgvf_bscs_bs": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sacgvf_bscs_cdelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sacgvf_bscs_cderh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sacgvf_bscs_crbcxlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sacgvf_bscs_crbcxrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sacgvf_bscs_crbwmlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sacgvf_bscs_crbwmrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sacgvf_bscs_cbwmlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sacgvf_bscs_cbwmrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sacgvf_bscs_csf": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sacgvf_bscs_hpuslh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sacgvf_bscs_hpusrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sacgvf_bscs_inflatvtlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sacgvf_bscs_inflatvtrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sacgvf_bscs_lavtelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sacgvf_bscs_lavterh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sacgvf_bscs_pdlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sacgvf_bscs_pdrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sacgvf_bscs_pulh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sacgvf_bscs_purh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sacgvf_bscs_tplh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sacgvf_bscs_tprh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sacgvf_bscs_vtdclh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sacgvf_bscs_vtdcrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_all_10": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_all_11": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_all_16": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_all_29": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_all_14": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_all_28": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_all_12": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_all_7": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_all_24": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_all_5": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_all_22": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_all_4": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_all_21": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_all_1": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_all_18": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_all_15": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_all_13": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_all_27": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_all_3": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_all_20": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_all_2": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_all_19": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_all_9": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_all_26": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_all_8": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_all_25": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_all_6": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_all_23": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_all_17": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_all_30": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sstr1_10": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sstr1_11": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sstr1_16": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sstr1_29": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sstr1_14": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sstr1_28": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sstr1_12": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sstr1_7": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sstr1_24": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sstr1_5": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sstr1_22": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sstr1_4": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sstr1_21": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sstr1_1": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sstr1_18": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sstr1_15": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sstr1_13": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sstr1_27": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sstr1_3": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sstr1_20": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sstr1_2": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sstr1_19": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sstr1_9": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sstr1_26": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sstr1_8": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sstr1_25": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sstr1_6": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sstr1_23": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sstr1_17": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sstr1_30": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_r1sem_10": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_r1sem_11": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_r1sem_16": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_r1sem_29": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_r1sem_14": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_r1sem_28": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_r1sem_12": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_r1sem_7": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_r1sem_24": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_r1sem_5": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_r1sem_22": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_r1sem_4": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_r1sem_21": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_r1sem_1": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_r1sem_18": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_r1sem_15": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_r1sem_13": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_r1sem_27": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_r1sem_3": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_r1sem_20": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_r1sem_2": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_r1sem_19": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_r1sem_9": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_r1sem_26": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_r1sem_8": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_r1sem_25": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_r1sem_6": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_r1sem_23": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_r1sem_17": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_r1sem_30": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sstr2_10": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sstr2_11": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sstr2_16": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sstr2_29": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sstr2_14": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sstr2_28": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sstr2_12": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sstr2_7": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sstr2_24": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sstr2_5": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sstr2_22": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sstr2_4": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sstr2_21": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sstr2_1": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sstr2_18": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sstr2_15": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sstr2_13": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sstr2_27": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sstr2_3": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sstr2_20": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sstr2_2": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sstr2_19": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sstr2_9": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sstr2_26": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sstr2_8": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sstr2_25": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sstr2_6": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sstr2_23": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sstr2_17": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sstr2_30": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_r2sem_10": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_r2sem_11": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_r2sem_16": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_r2sem_29": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_r2sem_14": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_r2sem_28": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_r2sem_12": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_r2sem_7": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_r2sem_24": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_r2sem_5": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_r2sem_22": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_r2sem_4": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_r2sem_21": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_r2sem_1": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_r2sem_18": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_r2sem_15": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_r2sem_13": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_r2sem_27": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_r2sem_3": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_r2sem_20": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_r2sem_2": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_r2sem_19": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_r2sem_9": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_r2sem_26": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_r2sem_8": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_r2sem_25": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_r2sem_6": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_r2sem_23": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_r2sem_17": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_r2sem_30": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in ASEG ROI right-ventraldc"
+    }
+}

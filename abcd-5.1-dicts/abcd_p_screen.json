@@ -1,0 +1,587 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "scrn_hr_school": {
+        "Description": "Enjoys school? \u00ac\u00f8Disfruta la escuela? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_disobey": {
+        "Description": "Is disobedient at school? \u00ac\u00f8Es desobediente en la escuela? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_sleep": {
+        "Description": "Sleeps well? \u00ac\u00f8Duerme bien? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_fear": {
+        "Description": "Is too fearful or anxious? \u00ac\u00f8Es demasiado miedoso o ansioso? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_liecheat": {
+        "Description": "Lies or cheats? \u00ac\u00f8Miente o hace trampa? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_music": {
+        "Description": "Plays a musical instrument? \u00ac\u00f8Toca un instrumento musical? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_dep": {
+        "Description": "Is unhappy, sad, or depressed? \u00ac\u00f8Est\u221a\u00b0 infeliz, triste o deprimido? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_help": {
+        "Description": "Likes helping others? \u00ac\u00f8Le gusta ayudar a los dem\u221a\u00b0s? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_destroy": {
+        "Description": "Destroys things belonging to his/her family or others? \u00ac\u00f8Destruye cosas que le pertenecen a su familia o a otras personas? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_steal": {
+        "Description": "Steals outside the home? \u00ac\u00f8Roba fuera de casa? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_sport": {
+        "Description": "Enjoys playing sports? \u00ac\u00f8Disfruta participar en deportes? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_som": {
+        "Description": "Experiences physical problems that are without known medical cause; such as aches or pains, feeling sick, headaches, stomachaches, rashes, or vomiting? \u00ac\u00f8Tiene problemas f\u221a\u2260sicos sin causa m\u221a\u00a9dica conocida, como achaques o dolores, n\u221a\u00b0useas, dolores de cabeza, dolores de est\u221a\u2265mago, sarpullidos o v\u221a\u2265mitos? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_read": {
+        "Description": "Enjoys reading? \u00ac\u00f8Disfruta leer? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_slowfriend": {
+        "Description": "Tends to be slow at making friends? \u00ac\u00f8Suele tardarse en hacer amigos? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_stress": {
+        "Description": "Finds life to be stressful? \u00ac\u00f8Considera que la vida es estresante? | 2 = very true or often true Muy cierto o frecuentemente cierto; 1 = somewhat or sometimes true algo cierto o a veces cierto; 0 = not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months.",
+        "Levels": {
+            "2": "very true or often true Muy cierto o frecuentemente cierto",
+            "1": "somewhat or sometimes true algo cierto o a veces cierto",
+            "0": "not true falso // I now have a few questions about (Child's name) behavior. Some of these questions may not apply to your child but it is important that we include a diverse group of children in our study. I'm going to read a list of items that describe children and youth. For each item that describes (Child's name) now or within the past 6 months, please indicate if it is very true or often true of your child, somewhat or sometimes true of your child, or not true of your child. Remember, the questions are about how your child is now or in the past 6 months."
+        }
+    },
+    "scrn_hr_smoke": {
+        "Description": "Finally, one last question about you and your family. In the past six months, has anyone who lives with your child (e.g., you, a spouse or partner) smoked a cigarette, e-cigarette, or used any other type of tobacco? \n Para terminar, le har\u221a\u00a9 una \u221a\u222bltima pregunta acerca de usted y su familia. En los \u221a\u222bltimos seis meses, \u00ac\u00f8alguna persona que viva con su hijo (p.\u00ac\u2020ej., usted, un c\u221a\u2265nyuge o una pareja) ha fumado un cigarrillo o un cigarrillo electr\u221a\u2265nico, o ha consumido cualquier otro tipo de tabaco? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_select_language___1": {
+        "Description": "Enable Spanish translation? (1, Yes) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "scrn_twin_reg___1": {
+        "Description": "ABCD Intro Script (optional) (1, Twin Registry Script) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "scrn_twin_reg___2": {
+        "Description": "ABCD Intro Script (optional) ( 0, Non-Twin Registry Script) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "scrn_braces": {
+        "Description": "Does (Child's name) have metal braces, spacers, or other dental appliances that cannot be removed? /\u00ac\u00f8(Nombre del menor) tiene aparatos de ortodoncia, espaciadores o otros aparatos dentales met\u221a\u00b0licos que no se puedan quitar? | 1 = Yes; 0 = No; 2 = Unsure - (Consult PI) | If only regular fillings, removable retainers and non-metal braces (e.g., Invisalign), RECORD AS NO. If palate expander, determine if it is metal, and record when it will be removed. If gold teeth/grill, ask if/when they can be removed. If they cannot be removed for scans, ask how many teeth are covered. If more than four teeth, record as 'unsure', continue screener, and consult with investigator.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "2": "Unsure - (Consult PI) | If only regular fillings, removable retainers and non-metal braces (e.g., Invisalign), RECORD AS NO. If palate expander, determine if it is metal, and record when it will be removed. If gold teeth/grill, ask if/when they can be removed. If they cannot be removed for scans, ask how many teeth are covered. If more than four teeth, record as 'unsure', continue screener, and consult with investigator."
+        }
+    },
+    "scrn_bracesdate": {
+        "Description": "When would they come off? /\u00ac\u00f8Cu\u221a\u00b0ndo se le retirar\u221a\u00b0n?"
+    },
+    "scrn_bracescallback": {
+        "Description": "If metal braces will be removed before end of enrollment period, mark to Yes call back. If metal braces will not be removed before end of enrollment period, permanent metal retainer, or metal dental implant that is clearly contraindication, mark No call back. If parent is unsure, ask for their best guess, mark to Yes call back. | 1 = Yes - Need to Call Back; 0 = No Call Back - GO TO END",
+        "Levels": {
+            "1": "Yes - Need to Call Back",
+            "0": "No Call Back - GO TO END"
+        }
+    },
+    "scrn_met_inj": {
+        "Description": "Has (Child's name) ever been injured by any metallic foreign body (e.g., bullet, BB, shrapnel, etc.)? Or had an injury to the eye involving a metallic object? /\u00ac\u00f8Alguna vez se ha lesionado (nombre del menor) con alg\u221a\u222bn cuerpo extra\u221a\u00b1o met\u221a\u00b0lico (p.\u00ac\u2020ej., una bala, proyectil, munici\u221a\u2265n (BB), metralla, etc.)? \u00ac\u00f8O se ha lesionado los ojos con alg\u221a\u222bn objeto met\u221a\u00b0lico? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_met_injenter": {
+        "Description": "Did the object enter your child's body? /\u00ac\u00f8El objeto entr\u221a\u2265 al cuerpo de su ni\u221a\u00b1o(a)? | 1 = Yes; 0 = No (Continue)",
+        "Levels": {
+            "1": "Yes",
+            "0": "No (Continue)"
+        }
+    },
+    "scrn_met_injremove": {
+        "Description": "Was the object completely removed? /\u00ac\u00f8Fue el objeto removid\u221a\u2265 o retirad\u221a\u2265 por completo? | 1 = Yes; 0 = No - GO TO END",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END"
+        }
+    },
+    "scrn_met_injmdnote": {
+        "Description": "Would you be willing to give us a doctor's note confirming that? /\u00ac\u00f8Estar\u221a\u2260a dispuesto a proporcionarnos una nota de su m\u221a\u00a9dico que lo confirme? | 1 = Yes; 0 = No - GO TO END",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END"
+        }
+    },
+    "scrn_surgery": {
+        "Description": "Has your child ever had surgery? /\u00ac\u00f8Alguna vez le han hecho alguna cirug\u221a\u2260a a su ni\u221a\u00b1o(a)? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_met_obj": {
+        "Description": "Does (Child's name) have any metal in his/her body or had any devices inserted in their body? / \u00ac\u00f8(Nombre del menor) tiene alg\u221a\u222bn objeto met\u221a\u00b0lico en el cuerpo o se le ha insertado alg\u221a\u222bn dispositivo? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_met_objyear": {
+        "Description": "What year was it put in? /\u00ac\u00f8En qu\u221a\u00a9 a\u221a\u00b1o se le coloc\u221a\u2265?"
+    },
+    "scrn_met_excl": {
+        "Description": "Is the device/metal exclusionary? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_nr_hair": {
+        "Description": "Does your child wear non-removable hair extensions or a non-removable hair piece? /\u00ac\u00f8Su ni\u221a\u00b1o(a) utiliza extensiones de cabello no removibles, cabello postizo, no removible? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_eyeliner": {
+        "Description": "Does your child have tattooed eyeliner or permanent eyebrow fill-in or permanent makeup? /\u00ac\u00f8Su ni\u221a\u00b1o(a) tiene tatuajes de delineador de ojos, relleno para cejas o maquillaje permanentes? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_nr_piercing": {
+        "Description": "Does your child have any non-removable metal piercings on his/her head, face, tongue, neck or chest? /\u00ac\u00f8Su ni\u221a\u00b1o(a) tiene alg\u221a\u222bn piercing (como un arete) o joyer\u221a\u2260a met\u221a\u00b0lica no removible en la cabeza, el rostro, la lengua, el cuello o el pecho? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_weight_mri": {
+        "Description": "Is weight within acceptable range for MRI? (under 250 lbs) | 0 = Yes; 1 = No - GO TO END",
+        "Levels": {
+            "0": "Yes",
+            "1": "No - GO TO END"
+        }
+    },
+    "scrn_claustrophob": {
+        "Description": "Does (Child's name) have serious problems with claustrophobia or being in small places? / \u00ac\u00f8(Nombre del menor) tiene problemas serios de claustrofobia o para estar en lugares peque\u221a\u00b1os? | 2 = Yes - GO TO END; 1 = No; 0 = Unsure",
+        "Levels": {
+            "2": "Yes - GO TO END",
+            "1": "No",
+            "0": "Unsure"
+        }
+    },
+    "scrn_claustrophobexcl": {
+        "Description": "Has this problem prevented your child from doing anything, like getting into elevators or going to places s/he thought would be too small? / \u00ac\u00f8Este problema ha evitado que su ni\u221a\u00b1o(a) haga alguna cosa, como subirse a un elevador o ir a lugares que pensara que ser\u221a\u2260an demasiado peque\u221a\u00b1os? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_speakeng": {
+        "Description": "Does (Child's name) speak and understand English well? / \u00ac\u00f8(Nombre del menor) habla y entiende bien el ingl\u221a\u00a9s? | 1 = Yes; 0 = No - GO TO END; 3 = Unsure",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END",
+            "3": "Unsure"
+        }
+    },
+    "scrn_fluency": {
+        "Description": "Has your child been taking some classes in English for at least 1 year? / \u00ac\u00f8Su ni\u221a\u00b1o(a) ha estado tomando algunas clases en ingl\u221a\u00a9s durante al menos 1\u00ac\u2020a\u221a\u00b1o? | 1 = Yes; 0 = No - GO TO END",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END"
+        }
+    },
+    "scrn_percept": {
+        "Description": "Does (Child's name) have any vision, hearing, or coordination problems that would affect your child's understanding and responding to the tests, questionnaires, and brain scans? /\u00ac\u00f8(Nombre del menor) tiene alg\u221a\u222bn problema visual, auditivo o de coordinaci\u221a\u2265n que pudiera afectar su comprensi\u221a\u2265n de las pruebas, los cuestionarios y los estudios cerebrales y su capacidad de responder los mismos? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_percept_corr": {
+        "Description": "Can these problems be corrected with glasses, hearing aids, or other devices? / \u00ac\u00f8Estos problemas pueden corregirse con lentes, aparatos auditivos o otros dispositivos? | 1 = Yes; 0 = No - GO TO END | If unsure, ask if the child is able to sufficiently hear without the correction device during brain scans, which may require the device to be removed. Mark NO if child is not able to sufficiently hear during brain scans without a correction device.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END | If unsure, ask if the child is able to sufficiently hear without the correction device during brain scans, which may require the device to be removed. Mark NO if child is not able to sufficiently hear during brain scans without a correction device."
+        }
+    },
+    "scrn_cpalsy": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Cerebral Palsy? / \u00ac\u00f8Par\u221a\u00b0lisis cerebral? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_tumor": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Brain tumor? / \u00ac\u00f8Tumor cerebral? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_stroke": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Stroke? / \u00ac\u00f8Infarto o Derrame cerebral? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_aneurysm": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Brain aneurysm? / \u00ac\u00f8Aneurisma cerebral? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_hemorrhage": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Brain hemorrhage? / \u00ac\u00f8Hemorragia cerebral? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_hemotoma": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Subdural hematoma? / \u00ac\u00f8Hematoma (colecci\u221a\u2265n de sangre) subdural? | 0 = Yes - GO TO END; 1 = No (Continue)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No (Continue)"
+        }
+    },
+    "scrn_medcond_other": {
+        "Description": "Has your child been diagnosed with any of the following serious medical or neurological conditions by a health professional? Any other serious medical or neurological conditions | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_epls": {
+        "Description": "Did parent/guardian name seizure or epilepsy as a condition? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_seizure": {
+        "Description": "About how many seizures does your child have per month when taking medication? /\u00ac\u00f8Aproximadamente cu\u221a\u00b0ntas convulsiones tiene su ni\u221a\u00b1o(a) al mes cuando est\u221a\u00b0 tomando medicamentos? | 0 = Less than once a month; 1 = One or more per month - GO TO END | One seizure per month or more on medication is exclusionary.",
+        "Levels": {
+            "0": "Less than once a month",
+            "1": "One or more per month - GO TO END | One seizure per month or more on medication is exclusionary."
+        }
+    },
+    "scrn_con_excl": {
+        "Description": "Is a reported other medical condition deemed exclusionary? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_gestage": {
+        "Description": "Was your child born less than 28 weeks of gestation, or in other words, was your child born more than 12 weeks premature? /\u00ac\u00f8Su ni\u221a\u00b1o(a) naci\u221a\u2265 antes de las 28\u00ac\u2020semanas de gestaci\u221a\u2265n o, en otras palabras, fue prematuro por m\u221a\u00b0s de 12 semanas? | 1 = Yes - GO TO END; 0 = No; 2 = Don't know | If born at or after 28 weeks, mark No.",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No",
+            "2": "Don't know | If born at or after 28 weeks, mark No."
+        }
+    },
+    "scrn_birthwt": {
+        "Description": "At birth, did your child weigh less than 2 lbs 11 ounces (1200 grams)? /Al nacer, \u00ac\u00f8su ni\u221a\u00b1o(a) pes\u221a\u2265 menos de 2\u00ac\u2020libras 11\u00ac\u2020onzas (1,200\u00ac\u2020gramos)? | 1 = Yes - GO TO END; 0 = No; 2 = Don't know",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No",
+            "2": "Don't know"
+        }
+    },
+    "scrn_birthcomp": {
+        "Description": "Were there any birth complications that resulted in (Child's name) being hospitalized for more than a month? /\u00ac\u00f8Hubo complicaciones en el parto que causaran que (nombre del menor) tuviera que estar hospitalizado(a) durante m\u221a\u00b0s de un mes? | 1 = Yes; 0 = No; 2 = Don't know | Note: If hospitalization was due to prematurity alone then that is not a basis for exclusion.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "2": "Don't know | Note: If hospitalization was due to prematurity alone then that is not a basis for exclusion."
+        }
+    },
+    "scrn_birthcomp_y": {
+        "Description": "What kind of birth complications? /\u00ac\u00f8Qu\u221a\u00a9 tipo de complicaciones tuvo al nacer?"
+    },
+    "scrn_birthcomp_excl": {
+        "Description": "Is the complication deemed exclusionary? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_commondx": {
+        "Description": "Has your child been diagnosed with... ADHD, Depression, Bipolar Disorder, Anxiety, Phobias / Trastorno por deficit de atenci\u221a\u2265n e hiperactividad (TDAH or ADHD), depresi\u221a\u2265n, trastorno bipolar, ansiedad o fobias | 1 = Yes (Continue); 0 = No (Continue) | These diagnoses are not exclusionary.",
+        "Levels": {
+            "1": "Yes (Continue)",
+            "0": "No (Continue) | These diagnoses are not exclusionary."
+        }
+    },
+    "scrn_schiz": {
+        "Description": "Has your child been diagnosed with... Schizophrenia /Esquizofrenia | 1 = Yes - GO TO END; 0 = No (Continue)",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No (Continue)"
+        }
+    },
+    "scrn_asd": {
+        "Description": "Has your child been diagnosed with... Autism spectrum disorder / Trastorno del espectro autista | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_asd_regclasses": {
+        "Description": "Is your child attending all regular classes at school? /\u00ac\u00f8Todas las clases a las que asiste su ni\u221a\u00b1o(a) en la escuela son regulares? | 1 = Yes; 0 = No - GO TO END",
+        "Levels": {
+            "1": "Yes",
+            "0": "No - GO TO END"
+        }
+    },
+    "scrn_sud": {
+        "Description": "Has your child been diagnosed with... Alcohol or substance use disorder /Trastorno por consumo de alcohol o drogas | 1 = Yes - GO TO END; 0 = No (Continue)",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No (Continue)"
+        }
+    },
+    "scrn_intdisab": {
+        "Description": "Has your child been diagnosed with... Intellectual disability /Discapacidad intelectual | 1 = Yes - GO TO END; 0 = No (Continue)",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No (Continue)"
+        }
+    },
+    "scrn_psychdx_other": {
+        "Description": "Has your child been diagnosed with... Any other psychological or psychiatric diagnoses? / \u00ac\u00f8Le han dado alg\u221a\u222bn otro diagn\u221a\u2265stico psicol\u221a\u2265gico o psiqui\u221a\u00b0trico? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_psych_excl": {
+        "Description": "Is a reported other psychological condition deemed exclusionary? | 1 = Yes - GO TO END; 0 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_concerns_p": {
+        "Description": "As I mentioned before, this study involves your child working with our research team to answer questions and solve puzzles on an iPad, follow directions, and lie still in the MRI scanner. Do you have any concerns about (Child's name)'s ability to do these things that have not already been discussed? / Como mencion\u221a\u00a9 anteriormente, este estudio requiere que su ni\u221a\u00b1o(a) trabaje con nuestro equipo de investigaci\u221a\u2265n contestando preguntas y resolviendo rompecabezas en un iPad, que siga indicaciones y que se recueste y permanezca quieto en el aparato de MRI. \u00ac\u00f8Tiene usted alguna inquietud de la que no hayamos hablado sobre la capacidad de (nombre del menor) para hacer estas cosas? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_concerns_excl": {
+        "Description": "Are the concerns deemed exclusionary? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_tbi_loc": {
+        "Description": "Has (Child's name) ever had a head injury that resulted in a loss of consciousness for more than 30 minutes? / \u00ac\u00f8Alguna vez tuvo (nombre del menor) una lesi\u221a\u2265n en la cabeza que haya causado que perdiera el conocimiento durante m\u221a\u00b0s de 30\u00ac\u2020minutos? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_tbi_mem": {
+        "Description": "Has (Child's name) ever had a head injury that resulted in difficulties remembering that lasted for longer than a day? / \u00ac\u00f8Alguna vez tuvo (nombre del menor) una lesi\u221a\u2265n en la cabeza que haya causado que tuviera dificultades para recordar durante m\u221a\u00b0s de un d\u221a\u2260a? | 1 = Yes - GO TO END; 0 = No",
+        "Levels": {
+            "1": "Yes - GO TO END",
+            "0": "No"
+        }
+    },
+    "scrn_tbi_scan": {
+        "Description": "Has (Child's name) ever had a head injury that resulted in getting a brain scan? / \u00ac\u00f8Alguna vez tuvo (nombre del menor) una lesi\u221a\u2265n en la cabeza que haya resultado en que le hicieran un estudio del cerebro? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_tbi_scan_excl": {
+        "Description": "Abnormal findings on the scan? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "scrn_brain_scn": {
+        "Description": "Has your doctor ever requested a brain scan for your child? /\u00ac\u00f8Su m\u221a\u00a9dico alguna vez le ha ordenado un estudio cerebral para su ni\u221a\u00b1o(a)? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "scrn_abn_scan": {
+        "Description": "Abnormal findings on the scan? | 0 = Yes - GO TO END; 1 = No; 2 = Unsure - (Consult PI)",
+        "Levels": {
+            "0": "Yes - GO TO END",
+            "1": "No",
+            "2": "Unsure - (Consult PI)"
+        }
+    },
+    "zygos_quest___1": {
+        "Description": "Zygosity questions (optional) (1, Show Questions) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "zygos_q1": {
+        "Description": "When standing together, how do the twins' eyes compare... are their eyes the same color and shade, different shade, or different color? /Cuando est\u221a\u00b0n parados uno junto al otro, \u00ac\u00f8c\u221a\u2265mo se comparan los ojos de los gemelos? \u00ac\u00f8Son del mismo color y tonalidad, de diferente tonalidad o de diferente color? | 1 = Same Color and Shade; 2 = Different Shade; 3 = Different Color",
+        "Levels": {
+            "1": "Same Color and Shade",
+            "2": "Different Shade",
+            "3": "Different Color"
+        }
+    },
+    "zygos_q2": {
+        "Description": "How does their hair compare...is their hair the same color and shade, different shade, or different color? /\u00ac\u00f8C\u221a\u2265mo se compara su cabello? \u00ac\u00f8Es del mismo color y tonalidad, diferente tonalidad o diferente color? | 1 = Same Color and Shade; 2 = Different Shade; 3 = Different Color",
+        "Levels": {
+            "1": "Same Color and Shade",
+            "2": "Different Shade",
+            "3": "Different Color"
+        }
+    },
+    "zygos_q4": {
+        "Description": "Do the twins look like two peas in a pod or are they no more alike in appearance than ordinary sisters or brothers? / \u00ac\u00f8Los gemelos se ven 'como dos gotas de agua' o solo parecen como si fueran hermanos normales? | 1 = Like \"two peas\"; 2 = Ordinary likeness; 3 = IF VOLUNTEERED- Quite unalike",
+        "Levels": {
+            "1": "Like \"two peas\"",
+            "2": "Ordinary likeness",
+            "3": "IF VOLUNTEERED- Quite unalike"
+        }
+    },
+    "zygos_q5": {
+        "Description": "Based on their appearance now, how often do people have trouble telling them apart? Would you say never, sometimes, or always? /Con base en la apariencia actual de los ni\u221a\u00b1os, \u00ac\u00f8con qu\u221a\u00a9 frecuencia tiene problemas la gente para distinguirlos? \u00ac\u00f8Dir\u221a\u2260a que nunca, a veces o siempre? | 1 = Never; 2 = Sometimes; 3 = Always",
+        "Levels": {
+            "1": "Never",
+            "2": "Sometimes",
+            "3": "Always"
+        }
+    },
+    "zygos_q6": {
+        "Description": "Could one twin fool friends or family by pretending to be the other? Would you say yes, maybe or no?/ \u00ac\u00f8Uno de los gemelos podr\u221a\u2260a enga\u221a\u00b1ar a sus amigos o familiares haci\u221a\u00a9ndose pasar por el otro? \u00ac\u00f8Dir\u221a\u2260a que s\u221a\u2260, tal vez o no? | 1 = Yes; 2 = Maybe; 3 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "Maybe",
+            "3": "No"
+        }
+    },
+    "scrn_time": {
+        "Description": "Time of screener completion:"
+    },
+    "scrn_alt_status": {
+        "Description": "Screener Status | 0 = Waiting for Doctor's note; 1 = Waiting for PI Consult; 2 = Doctor's note received; 3 = Consulted PI //( scrn_met_injmdnote == 1 && scrn_brain_scn == 0) || ( scrn_met_injmdnote == 1 && scrn_abn_scan == 1) || ( scrn_met_excl == 2 && scrn_abn_scan == 1) || ( scrn_met_excl == 2 && scrn_brain_scn == 0) || ( scrn_con_excl == 2 && scrn_brain_scn == 0) || ( scrn_con_excl == 2 && scrn_abn_scan == 1) || ( scrn_psych_excl == 2 && scrn_abn_scan == 1) || ( scrn_psych_excl == 2 && scrn_brain_scn == 0) || ( scrn_birthcomp_excl == 2 && scrn_abn_scan == 1) || ( scrn_birthcomp_excl == 2 && scrn_brain_scn == 0) || ( scrn_concerns_excl == 2 && scrn_abn_scan == 1) || ( scrn_concerns_excl == 2 && scrn_brain_scn == 0) || ( scrn_braces == 2 && scrn_brain_scn == 0) || ( scrn_abn_scan == 1 && scrn_braces == 2) || scrn_abn_scan == 2 || scrn_tbi_scan_excl == 2",
+        "Levels": {
+            "0": "Waiting for Doctor's note",
+            "1": "Waiting for PI Consult",
+            "2": "Doctor's note received",
+            "3": "Consulted PI"
+        }
+    },
+    "scrn_status_2": {
+        "Description": "Screener Status | 3 = Delayed screening for age- SCHEDULE AD HOC EVENT FOR SCREENING; 0 = Eligible; 1 = Eligible- Delayed scheduling for dental; 2 = Ineligible // scrn_met_injremove == 0 || scrn_met_injmdnote == 0 || scrn_met_excl == 0 || scrn_nr_hair == 1 || scrn_eyeliner == 1 || scrn_nr_piercing == 1 || scrn_claustrophob == 2 || scrn_claustrophobexcl == 1 || scrn_speakeng == 0 || scrn_fluency == 0 || scrn_percept_corr == 0 || scrn_cpalsy == 0 || scrn_tumor == 0 || scrn_stroke == 0 || scrn_aneurysm == 0 || scrn_hemorrhage == 0 || scrn_hemotoma == 0 || scrn_con_excl == 0 || scrn_gestage == 1 || scrn_birthwt == 1 || scrn_birthcomp_excl == 0 || scrn_schiz == 1 || scrn_asd_regclasses == 0 || scrn_sud == 1 || scrn_intdisab == 1 || scrn_psych_excl == 1 || scrn_concerns_excl == 0 || scrn_tbi_loc == 1 || scrn_tbi_mem == 1 || scrn_tbi_scan_excl == 0 || scrn_abn_scan == 0 || scrn_seizure == 1 || scrn_weight_mri == 1 || ( scrn_met_injmdnote <> 1 && scrn_met_excl <> 2 && scrn_con_excl <> 2 && scrn_psych_excl <> 2 && scrn_birthcomp_excl <> 2 && scrn_concerns_excl <> 2 && scrn_abn_scan <> 2 && scrn_braces <> 2 && scrn_tbi_scan_excl <> 2) || scrn_alt_status == 2 || scrn_alt_status == 3",
+        "Levels": {
+            "3": "Delayed screening for age- SCHEDULE AD HOC EVENT FOR SCREENING",
+            "0": "Eligible",
+            "1": "Eligible- Delayed scheduling for dental",
+            "2": "Ineligible"
+        }
+    }
+}

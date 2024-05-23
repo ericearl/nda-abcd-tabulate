@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_nback_all_190": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_all_191": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_all_196": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_all_209": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_all_194": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_all_208": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_all_192": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_all_187": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_all_204": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_all_185": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_all_202": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_all_184": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_201": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_181": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_all_198": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_all_195": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_all_193": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_all_207": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_all_183": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_all_200": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_all_182": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_all_199": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_all_189": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_all_206": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_all_188": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_all_205": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_all_186": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_all_203": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_all_197": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_all_210": {
+        "Description": "Beta weight for nBack all emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbackallsem_190": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbackallsem_191": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbackallsem_196": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbackallsem_209": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbackallsem_194": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbackallsem_208": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbackallsem_192": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbackallsem_187": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbackallsem_204": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbackallsem_185": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_202": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_184": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_201": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_181": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_198": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_195": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmrinbackallsem_193": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbackallsem_207": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbackallsem_183": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbackallsem_200": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbackallsem_182": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbackallsem_199": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbackallsem_189": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbackallsem_206": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbackallsem_188": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbackallsem_205": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbackallsem_186": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbackallsem_203": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbackallsem_197": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbackallsem_210": {
+        "Description": "Standard error of the mean for nBack all emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1_190": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1_191": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1_196": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1_209": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1_194": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1_208": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1_192": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1_187": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1_204": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1_185": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_202": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_184": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_201": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_181": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_198": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_195": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1_193": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1_207": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1_183": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1_200": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1_182": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1_199": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1_189": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1_206": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1_188": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1_205": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1_186": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1_203": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1_197": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1_210": {
+        "Description": "Beta weight for nBack run1 emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1sem_190": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1sem_191": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1sem_196": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1sem_209": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1sem_194": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1sem_208": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1sem_192": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1sem_187": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1sem_204": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1sem_185": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_202": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_184": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_201": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_181": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_198": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_195": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1sem_193": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1sem_207": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1sem_183": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_200": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_182": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_199": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_189": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1sem_206": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1sem_188": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1sem_205": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1sem_186": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_203": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_197": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1sem_210": {
+        "Description": "Standard error of the mean for nBack run1 emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r2_190": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r2_191": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r2_196": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r2_209": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r2_194": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r2_208": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r2_192": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r2_187": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r2_204": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r2_185": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_202": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_184": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_201": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_181": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_198": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_195": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r2_193": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r2_207": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r2_183": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r2_200": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r2_182": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r2_199": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r2_189": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r2_206": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r2_188": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r2_205": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r2_186": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r2_203": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r2_197": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r2_210": {
+        "Description": "Beta weight for nBack run2 emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbr2efvnfsscs3rdvt": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbr2efvnfsscs4thvt": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbr2efvnfsscsaalh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbr2efvnfsscsaarh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbr2efvnfsscsaylh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbr2efvnfsscsayrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbr2efvnfsscsbs": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbr2efvnfsscscdelh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbr2efvnfsscscderh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbr2efvnfsscscrbcxlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbr2efvnfsscscrbcxrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbr2efvnfsscscrbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbr2efvnfsscscrbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbr2efvnfsscscbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbr2efvnfsscscbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbr2efvnfsscscsf": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI csf"
+    },
+    "tfmrinbr2efvnfsscshpuslh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbr2efvnfsscshpusrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbr2efvnfsscsinfvtlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbr2efvnfsscsinfvtrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbr2efvnfsscslvtlh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbr2efvnfsscslvtrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbr2efvnfsscspalh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbr2efvnfsscsparh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbr2efvnfsscspulh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbr2efvnfsscspurh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbr2efvnfsscstplh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbr2efvnfsscstprh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbr2efvnfsscsvtrdclh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbr2efvnfsscsvtrdcrh": {
+        "Description": "Standard error of the mean for nBack run2 emotion versus neutral face contrast in ASEG ROI right-ventraldc"
+    }
+}

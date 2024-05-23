@@ -1,0 +1,114 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_sulc_cf2_frlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 2 clusters-lh-frontal"
+    },
+    "smri_sulc_cf2_ptlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 2 clusters-lh-posterior"
+    },
+    "smri_sulc_cf4_frlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-lh-frontal"
+    },
+    "smri_sulc_cf4_occlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-lh-occipital"
+    },
+    "smri_sulc_cf4_tmlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-lh-temporal"
+    },
+    "smri_sulc_cf4_pllh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-lh-parietal"
+    },
+    "smri_sulc_cf12_cnlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-central"
+    },
+    "smri_sulc_cf12_occlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-occipital"
+    },
+    "smri_sulc_cf12_ptoltmlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-posterolateraltemporal"
+    },
+    "smri_sulc_cf12_supllh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-superiorparietal"
+    },
+    "smri_sulc_cf12_obfrlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-orbitofrontal"
+    },
+    "smri_sulc_cf12_sutmlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-superiortemporal"
+    },
+    "smri_sulc_cf12_ifpllh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-inferiorparietal"
+    },
+    "smri_sulc_cf12_dmfrlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-dorsomedialfrontal"
+    },
+    "smri_sulc_cf12_aomtmlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-anteromedialtemporal"
+    },
+    "smri_sulc_cf12_pclh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-precuneus"
+    },
+    "smri_sulc_cf12_dlprefrlh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-dorsolateralprefrontal"
+    },
+    "smri_sulc_cf12_parsopclh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-lh-parsopercularis"
+    },
+    "smri_sulc_cf2_frrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 2 clusters-rh-frontal"
+    },
+    "smri_sulc_cf2_ptrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 2 clusters-rh-posterior"
+    },
+    "smri_sulc_cf4_frrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-rh-frontal"
+    },
+    "smri_sulc_cf4_occrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-rh-occipital"
+    },
+    "smri_sulc_cf4_tmrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-rh-temporal"
+    },
+    "smri_sulc_cf4_plrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 4 clusters-rh-parietal"
+    },
+    "smri_sulc_cf12_cnrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-central"
+    },
+    "smri_sulc_cf12_occrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-occipital"
+    },
+    "smri_sulc_cf12_ptoltmrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-posterolateraltemporal"
+    },
+    "smri_sulc_cf12_suplrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-superiorparietal"
+    },
+    "smri_sulc_cf12_obfrrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-orbitofrontal"
+    },
+    "smri_sulc_cf12_sutmrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-superiortemporal"
+    },
+    "smri_sulc_cf12_ifplrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-inferiorparietal"
+    },
+    "smri_sulc_cf12_dmfrrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-dorsomedialfrontal"
+    },
+    "smri_sulc_cf12_aomtmrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-anteromedialtemporal"
+    },
+    "smri_sulc_cf12_pcrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-precuneus"
+    },
+    "smri_sulc_cf12_dlprefrrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-dorsolateralprefrontal"
+    },
+    "smri_sulc_cf12_parsopcrh": {
+        "Description": "Weighted average depth for genetically derived parcellation with 12 clusters-rh-parsopercularis"
+    }
+}

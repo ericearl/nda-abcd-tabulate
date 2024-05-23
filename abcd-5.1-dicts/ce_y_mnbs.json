@@ -1,0 +1,103 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mnbs_admin": {
+        "Description": "Please indicate how instrument was administered: | 1= RA-Administered; 2= Youth Self-Administered; 3= Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "mnbs_bad": {
+        "Description": "Care if you did bad things, like shoplifting? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_doing": {
+        "Description": "Want to know what you were doing if you were not at home? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_friend": {
+        "Description": "Take an interest in the kind of friends you had? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_homework": {
+        "Description": "Help you with your homework? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_play": {
+        "Description": "Make sure you had somewhere safe to play? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_school": {
+        "Description": "Make sure you always went to school? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_trouble": {
+        "Description": "Care if you got into trouble at school? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_understand": {
+        "Description": "Help you when you had trouble understanding something? | 0= Never; 1= Almost Never; 2= Sometimes; 3= A lot; 777= refuse to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "A lot",
+            "777": "refuse to answer"
+        }
+    },
+    "mnbs_ss_monitor_supervision": {
+        "Description": "Monitoring/Supervision: mean of 1,2,3,4"
+    },
+    "mnbs_ss_mean_all": {
+        "Description": "all: mean 1-10"
+    },
+    "mnbs_ss_ed_support": {
+        "Description": "Educational/support: mean of 8,9,10"
+    }
+}

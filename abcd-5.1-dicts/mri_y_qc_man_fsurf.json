@@ -1,0 +1,39 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "fsqc_container_type": {
+        "Description": "Container type"
+    },
+    "fsqc_stype": {
+        "Description": "series type"
+    },
+    "fsqc_nrev": {
+        "Description": "Number of reviews"
+    },
+    "fsqc_revdisp": {
+        "Description": "Number of reviews with disparity"
+    },
+    "fsqc_qc": {
+        "Description": "QC score"
+    },
+    "fsqc_qu_motion": {
+        "Description": "Motion score"
+    },
+    "fsqc_qu_pialover": {
+        "Description": "Pial overestimation score"
+    },
+    "fsqc_qu_wmunder": {
+        "Description": "White matter underestimation score"
+    },
+    "fsqc_qu_inhomogeneity": {
+        "Description": "Inhomogeneity score"
+    },
+    "fsqc_qu_artifact": {
+        "Description": "Artifact score"
+    },
+    "fsqc_notes": {
+        "Description": "FreeSurfer QC Notes"
+    }
+}

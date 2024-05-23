@@ -1,0 +1,312 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_cpb_01": {
+        "Description": "My friends work hard to get good grades in school. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_02": {
+        "Description": "My friends break the rules. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_03": {
+        "Description": "My friends are popular with other kids. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_04": {
+        "Description": "My friends drink alcohol and beer. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_05": {
+        "Description": "My friends are very smart. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_06": {
+        "Description": "My friends get into trouble with the police. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_07": {
+        "Description": "My friends are good at sports. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_08": {
+        "Description": "My friends smoke cigarettes or chew tobacco. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_09": {
+        "Description": "My friends do their homework and study a lot. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_10": {
+        "Description": "My friends steal things from others. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_11": {
+        "Description": "My friends use drugs. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_12": {
+        "Description": "My friends get good grades in school. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_13": {
+        "Description": "My friends get into fights with other kids. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_14": {
+        "Description": "Other kids look up to (respect) my friends. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_15": {
+        "Description": "My friends know where to buy drugs. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_16": {
+        "Description": "My friends are liked by their teachers. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_17": {
+        "Description": "My friends get into trouble a lot at school. | 3 = ALL of my friends; 2=  MOST of my friends; 1=  A FEW of my friends; 0=  NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_07_l": {
+        "Description": "My friends are good at sports. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_17_l": {
+        "Description": "My friends get into trouble a lot at school. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_16_l": {
+        "Description": "My friends are liked by their teachers. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_15_l": {
+        "Description": "My friends know where to buy drugs. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_14_l": {
+        "Description": "Other kids look up to (respect) my friends. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_13_l": {
+        "Description": "My friends get into fights with other kids. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_12_l": {
+        "Description": "My friends get good grades in school. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_11_l": {
+        "Description": "My friends use drugs. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_10_l": {
+        "Description": "My friends steal things from others. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_09_l": {
+        "Description": "My friends do their homework and study a lot. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_08_l": {
+        "Description": "My friends smoke cigarettes or chew tobacco. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_06_l": {
+        "Description": "My friends get into trouble with the police. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_05_l": {
+        "Description": "My friends are very smart. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_04_l": {
+        "Description": "My friends drink alcohol and beer. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_03_l": {
+        "Description": "My friends are popular with other kids. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_02_l": {
+        "Description": "My friends break the rules. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    },
+    "socialdev_cpb_01_l": {
+        "Description": "My friends work hard to get good grades in school. | 3=ALL of my friends ; 2=MOST of my friends ; 1=A FEW of my friends ; 0=NONE of my friends",
+        "Levels": {
+            "3": "ALL of my friends",
+            "2": "MOST of my friends",
+            "1": "A FEW of my friends",
+            "0": "NONE of my friends"
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "peer_deviance_1_4bbe5d": {
+        "Description": "Smoke cigarettes | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_2_dd1457": {
+        "Description": "Drink alcohol (full beer, wine or liquor) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_3_e1ec2e": {
+        "Description": "Get drunk | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_4_b6c588": {
+        "Description": "Have problems with alcohol or other drugs | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_5_bffa44": {
+        "Description": "Use marijuana | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_6_69562e": {
+        "Description": "Use inhalants (gas, glue, nitrous oxide) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_7_beb683": {
+        "Description": "Use other drugs like cocaine, downers, or LSD (lysergic acid diethylamide) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_8_35702e": {
+        "Description": "Sell or give drugs to others | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_9_6dd4ef": {
+        "Description": "Use other tobacco products like e-cigarettes, pipes, or hookah | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_1_l": {
+        "Description": "How many of your friends currently: smoke cigarettes | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_tob_l  =='1' ||  tlfb_tob_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_2_l": {
+        "Description": "How many of your friends currently: drink alcohol (full beer, wine or liquor) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_alc_l  =='1' ||  tlfb_alc_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_3_l": {
+        "Description": "How many of your friends currently: get drunk | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_alc_l  =='1' ||  tlfb_alc_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_4_l": {
+        "Description": "How many of your friends currently: have problems with alcohol or other drugs | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_alc_l  =='1' ||  tlfb_tob_l  =='1' ||  tlfb_mj_l  =='1' ||  tlfb_mj_synth_l  =='1' ||  tlfb_bitta_l  =='1' ||  tlfb_list_yes_no_l  =='1' ||   tlfb_alc_c_l  =='1' ||  tlfb_tob_c_l  =='1' ||  tlfb_mj_c_l  =='1' ||  tlfb_mj_synth_c_l  =='1' ||  tlfb_bitta_c_l  =='1' ||  tlfb_list_yes_no_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_5_l": {
+        "Description": "How many of your friends currently: use marijuana | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_mj_l  =='1' ||  tlfb_mj_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_6_l": {
+        "Description": "How many of your friends currently: use inhalants (gas, glue, nitrous oxide) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_inhalant_l   == '1' ||  tlfb_inhalant_c_l   == '1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_7_l": {
+        "Description": "How many of your friends currently: use other drugs like cocaine, downers, or LSD (lysergic acid diethylamide) | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___1   == '1' ||  tlfb_list_l___2   == '1' ||  tlfb_list_l___3   == '1' ||   tlfb_list_l___4   == '1' ||  tlfb_list_l___5   == '1' ||  tlfb_list_l___6   == '1' ||  tlfb_list_l___7   == '1' ||  tlfb_list_l___8   == '1' ||   tlfb_list_l___9   == '1' ||  tlfb_list_l___10   == '1' ||  tlfb_list_l___11   == '1' ||  tlfb_list_l___12   == '1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_8_l": {
+        "Description": "How many of your friends currently: sell or give drugs to others | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_alc_l  =='1' ||  tlfb_tob_l  =='1' ||  tlfb_mj_l  =='1' ||  tlfb_mj_synth_l  =='1' ||  tlfb_bitta_l  =='1' ||  tlfb_list_yes_no_l  =='1' ||  tlfb_alc_c_l  =='1' ||  tlfb_tob_c_l  =='1' ||  tlfb_mj_c_l  =='1' ||  tlfb_mj_synth_c_l  =='1' ||  tlfb_bitta_c_l  =='1' ||  tlfb_list_yes_no_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "peer_deviance_9_l": {
+        "Description": "How many of your friends currently: use other tobacco products like e-cigarettes, pipes, or hookah | 0 = None; 1 = A Few; 2 = Some; 3 = Most; 4 = All / tlfb_tob_l  =='1' ||  tlfb_tob_c_l  =='1'",
+        "Levels": {
+            "0": "None",
+            "1": "A Few",
+            "2": "Some",
+            "3": "Most",
+            "4": "All"
+        }
+    },
+    "sua_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

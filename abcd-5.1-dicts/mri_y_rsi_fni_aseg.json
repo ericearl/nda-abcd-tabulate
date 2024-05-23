@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsifni_scs_cwmlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-cerebral-white-matter"
+    },
+    "dmri_rsifni_scs_lvlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-lateral-ventricle"
+    },
+    "dmri_rsifni_scs_ilvlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-inf-lat-vent"
+    },
+    "dmri_rsifni_scs_cbwmlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-cerebellum-white-matter"
+    },
+    "dmri_rsifni_scs_cbclh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-cerebellum-cortex"
+    },
+    "dmri_rsifni_scs_tplh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-thalamus-proper"
+    },
+    "dmri_rsifni_scs_cdlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-caudate"
+    },
+    "dmri_rsifni_scs_ptlh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-putamen"
+    },
+    "dmri_rsifni_scs_pllh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-pallidum"
+    },
+    "dmri_rsifni_scs_3rdv": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation 3rd-ventricle"
+    },
+    "dmri_rsifni_scs_4thv": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation 4th-ventricle"
+    },
+    "dmri_rsifni_scs_bs": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation brain-stem"
+    },
+    "dmri_rsifni_scs_hclh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-hippocampus"
+    },
+    "dmri_rsifni_scs_aglh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-amygdala"
+    },
+    "dmri_rsifni_scs_csf": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation csf"
+    },
+    "dmri_rsifni_scs_ablh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-accumbens-area"
+    },
+    "dmri_rsifni_scs_vdclh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation left-ventraldc"
+    },
+    "dmri_rsifni_scs_cwmrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-cerebral-white-matter"
+    },
+    "dmri_rsifni_scs_lvrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-lateral-ventricle"
+    },
+    "dmri_rsifni_scs_ilvrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-inf-lat-vent"
+    },
+    "dmri_rsifni_scs_cbwmrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-cerebellum-white-matter"
+    },
+    "dmri_rsifni_scs_cbcrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-cerebellum-cortex"
+    },
+    "dmri_rsifni_scs_tprh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-thalamus-proper"
+    },
+    "dmri_rsifni_scs_cdrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-caudate"
+    },
+    "dmri_rsifni_scs_ptrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-putamen"
+    },
+    "dmri_rsifni_scs_plrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-pallidum"
+    },
+    "dmri_rsifni_scs_hcrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-hippocampus"
+    },
+    "dmri_rsifni_scs_agrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-amygdala"
+    },
+    "dmri_rsifni_scs_abrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-accumbens-area"
+    },
+    "dmri_rsifni_scs_vdcrh": {
+        "Description": "free normalized isotropic diffusion aseg subcortical segmentation right-ventraldc"
+    }
+}

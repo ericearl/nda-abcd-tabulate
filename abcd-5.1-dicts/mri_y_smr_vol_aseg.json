@@ -1,0 +1,144 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_vol_scs_cbwmatterlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-cerebral-white-matter"
+    },
+    "smri_vol_scs_ltventriclelh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-lateral-ventricle"
+    },
+    "smri_vol_scs_inflatventlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-inf-lat-vent"
+    },
+    "smri_vol_scs_crbwmatterlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-cerebellum-white-matter"
+    },
+    "smri_vol_scs_crbcortexlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-cerebellum-cortex"
+    },
+    "smri_vol_scs_tplh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-thalamus-proper"
+    },
+    "smri_vol_scs_caudatelh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-caudate"
+    },
+    "smri_vol_scs_putamenlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-putamen"
+    },
+    "smri_vol_scs_pallidumlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-pallidum"
+    },
+    "smri_vol_scs_3rdventricle": {
+        "Description": "Volume in mm^3 of ASEG ROI 3rd-ventricle"
+    },
+    "smri_vol_scs_4thventricle": {
+        "Description": "Volume in mm^3 of ASEG ROI 4th-ventricle"
+    },
+    "smri_vol_scs_bstem": {
+        "Description": "Volume in mm^3 of ASEG ROI brain-stem"
+    },
+    "smri_vol_scs_hpuslh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-hippocampus"
+    },
+    "smri_vol_scs_amygdalalh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-amygdala"
+    },
+    "smri_vol_scs_csf": {
+        "Description": "Volume in mm^3 of ASEG ROI csf"
+    },
+    "smri_vol_scs_lesionlh": {
+        "Description": "Volume in mm^3 of ASEG ROI lesion"
+    },
+    "smri_vol_scs_aal": {
+        "Description": "Volume in mm^3 of ASEG ROI left-accumbens-area"
+    },
+    "smri_vol_scs_vedclh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-ventraldc"
+    },
+    "smri_vol_scs_cbwmatterrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-cerebral-white-matter"
+    },
+    "smri_vol_scs_ltventriclerh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-lateral-ventricle"
+    },
+    "smri_vol_scs_inflatventrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-inf-lat-vent"
+    },
+    "smri_vol_scs_crbwmatterrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-cerebellum-white-matter"
+    },
+    "smri_vol_scs_crbcortexrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-cerebellum-cortex"
+    },
+    "smri_vol_scs_tprh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-thalamus-proper"
+    },
+    "smri_vol_scs_caudaterh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-caudate"
+    },
+    "smri_vol_scs_putamenrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-putamen"
+    },
+    "smri_vol_scs_pallidumrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-pallidum"
+    },
+    "smri_vol_scs_hpusrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-hippocampus"
+    },
+    "smri_vol_scs_amygdalarh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-amygdala"
+    },
+    "smri_vol_scs_lesionrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-lesion"
+    },
+    "smri_vol_scs_aar": {
+        "Description": "Volume in mm^3 of ASEG ROI right-accumbens area"
+    },
+    "smri_vol_scs_vedcrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-ventraldc"
+    },
+    "smri_vol_scs_wmhint": {
+        "Description": "Volume in mm^3 of ASEG ROI wm-hypointensities"
+    },
+    "smri_vol_scs_wmhintlh": {
+        "Description": "Volume in mm^3 of ASEG ROI left-wm-hypointensities"
+    },
+    "smri_vol_scs_wmhintrh": {
+        "Description": "Volume in mm^3 of ASEG ROI right-wm-hypointensities"
+    },
+    "smri_vol_scs_ccps": {
+        "Description": "Volume in mm^3 of ASEG ROI CC-Posterior"
+    },
+    "smri_vol_scs_ccmidps": {
+        "Description": "Volume in mm^3 of ASEG ROI CC-Mid_Posterior"
+    },
+    "smri_vol_scs_ccct": {
+        "Description": "Volume in mm^3 of ASEG ROI CC-Central"
+    },
+    "smri_vol_scs_ccmidat": {
+        "Description": "Volume in mm^3 of ASEG ROI CC-Mid_Anterior"
+    },
+    "smri_vol_scs_ccat": {
+        "Description": "Volume in mm^3 of ASEG ROI CC-Anterior"
+    },
+    "smri_vol_scs_wholeb": {
+        "Description": "Volume in mm^3 of ASEG ROI wholebrain"
+    },
+    "smri_vol_scs_latventricles": {
+        "Description": "Volume in mm^3 of ASEG ROI latventricles"
+    },
+    "smri_vol_scs_allventricles": {
+        "Description": "Volume in mm^3 of ASEG ROI allventricles"
+    },
+    "smri_vol_scs_intracranialv": {
+        "Description": "Volume in mm^3 of ASEG ROI intracranialvolume"
+    },
+    "smri_vol_scs_suprateialv": {
+        "Description": "Volume in mm^3 of ASEG ROI supratentorialvolume"
+    },
+    "smri_vol_scs_subcorticalgv": {
+        "Description": "Volume in mm^3 of ASEG ROI subcorticalgrayvolume"
+    }
+}

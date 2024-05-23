@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_state_mj_laws": {
+        "Description": "Marijuana state law during the same year as the assessment | 1=recreational ; 2=medical ; 3= low THC/CBD ; 4= no recreational/medical",
+        "Levels": {
+            "1": "recreational",
+            "2": "medical",
+            "3": "low THC/CBD",
+            "4": "no recreational/medical"
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_mhsvi_white_p": {
+        "Description": "Residential history derived - Percentage population estimate White; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_aian_p": {
+        "Description": "Residential history derived - Percentage population estimate American Indian and Alaska Native; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_asian_p": {
+        "Description": "Residential history derived - Percentage population estimate Asian; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_afam_p": {
+        "Description": "Residential history derived - Percentage population estimate Black or African American; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_nhpi_p": {
+        "Description": "Residential history derived - Percentage population estimate Native Hawaiian/Pacific Islander; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_hisp_p": {
+        "Description": "Residential history derived - Percentage population estimate Hispanic or Latino/a; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_span_p": {
+        "Description": "Residential history derived - Percentage population estimate Spanish speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_chin_p": {
+        "Description": "Residential history derived - Percentage population estimate Chinese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_viet_p": {
+        "Description": "Residential history derived - Percentage population estimate Vietnamese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_kor_p": {
+        "Description": "Residential history derived - Percentage population estimate Korean speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_rus_p": {
+        "Description": "Residential history derived - Percentage population estimate Russian speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_hosp_r": {
+        "Description": "Residential history derived - Hospitals per 100,000 people; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_urg_r": {
+        "Description": "Residential history derived - Urgent care clinics per 100,000; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_pharm_r": {
+        "Description": "Residential history derived - Pharmacies per 1000,000; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_pcp_r": {
+        "Description": "Residential history derived - Primary care physicians (rate; care, non-federal) ; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_unins_p": {
+        "Description": "Residential history derived - Percentage population estimate persons without health insurance; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_noint_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no internet access; Minority Health SVI (addr1)"
+    },
+    "reshist_addr1_mhsvi_nocomp_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no computer access; Minority Health SVI (addr1)"
+    },
+    "reshist_addr2_mhsvi_white_p": {
+        "Description": "Residential history derived - Percentage population estimate White; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_aian_p": {
+        "Description": "Residential history derived - Percentage population estimate American Indian and Alaska Native; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_asian_p": {
+        "Description": "Residential history derived - Percentage population estimate Asian; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_afam_p": {
+        "Description": "Residential history derived - Percentage population estimate Black or African American; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_nhpi_p": {
+        "Description": "Residential history derived - Percentage population estimate Native Hawaiian/Pacific Islander; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_hisp_p": {
+        "Description": "Residential history derived - Percentage population estimate Hispanic or Latino/a; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_span_p": {
+        "Description": "Residential history derived - Percentage population estimate Spanish speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_chin_p": {
+        "Description": "Residential history derived - Percentage population estimate Chinese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_viet_p": {
+        "Description": "Residential history derived - Percentage population estimate Vietnamese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_kor_p": {
+        "Description": "Residential history derived - Percentage population estimate Korean speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_rus_p": {
+        "Description": "Residential history derived - Percentage population estimate Russian speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_hosp_r": {
+        "Description": "Residential history derived - Hospitals per 100,000 people; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_urg_r": {
+        "Description": "Residential history derived - Urgent care clinics per 100,000; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_pharm_r": {
+        "Description": "Residential history derived - Pharmacies per 1000,000; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_pcp_r": {
+        "Description": "Residential history derived - Primary care physicians (rate; care, non-federal) ; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_unins_p": {
+        "Description": "Residential history derived - Percentage population estimate persons without health insurance; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_noint_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no internet access; Minority Health SVI (addr2)"
+    },
+    "reshist_addr2_mhsvi_nocomp_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no computer access; Minority Health SVI (addr2)"
+    },
+    "reshist_addr3_mhsvi_white_p": {
+        "Description": "Residential history derived - Percentage population estimate White; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_aian_p": {
+        "Description": "Residential history derived - Percentage population estimate American Indian and Alaska Native; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_asian_p": {
+        "Description": "Residential history derived - Percentage population estimate Asian; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_afam_p": {
+        "Description": "Residential history derived - Percentage population estimate Black or African American; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_nhpi_p": {
+        "Description": "Residential history derived - Percentage population estimate Native Hawaiian/Pacific Islander; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_hisp_p": {
+        "Description": "Residential history derived - Percentage population estimate Hispanic or Latino/a; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_span_p": {
+        "Description": "Residential history derived - Percentage population estimate Spanish speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_chin_p": {
+        "Description": "Residential history derived - Percentage population estimate Chinese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_viet_p": {
+        "Description": "Residential history derived - Percentage population estimate Vietnamese speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_kor_p": {
+        "Description": "Residential history derived - Percentage population estimate Korean speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_rus_p": {
+        "Description": "Residential history derived - Percentage population estimate Russian speakers who \"speak English less than 'very well'\"; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_hosp_r": {
+        "Description": "Residential history derived - Hospitals per 100,000 people; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_urg_r": {
+        "Description": "Residential history derived - Urgent care clinics per 100,000; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_pharm_r": {
+        "Description": "Residential history derived - Pharmacies per 1000,000; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_pcp_r": {
+        "Description": "Residential history derived - Primary care physicians (rate; care, non-federal) ; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_unins_p": {
+        "Description": "Residential history derived - Percentage population estimate persons without health insurance; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_noint_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no internet access; Minority Health SVI (addr3)"
+    },
+    "reshist_addr3_mhsvi_nocomp_p": {
+        "Description": "Residential history derived - Percentage population estimate persons with no computer access; Minority Health SVI (addr3)"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_c_baplusavgall": {
+        "Description": "baplus rate, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_hsecdnec": {
+        "Description": "Information index between schools: Economically disadvantaged/Non ECD (county) the information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_c_hsflnfl": {
+        "Description": "Information index between schools: FRPL/Non FRPL (county) the information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_c_lninc50avgall": {
+        "Description": "log of median income, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_perasn": {
+        "Description": "percent asians in the county (county) CCD"
+    },
+    "ledsch_seda_c_perblk": {
+        "Description": "percent blacks in the county (county) CCD"
+    },
+    "ledsch_seda_c_perecd": {
+        "Description": "percent economically disadvantaged in the county (county) Ed Facts"
+    },
+    "ledsch_seda_c_perell": {
+        "Description": "% of all Students in County that are ELL (county) CCD"
+    },
+    "ledsch_seda_c_perfl": {
+        "Description": "percent free lunch in the county (county) CCD"
+    },
+    "ledsch_seda_c_perfrl": {
+        "Description": "percent free or reduced lunch in the county (county) CCD"
+    },
+    "ledsch_seda_c_perhsp": {
+        "Description": "percent hispanics in the county (county) CCD"
+    },
+    "ledsch_seda_c_perind": {
+        "Description": "percent native americans in the county (county) CCD"
+    },
+    "ledsch_seda_c_perrl": {
+        "Description": "percent reduced lunch in the county (county) CCD"
+    },
+    "ledsch_seda_c_perspeced": {
+        "Description": "% of all Students in County that are Special Ed (county) CCD"
+    },
+    "ledsch_seda_c_perwht": {
+        "Description": "percent whites in the county (county) CCD"
+    },
+    "ledsch_seda_c_povertyavgall": {
+        "Description": "poverty rate, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_rsecdnec": {
+        "Description": "Relative Diversity index between schools: Economically disadvantaged/Non ECD (county) the relative diversity index captures ECD-non ECD differences in exposure to ECD students at the average ECD-non ECD student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_c_rsflnfl": {
+        "Description": "Relative Diversity index between schools: FRPL/Non FRPL (county) the relative diversity index captures free lunch-not free lunch differences in exposure to free lunch students at the average free lunch/not free lunch student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_c_rural": {
+        "Description": "% of Schools in County that are Rural (county) CCD"
+    },
+    "ledsch_seda_c_sesavgall": {
+        "Description": "ses composite, eb estimate, all families, 2005-09 and 2014-18 avg (county) see SEDA documentation for more detailed information on the construction of the SES measures from the ACS"
+    },
+    "ledsch_seda_c_single_momavgall": {
+        "Description": "single mother HH rate, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_snapavgall": {
+        "Description": "snap receipt rate, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_suburb": {
+        "Description": "% of Schools in County that are Suburban (county) CCD"
+    },
+    "ledsch_seda_c_totenrl": {
+        "Description": "Total Enrollment, Grades 3-8 (county) CCD"
+    },
+    "ledsch_seda_c_town": {
+        "Description": "% of Schools in County that are Town (county) CCD"
+    },
+    "ledsch_seda_c_unempavgall": {
+        "Description": "unemployment rate, eb estimate, all families, 2005-09 and 2014-18 avg (county) ACS"
+    },
+    "ledsch_seda_c_urban": {
+        "Description": "% of Schools in County that are Urban (county) CCD"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "prosoc_p_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "prosocial_q1_p": {
+        "Description": "My child is\u2026 Considerate of other people's feelings. /Tiene consideraci\u00f3n por los sentimientos de los dem\u00e1s. | 0 = Not True/ Falso; 1 = Somewhat True /Algo cierto; 2 = Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year",
+        "Levels": {
+            "0": "Not True/ Falso",
+            "1": "Somewhat True /Algo cierto",
+            "2": "Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year"
+        }
+    },
+    "prosocial_q2_p": {
+        "Description": "My child is\u2026 Helpful if someone is hurt, upset, or feeling ill. /Ayuda cuando alguien se lastima, se molesta o se siente enfermo. | 0 = Not True/ Falso; 1 = Somewhat True /Algo cierto; 2 = Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year",
+        "Levels": {
+            "0": "Not True/ Falso",
+            "1": "Somewhat True /Algo cierto",
+            "2": "Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year"
+        }
+    },
+    "prosocial_q3_p": {
+        "Description": "My child is\u2026 Often offers to help others (parents, teachers, other children). /Con frecuencia se ofrece para ayudar a los dem\u00e1s (padres, maestros, otros ni\u00f1os). | 0 = Not True/ Falso; 1 = Somewhat True /Algo cierto; 2 = Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year",
+        "Levels": {
+            "0": "Not True/ Falso",
+            "1": "Somewhat True /Algo cierto",
+            "2": "Certainly True /Totalmente cierto//For each item, please mark the box for Not True, Somewhat True, or Certainly True. It would help us if you answered all items as best you can even if you are not absolutely certain. Please give your answers on the basis of  the child's behavior over the last six months or this school year"
+        }
+    },
+    "psb_p_ss_mean": {
+        "Description": "Prosocial Behavior Subscale Mean of Parent Report on Youth: (prosocial_q1_p + prosocial_q2_p + prosocial_q3_p)/3; Validation: Minimum of two items answered | Goodman, R. (1997) The Strengths and Difficulties Questionnaire: a research note. J Child Psychol Psychiatry 38(5):581-6; Goodman, R., Meltzer, H., & Bailey V. (1998) The Strengths and Difficulties Questionnaire: A pilot study of the validity of the self-report version. European Child and Adolescent Psychiatry 7: 125-13."
+    },
+    "psb_p_ss_mean_nm": {
+        "Description": "Prosocial Behavior Subscale, Mean of Parent Report on Youth: Number Missing Answers"
+    },
+    "psb_p_ss_mean_nt": {
+        "Description": "Prosocial Behavior Subscale, Mean of Parent report on Youth: Number Total Questions"
+    },
+    "psb_p_ss_answered": {
+        "Description": "Prosocial Behavior Subscale, Mean of Parent Report on Youth: Number Answered"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "wps_q1_y": {
+        "Description": "I get as much information as I can. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_q2_y": {
+        "Description": "I think hard about what steps to take. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_q3_y": {
+        "Description": "I think about the choices before I do anything. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_q4_y": {
+        "Description": "I think of different ways to take care of it. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_q5_y": {
+        "Description": "I try different ways to solve the problem. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_q6_y": {
+        "Description": "I do something to try to solve the problem. | 1 = Never; 2 = A Little; 3 = Sometimes; 4 = Pretty Often; 5 = Usually",
+        "Levels": {
+            "1": "Never",
+            "2": "A Little",
+            "3": "Sometimes",
+            "4": "Pretty Often",
+            "5": "Usually"
+        }
+    },
+    "wps_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "wps_ss_sum": {
+        "Description": "WPS SumSum[wps_q1_y. wps_q2_y. wps_q3_y,wps_q4_y, wps_q5_y, wps_q6_y]Validation: Minimum of 4 items answered (4 answers other than not applicable = 0)"
+    },
+    "wps_ss_sum_nm": {
+        "Description": "WPS\nNumber Missing Answers"
+    },
+    "wps_ss_sum_nt": {
+        "Description": "WPS\nNumber Total Questions"
+    }
+}

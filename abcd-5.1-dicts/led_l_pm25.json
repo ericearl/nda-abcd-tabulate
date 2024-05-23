@@ -1,0 +1,42 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_pm252016aa": {
+        "Description": "Residential history derived - annual average of PM 2.5 in 2016 at primary residential address at 1x1km2"
+    },
+    "reshist_addr2_pm252016aa": {
+        "Description": "Residential history derived - annual average of PM 2.5 in 2016 at secondary residential address at 1x1km2"
+    },
+    "reshist_addr3_pm252016aa": {
+        "Description": "Residential history derived - annual average of PM 2.5 in 2016 at third residential address at 1x1km2"
+    },
+    "reshist_addr1_pm25_2016_max": {
+        "Description": "Residential history derived - maximum of PM2.5 in 2016 at primary residential address at 1x1km2"
+    },
+    "reshist_addr2_pm25_2016_max": {
+        "Description": "Residential history derived - maximum of PM2.5 in 2016 at secondary residential address at 1x1km2"
+    },
+    "reshist_addr3_pm25_2016_max": {
+        "Description": "Residential history derived - maximum of PM2.5 in 2016 at third residential address at 1x1km2"
+    },
+    "reshist_addr1_pm25_2016daysepa": {
+        "Description": "Residential history derived - number of days in 2016 PM2.5 was above EPA daily standards (35) at primary residential address at 1x1km2"
+    },
+    "reshist_addr2_pm25_2016daysepa": {
+        "Description": "Residential history derived - number of days in 2016 PM2.5 was above EPA daily standards (35) at secondary residential address at 1x1km2"
+    },
+    "reshist_addr3_pm25_2016daysepa": {
+        "Description": "Residential history derived - number of days in 2016 PM2.5 was above EPA daily standards (35) at third residential address at 1x1km2"
+    },
+    "reshist_addr1_pm25_2016_min": {
+        "Description": "Residential history derived - minimum of PM2.5 in 2016 at primary residential address at 1x1km2"
+    },
+    "reshist_addr2_pm25_2016_min": {
+        "Description": "Residential history derived - minimum of PM2.5 in 2016 at secondary residential address at 1x1km2"
+    },
+    "reshist_addr3_pm25_2016_min": {
+        "Description": "Residential history derived - minimum of PM2.5 in 2016 at third residential address at 1x1km2"
+    }
+}

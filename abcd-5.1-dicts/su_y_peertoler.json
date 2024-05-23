@@ -1,0 +1,158 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ptu_a_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying  one or two drinks of an alcoholic beverage (beer, wine, liquor) | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_alc_l  =='1' ||  tlfb_alc_c_l  == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_b_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTaking one or two alcohol drinks nearly every day | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_alc_l  =='1'  ||  tlfb_alc_c_l  =='1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_c_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nHaving five or more alcoholic drinks once or twice each weekend | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_alc_l  =='1'  ||  tlfb_alc_c_l  == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_d_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying one or two cigarettes | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_e_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nSmoking cigarettes occasionally | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_f_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nSmoking one or more packs of cigarettes per day | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_g_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nUsing e-cigarettes regularly | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_h_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nUsing smokeless tobacco regularly | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_tob_l   == '1' ||  tlfb_tob_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_i_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying marijuana (pot, weed) once or twice | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_j_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nSmoking marijuana occasionally | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_k_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nSmoking marijuana regularly | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_mj_l  == '1' ||  tlfb_mj_c_l  == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_l_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying liquid, sprays, and gases that people sniff or inhale to get high (such as gasoline, glue, and nitrous oxide) once or twice | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_inhalant_l   =='1' ||   tlfb_inhalant_c_l   =='1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_m_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying prescription pain relievers (such as Vicodin, hydrocodone, Oxycontin; not over the counter drugs like Tylenol) in a way that a doctor did not direct you to use it once or twice | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_n_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying prescription use of tranquilizers to relax people (such as Xanax or Ativan) in a way a doctor did not direct you to use it once or twice | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_o_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying prescription stimulants (such as Adderall or Ritalin that may be used for attention disorders) in a way a doctor did not direct you to use it once or twice | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_rx_misuse_l   == '1' ||  tlfb_rx_misuse_c_l   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "ptu_p_y": {
+        "Description": "How do you think your CLOSE FRIENDS feel (or would feel) about YOU doing each of the following things?\nTrying other drugs like cocaine, heroin, or methamphetamine | 0 = Not Disapprove; 1 = Disapprove; 2 = Strongly Disapprove; 999 = Don't Know / tlfb_list_l___1   == '1' ||  tlfb_list_l___2   == '1' ||  tlfb_list_l___3   == '1' ||   tlfb_list_l___4   == '1' ||  tlfb_list_l___5   == '1' ||  tlfb_list_l___6   == '1' ||  tlfb_list_l___7   == '1' ||  tlfb_list_l___8   == '1' ||   tlfb_list_l___9   == '1' ||  tlfb_list_l___10   == '1' ||  tlfb_list_l___11   == '1' ||  tlfb_list_l___12   == '1'",
+        "Levels": {
+            "0": "Not Disapprove",
+            "1": "Disapprove",
+            "2": "Strongly Disapprove",
+            "999": "Don't Know"
+        }
+    },
+    "sua_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

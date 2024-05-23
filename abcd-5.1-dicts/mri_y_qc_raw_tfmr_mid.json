@@ -1,0 +1,909 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_mid_1_suid": {
+        "Description": "MID #1: Study instance UID"
+    },
+    "iqc_mid_1_seuid": {
+        "Description": "MID #1: Series instance UID"
+    },
+    "iqc_mid_1_studydate": {
+        "Description": "MID #1: Study date"
+    },
+    "iqc_mid_1_seriestime": {
+        "Description": "MID #1: Series time"
+    },
+    "iqc_mid_1_fm_missing": {
+        "Description": "MID #1: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_1_fm_wronglocus": {
+        "Description": "MID #1: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_1_fm_invalid": {
+        "Description": "MID #1: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_1_fm_qc_score": {
+        "Description": "MID FM #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_1_fm_pc_score": {
+        "Description": "MID FM #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_1_fm_complete": {
+        "Description": "MID FM #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_1_qc_score": {
+        "Description": "MID #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_1_pc_score": {
+        "Description": "MID #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_1_complete": {
+        "Description": "MID #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_1_voxvol": {
+        "Description": "MID #1: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_1_brainvol": {
+        "Description": "MID #1: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_1_brain_mean": {
+        "Description": "MID #1: Mean intensity within brain mask"
+    },
+    "iqc_mid_1_brain_std": {
+        "Description": "MID #1: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_1_nreps": {
+        "Description": "MID #1: Number of pulse repetitions"
+    },
+    "iqc_mid_1_tr": {
+        "Description": "MID #1: Repetition time in seconds"
+    },
+    "iqc_mid_1_mean_motion": {
+        "Description": "MID #1: Mean framewise displacement in mm"
+    },
+    "iqc_mid_1_mean_motion_nody": {
+        "Description": "MID #1: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_1_mean_motion_filt": {
+        "Description": "MID #1: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_mid_1_mm_filt_nody": {
+        "Description": "MID #1: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_1_fwhm_x": {
+        "Description": "MID #1: Full width half max in x direction"
+    },
+    "iqc_mid_1_fwhm_y": {
+        "Description": "MID #1: Full width half max in y direction"
+    },
+    "iqc_mid_1_fwhm_z": {
+        "Description": "MID #1: Full width half max in z direction"
+    },
+    "iqc_mid_1_brain_tsnr_mean": {
+        "Description": "MID #1: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_1_brain_tsnr_median": {
+        "Description": "MID #1: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_1_brain_tsnr_std": {
+        "Description": "MID #1: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_1_sub_02_nody": {
+        "Description": "MID #1: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_1_sub_02_filt": {
+        "Description": "MID #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_1_sub_02_filt_nody": {
+        "Description": "MID #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_1_sub_02": {
+        "Description": "MID #1: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_2_suid": {
+        "Description": "MID #2: Study instance UID"
+    },
+    "iqc_mid_2_seuid": {
+        "Description": "MID #2: Series instance UID"
+    },
+    "iqc_mid_2_studydate": {
+        "Description": "MID #2: Study date"
+    },
+    "iqc_mid_2_seriestime": {
+        "Description": "MID #2: Series time"
+    },
+    "iqc_mid_2_fm_missing": {
+        "Description": "MID #2: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_2_fm_wronglocus": {
+        "Description": "MID #2: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_2_fm_invalid": {
+        "Description": "MID #2: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_2_fm_qc_score": {
+        "Description": "MID FM #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_2_fm_pc_score": {
+        "Description": "MID FM #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_2_fm_complete": {
+        "Description": "MID FM #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_2_qc_score": {
+        "Description": "MID #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_2_pc_score": {
+        "Description": "MID #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_2_complete": {
+        "Description": "MID #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_2_voxvol": {
+        "Description": "MID #2: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_2_brainvol": {
+        "Description": "MID #2: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_2_brain_mean": {
+        "Description": "MID #2: Mean intensity within brain mask"
+    },
+    "iqc_mid_2_brain_std": {
+        "Description": "MID #2: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_2_nreps": {
+        "Description": "MID #2: Number of pulse repetitions"
+    },
+    "iqc_mid_2_tr": {
+        "Description": "MID #2: Repetition time in seconds"
+    },
+    "iqc_mid_2_mean_motion": {
+        "Description": "MID #2: Mean framewise displacement in mm"
+    },
+    "iqc_mid_2_mean_motion_nody": {
+        "Description": "MID #2: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_2_mean_motion_filt": {
+        "Description": "MID #2: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_mid_2_mm_filt_nody": {
+        "Description": "MID #2: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_2_fwhm_x": {
+        "Description": "MID #2: Full width half max in x direction"
+    },
+    "iqc_mid_2_fwhm_y": {
+        "Description": "MID #2: Full width half max in y direction"
+    },
+    "iqc_mid_2_fwhm_z": {
+        "Description": "MID #2: Full width half max in z direction"
+    },
+    "iqc_mid_2_brain_tsnr_mean": {
+        "Description": "MID #2: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_2_brain_tsnr_median": {
+        "Description": "MID #2: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_2_brain_tsnr_std": {
+        "Description": "MID #2: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_2_sub_02_nody": {
+        "Description": "MID #2: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_2_sub_02_filt_nody": {
+        "Description": "MID #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_2_sub_02_filt": {
+        "Description": "MID #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_2_sub_02": {
+        "Description": "MID #2: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_3_suid": {
+        "Description": "MID #3: Study instance UID"
+    },
+    "iqc_mid_3_seuid": {
+        "Description": "MID #3: Series instance UID"
+    },
+    "iqc_mid_3_studydate": {
+        "Description": "MID #3: Study date"
+    },
+    "iqc_mid_3_seriestime": {
+        "Description": "MID #3: Series time"
+    },
+    "iqc_mid_3_fm_missing": {
+        "Description": "MID #3: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_3_fm_wronglocus": {
+        "Description": "MID #3: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_3_fm_invalid": {
+        "Description": "MID #3: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_3_fm_qc_score": {
+        "Description": "MID FM #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_3_fm_pc_score": {
+        "Description": "MID FM #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_3_fm_complete": {
+        "Description": "MID FM #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_3_qc_score": {
+        "Description": "MID #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_3_pc_score": {
+        "Description": "MID #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_3_complete": {
+        "Description": "MID #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_3_voxvol": {
+        "Description": "MID #3: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_3_brainvol": {
+        "Description": "MID #3: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_3_brain_mean": {
+        "Description": "MID #3: Mean intensity within brain mask"
+    },
+    "iqc_mid_3_brain_std": {
+        "Description": "MID #3: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_3_nreps": {
+        "Description": "MID #3: Number of pulse repetitions"
+    },
+    "iqc_mid_3_tr": {
+        "Description": "MID #3: Repetition time in seconds"
+    },
+    "iqc_mid_3_mean_motion": {
+        "Description": "MID #3: Mean framewise displacement in mm"
+    },
+    "iqc_mid_3_mean_motion_nody": {
+        "Description": "MID #3: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_3_mean_motion_filt": {
+        "Description": "MID #3: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_mid_3_mm_filt_nody": {
+        "Description": "MID #3: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_3_fwhm_x": {
+        "Description": "MID #3: Full width half max in x direction"
+    },
+    "iqc_mid_3_fwhm_y": {
+        "Description": "MID #3: Full width half max in y direction"
+    },
+    "iqc_mid_3_fwhm_z": {
+        "Description": "MID #3: Full width half max in z direction"
+    },
+    "iqc_mid_3_brain_tsnr_mean": {
+        "Description": "MID #3: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_3_brain_tsnr_median": {
+        "Description": "MID #3: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_3_brain_tsnr_std": {
+        "Description": "MID #3: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_3_sub_02_nody": {
+        "Description": "MID #3: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_3_sub_02_filt_nody": {
+        "Description": "MID #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_3_sub_02_filt": {
+        "Description": "MID #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_3_sub_02": {
+        "Description": "MID #3: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_4_suid": {
+        "Description": "MID #4: Study instance UID"
+    },
+    "iqc_mid_4_seuid": {
+        "Description": "MID #4: Series instance UID"
+    },
+    "iqc_mid_4_studydate": {
+        "Description": "MID #4: Study date"
+    },
+    "iqc_mid_4_seriestime": {
+        "Description": "MID #4: Series time"
+    },
+    "iqc_mid_4_fm_missing": {
+        "Description": "MID #4: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_4_fm_wronglocus": {
+        "Description": "MID #4: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_4_fm_invalid": {
+        "Description": "MID #4: Whether field map was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_4_fm_qc_score": {
+        "Description": "MID FM #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_4_fm_pc_score": {
+        "Description": "MID FM #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_4_fm_complete": {
+        "Description": "MID FM #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_4_qc_score": {
+        "Description": "MID #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_4_pc_score": {
+        "Description": "MID #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_4_complete": {
+        "Description": "MID #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_4_voxvol": {
+        "Description": "MID #4: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_4_brainvol": {
+        "Description": "MID #4: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_4_brain_mean": {
+        "Description": "MID #4: Mean intensity within brain mask"
+    },
+    "iqc_mid_4_brain_std": {
+        "Description": "MID #4: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_4_nreps": {
+        "Description": "MID #4: Number of pulse repetitions"
+    },
+    "iqc_mid_4_tr": {
+        "Description": "MID #4: Repetition time in seconds"
+    },
+    "iqc_mid_4_mean_motion": {
+        "Description": "MID #4: Mean framewise displacement in mm"
+    },
+    "iqc_mid_4_mean_motion_nody": {
+        "Description": "MID #4: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_4_mean_motion_filt": {
+        "Description": "MID #4: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_mid_4_mm_filt_nody": {
+        "Description": "MID #4: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_4_fwhm_x": {
+        "Description": "MID #4: Full width half max in x direction"
+    },
+    "iqc_mid_4_fwhm_y": {
+        "Description": "MID #4: Full width half max in y direction"
+    },
+    "iqc_mid_4_fwhm_z": {
+        "Description": "MID #4: Full width half max in z direction"
+    },
+    "iqc_mid_4_brain_tsnr_mean": {
+        "Description": "MID #4: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_4_brain_tsnr_median": {
+        "Description": "MID #4: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_4_brain_tsnr_std": {
+        "Description": "MID #4: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_4_sub_02_nody": {
+        "Description": "MID #4: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_4_sub_02_filt_nody": {
+        "Description": "MID #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_4_sub_02_filt": {
+        "Description": "MID #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_4_sub_02": {
+        "Description": "MID #4: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_5_suid": {
+        "Description": "MID #5: Study instance UID"
+    },
+    "iqc_mid_5_seuid": {
+        "Description": "MID #5: Series instance UID"
+    },
+    "iqc_mid_5_studydate": {
+        "Description": "MID #5: Study date"
+    },
+    "iqc_mid_5_seriestime": {
+        "Description": "MID #5: Series time"
+    },
+    "iqc_mid_5_fm_missing": {
+        "Description": "MID #5: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_5_fm_wronglocus": {
+        "Description": "MID #5: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_5_fm_invalid": {
+        "Description": "MID #5: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_5_fm_qc_score": {
+        "Description": "MID FM #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_5_fm_pc_score": {
+        "Description": "MID FM #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_5_fm_complete": {
+        "Description": "MID FM #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_5_qc_score": {
+        "Description": "MID #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_5_pc_score": {
+        "Description": "MID #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_5_complete": {
+        "Description": "MID #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_5_voxvol": {
+        "Description": "MID #5: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_5_brainvol": {
+        "Description": "MID #5: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_5_brain_mean": {
+        "Description": "MID #5: Mean intensity within brain mask"
+    },
+    "iqc_mid_5_brain_std": {
+        "Description": "MID #5: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_5_nreps": {
+        "Description": "MID #5: Number of pulse repetitions"
+    },
+    "iqc_mid_5_tr": {
+        "Description": "MID #5: Repetition time in seconds"
+    },
+    "iqc_mid_5_mean_motion": {
+        "Description": "MID #5: Mean framewise displacement in mm"
+    },
+    "iqc_mid_5_mean_motion_nody": {
+        "Description": "MID #5: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_5_mean_motion_filt": {
+        "Description": "MID #5: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_5_mm_filt_nody": {
+        "Description": "SST #5: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_5_fwhm_x": {
+        "Description": "MID #5: Full width half max in x direction"
+    },
+    "iqc_mid_5_fwhm_y": {
+        "Description": "MID #5: Full width half max in y direction"
+    },
+    "iqc_mid_5_fwhm_z": {
+        "Description": "MID #5: Full width half max in z direction"
+    },
+    "iqc_mid_5_brain_tsnr_mean": {
+        "Description": "MID #5: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_5_brain_tsnr_median": {
+        "Description": "MID #5: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_5_brain_tsnr_std": {
+        "Description": "MID #5: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_5_sub_02_nody": {
+        "Description": "MID #5: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_5_sub_02_filt_nody": {
+        "Description": "MID #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_5_sub_02_filt": {
+        "Description": "MID #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_5_sub_02": {
+        "Description": "MID #5: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_6_suid": {
+        "Description": "MID #6: Study instance UID"
+    },
+    "iqc_mid_6_seuid": {
+        "Description": "MID #6: Series instance UID"
+    },
+    "iqc_mid_6_studydate": {
+        "Description": "MID #6: Study date"
+    },
+    "iqc_mid_6_seriestime": {
+        "Description": "MID #6: Series time"
+    },
+    "iqc_mid_6_fm_missing": {
+        "Description": "MID #6: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_mid_6_fm_wronglocus": {
+        "Description": "MID #6: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_mid_6_fm_invalid": {
+        "Description": "MID #6: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_mid_6_fm_qc_score": {
+        "Description": "MID FM #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_6_fm_pc_score": {
+        "Description": "MID FM #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_6_fm_complete": {
+        "Description": "MID FM #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_6_qc_score": {
+        "Description": "MID #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_6_pc_score": {
+        "Description": "MID #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_mid_6_complete": {
+        "Description": "MID #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_mid_6_voxvol": {
+        "Description": "MID #6: Volume of single voxel (mm^3)"
+    },
+    "iqc_mid_6_brainvol": {
+        "Description": "MID #6: Volume of brain mask (mm^3)"
+    },
+    "iqc_mid_6_brain_mean": {
+        "Description": "MID #6: Mean intensity within brain mask"
+    },
+    "iqc_mid_6_brain_std": {
+        "Description": "MID #6: Standard deviation of intensities within brain mask"
+    },
+    "iqc_mid_6_nreps": {
+        "Description": "MID #6: Number of pulse repetitions"
+    },
+    "iqc_mid_6_tr": {
+        "Description": "MID #6: Repetition time in seconds"
+    },
+    "iqc_mid_6_mean_motion": {
+        "Description": "MID #6: Mean framewise displacement in mm"
+    },
+    "iqc_mid_6_mean_motion_nody": {
+        "Description": "MID #6: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_mid_6_mean_motion_filt": {
+        "Description": "MID #6: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_mid_6_mm_filt_nody": {
+        "Description": "MID #6: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_6_fwhm_x": {
+        "Description": "MID #6: Full width half max in x direction"
+    },
+    "iqc_mid_6_fwhm_y": {
+        "Description": "MID #6: Full width half max in y direction"
+    },
+    "iqc_mid_6_fwhm_z": {
+        "Description": "MID #6: Full width half max in z direction"
+    },
+    "iqc_mid_6_brain_tsnr_mean": {
+        "Description": "MID #6: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_6_brain_tsnr_median": {
+        "Description": "MID #6: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_6_brain_tsnr_std": {
+        "Description": "MID #6: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_mid_6_sub_02_nody": {
+        "Description": "MID #6: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_mid_6_sub_02_filt_nody": {
+        "Description": "MID #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_mid_6_sub_02_filt": {
+        "Description": "MID #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_mid_6_sub_02": {
+        "Description": "MID #6: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_mid_total_ser": {
+        "Description": "MID: Total number received"
+    },
+    "iqc_mid_total_passpc": {
+        "Description": "MID: Number that passed protocol compliance"
+    },
+    "iqc_mid_total_passqc": {
+        "Description": "MID: Number that passed visual quality control (QC)"
+    },
+    "iqc_mid_good_ser": {
+        "Description": "MID: Number of runs that were complete, passed protocol compliance and QC, and had field maps acquired within 2 scans prior to the run that were complete and passed QC and protocol compliance"
+    },
+    "iqc_mid_ok_ser": {
+        "Description": "MID: Number of series that are complete and passed QC (ignoring PC)"
+    },
+    "iqc_mid_bad_ser": {
+        "Description": "MID: Number that failed either protocol compliance or QC"
+    },
+    "iqc_mid_ser_pc_issues": {
+        "Description": "MID: Number with protocol compliance issues"
+    },
+    "iqc_mid_ser_qcs": {
+        "Description": "MID: Number with QC issues"
+    },
+    "iqc_mid_ser_incomp": {
+        "Description": "MID: Number of series missing files at DAIC"
+    },
+    "iqc_mid_good_ser_wofm": {
+        "Description": "MID: Number that passed protocol compliance and QC ignoring field maps"
+    },
+    "iqc_mid_fm_missing": {
+        "Description": "MID FM: Number of missing field maps"
+    },
+    "iqc_mid_fm_wronglocus": {
+        "Description": "MID FM: Number of field maps not acquired within 2 scans prior to fMRI run"
+    },
+    "iqc_mid_fm_invalid": {
+        "Description": "MID FM: Number of invalid field maps"
+    },
+    "iqc_mid_fm_pc_issues": {
+        "Description": "MID FM: Number with protocol compliance issues"
+    },
+    "iqc_mid_fm_qcs": {
+        "Description": "MID FM: Number with QC issues"
+    },
+    "iqc_mid_fm_incomp": {
+        "Description": "MID FM: Number of series missing files at DAIC"
+    },
+    "iqc_mid_gh_qc": {
+        "Description": "MID: Number with ghosting"
+    },
+    "iqc_mid_hb_qc": {
+        "Description": "MID: Number with horizontal banding"
+    },
+    "iqc_mid_sus_qc": {
+        "Description": "MID: Number with susceptibility artifact"
+    },
+    "iqc_mid_moire_qc": {
+        "Description": "MID: Number with moire artifact"
+    },
+    "iqc_mid_other_qc": {
+        "Description": "MID: Number with other QC issue"
+    },
+    "iqc_mid_fm_gh_qc": {
+        "Description": "MID FM: Number with ghosting"
+    },
+    "iqc_mid_fm_hb_qc": {
+        "Description": "MID FM: Number with horizontal banding"
+    },
+    "iqc_mid_fm_sus_qc": {
+        "Description": "MID FM: Number with susceptibility artifact"
+    },
+    "iqc_mid_fm_moire_qc": {
+        "Description": "MID FM: Number with moire artifact"
+    },
+    "iqc_mid_fm_other_qc": {
+        "Description": "MID FM: Number with other QC issue"
+    },
+    "iqc_mid_all_voxvol": {
+        "Description": "MID: Mean volume of single voxel averaged across all scans (mm^3)"
+    },
+    "iqc_mid_ok_voxvol": {
+        "Description": "MID: Mean volume of single voxel averaged across all OK scans (mm^3)"
+    },
+    "iqc_mid_all_brainvol": {
+        "Description": "MID: Mean volume of brain mask averaged across all scans (mm^3)"
+    },
+    "iqc_mid_ok_brainvol": {
+        "Description": "MID: Mean volume of brain mask averaged across all OK scans (mm^3)"
+    },
+    "iqc_mid_all_brain_mean": {
+        "Description": "MID: Mean intensity within brain mask averaged across all scans"
+    },
+    "iqc_mid_ok_brain_mean": {
+        "Description": "MID: Mean intensity within brain mask averaged across all OK scans"
+    },
+    "iqc_mid_all_brain_std": {
+        "Description": "MID: Standard deviation of intensities within brain mask averaged across all scans"
+    },
+    "iqc_mid_ok_brain_std": {
+        "Description": "MID: Standard deviation of intensities within brain mask averaged across all OK scans"
+    },
+    "iqc_mid_all_nreps": {
+        "Description": "MID: Total number of repetitions for all scans"
+    },
+    "iqc_mid_ok_nreps": {
+        "Description": "MID: Total number of repetitions for all OK scans"
+    },
+    "iqc_mid_all_tr": {
+        "Description": "MID: Repetition time for all scans"
+    },
+    "iqc_mid_ok_tr": {
+        "Description": "MID: Repetition time for all OK scans"
+    },
+    "iqc_mid_all_mean_motion": {
+        "Description": "MID: Mean framewise displacement in mm for all scans"
+    },
+    "iqc_mid_ok_mean_motion": {
+        "Description": "MID: Mean framewise displacement in mm for all OK scans"
+    },
+    "iqc_mid_all_mean_motion_nody": {
+        "Description": "MID: Mean framewise displacement in mm for all scans without y-displacement"
+    },
+    "iqc_mid_ok_mean_motion_nody": {
+        "Description": "MID: Mean framewise displacement in mm for all OK scans without y-displacement"
+    },
+    "iqc_mid_all_mean_motion_filt": {
+        "Description": "MID: Mean framewise displacement in mm using the filtering technique for all scans"
+    },
+    "iqc_mid_ok_mean_motion_filt": {
+        "Description": "MID: Mean framewise displacement in mm using the filtering technique for all OK scans"
+    },
+    "iqc_mid_all_mm_filt_nody": {
+        "Description": "MID: Mean framewise displacement in mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_mid_ok_mm_filt_nody": {
+        "Description": "MID: Mean framewise displacement in mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "iqc_mid_all_fwhm_x": {
+        "Description": "MID: Full width half max in x direction for all scans"
+    },
+    "iqc_mid_ok_fwhm_x": {
+        "Description": "MID: Full width half max in x direction for all OK scans"
+    },
+    "iqc_mid_all_fwhm_y": {
+        "Description": "MID: Full width half max in y direction for all scans"
+    },
+    "iqc_mid_ok_fwhm_y": {
+        "Description": "MID: Full width half max in y direction for all OK scans"
+    },
+    "iqc_mid_all_fwhm_z": {
+        "Description": "MID: Full width half max in z direction for all scans"
+    },
+    "iqc_mid_ok_fwhm_z": {
+        "Description": "MID: Full width half max in z direction for all OK scans"
+    },
+    "iqc_mid_all_brain_tsnr_mean": {
+        "Description": "MID: Mean temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_mid_ok_brain_tsnr_mean": {
+        "Description": "MID: Mean temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_mid_all_brain_tsnr_median": {
+        "Description": "MID: Median temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_mid_ok_brain_tsnr_median": {
+        "Description": "MID: Median temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_mid_all_brain_tsnr_std": {
+        "Description": "MID: Standard deviation of temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_mid_ok_brain_tsnr_std": {
+        "Description": "MID: Standard deviation of temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_mid_total_sub_02_nody": {
+        "Description": "MID: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all scans"
+    },
+    "iqc_mid_ok_sub_02_nody": {
+        "Description": "MID: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all OK scans"
+    },
+    "iqc_mid_total_sub_02_filt_nody": {
+        "Description": "MID: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_mid_ok_sub_02_filt_nody": {
+        "Description": "MID: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "iqc_mid_total_sub_02_filt": {
+        "Description": "MID: Total number of seconds of framewise displacement below 0.2 mm using the filtering technique for all scans"
+    },
+    "iqc_mid_ok_sub_02_filt": {
+        "Description": "MID: total number of seconds of framewise displacement below 0.2mm using the filtering technique for all OK scans"
+    },
+    "iqc_mid_total_sub_02": {
+        "Description": "MID: Total number of seconds of run(s) with framewise displacement below 0.2mm"
+    },
+    "iqc_mid_ok_sub_02": {
+        "Description": "MID: Total number of seconds of framewise displacement below 0.2mm for all OK scans"
+    },
+    "iqc_mid_ep_behav_readable": {
+        "Description": "Able to read behavioral data from E-Prime MID file"
+    },
+    "iqc_mid_ep_contents_ok": {
+        "Description": "File contains an E-Prime spreadsheet"
+    },
+    "iqc_mid_ep_exper_ok": {
+        "Description": "File contains E-Prime MID data"
+    },
+    "iqc_mid_ep_run": {
+        "Description": "Run, inside the EPrime MID file that best matches the corresponding image series"
+    },
+    "iqc_mid_fm_fov_qc": {
+        "Description": "MID FM: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_mid_fm_line_qc": {
+        "Description": "MID FM: Number of dark axial slices across the brain"
+    },
+    "iqc_mid_fov_qc": {
+        "Description": "MID: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_mid_line_qc": {
+        "Description": "MID: Number of dark axial slices across the brain"
+    },
+    "iqc_mid_mbr_qc": {
+        "Description": "MID: Number of multiband interleave degradation"
+    },
+    "eprime_mismatch_ok_mid": {
+        "Description": "Ignore difference between time of MID image series and MID E-prime file"
+    },
+    "iqc_mid_ep_date": {
+        "Description": "Eprime MID date"
+    },
+    "iqc_mid_ep_datetime_found": {
+        "Description": "Eprime MID file found and readable"
+    },
+    "iqc_mid_ep_file_found": {
+        "Description": "MID E-prime file found and readable"
+    },
+    "iqc_mid_ep_file_resf": {
+        "Description": "Diagnostic number, formed by summing:       File found?   0  -->  [Unable to find file];    Encoding:   1,      2  -->  ['utf-8','utf-16'];   Separator: 10,     20  -->  [Tab, Comma];    Quoted rows?   0,    100  -->  [No, Yes];  Start_time_info:              0,   1000  -->  [Found, Unable to extract]; File read?  0,  10000  -->  [Yes,   Unable to read];  Filename contains '()':   100000  -->  [Yes];   Experiment matches filename?    1000000  -->  [No]"
+    },
+    "iqc_mid_ep_lap_missing": {
+        "Description": "MID eprime file (laptop) missing"
+    },
+    "iqc_mid_ep_pguid_mis": {
+        "Description": "MID eprime data file has mismatched pGUID"
+    },
+    "iqc_mid_ep_scan_missing": {
+        "Description": "MID eprime file (scanner) missing"
+    },
+    "iqc_mid_ep_t_rel_to_series_max": {
+        "Description": "Maximum time difference found between E-prime MID file and associated fMRI or MRI from the same session.   (Float),  minutes."
+    },
+    "iqc_mid_ep_t_rel_to_series_min": {
+        "Description": "Minimum time difference found between E-prime MID file and associated fMRI or MRI from the same session.   (Float),  minutes."
+    },
+    "iqc_mid_ep_t_series_match": {
+        "Description": "MID imaging-series and behavioral-data files match, i.e. time difference less than a threshold time."
+    },
+    "iqc_mid_ep_time": {
+        "Description": "Eprime MID starting time"
+    },
+    "iqc_mid_eprime_missing": {
+        "Description": "MID E-prime file missing"
+    },
+    "iqc_mid_imported": {
+        "Description": "MID: Total number imported"
+    },
+    "iqc_mid_missing": {
+        "Description": "MID: Total number missing"
+    },
+    "iqc_mid_missing_ks": {
+        "Description": "MID: Total number with missing kspace data"
+    },
+    "iqc_mid_needrawqc": {
+        "Description": "MID: at least one series needs rawQC"
+    },
+    "iqc_mid_procfail": {
+        "Description": "MID: at least one series has a processing error before autoQC"
+    },
+    "iqc_mid_received": {
+        "Description": "MID: Total number received"
+    },
+    "iqc_mid_recon_err": {
+        "Description": "MID: Total number with reconstruction errors"
+    },
+    "iqc_mid_recon_req": {
+        "Description": "MID: Total number require reconstruction"
+    },
+    "iqc_mid_reconned": {
+        "Description": "MID: Total number reconstructed"
+    },
+    "iqc_mid_rename_err": {
+        "Description": "MID: Total number with rename error"
+    },
+    "iqc_mid_series_time": {
+        "Description": "Time of first MID imaging series"
+    },
+    "iqc_mid_study_date": {
+        "Description": "Date of first MID imaging series"
+    },
+    "iqc_mid_unpack_err": {
+        "Description": "MID: Total number with unpack errors"
+    },
+    "iqc_mid_unpacked": {
+        "Description": "MID: Total number unpacked"
+    },
+    "iqc_mid_waitautoqc": {
+        "Description": "MID: at least one series is waiting for autoQC"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "cash_choice_task": {
+        "Description": "Let's pretend a kind person wanted to give you some money.  Would you rather have $75 in three days or $115 in 3 months? | 1 = $75 in three days; 2 = $115 in 3 months; 3 = Don't Know",
+        "Levels": {
+            "1": "$75 in three days",
+            "2": "$115 in 3 months",
+            "3": "Don't Know"
+        }
+    }
+}

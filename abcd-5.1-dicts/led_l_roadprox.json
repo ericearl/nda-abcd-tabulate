@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_proxrd": {
+        "Description": "Residential history derived - proximity to major roads, in meters 1"
+    },
+    "reshist_addr2_proxrd": {
+        "Description": "Residential history derived- proximity to major roads, in meters 2"
+    },
+    "reshist_addr3_proxrd": {
+        "Description": "Residential history derived- proximity to major roads, in meters 3"
+    }
+}

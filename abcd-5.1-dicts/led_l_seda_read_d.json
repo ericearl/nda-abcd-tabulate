@@ -1,0 +1,321 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_ds_cellcount_r_all": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_cellcount_r_ecd": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_cellcount_r_fem": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_cellcount_r_mal": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_cellcount_r_mfg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_cellcount_r_nec": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_cellcount_r_neg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_asmts_r_fem": {
+        "Description": "Geo Dist Poolsub (pooled by subject - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_asmts_rall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_asmts_recd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_asmts_rmal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_asmts_rmfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_asmts_rnec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_asmts_rneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_avg_r_eb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_avg_r_eb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_avg_r_eb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_avg_reb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_avg_reb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_avg_reb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_avg_reb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_avg_rol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_avg_rol_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_avg_rol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_avg_rol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_avg_rol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_avg_rol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_avg_rol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_coh_r_ol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_coh_r_ol_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_coh_r_ol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_coh_r_ol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_coh_reb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_coh_reb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_coh_reb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_coh_reb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_coh_reb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_coh_reb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_coh_reb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_coh_rol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_coh_rol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_coh_rol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_grd_reb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_grd_reb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_grd_reb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_grd_reb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_grd_reb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_grd_reb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_grd_reb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_grd_rol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_grd_rol_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_grd_rol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_grd_rol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_grd_rol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_grd_rol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_grd_rol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mnavg_rebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mnavg_rebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mnavg_rebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mnavg_rebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mnavg_rebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mnavg_rebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mnavg_rebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mnavg_rolseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mnavg_rolseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mnavg_rolsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mnavg_rolsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mnavg_rolsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mnavg_rolsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mnavg_rolseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mncoh_rebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mncoh_rebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mncoh_rebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mncoh_rebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mncoh_rebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mncoh_rebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mncoh_rebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mncoh_rolseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mncoh_rolseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mncoh_rolsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mncoh_rolsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mncoh_rolsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mncoh_rolsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mncoh_rolseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mngrd_rebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mngrd_rebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mngrd_rebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mngrd_rebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mngrd_rebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mngrd_rebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mngrd_rebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mngrd_rolseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mngrd_rolseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mngrd_rolsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mngrd_rolsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mngrd_rolsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mngrd_rolsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mngrd_rolseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_tot_asmts_r_all": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_tot_asmts_r_ecd": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_tot_asmts_r_fem": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_tot_asmts_r_mal": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_tot_asmts_r_mfg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_tot_asmts_r_nec": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_tot_asmts_r_neg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

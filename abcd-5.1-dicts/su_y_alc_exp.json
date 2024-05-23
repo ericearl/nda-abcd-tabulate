@@ -1,0 +1,102 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "aeq_section_q01": {
+        "Description": "Alcohol helps a person relax, feel happy, feel less tense, and can keep a person's mind off of mistakes at school or work. | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q02": {
+        "Description": "Alcohol can help how well a person gets along with others (makes people want to have fun together). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q03": {
+        "Description": "Alcohol can hurt how well a person gets along with others (makes people mean to others). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q04": {
+        "Description": "Alcohol helps people think better and helps coordination (people understand things better; can do things better). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q05": {
+        "Description": "Alcohol hurts how people think and it hurts their coordination (run into things, act silly, have a hangover). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q06": {
+        "Description": "Alcohol makes a person feel stronger and more powerful (easier to fight, speak in front of others, stand up to others). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "aeq_section_q07": {
+        "Description": "Alcohol can make people more careless or do things that could get them into trouble (do things they feel bad about; do things they regret). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_alc_l   == '1' ||  tlfb_alc_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "su_alc_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    },
+    "aeq_positive_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "aeq_positive_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "aeq_positive_expectancies_ss": {
+        "Description": "Strength of positive expectancies for alcohol. Score prorated if some item responses were missing. | Sum of [aeq_section_q01, aeq_section_q02, aeq_section_q06]"
+    },
+    "aeq_negative_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "aeq_negative_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "aeq_negative_expectancies_ss": {
+        "Description": "Strength of negative expectancies for alcohol. Score prorated if some item responses were missing. | Sum of [aeq_section_q03, aeq_section_q05, aeq_section_q07]"
+    }
+}

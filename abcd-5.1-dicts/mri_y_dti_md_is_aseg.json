@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtimd_scts_3rdvt": {
+        "Description": "Mean diffusivity within ASEG ROI 3rd-ventricle"
+    },
+    "dmri_dtimd_scts_4thvt": {
+        "Description": "Mean diffusivity within ASEG ROI 4th-ventricle"
+    },
+    "dmri_dtimd_scts_accarealh": {
+        "Description": "Mean diffusivity within ASEG ROI left-accumbens-area"
+    },
+    "dmri_dtimd_scts_accarearh": {
+        "Description": "Mean diffusivity within ASEG ROI right-accumbens-area"
+    },
+    "dmri_dtimd_scts_amygdalalh": {
+        "Description": "Mean diffusivity within ASEG ROI left-amygdala"
+    },
+    "dmri_dtimd_scts_amygdalarh": {
+        "Description": "Mean diffusivity within ASEG ROI right-amygdala"
+    },
+    "dmri_dtimd_scts_brainstem": {
+        "Description": "Mean diffusivity within ASEG ROI brain-stem"
+    },
+    "dmri_dtimd_scts_caudatelh": {
+        "Description": "Mean diffusivity within ASEG ROI left-caudate"
+    },
+    "dmri_dtimd_scts_caudaterh": {
+        "Description": "Mean diffusivity within ASEG ROI right-caudate"
+    },
+    "dmri_dtimd_scts_cblcortexlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-cerebellum-cortex"
+    },
+    "dmri_dtimd_scts_cblcortexrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-cerebellum-cortex"
+    },
+    "dmri_dtimd_scts_cblwmlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-cerebellum-white-matter"
+    },
+    "dmri_dtimd_scts_cblwmrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-cerebellum-white-matter"
+    },
+    "dmri_dtimd_scts_crwmlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-cerebral-white-matter"
+    },
+    "dmri_dtimd_scts_crwmrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-cerebral-white-matter"
+    },
+    "dmri_dtimd_scts_csf": {
+        "Description": "Mean diffusivity within ASEG ROI csf"
+    },
+    "dmri_dtimd_scts_hpuslh": {
+        "Description": "Mean diffusivity within ASEG ROI left-hippocampus"
+    },
+    "dmri_dtimd_scts_hpusrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-hippocampus"
+    },
+    "dmri_dtimd_scts_inflatventlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-inf-lat-vent"
+    },
+    "dmri_dtimd_scts_inflatventrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-inf-lat-vent"
+    },
+    "dmri_dtimd_scts_lvtlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-lateral-ventricle"
+    },
+    "dmri_dtimd_scts_lvtrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-lateral-ventricle"
+    },
+    "dmri_dtimd_scts_pdlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-pallidum"
+    },
+    "dmri_dtimd_scts_pdrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-pallidum"
+    },
+    "dmri_dtimd_scts_putamenlh": {
+        "Description": "Mean diffusivity within ASEG ROI left-putamen"
+    },
+    "dmri_dtimd_scts_putamenrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-putamen"
+    },
+    "dmri_dtimd_scts_thplh": {
+        "Description": "Mean diffusivity within ASEG ROI left-thalamus-proper"
+    },
+    "dmri_dtimd_scts_thprh": {
+        "Description": "Mean diffusivity within ASEG ROI right-thalamus-proper"
+    },
+    "dmri_dtimd_scts_ventraldclh": {
+        "Description": "Mean diffusivity within ASEG ROI left-ventraldc"
+    },
+    "dmri_dtimd_scts_ventraldcrh": {
+        "Description": "Mean diffusivity within ASEG ROI right-ventraldc"
+    }
+}

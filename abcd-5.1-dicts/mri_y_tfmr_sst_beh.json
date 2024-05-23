@@ -1,0 +1,288 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_sst_all_beh_crgo_mrt": {
+        "Description": "Mean response time for all correct Go trials"
+    },
+    "tfmri_sst_all_beh_crgo_nt": {
+        "Description": "Total number of correct Go trials"
+    },
+    "tfmri_sst_all_beh_crgo_rt": {
+        "Description": "Rate of correct Go trials"
+    },
+    "tfmri_sst_all_beh_crgo_stdrt": {
+        "Description": "Standard deviation of response times for all correct Go trials"
+    },
+    "tfmri_sst_all_beh_crlg_mrt": {
+        "Description": "Mean response time for all correct but late Go trials"
+    },
+    "tfmri_sst_all_beh_crlg_nt": {
+        "Description": "Total number of Go trials that were correctly answered late"
+    },
+    "tfmri_sst_all_beh_crlg_rt": {
+        "Description": "Rate of correct Go trials answered late"
+    },
+    "tfmri_sst_all_beh_crlg_stdrt": {
+        "Description": "Standard deviation of response times for all correct but late Go trials"
+    },
+    "tfmri_sst_all_beh_crs_nt": {
+        "Description": "Total number of correct Stop trials"
+    },
+    "tfmri_sst_all_beh_crs_rt": {
+        "Description": "Rate of correct Stop trials"
+    },
+    "tfmri_sst_all_beh_go_nt": {
+        "Description": "Total number of Go trials"
+    },
+    "tfmri_sst_all_beh_incrgo_mrt": {
+        "Description": "Mean response time for all incorrect Go trials"
+    },
+    "tfmri_sst_all_beh_incrgo_nt": {
+        "Description": "Total number of Go trials that were answered incorrectly"
+    },
+    "tfmri_sst_all_beh_incrgo_rt": {
+        "Description": "Rate of Go trials that were answered incorrectly"
+    },
+    "tfmri_sst_all_beh_incrgo_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Go trials"
+    },
+    "tfmri_sst_all_beh_incrlg_mrt": {
+        "Description": "Mean response time for all incorrect and late Go trials"
+    },
+    "tfmri_sst_all_beh_incrlg_nt": {
+        "Description": "Total number of Go trials that were correctly answered incorrectly and late"
+    },
+    "tfmri_sst_all_beh_incrlg_rt": {
+        "Description": "Rate of incorrect and late Go trials"
+    },
+    "tfmri_sst_all_beh_incrlg_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect but late Go trials"
+    },
+    "tfmri_sst_all_beh_incrs_mrt": {
+        "Description": "Mean response time for all incorrect Stop trials"
+    },
+    "tfmri_sst_all_beh_incrs_nt": {
+        "Description": "Total number of Stop trials answered incorrectly"
+    },
+    "tfmri_sst_all_beh_incrs_rt": {
+        "Description": "Rate of Stop trials answered incorrectly"
+    },
+    "tfmri_sst_all_beh_incrs_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Stop trials"
+    },
+    "tfmri_sst_all_beh_nrgo_nt": {
+        "Description": "Total number of Go trials unanswered"
+    },
+    "tfmri_sst_all_beh_nrgo_rt": {
+        "Description": "Rate of Go trials unanswered"
+    },
+    "tfmri_sst_all_beh_ssds_nt": {
+        "Description": "Total number of Stop trials that were answered before the Stop signal was presented"
+    },
+    "tfmri_sst_all_beh_ssds_rt": {
+        "Description": "Rate of Stop trials that were answered before the Stop signal was presented"
+    },
+    "tfmri_sst_all_beh_s_nt": {
+        "Description": "Total number of Stop trials"
+    },
+    "tfmri_sst_all_beh_tot_mssd": {
+        "Description": "Mean stop signal delay for all Stop trials"
+    },
+    "tfmri_sst_all_beh_total_nt": {
+        "Description": "Total number of trials"
+    },
+    "tfmri_sst_beh_performflag": {
+        "Description": "Whether the participant had an acceptable performance in the task; all trial types must yield more than 3 events for both positive and negative feedback"
+    },
+    "tfmri_sst_beh_switchflag": {
+        "Description": "Box was switched"
+    },
+    "tfmri_sst_nbeh_nruns": {
+        "Description": "Number of valid runs in the file"
+    },
+    "tfmri_sst_r1_beh_crgo_mrt": {
+        "Description": "Mean response time for all correct Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crgo_nt": {
+        "Description": "Total number of correct Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crgo_rt": {
+        "Description": "Rate of correct Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crgo_stdrt": {
+        "Description": "Standard deviation of response times for all correct Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crlg_mrt": {
+        "Description": "Mean response time for all correct but late Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crlg_nt": {
+        "Description": "Total number of Go trials that were correctly answered late in run 1"
+    },
+    "tfmri_sst_r1_beh_crlg_rt": {
+        "Description": "Rate of correct Go trials answered late in run 1"
+    },
+    "tfmri_sst_r1_beh_crlg_stdrt": {
+        "Description": "Standard deviation of response times for all correct but late Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crs_nt": {
+        "Description": "Total number of correct Stop trials in run 1"
+    },
+    "tfmri_sst_r1_beh_crs_rt": {
+        "Description": "Rate of correct Stop trials in run 1"
+    },
+    "tfmri_sst_r1_beh_go_nt": {
+        "Description": "Total number of Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrgo_mrt": {
+        "Description": "Mean response time for all incorrect Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrgo_nt": {
+        "Description": "Total number of Go trials that were answered incorrectly in run 1"
+    },
+    "tfmri_sst_r1_beh_incrgo_rt": {
+        "Description": "Rate of Go trials that were answered incorrectly in run 1"
+    },
+    "tfmri_sst_r1_beh_incrgo_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrlg_mrt": {
+        "Description": "Mean response time for all incorrect and late Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrlg_nt": {
+        "Description": "Total number of Go trials that were answered incorrectly and late in run 1"
+    },
+    "tfmri_sst_r1_beh_incrlg_rt": {
+        "Description": "Rate of incorrect and late Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrlg_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect but late Go trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrs_mrt": {
+        "Description": "Mean response time for all incorrect Stop trials in run 1"
+    },
+    "tfmri_sst_r1_beh_incrs_nt": {
+        "Description": "Total number of Stop trials answered incorrectly in run 1"
+    },
+    "tfmri_sst_r1_beh_incrs_rt": {
+        "Description": "Rate of Stop trials answered incorrectly in run 1"
+    },
+    "tfmri_sst_r1_beh_incrs_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Stop trials in run 1"
+    },
+    "tfmri_sst_r1_beh_nrgo_nt": {
+        "Description": "Total number of Go trials unanswered in run 1"
+    },
+    "tfmri_sst_r1_beh_nrgo_rt": {
+        "Description": "Rate of Go trials unanswered in run 1"
+    },
+    "tfmri_sst_r1_beh_ssds_nt": {
+        "Description": "Total number of Stop trials that were answered before the Stop signal was presented in run 1"
+    },
+    "tfmri_sst_r1_beh_ssds_rt": {
+        "Description": "Rate of Stop trials that were answered before the Stop signal was presented in run 1"
+    },
+    "tfmri_sst_r1_beh_s_nt": {
+        "Description": "Total number of Stop trials in run 1"
+    },
+    "tfmri_sst_r2_beh_crgo_mrt": {
+        "Description": "Mean response time for all correct Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crgo_nt": {
+        "Description": "Total number of correct Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crgo_rt": {
+        "Description": "Rate of correct Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crgo_stdrt": {
+        "Description": "Standard deviation of response times for all correct Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crlg_mrt": {
+        "Description": "Mean response time for all correct but late Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crlg_nt": {
+        "Description": "Total number of Go trials that were correctly answered late in run 2"
+    },
+    "tfmri_sst_r2_beh_crlg_rt": {
+        "Description": "Rate of correct Go trials answered late in run 2"
+    },
+    "tfmri_sst_r2_beh_crlg_stdrt": {
+        "Description": "Standard deviation of response times for all correct but late Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crs_nt": {
+        "Description": "Total number of correct Stop trials in run 2"
+    },
+    "tfmri_sst_r2_beh_crs_rt": {
+        "Description": "Rate of correct Stop trials in run 2"
+    },
+    "tfmri_sst_r2_beh_go_nt": {
+        "Description": "Total number of Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrgo_mrt": {
+        "Description": "Mean response time for all incorrect Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrgo_nt": {
+        "Description": "Total number of Go trials that were answered incorrectly in run 2"
+    },
+    "tfmri_sst_r2_beh_incrgo_rt": {
+        "Description": "Rate of Go trials that were answered incorrectly in run 2"
+    },
+    "tfmri_sst_r2_beh_incrgo_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrlg_mrt": {
+        "Description": "Mean response time for all incorrect and late Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrlg_nt": {
+        "Description": "Total number of Go trials that were answered incorrectly and late in run 2"
+    },
+    "tfmri_sst_r2_beh_incrlg_rt": {
+        "Description": "Rate of incorrect and late Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrlg_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect and late Go trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrs_mrt": {
+        "Description": "Mean response time for all incorrect Stop trials in run 2"
+    },
+    "tfmri_sst_r2_beh_incrs_nt": {
+        "Description": "Total number of Stop trials answered incorrectly in run 2"
+    },
+    "tfmri_sst_r2_beh_incrs_rt": {
+        "Description": "Rate of Stop trials answered incorrectly in run 2"
+    },
+    "tfmri_sst_r2_beh_incrs_stdrt": {
+        "Description": "Standard deviation of response times for all incorrect Stop trials in run 2"
+    },
+    "tfmri_sst_r2_beh_nrgo_nt": {
+        "Description": "Total number of Go trials unanswered in run 2"
+    },
+    "tfmri_sst_r2_beh_nrgo_rt": {
+        "Description": "Rate of Go trials unanswered in run 2"
+    },
+    "tfmri_sst_r2_beh_ssds_nt": {
+        "Description": "Total number of Stop trials that were answered before the Stop signal was presented in run 2"
+    },
+    "tfmri_sst_r2_beh_ssds_rt": {
+        "Description": "Rate of Stop trials that were answered before the Stop signal was presented in run 2"
+    },
+    "tfmri_sst_r2_beh_s_nt": {
+        "Description": "Total number of Stop trials in run 2"
+    },
+    "tfmri_sst_all_beh_total_mssrt": {
+        "Description": "Stop Signal Reaction Time, mean estimation"
+    },
+    "tfmri_sst_all_beh_total_issrt": {
+        "Description": "Stop Signal Reaction Time, integration estimation"
+    },
+    "tfmri_sst_beh_violatorflag": {
+        "Description": "Race model violators where Stop Fail RT > Go RT"
+    },
+    "tfmri_sst_beh_glitchflag": {
+        "Description": "Task coding error"
+    },
+    "tfmri_sst_beh_0ssdcount": {
+        "Description": "Number of Stop trials with 0ms SSD"
+    }
+}

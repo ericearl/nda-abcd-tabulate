@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_ACAexpand": {
+        "Description": "Residential history derived - indicates if ACA (\"Affordable Care Act\") expansion was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_ACAexpand": {
+        "Description": "Residential history derived - indicates if ACA expansion was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_ACAexpand": {
+        "Description": "Residential history derived - indicates if ACA expansion was effective at date of baseline visit (address 3)"
+    }
+}

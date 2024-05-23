@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtivol_fiberat_allfibers": {
+        "Description": "Fiber tract volume in mm^3 of all DTI atlas tract fiber tracts"
+    },
+    "dmri_dtivol_fiberat_allfiblh": {
+        "Description": "Fiber tract volume in mm^3 of left hemisphere DTI atlas tract fiber tracts"
+    },
+    "dmri_dtivol_fiberat_allfcclh": {
+        "Description": "Fiber tract volume in mm^3 of left hemisphere DTI atlas tract fiber tracts without corpus callosum"
+    },
+    "dmri_dtivol_fiberat_allfccrh": {
+        "Description": "Fiber tract volume in mm^3 of right hemisphere DTI atlas tract fiber tracts without corpus callosum"
+    },
+    "dmri_dtivol_fiberat_allfibrh": {
+        "Description": "Fiber tract volume in mm^3 of right hemisphere DTI atlas tract fiber tracts"
+    },
+    "dmri_dtivol_fiberat_atrlh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left anterior thalamic radiations"
+    },
+    "dmri_dtivol_fiberat_atrrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right anterior thalamic radiations"
+    },
+    "dmri_dtivol_fiberat_cc": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract corpus callosum"
+    },
+    "dmri_dtivol_fiberat_cgclh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left cingulate cingulum"
+    },
+    "dmri_dtivol_fiberat_cgcrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right cingulate cingulum"
+    },
+    "dmri_dtivol_fiberat_cghlh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left parahippocampal cingulum"
+    },
+    "dmri_dtivol_fiberat_cghrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right parahippocampal cingulum"
+    },
+    "dmri_dtivol_fiberat_cstlh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left corticospinal/pyramidal"
+    },
+    "dmri_dtivol_fiberat_cstrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right corticospinal/pyramidal"
+    },
+    "dmri_dtivol_fiberat_fmaj": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract foreceps major"
+    },
+    "dmri_dtivol_fiberat_fmin": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract foreceps minor"
+    },
+    "dmri_dtivol_fiberat_fscslh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtivol_fiberat_fscsrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtivol_fiberat_fxcutlh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left fornix, excluding fimbria"
+    },
+    "dmri_dtivol_fiberat_fxcutrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right fornix, excluding fimbria"
+    },
+    "dmri_dtivol_fiberat_fxlh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left fornix"
+    },
+    "dmri_dtivol_fiberat_fxrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right fornix"
+    },
+    "dmri_dtivol_fiberat_ifolh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtivol_fiberat_iforh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtivol_fiberat_ifsfclh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior frontal superior frontal cortex"
+    },
+    "dmri_dtivol_fiberat_ifsfcrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior frontal superior frontal cortex"
+    },
+    "dmri_dtivol_fiberat_ilflh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left inferior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_ilfrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right inferior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_pscslh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtivol_fiberat_pscsrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtivol_fiberat_pslflh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_pslfrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_scslh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior corticostriate"
+    },
+    "dmri_dtivol_fiberat_scsrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior corticostriate"
+    },
+    "dmri_dtivol_fiberat_sifclh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left striatal inferior frontal cortex"
+    },
+    "dmri_dtivol_fiberat_sifcrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right striatal inferior frontal cortex"
+    },
+    "dmri_dtivol_fiberat_slflh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_slfrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_tslflh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_tslfrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtivol_fiberat_unclh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract left uncinate"
+    },
+    "dmri_dtivol_fiberat_uncrh": {
+        "Description": "Fiber tract volume in mm^3 of DTI atlas tract right uncinate"
+    }
+}

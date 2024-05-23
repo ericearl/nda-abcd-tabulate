@@ -1,0 +1,78 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_nanda_forborn_p": {
+        "Description": "Residential history derived - Proportion of people who are foreign born, ACS2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_college_p": {
+        "Description": "Residential history derived - Proportion with Bachelor's Degree or Higher, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_finc100k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 100K, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_finc75k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 75K, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_unemp_p": {
+        "Description": "Residential history derived - Proportion 16+ civ labor force unemployed, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_disadv_fac": {
+        "Description": "Residential history derived - Neighborhood disadvantage score, ACS2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_aff_fac": {
+        "Description": "Residential history derived - Neighborhood affluence score, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_ethimm_fac": {
+        "Description": "Residential history derived - Neighborhood ethnic/immigrant score, ACS 2013-2017, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr2_nanda_forborn_p": {
+        "Description": "Residential history derived - Proportion of people who are foreign born, ACS2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_college_p": {
+        "Description": "Residential history derived - Proportion with Bachelor's Degree or Higher, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_finc100k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 100K, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_finc75k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 75K, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_unemp_p": {
+        "Description": "Residential history derived - Proportion 16+ civ labor force unemployed, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_disadv_fac": {
+        "Description": "Residential history derived - Neighborhood disadvantage score, ACS2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_aff_fac": {
+        "Description": "Residential history derived - Neighborhood affluence score, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_ethimm_fac": {
+        "Description": "Residential history derived - Neighborhood ethnic/immigrant score, ACS 2013-2017, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr3_nanda_forborn_p": {
+        "Description": "Residential history derived - Proportion of people who are foreign born, ACS2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_college_p": {
+        "Description": "Residential history derived - Proportion with Bachelor's Degree or Higher, ACS 2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_finc100k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 100K, ACS 2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_finc75k_p": {
+        "Description": "Residential history derived - Proportion of families with Income greater than 75K, ACS 2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_unemp_p": {
+        "Description": "Residential history derived - Proportion 16+ civ labor force unemployed, ACS 2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_disadv_fac": {
+        "Description": "Residential history derived - Neighborhood disadvantage score, ACS2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_aff_fac": {
+        "Description": "Residential history derived - Neighborhood affluence score, ACS 2013-2017, census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_ethimm_fac": {
+        "Description": "Residential history derived - Neighborhood ethnic/immigrant score, ACS 2013-2017, census tract; NaNDA (addr3)"
+    }
+}

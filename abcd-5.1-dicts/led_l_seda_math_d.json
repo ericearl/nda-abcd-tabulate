@@ -1,0 +1,321 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_ds_cellcount_m_all": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_cellcount_m_fem": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_cellcount_mecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_cellcount_mmal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_cellcount_mmfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_cellcount_mnec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_cellcount_mneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Total number of math cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_asmts_mall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_asmts_mecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_asmts_mfem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_asmts_mmal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_asmts_mmfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_asmts_mnec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_asmts_mneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Per grade number of math cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_avg_m_ol_ecd": {
+        "Description": "Geo Dist Poolsub (pooled by subject - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_avg_meb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_avg_meb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_avg_meb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_avg_meb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_avg_meb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_avg_meb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_avg_meb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_avg_mol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_avg_mol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_avg_mol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_avg_mol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_avg_mol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_avg_mol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_coh_meb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_coh_meb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_coh_meb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_coh_meb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_coh_meb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_coh_meb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_coh_meb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_coh_mol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_coh_mol_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_coh_mol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_coh_mol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_coh_mol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_coh_mol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_coh_mol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Cohort Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_grd_meb_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_grd_meb_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_grd_meb_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_grd_meb_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_grd_meb_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_grd_meb_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_grd_meb_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mn_grd_mol_all": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mn_grd_mol_ecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mn_grd_mol_fem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mn_grd_mol_mal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mn_grd_mol_mfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mn_grd_mol_nec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mn_grd_mol_neg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mnavg_mebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mnavg_mebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mnavg_mebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mnavg_mebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mnavg_mebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mnavg_mebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mnavg_mebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mnavg_molseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mnavg_molseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mnavg_molsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mnavg_molsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mnavg_molsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mnavg_molsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mnavg_molseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mncoh_mebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mncoh_mebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mncoh_mebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mncoh_mebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mncoh_mebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mncoh_mebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mncoh_mebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mncoh_molseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mncoh_molseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mncoh_molsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mncoh_molsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mncoh_molsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mncoh_molsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mncoh_molseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Cohort Slope of Mean Ach, Math, OLS est, C HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mngrd_mebseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mngrd_mebseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mngrd_mebsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mngrd_mebsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mngrd_mebsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mngrd_mebsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mngrd_mebseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_mngrd_molseall": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_mngrd_molseecd": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_mngrd_molsefem": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_mngrd_molsemal": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_mngrd_molsemfg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_mngrd_molsenec": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_mngrd_molseneg": {
+        "Description": "Geo Dist Poolsub (\"pooled by subject\" - within subjects) Geographically Defined District SE of Grade Slope of Mean Ach, Math, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_ds_tot_asmts_m_all": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_ds_tot_asmts_m_ecd": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_ds_tot_asmts_m_fem": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_ds_tot_asmts_m_mal": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_ds_tot_asmts_m_mfg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_ds_tot_asmts_m_nec": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_ds_tot_asmts_m_neg": {
+        "Description": "Geo Dist Poolsub (''pooled by subject'' - within subjects) Total number of math tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

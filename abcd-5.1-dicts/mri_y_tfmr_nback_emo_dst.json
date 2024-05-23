@@ -1,0 +1,2670 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfabwdp_450": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_524": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_451": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_525": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_452": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_526": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfabwdp_445": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfabwdp_519": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfabwdp_446": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfabwdp_520": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfabwdp_447": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfabwdp_521": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfabwdp_448": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfabwdp_522": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfabwdp_449": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfabwdp_523": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfabwdp_453": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfabwdp_527": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfabwdp_454": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfabwdp_528": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfabwdp_455": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfabwdp_529": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfabwdp_456": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfabwdp_530": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfabwdp_457": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfabwdp_531": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfabwdp_458": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfabwdp_532": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfabwdp_459": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfabwdp_533": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfabwdp_460": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfabwdp_534": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfabwdp_461": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfabwdp_535": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfabwdp_462": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfabwdp_536": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfabwdp_463": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfabwdp_537": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfabwdp_464": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfabwdp_538": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfabwdp_465": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfabwdp_539": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfabwdp_466": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfabwdp_540": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfabwdp_467": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfabwdp_541": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfabwdp_468": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfabwdp_542": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfabwdp_471": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfabwdp_545": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfabwdp_469": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfabwdp_543": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfabwdp_470": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfabwdp_544": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfabwdp_472": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfabwdp_546": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfabwdp_473": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfabwdp_547": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfabwdp_474": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfabwdp_548": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfabwdp_475": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfabwdp_549": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfabwdp_476": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfabwdp_550": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfabwdp_481": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfabwdp_555": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfabwdp_482": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfabwdp_556": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfabwdp_477": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfabwdp_551": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfabwdp_478": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfabwdp_552": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfabwdp_479": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfabwdp_553": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfabwdp_480": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfabwdp_554": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfabwdp_483": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfabwdp_557": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfabwdp_484": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfabwdp_558": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfabwdp_485": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfabwdp_559": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfabwdp_486": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfabwdp_560": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfabwdp_487": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfabwdp_561": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfabwdp_488": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfabwdp_562": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfabwdp_489": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfabwdp_563": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfabwdp_490": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfabwdp_564": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfabwdp_491": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_565": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_492": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_566": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_493": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_567": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfabwdp_494": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfabwdp_568": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfabwdp_495": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfabwdp_569": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfabwdp_496": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfabwdp_570": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfabwdp_497": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfabwdp_571": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfabwdp_498": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfabwdp_572": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfabwdp_499": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfabwdp_573": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfabwdp_500": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfabwdp_574": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfabwdp_503": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfabwdp_577": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfabwdp_501": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfabwdp_575": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfabwdp_502": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfabwdp_576": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfabwdp_504": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfabwdp_578": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfabwdp_505": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfabwdp_579": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfabwdp_508": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfabwdp_582": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfabwdp_506": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfabwdp_580": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfabwdp_507": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfabwdp_581": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfabwdp_509": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfabwdp_583": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfabwdp_510": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfabwdp_584": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfabwdp_511": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfabwdp_585": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfabwdp_512": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfabwdp_586": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfabwdp_513": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfabwdp_587": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfabwdp_514": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfabwdp_588": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfabwdp_515": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfabwdp_589": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfabwdp_516": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfabwdp_590": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfabwdp_517": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfabwdp_591": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfabwdp_518": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfabwdp_592": {
+        "Description": "Beta weight for nBack all emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tnbasemdp_450": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_524": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_451": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_525": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_452": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_526": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tnbasemdp_445": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tnbasemdp_519": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tnbasemdp_446": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tnbasemdp_520": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tnbasemdp_447": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tnbasemdp_521": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tnbasemdp_448": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tnbasemdp_522": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tnbasemdp_449": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tnbasemdp_523": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tnbasemdp_453": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tnbasemdp_527": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tnbasemdp_454": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tnbasemdp_528": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tnbasemdp_455": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tnbasemdp_529": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tnbasemdp_456": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_530": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_457": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_531": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_458": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_532": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tnbasemdp_459": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tnbasemdp_533": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tnbasemdp_460": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tnbasemdp_534": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tnbasemdp_461": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tnbasemdp_535": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tnbasemdp_462": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tnbasemdp_536": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tnbasemdp_463": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tnbasemdp_537": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tnbasemdp_464": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tnbasemdp_538": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tnbasemdp_465": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tnbasemdp_539": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tnbasemdp_466": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tnbasemdp_540": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tnbasemdp_467": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tnbasemdp_541": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tnbasemdp_468": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tnbasemdp_542": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tnbasemdp_471": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tnbasemdp_545": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tnbasemdp_469": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tnbasemdp_543": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tnbasemdp_470": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tnbasemdp_544": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tnbasemdp_472": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tnbasemdp_546": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tnbasemdp_473": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tnbasemdp_547": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tnbasemdp_474": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tnbasemdp_548": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tnbasemdp_475": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tnbasemdp_549": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tnbasemdp_476": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tnbasemdp_550": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tnbasemdp_481": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tnbasemdp_555": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tnbasemdp_482": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tnbasemdp_556": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tnbasemdp_477": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tnbasemdp_551": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tnbasemdp_478": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tnbasemdp_552": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tnbasemdp_479": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tnbasemdp_553": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tnbasemdp_480": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tnbasemdp_554": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tnbasemdp_483": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tnbasemdp_557": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tnbasemdp_484": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tnbasemdp_558": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tnbasemdp_485": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tnbasemdp_559": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tnbasemdp_486": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tnbasemdp_560": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tnbasemdp_487": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tnbasemdp_561": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tnbasemdp_488": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tnbasemdp_562": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tnbasemdp_489": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tnbasemdp_563": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tnbasemdp_490": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tnbasemdp_564": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tnbasemdp_491": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_565": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_492": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_566": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_493": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_567": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tnbasemdp_494": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tnbasemdp_568": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tnbasemdp_495": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tnbasemdp_569": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tnbasemdp_496": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tnbasemdp_570": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tnbasemdp_497": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tnbasemdp_571": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tnbasemdp_498": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tnbasemdp_572": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tnbasemdp_499": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tnbasemdp_573": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tnbasemdp_500": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tnbasemdp_574": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tnbasemdp_503": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tnbasemdp_577": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tnbasemdp_501": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tnbasemdp_575": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tnbasemdp_502": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tnbasemdp_576": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tnbasemdp_504": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tnbasemdp_578": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tnbasemdp_505": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tnbasemdp_579": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tnbasemdp_508": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tnbasemdp_582": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tnbasemdp_506": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tnbasemdp_580": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tnbasemdp_507": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tnbasemdp_581": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tnbasemdp_509": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tnbasemdp_583": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tnbasemdp_510": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tnbasemdp_584": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tnbasemdp_511": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tnbasemdp_585": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tnbasemdp_512": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tnbasemdp_586": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tnbasemdp_513": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tnbasemdp_587": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tnbasemdp_514": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tnbasemdp_588": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tnbasemdp_515": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tnbasemdp_589": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tnbasemdp_516": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tnbasemdp_590": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tnbasemdp_517": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tnbasemdp_591": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tnbasemdp_518": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tnbasemdp_592": {
+        "Description": "Standard error of the mean for nBack all emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfncr1bwdp_450": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_524": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_451": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_525": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_452": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_526": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfncr1bwdp_445": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfncr1bwdp_519": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfncr1bwdp_446": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfncr1bwdp_520": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfncr1bwdp_447": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfncr1bwdp_521": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfncr1bwdp_448": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfncr1bwdp_522": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfncr1bwdp_449": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfncr1bwdp_523": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfncr1bwdp_453": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfncr1bwdp_527": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfncr1bwdp_454": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfncr1bwdp_528": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfncr1bwdp_455": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfncr1bwdp_529": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfncr1bwdp_456": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_530": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_457": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_531": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_458": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_532": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfncr1bwdp_459": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfncr1bwdp_533": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfncr1bwdp_460": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfncr1bwdp_534": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfncr1bwdp_461": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfncr1bwdp_535": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfncr1bwdp_462": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfncr1bwdp_536": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfncr1bwdp_463": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfncr1bwdp_537": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfncr1bwdp_464": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfncr1bwdp_538": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfncr1bwdp_465": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfncr1bwdp_539": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfncr1bwdp_466": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfncr1bwdp_540": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfncr1bwdp_467": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfncr1bwdp_541": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfncr1bwdp_468": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfncr1bwdp_542": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfncr1bwdp_471": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfncr1bwdp_545": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfncr1bwdp_469": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfncr1bwdp_543": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfncr1bwdp_470": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfncr1bwdp_544": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfncr1bwdp_472": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfncr1bwdp_546": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfncr1bwdp_473": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfncr1bwdp_547": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfncr1bwdp_474": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfncr1bwdp_548": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfncr1bwdp_475": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfncr1bwdp_549": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfncr1bwdp_476": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfncr1bwdp_550": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfncr1bwdp_481": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfncr1bwdp_555": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfncr1bwdp_482": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfncr1bwdp_556": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfncr1bwdp_477": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfncr1bwdp_551": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfncr1bwdp_478": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfncr1bwdp_552": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfncr1bwdp_479": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfncr1bwdp_553": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfncr1bwdp_480": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfncr1bwdp_554": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfncr1bwdp_483": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfncr1bwdp_557": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfncr1bwdp_484": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfncr1bwdp_558": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfncr1bwdp_485": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfncr1bwdp_559": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfncr1bwdp_486": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfncr1bwdp_560": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfncr1bwdp_487": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfncr1bwdp_561": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfncr1bwdp_488": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfncr1bwdp_562": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfncr1bwdp_489": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfncr1bwdp_563": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfncr1bwdp_490": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfncr1bwdp_564": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfncr1bwdp_491": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_565": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_492": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_566": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_493": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_567": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfncr1bwdp_494": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfncr1bwdp_568": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfncr1bwdp_495": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfncr1bwdp_569": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfncr1bwdp_496": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfncr1bwdp_570": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfncr1bwdp_497": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfncr1bwdp_571": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfncr1bwdp_498": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfncr1bwdp_572": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfncr1bwdp_499": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfncr1bwdp_573": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfncr1bwdp_500": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfncr1bwdp_574": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfncr1bwdp_503": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfncr1bwdp_577": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfncr1bwdp_501": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfncr1bwdp_575": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfncr1bwdp_502": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfncr1bwdp_576": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfncr1bwdp_504": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfncr1bwdp_578": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfncr1bwdp_505": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfncr1bwdp_579": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfncr1bwdp_508": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfncr1bwdp_582": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfncr1bwdp_506": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfncr1bwdp_580": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfncr1bwdp_507": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfncr1bwdp_581": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfncr1bwdp_509": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfncr1bwdp_583": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfncr1bwdp_510": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfncr1bwdp_584": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfncr1bwdp_511": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfncr1bwdp_585": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfncr1bwdp_512": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfncr1bwdp_586": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfncr1bwdp_513": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfncr1bwdp_587": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfncr1bwdp_514": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfncr1bwdp_588": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfncr1bwdp_515": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfncr1bwdp_589": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfncr1bwdp_516": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfncr1bwdp_590": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfncr1bwdp_517": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfncr1bwdp_591": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfncr1bwdp_518": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfncr1bwdp_592": {
+        "Description": "Beta weight for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfnbr1semdp_450": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_524": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_451": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_525": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_452": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_526": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr1semdp_445": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr1semdp_519": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr1semdp_446": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr1semdp_520": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr1semdp_447": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr1semdp_521": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr1semdp_448": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr1semdp_522": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr1semdp_449": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr1semdp_523": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr1semdp_453": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr1semdp_527": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr1semdp_454": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr1semdp_528": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr1semdp_455": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfnbr1semdp_529": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfnbr1semdp_456": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_530": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_457": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_531": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_458": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_532": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr1semdp_459": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfnbr1semdp_533": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfnbr1semdp_460": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfnbr1semdp_534": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfnbr1semdp_461": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr1semdp_535": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr1semdp_462": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfnbr1semdp_536": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfnbr1semdp_463": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfnbr1semdp_537": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfnbr1semdp_464": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfnbr1semdp_538": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfnbr1semdp_465": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr1semdp_539": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr1semdp_466": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfnbr1semdp_540": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfnbr1semdp_467": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfnbr1semdp_541": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfnbr1semdp_468": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfnbr1semdp_542": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfnbr1semdp_471": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfnbr1semdp_545": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfnbr1semdp_469": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfnbr1semdp_543": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfnbr1semdp_470": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfnbr1semdp_544": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfnbr1semdp_472": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfnbr1semdp_546": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfnbr1semdp_473": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfnbr1semdp_547": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfnbr1semdp_474": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfnbr1semdp_548": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfnbr1semdp_475": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfnbr1semdp_549": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfnbr1semdp_476": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfnbr1semdp_550": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfnbr1semdp_481": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfnbr1semdp_555": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfnbr1semdp_482": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfnbr1semdp_556": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfnbr1semdp_477": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr1semdp_551": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr1semdp_478": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr1semdp_552": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr1semdp_479": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr1semdp_553": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr1semdp_480": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfnbr1semdp_554": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfnbr1semdp_483": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr1semdp_557": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr1semdp_484": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr1semdp_558": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr1semdp_485": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr1semdp_559": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr1semdp_486": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfnbr1semdp_560": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfnbr1semdp_487": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfnbr1semdp_561": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfnbr1semdp_488": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfnbr1semdp_562": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfnbr1semdp_489": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfnbr1semdp_563": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfnbr1semdp_490": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr1semdp_564": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr1semdp_491": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_565": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_492": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_566": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_493": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_567": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr1semdp_494": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr1semdp_568": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr1semdp_495": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr1semdp_569": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr1semdp_496": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfnbr1semdp_570": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfnbr1semdp_497": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfnbr1semdp_571": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfnbr1semdp_498": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfnbr1semdp_572": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfnbr1semdp_499": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfnbr1semdp_573": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfnbr1semdp_500": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr1semdp_574": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr1semdp_503": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr1semdp_577": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr1semdp_501": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr1semdp_575": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr1semdp_502": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr1semdp_576": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr1semdp_504": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr1semdp_578": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr1semdp_505": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr1semdp_579": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr1semdp_508": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfnbr1semdp_582": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfnbr1semdp_506": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfnbr1semdp_580": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfnbr1semdp_507": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfnbr1semdp_581": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfnbr1semdp_509": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr1semdp_583": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr1semdp_510": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfnbr1semdp_584": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfnbr1semdp_511": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfnbr1semdp_585": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfnbr1semdp_512": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr1semdp_586": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr1semdp_513": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr1semdp_587": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr1semdp_514": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfnbr1semdp_588": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfnbr1semdp_515": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfnbr1semdp_589": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfnbr1semdp_516": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfnbr1semdp_590": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfnbr1semdp_517": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfnbr1semdp_591": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfnbr1semdp_518": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfnbr1semdp_592": {
+        "Description": "Standard error of the mean for nBack run1 emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfnbr2bwdp_450": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_524": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_451": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_525": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_452": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_526": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2bwdp_445": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr2bwdp_519": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr2bwdp_446": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr2bwdp_520": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr2bwdp_447": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr2bwdp_521": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr2bwdp_448": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr2bwdp_522": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr2bwdp_449": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr2bwdp_523": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr2bwdp_453": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr2bwdp_527": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr2bwdp_454": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr2bwdp_528": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr2bwdp_455": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfnbr2bwdp_529": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfnbr2bwdp_456": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_530": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_457": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_531": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_458": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_532": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr2bwdp_459": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfnbr2bwdp_533": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfnbr2bwdp_460": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfnbr2bwdp_534": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfnbr2bwdp_461": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr2bwdp_535": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr2bwdp_462": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfnbr2bwdp_536": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfnbr2bwdp_463": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfnbr2bwdp_537": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfnbr2bwdp_464": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfnbr2bwdp_538": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfnbr2bwdp_465": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr2bwdp_539": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr2bwdp_466": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfnbr2bwdp_540": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfnbr2bwdp_467": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfnbr2bwdp_541": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfnbr2bwdp_468": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfnbr2bwdp_542": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfnbr2bwdp_471": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfnbr2bwdp_545": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfnbr2bwdp_469": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfnbr2bwdp_543": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfnbr2bwdp_470": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfnbr2bwdp_544": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfnbr2bwdp_472": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfnbr2bwdp_546": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfnbr2bwdp_473": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfnbr2bwdp_547": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfnbr2bwdp_474": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfnbr2bwdp_548": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfnbr2bwdp_475": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfnbr2bwdp_549": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfnbr2bwdp_476": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfnbr2bwdp_550": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfnbr2bwdp_481": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfnbr2bwdp_555": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfnbr2bwdp_482": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfnbr2bwdp_556": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfnbr2bwdp_477": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr2bwdp_551": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr2bwdp_478": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr2bwdp_552": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr2bwdp_479": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr2bwdp_553": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr2bwdp_480": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfnbr2bwdp_554": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfnbr2bwdp_483": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2bwdp_557": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2bwdp_484": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2bwdp_558": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2bwdp_485": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr2bwdp_559": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr2bwdp_486": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfnbr2bwdp_560": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfnbr2bwdp_487": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfnbr2bwdp_561": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfnbr2bwdp_488": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfnbr2bwdp_562": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfnbr2bwdp_489": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfnbr2bwdp_563": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfnbr2bwdp_490": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr2bwdp_564": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr2bwdp_491": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_565": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_492": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_566": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_493": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_567": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2bwdp_494": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr2bwdp_568": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr2bwdp_495": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr2bwdp_569": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr2bwdp_496": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfnbr2bwdp_570": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfnbr2bwdp_497": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfnbr2bwdp_571": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfnbr2bwdp_498": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfnbr2bwdp_572": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfnbr2bwdp_499": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfnbr2bwdp_573": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfnbr2bwdp_500": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr2bwdp_574": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr2bwdp_503": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr2bwdp_577": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr2bwdp_501": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr2bwdp_575": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr2bwdp_502": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr2bwdp_576": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr2bwdp_504": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr2bwdp_578": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr2bwdp_505": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr2bwdp_579": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr2bwdp_508": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfnbr2bwdp_582": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfnbr2bwdp_506": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfnbr2bwdp_580": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfnbr2bwdp_507": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfnbr2bwdp_581": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfnbr2bwdp_509": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr2bwdp_583": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr2bwdp_510": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfnbr2bwdp_584": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfnbr2bwdp_511": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfnbr2bwdp_585": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfnbr2bwdp_512": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr2bwdp_586": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr2bwdp_513": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr2bwdp_587": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr2bwdp_514": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfnbr2bwdp_588": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfnbr2bwdp_515": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfnbr2bwdp_589": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfnbr2bwdp_516": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfnbr2bwdp_590": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfnbr2bwdp_517": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfnbr2bwdp_591": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfnbr2bwdp_518": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfnbr2bwdp_592": {
+        "Description": "Beta weight for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfnbr2dp_450": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_524": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_451": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_525": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_452": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_526": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfnbr2dp_445": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr2dp_519": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfnbr2dp_446": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr2dp_520": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfnbr2dp_447": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr2dp_521": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfnbr2dp_448": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr2dp_522": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfnbr2dp_449": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr2dp_523": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfnbr2dp_453": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr2dp_527": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfnbr2dp_454": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr2dp_528": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfnbr2dp_455": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfnbr2dp_529": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfnbr2dp_456": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_530": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_457": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_531": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_458": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_532": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfnbr2dp_459": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfnbr2dp_533": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfnbr2dp_460": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfnbr2dp_534": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfnbr2dp_461": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr2dp_535": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfnbr2dp_462": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfnbr2dp_536": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfnbr2dp_463": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfnbr2dp_537": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfnbr2dp_464": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfnbr2dp_538": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfnbr2dp_465": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr2dp_539": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfnbr2dp_466": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfnbr2dp_540": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfnbr2dp_467": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfnbr2dp_541": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfnbr2dp_468": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfnbr2dp_542": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfnbr2dp_471": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfnbr2dp_545": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfnbr2dp_469": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfnbr2dp_543": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfnbr2dp_470": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfnbr2dp_544": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfnbr2dp_472": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfnbr2dp_546": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfnbr2dp_473": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfnbr2dp_547": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfnbr2dp_474": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfnbr2dp_548": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfnbr2dp_475": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfnbr2dp_549": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfnbr2dp_476": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfnbr2dp_550": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfnbr2dp_481": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfnbr2dp_555": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfnbr2dp_482": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfnbr2dp_556": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfnbr2dp_477": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr2dp_551": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfnbr2dp_478": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr2dp_552": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfnbr2dp_479": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr2dp_553": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfnbr2dp_480": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfnbr2dp_554": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfnbr2dp_483": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2dp_557": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2dp_484": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2dp_558": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfnbr2dp_485": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr2dp_559": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfnbr2dp_486": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfnbr2dp_560": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfnbr2dp_487": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfnbr2dp_561": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfnbr2dp_488": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfnbr2dp_562": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfnbr2dp_489": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfnbr2dp_563": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfnbr2dp_490": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr2dp_564": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfnbr2dp_491": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_565": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_492": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_566": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_493": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_567": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfnbr2dp_494": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr2dp_568": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfnbr2dp_495": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr2dp_569": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfnbr2dp_496": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfnbr2dp_570": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfnbr2dp_497": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfnbr2dp_571": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfnbr2dp_498": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfnbr2dp_572": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfnbr2dp_499": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfnbr2dp_573": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfnbr2dp_500": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr2dp_574": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfnbr2dp_503": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr2dp_577": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfnbr2dp_501": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr2dp_575": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfnbr2dp_502": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr2dp_576": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfnbr2dp_504": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr2dp_578": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfnbr2dp_505": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr2dp_579": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfnbr2dp_508": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfnbr2dp_582": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfnbr2dp_506": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfnbr2dp_580": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfnbr2dp_507": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfnbr2dp_581": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfnbr2dp_509": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr2dp_583": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfnbr2dp_510": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfnbr2dp_584": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfnbr2dp_511": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfnbr2dp_585": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfnbr2dp_512": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr2dp_586": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfnbr2dp_513": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr2dp_587": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfnbr2dp_514": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfnbr2dp_588": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfnbr2dp_515": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfnbr2dp_589": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfnbr2dp_516": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfnbr2dp_590": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfnbr2dp_517": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfnbr2dp_591": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfnbr2dp_518": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfnbr2dp_592": {
+        "Description": "Standard error of the mean for nBack run2 emotion contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    }
+}

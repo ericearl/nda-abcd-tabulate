@@ -1,0 +1,213 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "neighborhood_crime_y": {
+        "Description": "My neighborhood is safe from crime. | 1 = Strongly Disagree; 2 = Disagree; 3 = Neutral (neither agree nor disagree); 4 = Agree; 5 = Strongly Agree",
+        "Levels": {
+            "1": "Strongly Disagree",
+            "2": "Disagree",
+            "3": "Neutral (neither agree nor disagree)",
+            "4": "Agree",
+            "5": "Strongly Agree"
+        }
+    },
+    "neighborhood_po_y": {
+        "Description": "Has a police officer ever provided assistance, protection, or any other service to you? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighborhood_po_times_y": {
+        "Description": "How many times has this happened to you in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighborhood_po_exp_y": {
+        "Description": "Have you ever had a negative or bad experience with police? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighborhood_po_phy_y": {
+        "Description": "Has a police officer ever been physically aggressive towards you, including grabbing or pushing you aggressively? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_phy_times_y": {
+        "Description": "How many times has this happened to you in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_used_slur_y": {
+        "Description": "Has a police officer ever been aggressive towards you in a non-physical way or used racial or ethnic or other slurs towards you? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_slur_times_y": {
+        "Description": "How many times has this happened to you in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_stopped_y": {
+        "Description": "Have you ever been stopped by a police officer for no clear reason? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_stopped_times_y": {
+        "Description": "How many times has this happened to you in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_arrested_y": {
+        "Description": "In the last 2 years, how many times have you been arrested by the police? | 0 = 0; 1 = 1; 2 = 2; 3 = 3 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3 or more times"
+        }
+    },
+    "neighb_po_service_y": {
+        "Description": "Has a police officer ever provided assistance, protection, or any other services to a close friend or family member? | 1 = Yes; 0 = No; 999 = I don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "I don't know"
+        }
+    },
+    "neighb_po_service_times_y": {
+        "Description": "How many times has this happened to a close friend or family member in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_fam_friend_exp_y": {
+        "Description": "Has a close friend or family member ever had a negative or bad experience with police? | 1 = Yes; 0 = No; 999 = I don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "I don't know"
+        }
+    },
+    "neighb_po_fam_friend_phy_y": {
+        "Description": "Has a police officer ever been physically aggressive towards a close friend or family member, including grabbing or pushing them aggressively? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_fam_friend_times_y": {
+        "Description": "How many times has this happened to a close friend or family member in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_exp_slur_y": {
+        "Description": "Has a police officer ever been aggressive towards a close friend or family member in a non-physical way or used racial or ethnic or other slurs towards them? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_exp_slur_times_y": {
+        "Description": "How many times has this happened to a close friend or family member in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_stopped_2_y": {
+        "Description": "Has a close friend or family member ever been stopped by a police officer for no clear reason? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neighb_po_stopped_times_2_y": {
+        "Description": "How many times has this happened to a close friend or family member in the past year? | 0 = 0; 1 = 1; 2 = 2; 3 = 3; 4 = 4 or more times",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4 or more times"
+        }
+    },
+    "neighb_po_community_y": {
+        "Description": "I trust the police in my community: | 0 = Not at all; 1 = A little; 2 = Somewhat; 3 = Usually; 4 = Almost always",
+        "Levels": {
+            "0": "Not at all",
+            "1": "A little",
+            "2": "Somewhat",
+            "3": "Usually",
+            "4": "Almost always"
+        }
+    },
+    "neighb_po_fair_y": {
+        "Description": "The police treat individuals fairly in my community: | 1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always",
+        "Levels": {
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Almost always"
+        }
+    },
+    "neighb_po_respect_y": {
+        "Description": "The police treat people with respect in my community: | 1 = Almost never; 2 = Sometimes; 3 = Often; 4 = Almost always",
+        "Levels": {
+            "1": "Almost never",
+            "2": "Sometimes",
+            "3": "Often",
+            "4": "Almost always"
+        }
+    },
+    "neighb_admin": {
+        "Description": "Please indicate how instrument was administered: | 1 = RA-Administered; 2 = Youth Self-Administered; 3 = Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

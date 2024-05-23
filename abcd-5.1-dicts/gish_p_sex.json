@@ -1,0 +1,66 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "p_gish2_abstinences": {
+        "Description": "Have you talked with your child about: Abstinence/waiting to have sex / Ha hablado con su ni\u00f1o(a) sobre: Absitencia/esperar a tener relaciones sexuales | 1 = Yes; 2 = No; 3 = Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "p_gish2_safe_practices": {
+        "Description": "Have you talked with your child about: Safe sex practices / Ha hablado con su ni\u00f1o(a) sobre:Pr\u00e1cticas de relaciones sexuales seguras | 1 = Yes; 2 = No; 3 = Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "p_gish2_convo": {
+        "Description": "Have you talked with your child about: Other conversation about sex / Ha hablado con su ni\u00f1o(a) sobre: Otras conversaciones sobre sexo | 1 = Yes; 2 = No; 3 = Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "kbi_p_c_gay": {
+        "Description": "Is you/your child gay?/  \u00bfSu ni\u00f1o(a) es homosexual? | 1 = Yes /S\u00ed; 2 = Maybe/Don't know /Tal vez/No s\u00e9; 0 = No/ No; 4 = Decline to answer /Niego contestar",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "2": "Maybe/Don't know /Tal vez/No s\u00e9",
+            "0": "No/ No",
+            "4": "Decline to answer /Niego contestar"
+        }
+    },
+    "kbi_p_c_gay_problems": {
+        "Description": "Has this caused any problems for you/your child with your family or with kids at school?/  \u00bfEsto le ha causado a su ni\u00f1o(a) alg\u00fan problema con su familia o con los ni\u00f1os en la escuela? | 1 = Not at all /Para nada; 2 = Some /Algo; 3 = A lot /Mucho; 4 = Decline to answer /Niego contestar",
+        "Levels": {
+            "1": "Not at all /Para nada",
+            "2": "Some /Algo",
+            "3": "A lot /Mucho",
+            "4": "Decline to answer /Niego contestar"
+        }
+    },
+    "kbi_p_c_gay_l": {
+        "Description": "Is your child gay? \u00bfSu ni\u00f1o(a) es homosexual? | 1 = Yes S\u00ed; 2 = Maybe/Don't know Tal vez/No s\u00e9; 3 = No No; 4 = Decline to answer Niego contestar",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "2": "Maybe/Don't know Tal vez/No s\u00e9",
+            "3": "No No",
+            "4": "Decline to answer Niego contestar"
+        }
+    },
+    "kbi_p_c_gay_problems_l": {
+        "Description": "Since we last saw you, has this caused any problems for your child with your family or with kids at school? Desde la \u00faltima vez que nos vimos, \u00bfesto le ha causado a su ni\u00f1o(a) alg\u00fan problema con su familia o con los ni\u00f1os en la escuela? | 1 = Not at all Para nada; 2 = Some Algo; 3 = A lot Mucho; 4 = Decline to answer Niego contestar",
+        "Levels": {
+            "1": "Not at all Para nada",
+            "2": "Some Algo",
+            "3": "A lot Mucho",
+            "4": "Decline to answer Niego contestar"
+        }
+    }
+}

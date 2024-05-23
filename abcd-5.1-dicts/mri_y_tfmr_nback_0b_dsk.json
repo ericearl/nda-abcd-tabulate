@@ -1,0 +1,1230 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_nback_all_271": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_nback_all_305": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_nback_all_272": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_all_306": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_all_273": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_all_307": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_all_274": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_nback_all_308": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_nback_all_275": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_nback_all_309": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_nback_all_301": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_nback_all_335": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_nback_all_276": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_nback_all_310": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_nback_all_277": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_nback_all_311": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_nback_all_278": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_nback_all_312": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_nback_all_304": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmri_nback_all_338": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmri_nback_all_279": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_nback_all_313": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_nback_all_280": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_nback_all_314": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_nback_all_281": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_nback_all_315": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_nback_all_282": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_nback_all_316": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_nback_all_283": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_nback_all_317": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_nback_all_284": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_nback_all_318": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_nback_all_286": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_nback_all_320": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_nback_all_285": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_nback_all_319": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_nback_all_287": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_nback_all_321": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_nback_all_288": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_nback_all_322": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_nback_all_289": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_nback_all_323": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_nback_all_290": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_nback_all_324": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_nback_all_291": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_nback_all_325": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_nback_all_292": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_nback_all_326": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_nback_all_293": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_nback_all_327": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_nback_all_294": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_nback_all_328": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_nback_all_295": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_all_329": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_all_296": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_all_330": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_all_297": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_nback_all_331": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_nback_all_298": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_nback_all_332": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_nback_all_299": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_nback_all_333": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_nback_all_300": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_nback_all_334": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_nback_all_302": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_nback_all_336": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_nback_all_303": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_nback_all_337": {
+        "Description": "Beta weight for nBack all 0 back contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmrinbackallsem_271": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmrinbackallsem_305": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmrinbackallsem_272": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmrinbackallsem_306": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmrinbackallsem_273": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmrinbackallsem_307": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmrinbackallsem_274": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmrinbackallsem_308": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmrinbackallsem_275": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmrinbackallsem_309": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmrinbackallsem_301": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmrinbackallsem_335": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmrinbackallsem_276": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmrinbackallsem_310": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmrinbackallsem_277": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmrinbackallsem_311": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmrinbackallsem_278": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmrinbackallsem_312": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmrinbackallsem_304": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmrinbackallsem_338": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmrinbackallsem_279": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmrinbackallsem_313": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmrinbackallsem_280": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmrinbackallsem_314": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmrinbackallsem_281": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmrinbackallsem_315": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmrinbackallsem_282": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmrinbackallsem_316": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmrinbackallsem_283": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmrinbackallsem_317": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmrinbackallsem_284": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmrinbackallsem_318": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmrinbackallsem_286": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmrinbackallsem_320": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmrinbackallsem_285": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmrinbackallsem_319": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmrinbackallsem_287": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmrinbackallsem_321": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmrinbackallsem_288": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmrinbackallsem_322": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmrinbackallsem_289": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmrinbackallsem_323": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmrinbackallsem_290": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmrinbackallsem_324": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmrinbackallsem_291": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmrinbackallsem_325": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmrinbackallsem_292": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmrinbackallsem_326": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmrinbackallsem_293": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmrinbackallsem_327": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmrinbackallsem_294": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmrinbackallsem_328": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmrinbackallsem_295": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmrinbackallsem_329": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmrinbackallsem_296": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmrinbackallsem_330": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmrinbackallsem_297": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmrinbackallsem_331": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmrinbackallsem_298": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmrinbackallsem_332": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmrinbackallsem_299": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmrinbackallsem_333": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmrinbackallsem_300": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmrinbackallsem_334": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmrinbackallsem_302": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmrinbackallsem_336": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmrinbackallsem_303": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmrinbackallsem_337": {
+        "Description": "Standard error of the mean for nBack all 0 back contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_nback_r1_271": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_nback_r1_305": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_nback_r1_272": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r1_306": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r1_273": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r1_307": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r1_274": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_nback_r1_308": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_nback_r1_275": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_nback_r1_309": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_nback_r1_301": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_nback_r1_335": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_nback_r1_276": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_nback_r1_310": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_nback_r1_277": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_nback_r1_311": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_nback_r1_278": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_nback_r1_312": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_nback_r1_304": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmri_nback_r1_338": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmri_nback_r1_279": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_nback_r1_313": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_nback_r1_280": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_nback_r1_314": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_nback_r1_281": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r1_315": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r1_282": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_nback_r1_316": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_nback_r1_283": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_nback_r1_317": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_nback_r1_284": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_nback_r1_318": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_nback_r1_286": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_nback_r1_320": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_nback_r1_285": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_nback_r1_319": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_nback_r1_287": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_nback_r1_321": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_nback_r1_288": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_nback_r1_322": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_nback_r1_289": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_nback_r1_323": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_nback_r1_290": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_nback_r1_324": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_nback_r1_291": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_nback_r1_325": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_nback_r1_292": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_nback_r1_326": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_nback_r1_293": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_nback_r1_327": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_nback_r1_294": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_nback_r1_328": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_nback_r1_295": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r1_329": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r1_296": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r1_330": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r1_297": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_nback_r1_331": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_nback_r1_298": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_nback_r1_332": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_nback_r1_299": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_nback_r1_333": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_nback_r1_300": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_nback_r1_334": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_nback_r1_302": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_nback_r1_336": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_nback_r1_303": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_nback_r1_337": {
+        "Description": "Beta weight for nBack run1 0 back contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_nback_r1sem_271": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_nback_r1sem_305": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_nback_r1sem_272": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r1sem_306": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r1sem_273": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r1sem_307": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r1sem_274": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_nback_r1sem_308": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_nback_r1sem_275": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_nback_r1sem_309": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_nback_r1sem_301": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_nback_r1sem_335": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_nback_r1sem_276": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_nback_r1sem_310": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_nback_r1sem_277": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_nback_r1sem_311": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_nback_r1sem_278": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_nback_r1sem_312": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_nback_r1sem_304": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmri_nback_r1sem_338": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmri_nback_r1sem_279": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_nback_r1sem_313": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_nback_r1sem_280": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_nback_r1sem_314": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_nback_r1sem_281": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r1sem_315": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r1sem_282": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_nback_r1sem_316": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_nback_r1sem_283": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_nback_r1sem_317": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_nback_r1sem_284": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_nback_r1sem_318": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_nback_r1sem_286": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_nback_r1sem_320": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_nback_r1sem_285": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_nback_r1sem_319": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_nback_r1sem_287": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_nback_r1sem_321": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_nback_r1sem_288": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_nback_r1sem_322": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_nback_r1sem_289": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_nback_r1sem_323": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_nback_r1sem_290": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_nback_r1sem_324": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_nback_r1sem_291": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_nback_r1sem_325": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_nback_r1sem_292": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_nback_r1sem_326": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_nback_r1sem_293": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_nback_r1sem_327": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_nback_r1sem_294": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_nback_r1sem_328": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_nback_r1sem_295": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r1sem_329": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r1sem_296": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r1sem_330": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r1sem_297": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_nback_r1sem_331": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_nback_r1sem_298": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_nback_r1sem_332": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_nback_r1sem_299": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_nback_r1sem_333": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_nback_r1sem_300": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_nback_r1sem_334": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_nback_r1sem_302": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_nback_r1sem_336": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_nback_r1sem_303": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_nback_r1sem_337": {
+        "Description": "Standard error of the mean for nBack run1 0 back contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_nback_r2_271": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_nback_r2_305": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_nback_r2_272": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r2_306": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_nback_r2_273": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r2_307": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_nback_r2_274": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_nback_r2_308": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_nback_r2_275": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_nback_r2_309": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_nback_r2_301": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_nback_r2_335": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_nback_r2_276": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_nback_r2_310": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_nback_r2_277": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_nback_r2_311": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_nback_r2_278": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_nback_r2_312": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_nback_r2_304": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmri_nback_r2_338": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmri_nback_r2_279": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_nback_r2_313": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_nback_r2_280": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_nback_r2_314": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_nback_r2_281": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r2_315": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_nback_r2_282": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_nback_r2_316": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_nback_r2_283": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_nback_r2_317": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_nback_r2_284": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_nback_r2_318": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_nback_r2_286": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_nback_r2_320": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_nback_r2_285": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_nback_r2_319": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_nback_r2_287": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_nback_r2_321": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_nback_r2_288": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_nback_r2_322": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_nback_r2_289": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_nback_r2_323": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_nback_r2_290": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_nback_r2_324": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_nback_r2_291": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_nback_r2_325": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_nback_r2_292": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_nback_r2_326": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_nback_r2_293": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_nback_r2_327": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_nback_r2_294": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_nback_r2_328": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_nback_r2_295": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r2_329": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_nback_r2_296": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r2_330": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_nback_r2_297": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_nback_r2_331": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_nback_r2_298": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_nback_r2_332": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_nback_r2_299": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_nback_r2_333": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_nback_r2_300": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_nback_r2_334": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_nback_r2_302": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_nback_r2_336": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_nback_r2_303": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_nback_r2_337": {
+        "Description": "Beta weight for nBack run2 0 back contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmrinbr20bscdkbksslh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-bankssts"
+    },
+    "tfmrinbr20bscdkbkssrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-bankssts"
+    },
+    "tfmrinbr20bscdkcaacgelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmrinbr20bscdkcaacgerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmrinbr20bscdkcamdfrlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmrinbr20bscdkcamdfrrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmrinbr20bscdkculh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-cuneus"
+    },
+    "tfmrinbr20bscdkcurh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-cuneus"
+    },
+    "tfmrinbr20bscdkehinallh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmrinbr20bscdkehinalrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmrinbr20bscdkfrpolelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmrinbr20bscdkfrpolerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmrinbr20bscdkfflh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-fusiform"
+    },
+    "tfmrinbr20bscdkffrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-fusiform"
+    },
+    "tfmrinbr20bscdkifpalh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmrinbr20bscdkifparh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmrinbr20bscdkiftmlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmrinbr20bscdkiftmrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmrinbr20bscdkinsulalh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-insula"
+    },
+    "tfmrinbr20bscdkinsularh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-insula"
+    },
+    "tfmrinbr20bscdkihcgelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmrinbr20bscdkihcgerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmrinbr20bscdklocclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmrinbr20bscdkloccrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmrinbr20bscdklobofrlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmrinbr20bscdklobofrrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmrinbr20bscdklglh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-lingual"
+    },
+    "tfmrinbr20bscdklgrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-lingual"
+    },
+    "tfmrinbr20bscdkmobofrlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmrinbr20bscdkmobofrrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmrinbr20bscdkmdtmlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmrinbr20bscdkmdtmrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmrinbr20bscdkpclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-paracentral"
+    },
+    "tfmrinbr20bscdkpcrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-paracentral"
+    },
+    "tfmrinbr20bscdkphpallh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmrinbr20bscdkphpalrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmrinbr20bscdkpopclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmrinbr20bscdkpopcrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmrinbr20bscdkpobislh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmrinbr20bscdkpobisrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmrinbr20bscdkparstglh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmrinbr20bscdkparstgrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmrinbr20bscdkprclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmrinbr20bscdkprcrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmrinbr20bscdkptclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-postcentral"
+    },
+    "tfmrinbr20bscdkptcrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-postcentral"
+    },
+    "tfmrinbr20bscdkptrcgelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmrinbr20bscdkptrcgerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmrinbr20bscdkpreclh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-precentral"
+    },
+    "tfmrinbr20bscdkprecrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-precentral"
+    },
+    "tfmrinbr20bscdkpreculh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-precuneus"
+    },
+    "tfmrinbr20bscdkprecurh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-precuneus"
+    },
+    "tfmrinbr20bscdkracgelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmrinbr20bscdkracgerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmrinbr20bscdkromdfrlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmrinbr20bscdkromdfrrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmrinbr20bscdksufrlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmrinbr20bscdksufrrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmrinbr20bscdksupalh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmrinbr20bscdksuparh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmrinbr20bscdksutmlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmrinbr20bscdksutmrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmrinbr20bscdksmlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmrinbr20bscdksmrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmrinbr20bscdktmpolelh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmrinbr20bscdktmpolerh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmrinbr20bscdktvtmlh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmrinbr20bscdktvtmrh": {
+        "Description": "Standard error of the mean for nBack run2 0 back contrast in APARC ROI rh-transversetemporal"
+    }
+}

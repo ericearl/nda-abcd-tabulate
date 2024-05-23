@@ -1,0 +1,406 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "prescan_relaxed_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Relaxed | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_happy_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Happy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_scared_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Scared | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_awake_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Awake | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_upset_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Upset | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_angry_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Angry | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_excited_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Excited | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_tired_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Tired | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_sleepy_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sleepy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_sad_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sad | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_relaxed_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Relaxed | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_happy_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Happy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_scared_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Scared | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_awake_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Awake | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_upset_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Upset | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_angry_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Angry | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_excited_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Excited | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_tired_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Tired | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_sleepy_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sleepy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "prescan_sad_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sad | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; pre_scan_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_relaxed_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Relaxed | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_happy_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Happy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_afraid_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Afraid | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_alert_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Alert | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_upset_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Upset | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_angry_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Angry | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_excited_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Excited | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_tired_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Tired | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_sleepy_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sleepy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_sad_1": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sad | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_relaxed_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Relaxed | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_happy_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Happy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_afraid_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Afraid | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely//postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_alert_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Alert | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely//postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_upset_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Upset | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_angry_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Angry | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_excited_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Excited | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_tired_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Tired | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_sleep_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sleepy | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely//postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    },
+    "postscan_sad_2": {
+        "Description": "This is a list of\u00ac\u2020words that describe different feelings and emotions. Indicate how much\u00ac\u2020you feel this way now. \u00ac\u20201= little to none; and 5=extremely;\u00ac\u2020Sad | 1 = Very slightly or not at all; 2 = A little; 3 = Moderately; 4 = Quite a bit; 5 = Extremely; postscan_2_need == 1",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        }
+    }
+}

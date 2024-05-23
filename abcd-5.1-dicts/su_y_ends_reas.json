@@ -1,0 +1,182 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_ends_reasons___1": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 1, 1, I believe it is less harmful to my health | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___2": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  2, 2, I believe it is less harmful to others | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___3": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 1,  3, 3, I prefer the taste of an e-cigarette 4, Other | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___4": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 1, 4, 4, E-cigarettes are less toxic than tobacco | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___5": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: , 5, To deal with craving for tobacco | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___6": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 6, 6, To quit smoking or avoid relapsing | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___7": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 7, 7, To deal with withdrawal symptoms | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___8": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 8, 8, E-cigarettes are cheaper than smoking | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___9": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 9, 9, To avoid bothering others with tobacco | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___10": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 10, 10, To deal with situations where I can't smoke (e.g., work) | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___11": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  11, 11, To avoid having to go outside to smoke | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___12": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  12, 12, To reduce tobacco consumption in preparation of a quit attempt | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___13": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 13, 13, To reduce tobacco consumption with NO intention to quit smoking | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___14": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 14, 14, Unable to stop using it | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___15": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 15, 15, Because my parents use | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___16": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 16, 16, Because my siblings use | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___17": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 17, 17, Because many of my friends use | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___18": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  18, 18, Because many people my age use | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___19": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 20, 20, To calm me down | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___20": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  21, 21, To make me feel less sad | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___21": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product such as e-cigarettes vape pens or JUUL within the past year:1=I believe it is less harmful to my health;2=I believe it is less harmful to others;3=I prefer the taste of an e-cigarette;4=E-cigarettes are less toxic than tobacco;5=Todealwithcravingfortobacco;6=To quit smoking or avoid relapsing;7=To deal with withdrawal symptoms;8=E-cigarettes are cheaper than smoking;9=To avoid bothering others with tobacco;10=To deal with situations where I can't smoke;11=To avoid having to go outside to smoke;12=To reduce tobacco consumption in preparation of a quit attempt;13=To reduce tobacco consumption with NO intention to quit smoking;14=Unable to stop using it;15=Because my parents use;16=Because my siblings use;17=Because many of my friends use;18=Because many people my age use;19=To help me fit in;20=To calm me down;21=Tomakemefeellesssad;22=Because it is fun;23=Because I'm curious what it's like;24=Other | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___22": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 22, 22, Because it is fun | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___23": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year: 23, 23, Because I'm curious what it's like | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_ends_reasons___24": {
+        "Description": "Please select all of the reasons why you used an electronic nicotine or vaping product, such as e-cigarettes, vape pens, or JUUL, within the past year:  24, 24, Other | 1 = Yes; 0 = No  [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pstr_irritations_p": {
+        "Description": "In the last month, how often have you been able to control irritations in your life? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_way_p": {
+        "Description": "In the last month, how often have you felt that things were going your way? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_unexpect_upset_p": {
+        "Description": "In the last month, how often have you been upset because of something that happened unexpectedly? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_unable_control_p": {
+        "Description": "In the last month, how often have you felt that you were unable to control the important things in your life? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_top_p": {
+        "Description": "In the last month, how often have you felt that you were on top of things? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_p_select_language___1": {
+        "Description": "\u00bfEspanol? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pstr_overcome_p": {
+        "Description": "In the last month, how often have you felt difficulties were piling up so high that you could not overcome them? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_outside_control_p": {
+        "Description": "In the last month, how often have you been angered because of things that were outside of your control? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_not_cope_p": {
+        "Description": "In the last month, how often have you found that you could not cope with all the things that you had to do? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_feel_stress_p": {
+        "Description": "In the last month, how often have you felt nervous and \"stressed\"? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_confidence_p": {
+        "Description": "In the last month, how often have you felt confident about your ability to handle your personal problems? | 0=Never; 1=Almost Never; 2=Sometimes; 3=Fairly Often; 4=Very Often; 777=Refuse to Answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Almost Never",
+            "2": "Sometimes",
+            "3": "Fairly Often",
+            "4": "Very Often",
+            "777": "Refuse to Answer"
+        }
+    },
+    "pstr_ss_pr": {
+        "Description": "prorate the  sum of the 10 questions"
+    }
+}

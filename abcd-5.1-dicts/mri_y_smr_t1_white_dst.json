@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mrisdp_605": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_606": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_607": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_608": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_609": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_610": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_611": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_612": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_613": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_614": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_615": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_616": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_617": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_618": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_619": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_620": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_621": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_622": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_623": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_624": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_625": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_626": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_627": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_628": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_629": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_630": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_631": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_632": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_633": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_634": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_635": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_636": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_637": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_638": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_639": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_640": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_641": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_642": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_643": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_644": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_645": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_646": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_647": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_648": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_649": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_650": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_651": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_652": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_653": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_654": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_655": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_656": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_657": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_658": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_659": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_660": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_661": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_662": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_663": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_664": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_665": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_666": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_667": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_668": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_669": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_670": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_671": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_672": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_673": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_674": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_675": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_676": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_677": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_678": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_679": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_680": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_681": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_682": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_683": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_684": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_685": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_686": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_687": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_688": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_689": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_690": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_691": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_692": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_693": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_694": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_695": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_696": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_697": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_698": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_699": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_700": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_701": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_702": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_703": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_704": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_705": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_706": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_707": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_708": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_709": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_710": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_711": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_712": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_713": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_714": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_715": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_716": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_717": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_718": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_719": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_720": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_721": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_722": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_723": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_724": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_725": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_726": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_727": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_728": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_729": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_730": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_731": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_732": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_733": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_734": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_735": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_736": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_737": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_738": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_739": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_740": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_741": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_742": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_743": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_744": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_745": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_746": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_747": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_748": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_749": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_750": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_751": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_752": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_753": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for left hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_754": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for right hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_755": {
+        "Description": "Average T1 intensity of white matter voxels 0.2 mm from the white matter surface for cortical Destrieux ROI mean"
+    }
+}

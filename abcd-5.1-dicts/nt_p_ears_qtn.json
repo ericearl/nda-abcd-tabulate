@@ -1,0 +1,387 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ears_p_select_language": {
+        "Description": "Espa\u00f1ol? Despu\u00e9s de seleccionar 'Si', por favor haga clic en cualquier parte de la p\u00e1gina para cambiar la traducci\u00f3n. | 1, S\u00ed"
+    },
+    "ears_post_p": {
+        "Description": "On a typical WEEKDAY (Monday- Friday) over the past 3 weeks, how much TIME per day does your child spend in TOTAL on their smartphone? / En las \u00faltimas 3 semanas en un D\u00cdA DE SEMANA t\u00edpico (Lunes-Viernes), \u00bfcu\u00e1nto TIEMPO al d\u00eda pasa su ni\u00f1o(a) en TOTAL usando su tel\u00e9fono inteligente? | 0 = 0; 1 = 30 minutes / 30 minutos ; 2 = 45 minutes / 45 minutos ; 3 = 1 hour / 1 Horas ; 4 = 1.5 hours / 1.5 Horas ; 5 = 2 hours / 2 Horas ; 6 = 2.5 hours / 2.5 Horas ; 7 = 3 hours / 3 Horas ; 8 = 4 hours / 4 Horas ; 9 = 5 hours / 5 Horas ; 10 = 6 hours / 6 Horas ; 11 = 7 hours / 7 Horas ; 12 = 8 hours / 8 Horas ; 13 = 9 hours / 9 Horas ; 14 = 10 hours / 10 Horas ; 15 = 11 hours / 11 Horas ; 16 = 12 hours / 12 Horas ; 17 = 13 hours / 13 Horas ; 18 = 14 hours / 14 Horas ; 19 = 15 hours / 15 Horas ; 20 = 16 hours / 16 Horas ; 21 =  17 hours / 17 Horas ; 22 = 18 hours / 18 Horas ; 23 = 19 hours / 19 Horas ; 24 =  20 hours / 20 Horas ; 25 =  21 hours / 21 Horas ; 26 = 22 hours / 22 Horas ; 27 = 23 hours / 23 Horas ; 28 =  24 hours / 24 Horas ; 999 = Don't know / No s\u00e9",
+        "Levels": {
+            "0": "0",
+            "1": "30 minutes / 30 minutos",
+            "2": "45 minutes / 45 minutos",
+            "3": "1 hour / 1 Horas",
+            "4": "1.5 hours / 1.5 Horas",
+            "5": "2 hours / 2 Horas",
+            "6": "2.5 hours / 2.5 Horas",
+            "7": "3 hours / 3 Horas",
+            "8": "4 hours / 4 Horas",
+            "9": "5 hours / 5 Horas",
+            "10": "6 hours / 6 Horas",
+            "11": "7 hours / 7 Horas",
+            "12": "8 hours / 8 Horas",
+            "13": "9 hours / 9 Horas",
+            "14": "10 hours / 10 Horas",
+            "15": "11 hours / 11 Horas",
+            "16": "12 hours / 12 Horas",
+            "17": "13 hours / 13 Horas",
+            "18": "14 hours / 14 Horas",
+            "19": "15 hours / 15 Horas",
+            "20": "16 hours / 16 Horas",
+            "21": "17 hours / 17 Horas",
+            "22": "18 hours / 18 Horas",
+            "23": "19 hours / 19 Horas",
+            "24": "20 hours / 20 Horas",
+            "25": "21 hours / 21 Horas",
+            "26": "22 hours / 22 Horas",
+            "27": "23 hours / 23 Horas",
+            "28": "24 hours / 24 Horas",
+            "999": "Don't know / No s\u00e9"
+        }
+    },
+    "ears_post_1_p": {
+        "Description": "On a typical WEEKEND DAY (Saturday-Sunday) over the past 3 weeks, how much TIME per day does your child spend in TOTAL on their smartphone? / En las \u00faltimas 3 semanas en un D\u00cdA DE FIN DE SEMANA t\u00edpico (S\u00e1bado-Domingo), \u00bfcu\u00e1nto TIEMPO al d\u00eda pasa su ni\u00f1o(a) en TOTAL usando su tel\u00e9fono inteligente? | 0 = 0; 1 = 30 minutes / 30 minutos ; 2 = 45 minutes / 45 minutos ; 3 = 1 hour / 1 Horas ; 4 = 1.5 hours / 1.5 Horas ; 5 = 2 hours / 2 Horas ; 6 = 2.5 hours / 2.5 Horas ; 7 = 3 hours / 3 Horas ; 8 = 4 hours / 4 Horas ; 9 = 5 hours / 5 Horas ; 10 = 6 hours / 6 Horas ; 11 = 7 hours / 7 Horas ; 12 = 8 hours / 8 Horas ; 13 = 9 hours / 9 Horas ; 14 = 10 hours / 10 Horas ; 15 = 11 hours / 11 Horas ; 16 = 12 hours / 12 Horas ; 17 = 13 hours / 13 Horas ; 18 = 14 hours / 14 Horas ; 19 = 15 hours / 15 Horas ; 20 = 16 hours / 16 Horas ; 21 =  17 hours / 17 Horas ; 22 = 18 hours / 18 Horas ; 23 = 19 hours / 19 Horas ; 24 =  20 hours / 20 Horas ; 25 =  21 hours / 21 Horas ; 26 = 22 hours / 22 Horas ; 27 = 23 hours / 23 Horas ; 28 =  24 hours / 24 Horas ; 999 = Don't know / No s\u00e9",
+        "Levels": {
+            "0": "0",
+            "1": "30 minutes / 30 minutos",
+            "2": "45 minutes / 45 minutos",
+            "3": "1 hour / 1 Horas",
+            "4": "1.5 hours / 1.5 Horas",
+            "5": "2 hours / 2 Horas",
+            "6": "2.5 hours / 2.5 Horas",
+            "7": "3 hours / 3 Horas",
+            "8": "4 hours / 4 Horas",
+            "9": "5 hours / 5 Horas",
+            "10": "6 hours / 6 Horas",
+            "11": "7 hours / 7 Horas",
+            "12": "8 hours / 8 Horas",
+            "13": "9 hours / 9 Horas",
+            "14": "10 hours / 10 Horas",
+            "15": "11 hours / 11 Horas",
+            "16": "12 hours / 12 Horas",
+            "17": "13 hours / 13 Horas",
+            "18": "14 hours / 14 Horas",
+            "19": "15 hours / 15 Horas",
+            "20": "16 hours / 16 Horas",
+            "21": "17 hours / 17 Horas",
+            "22": "18 hours / 18 Horas",
+            "23": "19 hours / 19 Horas",
+            "24": "20 hours / 20 Horas",
+            "25": "21 hours / 21 Horas",
+            "26": "22 hours / 22 Horas",
+            "27": "23 hours / 23 Horas",
+            "28": "24 hours / 24 Horas",
+            "999": "Don't know / No s\u00e9"
+        }
+    },
+    "ears_post_3wk_p": {
+        "Description": "During the past three weeks, did you have an app on your child's smartphone to monitor their phone use? / En las \u00faltimas 3 semanas, \u00bftuvo una aplicaci\u00f3n en el \"tel\u00e9fono inteligente\" de su ni\u00f1o(a) para monitorear su uso telef\u00f3nico? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_1_p": {
+        "Description": "Does it limit the amount of time they can spend on the phone? / \u00bfLa aplicaci\u00f3n limita el tiempo que su ni\u00f1o(a) puede pasar en su celular? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_2_p": {
+        "Description": "Does it limit the amount of time they can spend on specific apps? / \u00bfLa aplicaci\u00f3n limita el tiempo que su ni\u00f1o(a) puede pasar en aplicaciones espec\u00edficas? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___1": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: Gaming / Seleccione los tipos de aplicaciones que son restringidas: Videojuegos | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___2": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: Social Media / Seleccione los tipos de aplicaciones que son restringidas: Redes sociales | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___3": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: Texting/Communication / Seleccione los tipos de aplicaciones que son restringidas: Mensajes de texto/Comunicaci\u00f3n | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___4": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: YouTube / Seleccione los tipos de aplicaciones que son restringidas: Youtube | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___5": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: TV Streaming / Seleccione los tipos de aplicaciones que son restringidas: Transmisi\u00f3n de TV | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_restrict_p___6": {
+        "Description": "Select which types of apps are restricted [Check boxes, can check as many as needed]: Other / Seleccione los tipos de aplicaciones que son restringidas: Otro | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_3_p": {
+        "Description": "To the best of your knowledge, has your child attempted to get around this monitoring or limitation? / Seg\u00fan su mejor conocimiento, \u00bfsu ni\u00f1o(a) ha intentado evadir este monitoreo o estas limitaciones? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_3wk_4_p": {
+        "Description": "Has your child changed their activity based on information from the tracker? / \u00bfSu ni\u00f1o(a) ha cambiado su actividad basado en la informaci\u00f3n del rastreador? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_fam_rules_p": {
+        "Description": "What were the family rules about smartphone use for your child over the past 3 weeks? / \u00bfCu\u00e1les fueron las reglas familiares sobre el uso del tel\u00e9fono inteligente en las \u00faltimas 3 semanas? | 1 = My child has set hours and times they can use their phone / Mi ni\u00f1a(o) tiene horas fijas y tiempos cuando puede usar su celular; 2 = My child has limits on weekdays/school days, but can use their phone whenever they wants on weekends / Mi ni\u00f1a(o) tiene l\u00edmites durante d\u00edas de semana/escolares, pero puede usar su celular cuando quiere en el fin de semana; 3 = Allowed to use whenever my child wants, I don't set rules about phone use / Lo puede usar cuando mi ni\u00f1a(o) quiera, yo no establezco reglas sobre el uso del tel\u00e9fono",
+        "Levels": {
+            "1": "My child has set hours and times they can use their phone / Mi ni\u00f1a(o) tiene horas fijas y tiempos cuando puede usar su celular",
+            "2": "My child has limits on weekdays/school days, but can use their phone whenever they wants on weekends / Mi ni\u00f1a(o) tiene l\u00edmites durante d\u00edas de semana/escolares, pero puede usar su celular cuando quiere en el fin de semana",
+            "3": "Allowed to use whenever my child wants, I don't set rules about phone use / Lo puede usar cuando mi ni\u00f1a(o) quiera, yo no establezco reglas sobre el uso del tel\u00e9fono"
+        }
+    },
+    "ears_post_hours_p": {
+        "Description": "How many hours per weekday is your child allowed to use their smartphone: / \u00bfCu\u00e1ntas horas por d\u00eda de semana le permite a su ni\u00f1a(o) usar su tel\u00e9fono inteligente? | 29 = They are not restricted / No son restringidos ; 0 = 0; 1 = 30 minutes / 30 minutos ; 2 = 45 minutes / 45 minutos ; 3 = 1 hour / 1 Horas ; 4 = 1.5 hours / 1.5 Horas ; 5 = 2 hours / 2 Horas ; 6 = 2.5 hours / 2.5 Horas ; 7 = 3 hours / 3 Horas ; 8 = 4 hours / 4 Horas ; 9 = 5 hours / 5 Horas ; 10 = 6 hours / 6 Horas ; 11 = 7 hours / 7 Horas ; 12 = 8 hours / 8 Horas ; 13 = 9 hours / 9 Horas ; 14 = 10 hours / 10 Horas ; 15 = 11 hours / 11 Horas ; 16 = 12 hours / 12 Horas ; 17 = 13 hours / 13 Horas ; 18 = 14 hours / 14 Horas ; 19 = 15 hours / 15 Horas ; 20 = 16 hours / 16 Horas ; 21 =  17 hours / 17 Horas ; 22 = 18 hours / 18 Horas ; 23 = 19 hours / 19 Horas ; 24 =  20 hours / 20 Horas ; 25 =  21 hours / 21 Horas ; 26 = 22 hours / 22 Horas ; 27 = 23 hours / 23 Horas ; 28 =  24 hours / 24 Horas ; 999 = Don't know / No s\u00e9",
+        "Levels": {
+            "29": "They are not restricted / No son restringidos",
+            "0": "0",
+            "1": "30 minutes / 30 minutos",
+            "2": "45 minutes / 45 minutos",
+            "3": "1 hour / 1 Horas",
+            "4": "1.5 hours / 1.5 Horas",
+            "5": "2 hours / 2 Horas",
+            "6": "2.5 hours / 2.5 Horas",
+            "7": "3 hours / 3 Horas",
+            "8": "4 hours / 4 Horas",
+            "9": "5 hours / 5 Horas",
+            "10": "6 hours / 6 Horas",
+            "11": "7 hours / 7 Horas",
+            "12": "8 hours / 8 Horas",
+            "13": "9 hours / 9 Horas",
+            "14": "10 hours / 10 Horas",
+            "15": "11 hours / 11 Horas",
+            "16": "12 hours / 12 Horas",
+            "17": "13 hours / 13 Horas",
+            "18": "14 hours / 14 Horas",
+            "19": "15 hours / 15 Horas",
+            "20": "16 hours / 16 Horas",
+            "21": "17 hours / 17 Horas",
+            "22": "18 hours / 18 Horas",
+            "23": "19 hours / 19 Horas",
+            "24": "20 hours / 20 Horas",
+            "25": "21 hours / 21 Horas",
+            "26": "22 hours / 22 Horas",
+            "27": "23 hours / 23 Horas",
+            "28": "24 hours / 24 Horas",
+            "999": "Don't know / No s\u00e9"
+        }
+    },
+    "ears_post_hours_1_p": {
+        "Description": "How many hours per weekend day is your child allowed to use their smartphone: / \u00bfCu\u00e1ntas horas por d\u00eda de fin de semana le permite a su ni\u00f1a(o) usar su tel\u00e9fono inteligente? | 29 = They are not restricted / No son restringidos ; 0 = 0; 1 = 30 minutes / 30 minutos ; 2 = 45 minutes / 45 minutos ; 3 = 1 hour / 1 Horas ; 4 = 1.5 hours / 1.5 Horas ; 5 = 2 hours / 2 Horas ; 6 = 2.5 hours / 2.5 Horas ; 7 = 3 hours / 3 Horas ; 8 = 4 hours / 4 Horas ; 9 = 5 hours / 5 Horas ; 10 = 6 hours / 6 Horas ; 11 = 7 hours / 7 Horas ; 12 = 8 hours / 8 Horas ; 13 = 9 hours / 9 Horas ; 14 = 10 hours / 10 Horas ; 15 = 11 hours / 11 Horas ; 16 = 12 hours / 12 Horas ; 17 = 13 hours / 13 Horas ; 18 = 14 hours / 14 Horas ; 19 = 15 hours / 15 Horas ; 20 = 16 hours / 16 Horas ; 21 =  17 hours / 17 Horas ; 22 = 18 hours / 18 Horas ; 23 = 19 hours / 19 Horas ; 24 =  20 hours / 20 Horas ; 25 =  21 hours / 21 Horas ; 26 = 22 hours / 22 Horas ; 27 = 23 hours / 23 Horas ; 28 =  24 hours / 24 Horas ; 999 = Don't know / No s\u00e9",
+        "Levels": {
+            "29": "They are not restricted / No son restringidos",
+            "0": "0",
+            "1": "30 minutes / 30 minutos",
+            "2": "45 minutes / 45 minutos",
+            "3": "1 hour / 1 Horas",
+            "4": "1.5 hours / 1.5 Horas",
+            "5": "2 hours / 2 Horas",
+            "6": "2.5 hours / 2.5 Horas",
+            "7": "3 hours / 3 Horas",
+            "8": "4 hours / 4 Horas",
+            "9": "5 hours / 5 Horas",
+            "10": "6 hours / 6 Horas",
+            "11": "7 hours / 7 Horas",
+            "12": "8 hours / 8 Horas",
+            "13": "9 hours / 9 Horas",
+            "14": "10 hours / 10 Horas",
+            "15": "11 hours / 11 Horas",
+            "16": "12 hours / 12 Horas",
+            "17": "13 hours / 13 Horas",
+            "18": "14 hours / 14 Horas",
+            "19": "15 hours / 15 Horas",
+            "20": "16 hours / 16 Horas",
+            "21": "17 hours / 17 Horas",
+            "22": "18 hours / 18 Horas",
+            "23": "19 hours / 19 Horas",
+            "24": "20 hours / 20 Horas",
+            "25": "21 hours / 21 Horas",
+            "26": "22 hours / 22 Horas",
+            "27": "23 hours / 23 Horas",
+            "28": "24 hours / 24 Horas",
+            "999": "Don't know / No s\u00e9"
+        }
+    },
+    "ears_post_rule_change_p": {
+        "Description": "Have these rules changed over the past 3 weeks? / Durante las \u00faltimas 3 semanas, \u00bfhan cambiando estas reglas? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_time_p": {
+        "Description": "Have you increased or decreased the amount of time allowed? / \u00bfUsted ha aumentado o disminuido el tiempo permitido? | 1 = Increased / Aumentado; 0 = Decreased / Disminuido",
+        "Levels": {
+            "1": "Increased / Aumentado",
+            "0": "Decreased / Disminuido"
+        }
+    },
+    "ears_post_restricted_p": {
+        "Description": "During the past 3 weeks, was your child's smartphone use further restricted for any reason (e.g., punishment, broken phone, etc.)? / Durante las \u00faltimas 3 semanas, \u00bfrestringi\u00f3 a\u00fan m\u00e1s el uso del \"tel\u00e9fono inteligente\" de su ni\u00f1a(o) por cualquier motivo? (e.g. castigo, celular decompuesto, etc.)? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_restricted_1_p": {
+        "Description": "Approximately how many days was their use restricted? / Aproximadamente, \u00bfcu\u00e1ntos d\u00edas restringi\u00f3 su uso? | 1 = 1 Day / 1 D\u00eda ; 2 = 2 Days / 2 D\u00edas ; 3 = 3 Days / 3 D\u00edas ; 4 = 4 Days / 4 D\u00edas ; 5 = 5 Days / 5 D\u00edas ; 6 = 6 Days / 6 D\u00edas ; 7 = 7 Days / 7 D\u00edas ; 8 = 8 Days / 8 D\u00edas ; 9 = 9 Days / 9 D\u00edas ; 10 = 10 Days / 10 D\u00edas ; 11 = 11 Days / 11 D\u00edas ; 12 = 12 Days / 12 D\u00edas ; 13 = 13 Days / 13 D\u00edas ; 14 =  14 Days / 14 D\u00edas ; 15 = 15 Days / 15 D\u00edas ; 16 = 16 Days / 16 D\u00edas ; 17 = 17 Days / 17 D\u00edas ; 18 = 18 Days / 18 D\u00edas ; 19 = 19 Days / 19 D\u00edas ; 20 =  20 Days / 20 D\u00edas ; 21 = 21 Days / 21 D\u00edas",
+        "Levels": {
+            "1": "1 Day / 1 D\u00eda",
+            "2": "2 Days / 2 D\u00edas",
+            "3": "3 Days / 3 D\u00edas",
+            "4": "4 Days / 4 D\u00edas",
+            "5": "5 Days / 5 D\u00edas",
+            "6": "6 Days / 6 D\u00edas",
+            "7": "7 Days / 7 D\u00edas",
+            "8": "8 Days / 8 D\u00edas",
+            "9": "9 Days / 9 D\u00edas",
+            "10": "10 Days / 10 D\u00edas",
+            "11": "11 Days / 11 D\u00edas",
+            "12": "12 Days / 12 D\u00edas",
+            "13": "13 Days / 13 D\u00edas",
+            "14": "14 Days / 14 D\u00edas",
+            "15": "15 Days / 15 D\u00edas",
+            "16": "16 Days / 16 D\u00edas",
+            "17": "17 Days / 17 D\u00edas",
+            "18": "18 Days / 18 D\u00edas",
+            "19": "19 Days / 19 D\u00edas",
+            "20": "20 Days / 20 D\u00edas",
+            "21": "21 Days / 21 D\u00edas"
+        }
+    },
+    "ears_post_school_p": {
+        "Description": "During the past 3 weeks, did your child attend school each school day (including remote school/distance learning)? / Durante las \u00faltimas 3 semanas, \u00bfsu ni\u00f1a(o) asisti\u00f3 a la escuela cada d\u00eda escolar? (incluyendo escuela remota/educaci\u00f3n a distancia)? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_school_1_p___1": {
+        "Description": "Why were they not in school?: Holiday / \u00bfPor qu\u00e9 no estuvo en clase?: D\u00eda festivo | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_school_1_p___2": {
+        "Description": "Why were they not in school?: Vacation / \u00bfPor qu\u00e9 no estuvo en clase?: Vacaciones | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_school_1_p___3": {
+        "Description": "Why were they not in school?: Illness / \u00bfPor qu\u00e9 no estuvo en clase?: Enfermedad | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_school_1_p___4": {
+        "Description": "Why were they not in school?: Summer Break / \u00bfPor qu\u00e9 no estuvo en clase?: Vacaciones de verano | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_school_1_p___5": {
+        "Description": "Why were they not in school?: Other / \u00bfPor qu\u00e9 no estuvo en clase?: Otro | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_days_p": {
+        "Description": "For approximately how many days were they not in school as usual (do not count weekends)? / Aproximadamente, \u00bfcu\u00e1ntos d\u00edas no estuvo en clase como de costumbre? (no cuente fin de semana) | 1 = 1 Day / 1 D\u00eda ; 2 = 2 Days / 2 D\u00edas ; 3 = 3 Days / 3 D\u00edas ; 4 = 4 Days / 4 D\u00edas ; 5 = 5 Days / 5 D\u00edas ; 6 = 6 Days / 6 D\u00edas ; 7 = 7 Days / 7 D\u00edas ; 8 = 8 Days / 8 D\u00edas ; 9 = 9 Days / 9 D\u00edas ; 10 = 10 Days / 10 D\u00edas ; 11 = 11 Days / 11 D\u00edas ; 12 = 12 Days / 12 D\u00edas ; 13 = 13 Days / 13 D\u00edas ; 14 =  14 Days / 14 D\u00edas ; 15 = 15 Days / 15 D\u00edas ; 16 = 16 Days / 16 D\u00edas ; 17 = 17 Days / 17 D\u00edas ; 18 = 18 Days / 18 D\u00edas ; 19 = 19 Days / 19 D\u00edas ; 20 =  20 Days / 20 D\u00edas ; 21 = 21 Days / 21 D\u00edas",
+        "Levels": {
+            "1": "1 Day / 1 D\u00eda",
+            "2": "2 Days / 2 D\u00edas",
+            "3": "3 Days / 3 D\u00edas",
+            "4": "4 Days / 4 D\u00edas",
+            "5": "5 Days / 5 D\u00edas",
+            "6": "6 Days / 6 D\u00edas",
+            "7": "7 Days / 7 D\u00edas",
+            "8": "8 Days / 8 D\u00edas",
+            "9": "9 Days / 9 D\u00edas",
+            "10": "10 Days / 10 D\u00edas",
+            "11": "11 Days / 11 D\u00edas",
+            "12": "12 Days / 12 D\u00edas",
+            "13": "13 Days / 13 D\u00edas",
+            "14": "14 Days / 14 D\u00edas",
+            "15": "15 Days / 15 D\u00edas",
+            "16": "16 Days / 16 D\u00edas",
+            "17": "17 Days / 17 D\u00edas",
+            "18": "18 Days / 18 D\u00edas",
+            "19": "19 Days / 19 D\u00edas",
+            "20": "20 Days / 20 D\u00edas",
+            "21": "21 Days / 21 D\u00edas"
+        }
+    },
+    "ears_post_school_time_p": {
+        "Description": "Did they use their smartphone more or less during this time? / \u00bfSu ni\u00f1o(a) us\u00f3 su \"tel\u00e9fono inteligente\" m\u00e1s o menos durante este tiempo? | 1 = More / M\u00e1s; 2 = Less / Menos; 3 = No change / No hubo cambio",
+        "Levels": {
+            "1": "More / M\u00e1s",
+            "2": "Less / Menos",
+            "3": "No change / No hubo cambio"
+        }
+    },
+    "ears_post_app_p": {
+        "Description": "Since your child installed the EARS app on their phone, have you noticed a change in their phone use? / Desde que su ni\u00f1a(o) instal\u00f3 la aplicaci\u00f3n de EARS en su celular, \u00bfha notado alg\u00fan cambio en el uso de su celular? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_app_1_p": {
+        "Description": "Have they used their phone more or less? / \u00bfHa usado su celular m\u00e1s o menos? | 1 = More / M\u00e1s; 2 = Less / Menos",
+        "Levels": {
+            "1": "More / M\u00e1s",
+            "2": "Less / Menos"
+        }
+    },
+    "ears_post_over_3wk_p": {
+        "Description": "Did you monitor your child's use of their smartphone more closely over the past 3 weeks? / \u00bfSupervis\u00f3 m\u00e1s de cerca el uso del tel\u00e9fono inteligente de su hijo(a) durante las \u00faltimas 3 semanas? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    },
+    "ears_post_over_3wk_1_p": {
+        "Description": "If we asked your child to use a smartphone monitoring application for a longer period of time, would you be ok with that? / Si le pedimos a su ni\u00f1o(a) que utilice una aplicaci\u00f3n de monitoreo de \"tel\u00e9fono inteligente\" durante un periodo de tiempo m\u00e1s largo, \u00bfestar\u00eda usted de acuerdo con eso? | 1 = Yes / S\u00ed; 0 = No / No",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "0": "No / No"
+        }
+    }
+}

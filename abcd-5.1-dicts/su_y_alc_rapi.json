@@ -1,0 +1,338 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "rapi_section1_q01": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Not able to do your homework or study for a test. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q02": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Got into fights with other people (friends, relatives, strangers). | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q03": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Missed out on other things because you spent too much money on alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q04": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Went to work or school high or drunk. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q05": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Caused shame or embarrassment to someone. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q06": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Neglected your responsibilities. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q07": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Friends or relatives avoided you. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q08": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Felt that you needed more alcohol than you used to in order to get the same effect. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q09": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Tried to control your drinking (tried to drink only at certain times of the day or in certain places, that is, tried to change your pattern of drinking). | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q10": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Had withdrawal symptoms. That is, you felt sick because you stopped or cut down on drinking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q11": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Noticed a change in your personality. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q12": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Felt that you had a problem with alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q13": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Missed a day (or part of a day) of school or work. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q14": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Suddenly found yourself in a place that you could not remember getting to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q15": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Passed out or fainted suddenly. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q16": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Kept drinking when you promised yourself not to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q17": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Felt physically or psychologically dependent on alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q18": {
+        "Description": "Different things happen to people while they are drinking ALCOHOL or because of their ALCOHOL drinking. Several of these things are listed below. Please indicate how many times each has happened to you WITHIN THE PAST 6 MONTHS while you were drinking or as a result of your alcohol use. Was told by friend, neighbor or relative to stop or cut down drinking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q01_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: not able to do your homework or study for a test. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q02_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: got into fights with other people (friends, relatives, strangers). | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q03_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: missed out on other things because you spent too much money on alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q04_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: went to work or school high or drunk. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q05_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: caused shame or embarrassment to someone. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q06_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: neglected your responsibilities. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section1_q07_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: friends or relatives avoided you. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q08_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: felt that you needed more alcohol than you used to in order to get the same effect. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q09_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: tried to control your drinking (tried to drink only at certain times of the day or in certain places, that is, tried to change your pattern of drinking). | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q10_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: had withdrawal symptoms. That is, you felt sick because you stopped or cut down on drinking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q11_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: noticed a change in your personality. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q12_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: felt that you had a problem with alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q13_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: missed a day (or part of a day) of school or work. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section2_q14_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: suddenly found yourself in a place that you could not remember getting to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q15_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: passed out or fainted suddenly. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q16_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: kept drinking when you promised yourself not to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q17_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: felt physically or psychologically dependent on alcohol. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "rapi_section3_q18_l": {
+        "Description": "Please indicate how many times each has happened to you within the past 6 months while you were drinking or as a result of your alcohol use: was told by friend, neighbor or relative to stop or cut down drinking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 5+ / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "5+"
+        }
+    },
+    "su_alc_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

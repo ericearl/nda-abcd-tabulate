@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_area_cdk_banksstslh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_area_cdk_cdacatelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-caudalanteriorcingulate"
+    },
+    "smri_area_cdk_cdmdfrlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-caudalmiddlefrontal"
+    },
+    "smri_area_cdk_cuneuslh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-cuneus"
+    },
+    "smri_area_cdk_ehinallh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-entorhinal"
+    },
+    "smri_area_cdk_fusiformlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-fusiform"
+    },
+    "smri_area_cdk_ifpllh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-inferiorparietal"
+    },
+    "smri_area_cdk_iftmlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-inferiortemporal"
+    },
+    "smri_area_cdk_ihcatelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-isthmuscingulate"
+    },
+    "smri_area_cdk_locclh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-lateraloccipital"
+    },
+    "smri_area_cdk_lobfrlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-lateralorbitofrontal"
+    },
+    "smri_area_cdk_linguallh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-lingual"
+    },
+    "smri_area_cdk_mobfrlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-medialorbitofrontal"
+    },
+    "smri_area_cdk_mdtmlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-middletemporal"
+    },
+    "smri_area_cdk_parahpallh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-parahippocampal"
+    },
+    "smri_area_cdk_paracnlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-paracentral"
+    },
+    "smri_area_cdk_parsopclh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-parsopercularis"
+    },
+    "smri_area_cdk_parsobislh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-parsorbitalis"
+    },
+    "smri_area_cdk_parstgrislh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-parstriangularis"
+    },
+    "smri_area_cdk_pericclh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-pericalcarine"
+    },
+    "smri_area_cdk_postcnlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-postcentral"
+    },
+    "smri_area_cdk_ptcatelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-posteriorcingulate"
+    },
+    "smri_area_cdk_precnlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-precentral"
+    },
+    "smri_area_cdk_pclh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-precuneus"
+    },
+    "smri_area_cdk_rracatelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-rostralanteriorcingulate"
+    },
+    "smri_area_cdk_rrmdfrlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-rostralmiddlefrontal"
+    },
+    "smri_area_cdk_sufrlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-superiorfrontal"
+    },
+    "smri_area_cdk_supllh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-superiorparietal"
+    },
+    "smri_area_cdk_sutmlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-superiortemporal"
+    },
+    "smri_area_cdk_smlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-supramarginal"
+    },
+    "smri_area_cdk_frpolelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-frontalpole"
+    },
+    "smri_area_cdk_tmpolelh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-temporalpole"
+    },
+    "smri_area_cdk_trvtmlh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-transversetemporal"
+    },
+    "smri_area_cdk_insulalh": {
+        "Description": "Cortical area in mm^2 of APARC ROI lh-insula"
+    },
+    "smri_area_cdk_banksstsrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_area_cdk_cdacaterh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-caudalanteriorcingulate"
+    },
+    "smri_area_cdk_cdmdfrrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-caudalmiddlefrontal"
+    },
+    "smri_area_cdk_cuneusrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-cuneus"
+    },
+    "smri_area_cdk_ehinalrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-entorhinal"
+    },
+    "smri_area_cdk_fusiformrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-fusiform"
+    },
+    "smri_area_cdk_ifplrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-inferiorparietal"
+    },
+    "smri_area_cdk_iftmrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-inferiortemporal"
+    },
+    "smri_area_cdk_ihcaterh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-isthmuscingulate"
+    },
+    "smri_area_cdk_loccrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-lateraloccipital"
+    },
+    "smri_area_cdk_lobfrrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-lateralorbitofrontal"
+    },
+    "smri_area_cdk_lingualrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-lingual"
+    },
+    "smri_area_cdk_mobfrrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-medialorbitofrontal"
+    },
+    "smri_area_cdk_mdtmrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-middletemporal"
+    },
+    "smri_area_cdk_parahpalrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-parahippocampal"
+    },
+    "smri_area_cdk_paracnrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-paracentral"
+    },
+    "smri_area_cdk_parsopcrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-parsopercularis"
+    },
+    "smri_area_cdk_parsobisrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-parsorbitalis"
+    },
+    "smri_area_cdk_parstgrisrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-parstriangularis"
+    },
+    "smri_area_cdk_periccrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-pericalcarine"
+    },
+    "smri_area_cdk_postcnrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-postcentral"
+    },
+    "smri_area_cdk_ptcaterh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-posteriorcingulate"
+    },
+    "smri_area_cdk_precnrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-precentral"
+    },
+    "smri_area_cdk_pcrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-precuneus"
+    },
+    "smri_area_cdk_rracaterh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-rostralanteriorcingulate"
+    },
+    "smri_area_cdk_rrmdfrrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-rostralmiddlefrontal"
+    },
+    "smri_area_cdk_sufrrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-superiorfrontal"
+    },
+    "smri_area_cdk_suplrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-superiorparietal"
+    },
+    "smri_area_cdk_sutmrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-superiortemporal"
+    },
+    "smri_area_cdk_smrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-supramarginal"
+    },
+    "smri_area_cdk_frpolerh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-frontalpole"
+    },
+    "smri_area_cdk_tmpolerh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-temporalpole"
+    },
+    "smri_area_cdk_trvtmrh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-transversetemporal"
+    },
+    "smri_area_cdk_insularh": {
+        "Description": "Cortical area in mm^2 of APARC ROI rh-insula"
+    },
+    "smri_area_cdk_totallh": {
+        "Description": "Total left hemisphere cortical area in mm^2"
+    },
+    "smri_area_cdk_totalrh": {
+        "Description": "Total right hemisphere cortical area in mm^2"
+    },
+    "smri_area_cdk_total": {
+        "Description": "Total whole brain cortical area in mm^2"
+    }
+}

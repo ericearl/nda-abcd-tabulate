@@ -1,0 +1,77 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pnh_substance": {
+        "Description": "During the last 6 months, have any of your close friends ever suggested that you <i>not</i> use\ndrugs or alcohol? | 0=No; 3=Yes",
+        "Levels": {
+            "0": "No",
+            "3": "Yes"
+        }
+    },
+    "pnh_help": {
+        "Description": "During the last 6 months, have any of your close friends given you help with school, with\nmoney, with transportation, or help by talking through problems? | 0=No; 2=Yes",
+        "Levels": {
+            "0": "No",
+            "2": "Yes"
+        }
+    },
+    "pnh_how_much_help": {
+        "Description": "How much help did your close friends give you? Pick a number between 1 and 10. | 1=1 - a little help; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10 - lots of help",
+        "Levels": {
+            "1": "1 - a little help",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10 - lots of help"
+        }
+    },
+    "pnh_encourage": {
+        "Description": "During the last 6 months, have any of your close friends encouraged you to get or stay\ninvolved with sports/exercise, school teams or clubs, volunteering, or religious activities? | 0=No; 2=Yes",
+        "Levels": {
+            "0": "No",
+            "2": "Yes"
+        }
+    },
+    "pnh_how_much_encourage": {
+        "Description": "How much did your close friends encourage you? Pick a number between 1 and 10. | 1=1-  a little encouragement; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10 - lots of encouragement",
+        "Levels": {
+            "1": "1-  a little encouragement",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10 - lots of encouragement"
+        }
+    },
+    "pnh_art_involve": {
+        "Description": "Did any of those activities \ninclude art, music, dance, or theater?"
+    },
+    "pnh_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "pnh_ss_protective_scale": {
+        "Description": "Peer Network Health: Protective Scale Score; sum (pnh_substance, pnh_help, pnh_how_much_help, pnh_encourage, pnh_how_much_encourage); Validation: Items #1,#2, and #3 must be answered"
+    },
+    "pnh_ss_protective_scale_nm": {
+        "Description": "Peer Network Health: Protective Scale Missing"
+    },
+    "pnh_ss_protective_scale_nt": {
+        "Description": "Peer Network Health: Protective Scale Total"
+    }
+}

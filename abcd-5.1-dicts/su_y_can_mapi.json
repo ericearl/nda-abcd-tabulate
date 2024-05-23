@@ -1,0 +1,374 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mapi_q01": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Not able to do your homework or study for a test. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q02": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Got into fights, acted bad, or did mean things. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q03": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Missed out on other things because you spent too much money on marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q04": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Went to work or school high. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q05": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Caused shame or embarrassment to someone. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q06": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Neglected your responsibilities. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q07": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Relatives avoided you. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q08": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Felt that you needed more marijuana than you used to use in order to get the same effect. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q09": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Tried to control your smoking by trying to smoke only at certain times of the day or certain places. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q10": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Had withdrawal symptoms, that is, felt sick because you stopped or cut down on smoking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q11": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Noticed a change in your personality. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q12": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Felt that you had a problem with marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q13": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Missed a day (or part of a day) of school or work. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q14": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Suddenly found yourself in a place that you could not remember getting to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q15": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Passed out or fainted suddenly. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q16": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Kept smoking when you promised yourself not to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q17": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Felt physically or psychologically dependent on marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q18": {
+        "Description": "Different things happen to people while they are smoking MARIJUANA or as a result of their MARIJUANA use. Some of these things are listed below. Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use. Were told by a friend or neighbor to stop or cut down smoking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q01_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: not able to do your homework or study for a test. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q02_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: got into fights, acted bad, or did mean things. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q03_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: missed out on other things because you spent too much money on marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q04_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: went to work or school high. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q05_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: caused shame or embarrassment to someone. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q06_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: neglected your responsibilities. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q07_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: relatives avoided you. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q08_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: felt that you needed more marijuana than you used to use in order to get the same effect. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q09_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: tried to control your smoking by trying to smoke only at certain times of the day or certain places. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q10_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: had withdrawal symptoms, that is, felt sick because you stopped or cut down on smoking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q11_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: noticed a change in your personality. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q12_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: felt that you had a problem with marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q13_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: missed a day (or part of a day) of school or work. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q14_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: suddenly found yourself in a place that you could not remember getting to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q15_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: passed out or fainted suddenly. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q16_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: kept smoking when you promised yourself not to. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q17_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: felt physically or psychologically dependent on marijuana. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "mapi_q18_l": {
+        "Description": "Please indicate how many times each has happened to you during the last six months while you were smoking marijuana or as the result of your marijuana use: were told by a friend or neighbor to stop or cut down smoking. | 0 = 0; 1 = 1-2; 2 = 3-5; 3 = 6-10; 4 = 10+ / xskipout_mj_l   == '1'",
+        "Levels": {
+            "0": "0",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6-10",
+            "4": "10+"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

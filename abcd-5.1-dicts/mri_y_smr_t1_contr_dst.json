@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mrisdp_907": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_908": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_909": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_910": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_911": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_912": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_913": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_914": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_915": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_916": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_917": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_918": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_919": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_920": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_921": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_922": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_923": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_924": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_925": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_926": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_927": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_928": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_929": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_930": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_931": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_932": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_933": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_934": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_935": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_936": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_937": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_938": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_939": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_940": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_941": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_942": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_943": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_944": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_945": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_946": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_947": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_948": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_949": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_950": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_951": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_952": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_953": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_954": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_955": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_956": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_957": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_958": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_959": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_960": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_961": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_962": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_963": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_964": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_965": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_966": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_967": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_968": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_969": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_970": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_971": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_972": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_973": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_974": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_975": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_976": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_977": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_978": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_979": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_980": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_981": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_982": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_983": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_984": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_985": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_986": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_987": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_988": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_989": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_990": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_991": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_992": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_993": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_994": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_995": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_996": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_997": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_998": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_999": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_1000": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_1001": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_1002": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_1003": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_1004": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_1005": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_1006": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_1007": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_1008": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_1009": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_1010": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_1011": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_1012": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_1013": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_1014": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_1015": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_1016": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_1017": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_1018": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_1019": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_1020": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_1021": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_1022": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_1023": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_1024": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_1025": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_1026": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_1027": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_1028": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_1029": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_1030": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_1031": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_1032": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_1033": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_1034": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_1035": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_1036": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_1037": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_1038": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_1039": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_1040": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_1041": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_1042": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_1043": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_1044": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_1045": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_1046": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_1047": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_1048": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_1049": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_1050": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_1051": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_1052": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_1053": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_1054": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_1055": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for left hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_1056": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for right hemisphere cortical Destrieux ROI mean"
+    },
+    "mrisdp_1057": {
+        "Description": "(CortContrast-White - CortContrast-Gray) / ((CortContrast-White plus CortContrast-Gray)/2) of T1 weighted image for cortical Destrieux ROI mean"
+    }
+}

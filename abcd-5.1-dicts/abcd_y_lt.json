@@ -1,0 +1,30 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "site_id_l": {
+        "Description": "Site ID at each event"
+    },
+    "rel_family_id": {
+        "Description": "Family ID (participants belonging to the same family share a family ID). The family ID is autocalculated and will change after the addition/removal of subjects from the ABCD study. Family IDs will, therefore, differ between data releases"
+    },
+    "rel_birth_id": {
+        "Description": "Birth event ID determined by rel_family_id and unique birthdates within rel_family_id groups"
+    },
+    "school_id": {
+        "Description": "Anonymized school ID based on NCES school IDs"
+    },
+    "district_id": {
+        "Description": "Anonymized school district ID based on NCES school IDs"
+    },
+    "interview_date": {
+        "Description": "Date on which the event was started"
+    },
+    "interview_age": {
+        "Description": "Participant's age in month at start of the event"
+    },
+    "visit_type": {
+        "Description": "Setting in which the visit for this event was completed. | 1, on-site; 2, remote; 3, hybrid"
+    }
+}

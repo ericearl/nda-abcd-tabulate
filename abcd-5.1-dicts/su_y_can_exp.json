@@ -1,0 +1,92 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "meeq_section_q01": {
+        "Description": "Marijuana makes it harder to think and do things (harder to concentrate or understand; slows people down when they move; harder to remember things). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "meeq_section_q02": {
+        "Description": "Marijuana helps a person relax and feel less tense (helps a person unwind and feel calm). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "meeq_section_q03": {
+        "Description": "Marijuana helps people get along better with others (talk more; feel more romantic). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "meeq_section_q04": {
+        "Description": "Marijuana makes people feel more creative and perceive things differently (music sounds different; things seem more interesting). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "meeq_section_q05": {
+        "Description": "Marijuana generally has bad effects on a person (people become angry or careless; after feeling high a person feels down). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "meeq_section_q06": {
+        "Description": "Marijuana has bad effects on a person's body and gives people cravings (get the munchies/hungry; have a dry mouth; hard to stop laughing). | 1 = Disagree Strongly; 2 = Disagree Somewhat; 3 = Uncertain; 4 = Agree Somewhat; 5 = Agree Strongly / tlfb_mj_l   == '1' ||   tlfb_mj_c_l   == '1' ||  tlfb_mj_synth_l   == '1' ||   tlfb_mj_synth_c_l   == '1'",
+        "Levels": {
+            "1": "Disagree Strongly",
+            "2": "Disagree Somewhat",
+            "3": "Uncertain",
+            "4": "Agree Somewhat",
+            "5": "Agree Strongly"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "meeq_positive_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "meeq_positive_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "meeq_positive_expectancies_ss": {
+        "Description": "Strength of positive expectancies for marijuana. Score prorated if some item responses were missing. | Sum of [meeq_section_q02, meeq_section_q03, meeq_section_q04]"
+    },
+    "meeq_negative_expectancies_nt": {
+        "Description": "Total number of items | Total number of items"
+    },
+    "meeq_negative_expectancies_nm": {
+        "Description": "Number of items with missing values | Number of items with missing values"
+    },
+    "meeq_negative_expectancies_ss": {
+        "Description": "Strength of negative expectancies for marijuana. Score prorated if some item responses were missing. | Sum of [meeq_section_q01, meeq_section_q05, meeq_section_q06]"
+    }
+}

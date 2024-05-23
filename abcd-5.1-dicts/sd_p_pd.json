@@ -1,0 +1,860 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_ppd_01": {
+        "Description": "Cares about others' feelings. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_02": {
+        "Description": "Feels bad for others when they get hurt. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_03": {
+        "Description": "Feels sorry for kids who get picked on. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_04": {
+        "Description": "Would get upset if he/she saw an animal being hurt. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_05": {
+        "Description": "Does not care who he/she hurts to get what he/she wants. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_06": {
+        "Description": "Seems very cold and uncaring. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_07": {
+        "Description": "The feelings of others are unimportant to him/her. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_08": {
+        "Description": "Does things to help other people without being asked. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_09": {
+        "Description": "Tries to cheer up others when they are sad or upset. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_10": {
+        "Description": "Shares things with other people without being asked. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_11": {
+        "Description": "Does things to make others feel good. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_12": {
+        "Description": "Feels guilty if he/she did something that broke the law. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_13": {
+        "Description": "Apologizes to persons he/she has hurt. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_14": {
+        "Description": "Feels bad or guilty when he/she has done something wrong. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_15": {
+        "Description": "Easily admits to being wrong. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_16": {
+        "Description": "Shows no remorse when he/she has done something wrong. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_17": {
+        "Description": "Does not care if he/she is in trouble. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_18": {
+        "Description": "Cares about what is right and wrong. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_19": {
+        "Description": "Does not care about being on time. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_20": {
+        "Description": "Tries to do excellent work in school and work. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_21": {
+        "Description": "Enjoys learning new and interesting things. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_22": {
+        "Description": "Wants everyone to follow the rules  including him/herself. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_23": {
+        "Description": "Works hard on everything. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_24": {
+        "Description": "Always tries his/her best. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_25": {
+        "Description": "Does not care about doing things well. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_26": {
+        "Description": "Cares about how well he/she does in school or work. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_27": {
+        "Description": "Does not like to put the time into doing things well. | 0 = Not at all true; 1=  Somewhat true; 2=  Very true; 3 = Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_29": {
+        "Description": "Had fights with others to show who was on top. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_30": {
+        "Description": "Taken things from other students. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_31": {
+        "Description": "Vandalized something for fun. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_32": {
+        "Description": "Had a gang fight to be cool. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_33": {
+        "Description": "Hurt others to win a game. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_34": {
+        "Description": "Used physical force to get others to do what he/she wants. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_35": {
+        "Description": "Used force to obtain money or things from others. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_36": {
+        "Description": "Threatened and bullied someone. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_37": {
+        "Description": "Made obscene phone calls for fun. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_38": {
+        "Description": "Gotten others to gang up on someone else. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_39": {
+        "Description": "Carried a weapon to use in a fight. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_40": {
+        "Description": "Yelled at others so they would do things for him/her. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_41": {
+        "Description": "Yelled at others when they have annoyed him/her. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_42": {
+        "Description": "Reacted angrily when provoked by others. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_43": {
+        "Description": "Gotten angry when frustrated. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_44": {
+        "Description": "Had temper tantrums. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_45": {
+        "Description": "Damaged things because he/she felt mad. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_46": {
+        "Description": "Become angry or mad when he/she doesn't get his/her way. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_47": {
+        "Description": "Gotten angry or mad when he/she lost a game. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_48": {
+        "Description": "Gotten angry when others threatened him/her. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_49": {
+        "Description": "Felt better after hitting or yelling at someone. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_50": {
+        "Description": "Hit others to defend him/herself. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_51": {
+        "Description": "Gotten angry or mad  or hit others when teased. | 0 = Never; 1 = Sometimes; 2=  Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_01_cads_l": {
+        "Description": "Cares about others' feelings. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_02_cads_l": {
+        "Description": "Feels bad for others when they get hurt. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_03_cads_l": {
+        "Description": "Feels sorry for kids who get picked on. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_04_cads_l": {
+        "Description": "Would get upset if he/she saw an animal being hurt. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_05_icu_l": {
+        "Description": "Does not care who he/she hurts to get what he/she wants. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_06_icu_l": {
+        "Description": "Seems very cold and uncaring. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_07_icu_l": {
+        "Description": "The feelings of others are unimportant to him/her. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_08_cads_l": {
+        "Description": "Does things to help other people without being asked. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_09_cads_l": {
+        "Description": "Tries to cheer up others when they are sad or upset. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_10_cads_l": {
+        "Description": "Shares things with other people without being asked. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_11_icu_l": {
+        "Description": "Does things to make others feel good. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_12_cads_l": {
+        "Description": "Feels guilty if he/she did something that broke the law. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_13_icu_l": {
+        "Description": "Apologizes to persons he/she has hurt. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_14_icu_l": {
+        "Description": "Feels bad or guilty when he/she has done something wrong. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_15_icu_l": {
+        "Description": "Easily admits to being wrong. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_16_icu_l": {
+        "Description": "Shows no remorse when he/she has done something wrong. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_17_icu_l": {
+        "Description": "Does not care if he/she is in trouble. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_18_cads_l": {
+        "Description": "Cares about what is right and wrong. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_19_icu_l": {
+        "Description": "Does not care about being on time. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_20_cads_l": {
+        "Description": "Tries to do excellent work in school and work. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_21_cads_l": {
+        "Description": "Enjoys learning new and interesting things. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_22_cads_l": {
+        "Description": "Wants everyone to follow the rules, including him/herself. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_23_icu_l": {
+        "Description": "Works hard on everything. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_24_icu_l": {
+        "Description": "Always tries his/her best. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_25_icu_l": {
+        "Description": "Does not care about doing things well. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_26_icu_l": {
+        "Description": "Cares about how well he/she does in school or work. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_27_icu_l": {
+        "Description": "Does not like to put the time into doing things well. | 0=Not at all true ; 1=Somewhat true ; 2=Very true ; 3=Definitely true",
+        "Levels": {
+            "0": "Not at all true",
+            "1": "Somewhat true",
+            "2": "Very true",
+            "3": "Definitely true"
+        }
+    },
+    "socialdev_ppd_29_praq_l": {
+        "Description": "Had fights with others to show who was on top. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_30_praq_l": {
+        "Description": "Taken things from other students. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_31_praq_l": {
+        "Description": "Vandalized something for fun. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_32_praq_l": {
+        "Description": "Had a gang fight to be cool. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_33_praq_l": {
+        "Description": "Hurt others to win a game. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_34_praq_l": {
+        "Description": "Used physical force to get others to do what he/she wants. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_35_praq_l": {
+        "Description": "Used force to obtain money or things from others. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_36_praq_l": {
+        "Description": "Threatened and bullied someone. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_37_praq_l": {
+        "Description": "Made obscene phone calls for fun. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_38_praq_l": {
+        "Description": "Gotten others to gang up on someone else. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_39_praq_l": {
+        "Description": "Carried a weapon to use in a fight. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_40_praq_l": {
+        "Description": "Yelled at others so they would do things for him/her. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_41_praq_l": {
+        "Description": "Yelled at others when they have annoyed him/her. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_42_praq_l": {
+        "Description": "Reacted angrily when provoked by others. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_43_praq_l": {
+        "Description": "Gotten angry when frustrated. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_44_praq_l": {
+        "Description": "Had temper tantrums. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_45_praq_l": {
+        "Description": "Damaged things because he/she felt mad. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_46_praq_l": {
+        "Description": "Become angry or mad when he/she doesn't get his/her way. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_47_praq_l": {
+        "Description": "Gotten angry or mad when he/she lost a game. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_48_praq_l": {
+        "Description": "Gotten angry when others threatened him/her. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_49_praq_l": {
+        "Description": "Felt better after hitting or yelling at someone. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_50_praq_l": {
+        "Description": "Hit others to defend him/herself. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    },
+    "socialdev_ppd_51_praq_l": {
+        "Description": "Gotten angry or mad, or hit others when teased. | 0=Never ; 1=Sometimes ; 2=Often",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often"
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_NLCD2016_devop_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Open Space; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devlow_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Low Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devmed_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Medium Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devhi_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, High Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_barren_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Barren Land; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_decfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Deciduous Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_egforr_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Evergreen Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_mixfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Mixed Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_shrub_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Shrub/Scrub; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_herb_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Herbaceous; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_haypst_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Hay/Pasture; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_crops_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Cultivated Crops; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_woodwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Woody Wetlands; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_herbwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_treecn_t": {
+        "Description": "Residential history derived - Percent of census tract classified tree canopy; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr2_NLCD2016_devop_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Open Space; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devlow_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Low Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devmed_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Medium Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devhi_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, High Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_barren_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Barren Land; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_decfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Deciduous Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_egforr_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Evergreen Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_mixfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Mixed Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_shrub_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Shrub/Scrub; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_herb_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Herbaceous; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_haypst_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Hay/Pasture; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_crops_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Cultivated Crops; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_woodwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Woody Wetlands; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_herbwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_treecn_t": {
+        "Description": "Residential history derived - Percent of census tract classified tree canopy; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr3_NLCD2016_devop_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Open Space; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devlow_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Low Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devmed_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, Medium Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devhi_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Developed, High Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_barren_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Barren Land; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_decfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Deciduous Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_egforr_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Evergreen Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_mixfor_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Mixed Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_shrub_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Shrub/Scrub; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_herb_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Herbaceous; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_haypst_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Hay/Pasture; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_crops_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Cultivated Crops; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_woodwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Woody Wetlands; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_herbwt_t": {
+        "Description": "Residential history derived - Percent of census tract classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_treecn_t": {
+        "Description": "Residential history derived - Percent of census tract classified tree canopy; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr1_NLCD2016_devop_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Open Space; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devlow_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Low Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devmed_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Medium Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_devhi_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, High Intensity; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_barren_c": {
+        "Description": "Residential history derived - Percent of county classified as Barren Land; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_decfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Deciduous Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_egforr_c": {
+        "Description": "Residential history derived - Percent of county classified as Evergreen Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_mixfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Mixed Forest; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_shrub_c": {
+        "Description": "Residential history derived - Percent of county classified as Shrub/Scrub; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_herb_c": {
+        "Description": "Residential history derived - Percent of county classified as Herbaceous; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_haypst_c": {
+        "Description": "Residential history derived - Percent of county classified as Hay/Pasture; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_crops_c": {
+        "Description": "Residential history derived - Percent of county classified as Cultivated Crops; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_woodwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Woody Wetlands; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_herbwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr1_NLCD2016_treecn_c": {
+        "Description": "Residential history derived - Percent of county classified tree canopy; NLCD 2016 estimates (addr1)"
+    },
+    "reshist_addr2_NLCD2016_devop_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Open Space; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devlow_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Low Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devmed_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Medium Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_devhi_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, High Intensity; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_barren_c": {
+        "Description": "Residential history derived - Percent of county classified as Barren Land; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_decfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Deciduous Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_egforr_c": {
+        "Description": "Residential history derived - Percent of county classified as Evergreen Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_mixfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Mixed Forest; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_shrub_c": {
+        "Description": "Residential history derived - Percent of county classified as Shrub/Scrub; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_herb_c": {
+        "Description": "Residential history derived - Percent of county classified as Herbaceous; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_haypst_c": {
+        "Description": "Residential history derived - Percent of county classified as Hay/Pasture; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_crops_c": {
+        "Description": "Residential history derived - Percent of county classified as Cultivated Crops; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_woodwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Woody Wetlands; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_herbwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr2_NLCD2016_treecn_c": {
+        "Description": "Residential history derived - Percent of county classified tree canopy; NLCD 2016 estimates (addr2)"
+    },
+    "reshist_addr3_NLCD2016_devop_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Open Space; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devlow_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Low Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devmed_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, Medium Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_devhi_c": {
+        "Description": "Residential history derived - Percent of county classified as Developed, High Intensity; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_barren_c": {
+        "Description": "Residential history derived - Percent of county classified as Barren Land; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_decfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Deciduous Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_egforr_c": {
+        "Description": "Residential history derived - Percent of county classified as Evergreen Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_mixfor_c": {
+        "Description": "Residential history derived - Percent of county classified as Mixed Forest; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_shrub_c": {
+        "Description": "Residential history derived - Percent of county classified as Shrub/Scrub; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_herb_c": {
+        "Description": "Residential history derived - Percent of county classified as Herbaceous; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_haypst_c": {
+        "Description": "Residential history derived - Percent of county classified as Hay/Pasture; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_crops_c": {
+        "Description": "Residential history derived - Percent of county classified as Cultivated Crops; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_woodwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Woody Wetlands; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_herbwt_c": {
+        "Description": "Residential history derived - Percent of county classified as Emergent Herbaceous Wetland; NLCD 2016 estimates (addr3)"
+    },
+    "reshist_addr3_NLCD2016_treecn_c": {
+        "Description": "Residential history derived - Percent of county classified tree canopy; NLCD 2016 estimates (addr3)"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pbp_athletes": {
+        "Description": "Are athletes | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_skip_school": {
+        "Description": "Have skipped school | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_church": {
+        "Description": "Go to church once a month or more often | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_suspended": {
+        "Description": "Have been suspended from school | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_good_student": {
+        "Description": "Are excellent students (GPA 3.5 [B+] or higher) | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_shoplifted": {
+        "Description": "Have shoplifted occasionally | 1=None or almost none;  2=A few;  3=Half;  4=Most;  5=All or almost all;  999=Don't know",
+        "Levels": {
+            "1": "None or almost none",
+            "2": "A few",
+            "3": "Half",
+            "4": "Most",
+            "5": "All or almost all",
+            "999": "Don't know"
+        }
+    },
+    "pbp_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "pbp_ss_prosocial_peers": {
+        "Description": "Involvement with Prosocial Peers sum(pbp_athletes, pbp_church, pbp_good_student) Validation: Minimum of two items must be answered"
+    },
+    "pbp_ss_prosocial_peers_nm": {
+        "Description": "Involvement with Prosocial Peers Missing"
+    },
+    "pbp_ss_prosocial_peers_nt": {
+        "Description": "Involvement with Prosocial Peers Total"
+    },
+    "pbp_ss_rule_break": {
+        "Description": "Involvement with Rule Breaking/Delinquent Peers  sum(pbp_skip_school, pbp_suspended, pbp_shop_lifted) Validation: Minimum of two items must be answered"
+    },
+    "pbp_ss_rule_break_nm": {
+        "Description": "Involvement with Rule Breaking/Delinquent Peers Missing"
+    },
+    "pbp_ss_rule_break_nt": {
+        "Description": "Involvement with Rule Breaking/Delinquent Peers Total"
+    }
+}

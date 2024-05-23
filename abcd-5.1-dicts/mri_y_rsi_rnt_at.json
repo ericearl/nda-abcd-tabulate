@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsirnt_fib_fxrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right fornix"
+    },
+    "dmri_rsirnt_fib_fxlh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left fornix"
+    },
+    "dmri_rsirnt_fib_cgcrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right cingulate cingulum"
+    },
+    "dmri_rsirnt_fib_cgclh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left cingulate cingulum"
+    },
+    "dmri_rsirnt_fib_cghrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right parahpcm cingulum"
+    },
+    "dmri_rsirnt_fib_cghlh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left parahpcm cingulum"
+    },
+    "dmri_rsirnt_fib_cstrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right corticospinal/pyramidal"
+    },
+    "dmri_rsirnt_fib_cstlh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left corticospinal/pyramidal"
+    },
+    "dmri_rsirnt_fib_atrrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right anterior thalamic radiations"
+    },
+    "dmri_rsirnt_fib_atrlh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left right anterior thalamic radiations"
+    },
+    "dmri_rsirnt_fib_uncrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right uncinate fasciculus"
+    },
+    "dmri_rsirnt_fib_unclh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left uncinate"
+    },
+    "dmri_rsirnt_fib_ilfrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right inferior longitudinal fasciculus"
+    },
+    "dmri_rsirnt_fib_ilflh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left inferior longitudinal fasciculus"
+    },
+    "dmri_rsirnt_fib_iforh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsirnt_fib_ifolh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left inferior fronto-occipital fasciculus"
+    },
+    "dmri_rsirnt_fib_fmaj": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation forceps major"
+    },
+    "dmri_rsirnt_fib_fmin": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation forceps minor"
+    },
+    "dmri_rsirnt_fib_cc": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation corpus callosum"
+    },
+    "dmri_rsirnt_fib_slfrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right superior longitudinal fasciculus"
+    },
+    "dmri_rsirnt_fib_slflh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left superior longitudinal fasciculus"
+    },
+    "dmri_rsirnt_fib_tslfrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsirnt_fib_tslflh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left temporal superior longitudinal fasiculus"
+    },
+    "dmri_rsirnt_fib_pslfrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsirnt_fib_pslflh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left parietal superior longitudinal fasiculus"
+    },
+    "dmri_rsirnt_fib_scsrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right superior corticostriate"
+    },
+    "dmri_rsirnt_fib_scslh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left superior corticostriate"
+    },
+    "dmri_rsirnt_fib_fscsrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsirnt_fib_fscslh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left superior corticostriate-frontal cortex only"
+    },
+    "dmri_rsirnt_fib_pscsrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsirnt_fib_pscslh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left superior corticostriate-parietal cortex only"
+    },
+    "dmri_rsirnt_fib_sifcrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right striatal inferior frontal cortex"
+    },
+    "dmri_rsirnt_fib_sifclh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left striatal inferior frontal cortex"
+    },
+    "dmri_rsirnt_fib_ifsfcrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right inferior frontal superior frontal cortex"
+    },
+    "dmri_rsirnt_fib_ifsfclh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left inferior frontal superior frontal cortex"
+    },
+    "dmri_rsirnt_fib_fxcutrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right fornix, excluding fimbria"
+    },
+    "dmri_rsirnt_fib_fxcutlh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left fornix, excluding fimbria"
+    },
+    "dmri_rsirnt_fib_allfib": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation all fibers"
+    },
+    "dmri_rsirnt_fib_afbncrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsirnt_fib_afbnclh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left hemisphere fibers without corpus callosum"
+    },
+    "dmri_rsirnt_fib_allfibrh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation right hemisphere fibers"
+    },
+    "dmri_rsirnt_fib_allfiblh": {
+        "Description": "restricted normalized total diffusion AtlasTrack fiber segmentation left hemisphere fibers"
+    }
+}

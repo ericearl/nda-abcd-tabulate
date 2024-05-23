@@ -1,0 +1,42 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_nanda_parks_tot": {
+        "Description": "Residential history derived - Total number of open parks in census tract; NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_parks_tc10": {
+        "Description": "Residential history derived - Total number of open parks (top coded at 10) in census tract;NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_parks_a_t": {
+        "Description": "Residential history derived - Proportion of open park land within census tract (tot_park_int_area / tract_area); NaNDA (addr1)"
+    },
+    "reshist_addr1_nanda_parks_cty": {
+        "Description": "Residential history derived - Total number of open parks in county; NaNDA (addr1)"
+    },
+    "reshist_addr2_nanda_parks_tot": {
+        "Description": "Residential history derived - Total number of open parks in census tract; NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_parks_tc10": {
+        "Description": "Residential history derived - Total number of open parks (top coded at 10) in census tract;NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_parks_a_t": {
+        "Description": "Residential history derived - Proportion of open park land within census tract (tot_park_int_area / tract_area); NaNDA (addr2)"
+    },
+    "reshist_addr2_nanda_parks_cty": {
+        "Description": "Residential history derived - Total number of open parks in county; NaNDA (addr2)"
+    },
+    "reshist_addr3_nanda_parks_tot": {
+        "Description": "Residential history derived - Total number of open parks in census tract; NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_parks_tc10": {
+        "Description": "Residential history derived - Total number of open parks (top coded at 10) in census tract;NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_parks_a_t": {
+        "Description": "Residential history derived - Proportion of open park land within census tract (tot_park_int_area / tract_area); NaNDA (addr3)"
+    },
+    "reshist_addr3_nanda_parks_cty": {
+        "Description": "Residential history derived - Total number of open parks in county; NaNDA (addr3)"
+    }
+}

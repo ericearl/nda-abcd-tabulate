@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtitdwm_cdsn_banksstslh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left- banks of superior temporal sulcus"
+    },
+    "dmri_dtitdwm_cdsn_banksstsrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-banks of superior temporal sulcus"
+    },
+    "dmri_dtitdwm_cdsn_cdancntelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-caudal anterior cingulate"
+    },
+    "dmri_dtitdwm_cdsn_cdancnterh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-caudal anterior cingulate"
+    },
+    "dmri_dtitdwm_cdsn_cdmfrlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-caudal middle frontal"
+    },
+    "dmri_dtitdwm_cdsn_cdmfrrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-caudal middle frontal"
+    },
+    "dmri_dtitdwm_cdsn_cuneuslh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-cuneus"
+    },
+    "dmri_dtitdwm_cdsn_cuneusrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-cuneus"
+    },
+    "dmri_dtitdwm_cdsn_ehinallh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-entorhinal"
+    },
+    "dmri_dtitdwm_cdsn_ehinalrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-entorhinal"
+    },
+    "dmri_dtitdwm_cdsn_frpolelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-frontal pole"
+    },
+    "dmri_dtitdwm_cdsn_frpolerh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-frontal pole"
+    },
+    "dmri_dtitdwm_cdsn_fusiformlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-fusiform"
+    },
+    "dmri_dtitdwm_cdsn_fusiformrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-fusiform"
+    },
+    "dmri_dtitdwm_cdsn_ifpalh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-inferior parietal"
+    },
+    "dmri_dtitdwm_cdsn_ifparh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-inferior parietal"
+    },
+    "dmri_dtitdwm_cdsn_iftplh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-inferior temporal"
+    },
+    "dmri_dtitdwm_cdsn_iftprh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-inferior temporal"
+    },
+    "dmri_dtitdwm_cdsn_insulalh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-insula"
+    },
+    "dmri_dtitdwm_cdsn_insularh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-insula"
+    },
+    "dmri_dtitdwm_cdsn_ihcntelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-isthmus cingulate"
+    },
+    "dmri_dtitdwm_cdsn_ihcnterh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-isthmus cingulate"
+    },
+    "dmri_dtitdwm_cdsn_loclh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-lateral occipital"
+    },
+    "dmri_dtitdwm_cdsn_locrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-lateral occipital"
+    },
+    "dmri_dtitdwm_cdsn_lobfrlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-lateral orbital frontal"
+    },
+    "dmri_dtitdwm_cdsn_lobfrrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-lateral orbital frontal"
+    },
+    "dmri_dtitdwm_cdsn_linguallh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-lingual"
+    },
+    "dmri_dtitdwm_cdsn_lingualrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-lingual"
+    },
+    "dmri_dtitdwm_cdsn_mean": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI whole brain"
+    },
+    "dmri_dtitdwm_cdsn_meanlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-hemisphere"
+    },
+    "dmri_dtitdwm_cdsn_meanrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-hemisphere"
+    },
+    "dmri_dtitdwm_cdsn_mlobfrlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-medial orbito frontal"
+    },
+    "dmri_dtitdwm_cdsn_mlobfrrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-medial orbito frontal"
+    },
+    "dmri_dtitdwm_cdsn_mtplh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-middle temporal"
+    },
+    "dmri_dtitdwm_cdsn_mtprh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-middle temporal"
+    },
+    "dmri_dtitdwm_cdsn_pctlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-paracentral"
+    },
+    "dmri_dtitdwm_cdsn_pctrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-paracentral"
+    },
+    "dmri_dtitdwm_cdsn_parahplh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-parahippocampal"
+    },
+    "dmri_dtitdwm_cdsn_parahprh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-parahippocampal"
+    },
+    "dmri_dtitdwm_cdsn_ppslh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-pars opercularis"
+    },
+    "dmri_dtitdwm_cdsn_ppsrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-pars opercularis"
+    },
+    "dmri_dtitdwm_cdsn_parsoblh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-pars orbitalis"
+    },
+    "dmri_dtitdwm_cdsn_parsobrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-pars orbitalis"
+    },
+    "dmri_dtitdwm_cdsn_parstanglh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-pars triangularis"
+    },
+    "dmri_dtitdwm_cdsn_parstangrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-pars triangularis"
+    },
+    "dmri_dtitdwm_cdsn_pcrinelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-pericalcarine"
+    },
+    "dmri_dtitdwm_cdsn_pcrinerh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-pericalcarine"
+    },
+    "dmri_dtitdwm_cdsn_postlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-post central"
+    },
+    "dmri_dtitdwm_cdsn_postrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-post central"
+    },
+    "dmri_dtitdwm_cdsn_pscntelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-post cingulate"
+    },
+    "dmri_dtitdwm_cdsn_pscnterh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-post cingulate"
+    },
+    "dmri_dtitdwm_cdsn_precnlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-precentral"
+    },
+    "dmri_dtitdwm_cdsn_precnrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-precentral"
+    },
+    "dmri_dtitdwm_cdsn_pslh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-precuneus"
+    },
+    "dmri_dtitdwm_cdsn_psrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-precuneus"
+    },
+    "dmri_dtitdwm_cdsn_rncntelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-rostral anterior cingulate"
+    },
+    "dmri_dtitdwm_cdsn_rncnterh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-rostral anterior cingulate"
+    },
+    "dmri_dtitdwm_cdsn_rsmfrlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-rostral middle frontal"
+    },
+    "dmri_dtitdwm_cdsn_rsmfrrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-rostral middle frontal"
+    },
+    "dmri_dtitdwm_cdsn_spfrlh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI  left-superior frontal"
+    },
+    "dmri_dtitdwm_cdsn_spfrrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-superior frontal"
+    },
+    "dmri_dtitdwm_cdsn_sppalh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-superior parietal"
+    },
+    "dmri_dtitdwm_cdsn_spparh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-superior parietal"
+    },
+    "dmri_dtitdwm_cdsn_sptplh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-superior temporal"
+    },
+    "dmri_dtitdwm_cdsn_sptprh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-superior temporal"
+    },
+    "dmri_dtitdwm_cdsn_samglh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-superior marginal"
+    },
+    "dmri_dtitdwm_cdsn_samgrh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-superior marginal"
+    },
+    "dmri_dtitdwm_cdsn_tppolelh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-temporal pole"
+    },
+    "dmri_dtitdwm_cdsn_tppolerh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-temporal pole"
+    },
+    "dmri_dtitdwm_cdsn_trvtplh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI left-transverse temporal"
+    },
+    "dmri_dtitdwm_cdsn_trvtprh": {
+        "Description": "Average transverse diffusivity, parcellation of sub-adjacent white matter associated with cortical ROI right-transverse temporal"
+    }
+}

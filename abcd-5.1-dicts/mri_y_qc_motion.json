@@ -1,0 +1,348 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "rsfmri_meanmotion": {
+        "Description": "Resting state fMRI - Average framewise displacement in mm"
+    },
+    "rsfmri_meanrot": {
+        "Description": "Resting state fMRI - Average framewise rotation in radians"
+    },
+    "rsfmri_meantrans": {
+        "Description": "Resting state fMRI - Average framewise translation in mm"
+    },
+    "rsfmri_maxmotion": {
+        "Description": "Resting state fMRI - Maximum framewise displacement in mm"
+    },
+    "rsfmri_maxrot": {
+        "Description": "Resting state fMRI - Maximum framewise rotation in radians"
+    },
+    "rsfmri_maxtrans": {
+        "Description": "Resting state fMRI - Maximum framewise translation in mm"
+    },
+    "rsfmri_ntpoints": {
+        "Description": "Resting state fMRI - Number of frames after excluding outlier frames (based on standard deviation across ROIs)"
+    },
+    "rsfmri_nvols": {
+        "Description": "Resting state fMRI - Number of frames after removing dummy frames"
+    },
+    "rsfmri_numtrs": {
+        "Description": "Resting state fMRI - Number of frames in acquisition"
+    },
+    "rsfmri_subthreshnvols": {
+        "Description": "Resting state fMRI - Number of frames with FD < 0.2"
+    },
+    "rsfmri_subthreshcontignvols": {
+        "Description": "Resting state fMRI - Number of frames with FD < 0.2 and at least 5 contiguous, supra-threshold frames"
+    },
+    "rsfmri_tr": {
+        "Description": "Resting state fMRI - Pulse repetition time in seconds"
+    },
+    "dmri_meanmotion": {
+        "Description": "Diffusion MRI - Average framewise displacement in mm"
+    },
+    "dmri_meanrot": {
+        "Description": "Diffusion MRI - Average framewise rotation in radians"
+    },
+    "dmri_meantrans": {
+        "Description": "Diffusion MRI - Average framewise translation in mm"
+    },
+    "tfmri_mid_all_meanmotion": {
+        "Description": "Task fMRI - MID (all) - Average framewise displacement in mm"
+    },
+    "tfmri_mid_all_meanrot": {
+        "Description": "Task fMRI - MID (all) - Average framewise rotation in radians"
+    },
+    "tfmri_mid_all_meantrans": {
+        "Description": "Task fMRI - MID (all) - Average framewise translation in mm"
+    },
+    "tfmri_mid_all_dof": {
+        "Description": "Task fMRI - MID (all) - Degrees of freedom"
+    },
+    "tfmri_mid_all_maxmotion": {
+        "Description": "Task fMRI - MID (all) - Maximum framewise displacement in mm"
+    },
+    "tfmri_mid_all_maxrot": {
+        "Description": "Task fMRI - MID (all) - Maximum framewise rotation in radians"
+    },
+    "tfmri_mid_all_maxtrans": {
+        "Description": "Task fMRI - MID (all) - Maximum framewise translation in mm"
+    },
+    "tfmri_mid_all_nvols": {
+        "Description": "Task fMRI - MID (all) - Number of frames after removing dummy frames"
+    },
+    "tfmri_mid_all_numtrs": {
+        "Description": "Task fMRI - MID (all) - Number of frames in acquisition"
+    },
+    "tfmri_mid_all_subthreshnvols": {
+        "Description": "Task fMRI - MID (all) - Number of frames with FD < 0.2"
+    },
+    "tfmri_mid_all_tr": {
+        "Description": "Task fMRI - MID (all) - Pulse repetition time in seconds"
+    },
+    "tfmri_mid_run1_meanmotion": {
+        "Description": "Task fMRI - MID (run 1) - Average framewise displacement in mm"
+    },
+    "tfmri_mid_run1_meanrot": {
+        "Description": "Task fMRI - MID (run 1) - Average framewise rotation in radians"
+    },
+    "tfmri_mid_run1_meantrans": {
+        "Description": "Task fMRI - MID (run 1) - Average framewise translation in mm"
+    },
+    "tfmri_mid_run1_dof": {
+        "Description": "Task fMRI - MID (run 1) - Degrees of freedom"
+    },
+    "tfmri_mid_run1_maxmotion": {
+        "Description": "Task fMRI - MID (run 1) - Maximum framewise displacement in mm"
+    },
+    "tfmri_mid_run1_maxrot": {
+        "Description": "Task fMRI - MID (run 1) - Maximum framewise rotation in radians"
+    },
+    "tfmri_mid_run1_maxtrans": {
+        "Description": "Task fMRI - MID (run 1) - Maximum framewise translation in mm"
+    },
+    "tfmri_mid_run1_nvols": {
+        "Description": "Task fMRI - MID (run 1) - Number of frames after removing dummy frames"
+    },
+    "tfmri_mid_run1_numtrs": {
+        "Description": "Task fMRI - MID (run 1) - Number of frames in acquisition"
+    },
+    "tfmri_mid_run1_subthreshnvols": {
+        "Description": "Task fMRI - MID (run 1) - Number of frames with FD < 0.2"
+    },
+    "tfmri_mid_run1_tr": {
+        "Description": "Task fMRI - MID (run 1) - Pulse repetition time in seconds"
+    },
+    "tfmri_mid_run2_meanmotion": {
+        "Description": "Task fMRI - MID (run 2) - Average framewise displacement in mm"
+    },
+    "tfmri_mid_run2_meanrot": {
+        "Description": "Task fMRI - MID (run 2) - Average framewise rotation in radians"
+    },
+    "tfmri_mid_run2_meantrans": {
+        "Description": "Task fMRI - MID (run 2) - Average framewise translation in mm"
+    },
+    "tfmri_mid_run2_dof": {
+        "Description": "Task fMRI - MID (run 2) - Degrees of freedom"
+    },
+    "tfmri_mid_run2_maxmotion": {
+        "Description": "Task fMRI - MID (run 2) - Maximum framewise displacement in mm"
+    },
+    "tfmri_mid_run2_maxrot": {
+        "Description": "Task fMRI - MID (run 2) - Maximum framewise rotation in radians"
+    },
+    "tfmri_mid_run2_maxtrans": {
+        "Description": "Task fMRI - MID (run 2) - Maximum framewise translation in mm"
+    },
+    "tfmri_mid_run2_nvols": {
+        "Description": "Task fMRI - MID (run 2) - Number of frames after removing dummy frames"
+    },
+    "tfmri_mid_run2_numtrs": {
+        "Description": "Task fMRI - MID (run 2) - Number of frames in acquisition"
+    },
+    "tfmri_mid_run2_subthreshnvols": {
+        "Description": "Task fMRI - MID (run 2) - Number of frames with FD < 0.2"
+    },
+    "tfmri_mid_run2_tr": {
+        "Description": "Task fMRI - MID (run 2) - Pulse repetition time in seconds"
+    },
+    "tfmri_sst_all_meanmotion": {
+        "Description": "Task fMRI - SST (all) - Average framewise displacement in mm"
+    },
+    "tfmri_sst_all_meanrot": {
+        "Description": "Task fMRI - SST (all) - Average framewise rotation in radians"
+    },
+    "tfmri_sst_all_meantrans": {
+        "Description": "Task fMRI - SST (all) - Average framewise translation in mm"
+    },
+    "tfmri_sst_all_dof": {
+        "Description": "Task fMRI - SST (all) - Degrees of freedom"
+    },
+    "tfmri_sst_all_maxmotion": {
+        "Description": "Task fMRI - SST (all) - Maximum framewise displacement in mm"
+    },
+    "tfmri_sst_all_maxrot": {
+        "Description": "Task fMRI - SST (all) - Maximum framewise rotation in radians"
+    },
+    "tfmri_sst_all_maxtrans": {
+        "Description": "Task fMRI - SST (all) - Maximum framewise translation in mm"
+    },
+    "tfmri_sst_all_nvols": {
+        "Description": "Task fMRI - SST (all) - Number of frames after removing dummy frames"
+    },
+    "tfmri_sst_all_numtrs": {
+        "Description": "Task fMRI - SST (all) - Number of frames in acquisition"
+    },
+    "tfmri_sst_all_subthreshnvols": {
+        "Description": "Task fMRI - SST (all) - Number of frames with FD < 0.2"
+    },
+    "tfmri_sst_all_tr": {
+        "Description": "Task fMRI - SST (all) - Pulse repetition time in seconds"
+    },
+    "tfmri_sst_run1_meanmotion": {
+        "Description": "Task fMRI - SST (run 1) - Average framewise displacement in mm"
+    },
+    "tfmri_sst_run1_meanrot": {
+        "Description": "Task fMRI - SST (run 1) - Average framewise rotation in radians"
+    },
+    "tfmri_sst_run1_meantrans": {
+        "Description": "Task fMRI - SST (run 1) - Average framewise translation in mm"
+    },
+    "tfmri_sst_run1_dof": {
+        "Description": "Task fMRI - SST (run 1) - Degrees of freedom"
+    },
+    "tfmri_sst_run1_maxmotion": {
+        "Description": "Task fMRI - SST (run 1) - Maximum framewise displacement in mm"
+    },
+    "tfmri_sst_run1_maxrot": {
+        "Description": "Task fMRI - SST (run 1) - Maximum framewise rotation in radians"
+    },
+    "tfmri_sst_run1_maxtrans": {
+        "Description": "Task fMRI - SST (run 1) - Maximum framewise translation in mm"
+    },
+    "tfmri_sst_run1_nvols": {
+        "Description": "Task fMRI - SST (run 1) - Number of frames after removing dummy frames"
+    },
+    "tfmri_sst_run1_numtrs": {
+        "Description": "Task fMRI - SST (run 1) - Number of frames in acquisition"
+    },
+    "tfmri_sst_run1_subthreshnvols": {
+        "Description": "Task fMRI - SST (run 1) - Number of frames with FD < 0.2"
+    },
+    "tfmri_sst_run1_tr": {
+        "Description": "Task fMRI - SST (run 1) - Pulse repetition time in seconds"
+    },
+    "tfmri_sst_run2_meanmotion": {
+        "Description": "Task fMRI - SST (run 2) - Average framewise displacement in mm"
+    },
+    "tfmri_sst_run2_meanrot": {
+        "Description": "Task fMRI - SST (run 2) - Average framewise rotation in radians"
+    },
+    "tfmri_sst_run2_meantrans": {
+        "Description": "Task fMRI - SST (run 2) - Average framewise translation in mm"
+    },
+    "tfmri_sst_run2_dof": {
+        "Description": "Task fMRI - SST (run 2) - Degrees of freedom"
+    },
+    "tfmri_sst_run2_maxmotion": {
+        "Description": "Task fMRI - SST (run 2) - Maximum framewise displacement in mm"
+    },
+    "tfmri_sst_run2_maxrot": {
+        "Description": "Task fMRI - SST (run 2) - Maximum framewise rotation in radians"
+    },
+    "tfmri_sst_run2_maxtrans": {
+        "Description": "Task fMRI - SST (run 2) - Maximum framewise translation in mm"
+    },
+    "tfmri_sst_run2_nvols": {
+        "Description": "Task fMRI - SST (run 2) - Number of frames after removing dummy frames"
+    },
+    "tfmri_sst_run2_numtrs": {
+        "Description": "Task fMRI - SST (run 2) - Number of frames in acquisition"
+    },
+    "tfmri_sst_run2_subthreshnvols": {
+        "Description": "Task fMRI - SST (run 2) - Number of frames with FD < 0.2"
+    },
+    "tfmri_sst_run2_tr": {
+        "Description": "Task fMRI - SST (run 2) - Pulse repetition time in seconds"
+    },
+    "tfmri_nback_all_meanmotion": {
+        "Description": "Task fMRI - N-Back (all) - Average framewise displacement in mm"
+    },
+    "tfmri_nback_all_meanrot": {
+        "Description": "Task fMRI - N-Back (all) - Average framewise rotation in radians"
+    },
+    "tfmri_nback_all_meantrans": {
+        "Description": "Task fMRI - N-Back (all) - Average framewise translation in mm"
+    },
+    "tfmri_nback_all_dof": {
+        "Description": "Task fMRI - N-Back (all) - Degrees of freedom"
+    },
+    "tfmri_nback_all_maxmotion": {
+        "Description": "Task fMRI - N-Back (all) - Maximum framewise displacement in mm"
+    },
+    "tfmri_nback_all_maxrot": {
+        "Description": "Task fMRI - N-Back (all) - Maximum framewise rotation in radians"
+    },
+    "tfmri_nback_all_maxtrans": {
+        "Description": "Task fMRI - N-Back (all) - Maximum framewise translation in mm"
+    },
+    "tfmri_nback_all_nvols": {
+        "Description": "Task fMRI - N-Back (all) - Number of frames after removing dummy frames"
+    },
+    "tfmri_nback_all_numtrs": {
+        "Description": "Task fMRI - N-Back (all) - Number of frames in acquisition"
+    },
+    "tfmri_nback_all_subthreshnvols": {
+        "Description": "Task fMRI - N-Back (all) - Number of frames with FD < 0.2"
+    },
+    "tfmri_nback_all_tr": {
+        "Description": "Task fMRI - N-Back (all) - Pulse repetition time in seconds"
+    },
+    "tfmri_nback_run1_meanmotion": {
+        "Description": "Task fMRI - N-Back (run 1) - Average framewise displacement in mm"
+    },
+    "tfmri_nback_run1_meanrot": {
+        "Description": "Task fMRI - N-Back (run 1) - Average framewise rotation in radians"
+    },
+    "tfmri_nback_run1_meantrans": {
+        "Description": "Task fMRI - N-Back (run 1) - Average framewise translation in mm"
+    },
+    "tfmri_nback_run1_dof": {
+        "Description": "Task fMRI - N-Back (run 1) - Degrees of freedom"
+    },
+    "tfmri_nback_run1_maxmotion": {
+        "Description": "Task fMRI - N-Back (run 1) - Maximum framewise displacement in mm"
+    },
+    "tfmri_nback_run1_maxrot": {
+        "Description": "Task fMRI - N-Back (run 1) - Maximum framewise rotation in radians"
+    },
+    "tfmri_nback_run1_maxtrans": {
+        "Description": "Task fMRI - N-Back (run 1) - Maximum framewise translation in mm"
+    },
+    "tfmri_nback_run1_nvols": {
+        "Description": "Task fMRI - N-Back (run 1) - Number of frames after removing dummy frames"
+    },
+    "tfmri_nback_run1_numtrs": {
+        "Description": "Task fMRI - N-Back (run 1) - Number of frames in acquisition"
+    },
+    "tfmri_nback_run1_subthreshnvols": {
+        "Description": "Task fMRI - N-Back (run 1) - Number of frames with FD < 0.2"
+    },
+    "tfmri_nback_run1_tr": {
+        "Description": "Task fMRI - N-Back (run 1) - Pulse repetition time in seconds"
+    },
+    "tfmri_nback_run2_meanmotion": {
+        "Description": "Task fMRI - N-Back (run 2) - Average framewise displacement in mm"
+    },
+    "tfmri_nback_run2_meanrot": {
+        "Description": "Task fMRI - N-Back (run 2) - Average framewise rotation in radians"
+    },
+    "tfmri_nback_run2_meantrans": {
+        "Description": "Task fMRI - N-Back (run 2) - Average framewise translation in mm"
+    },
+    "tfmri_nback_run2_dof": {
+        "Description": "Task fMRI - N-Back (run 2) - Degrees of freedom"
+    },
+    "tfmri_nback_run2_maxmotion": {
+        "Description": "Task fMRI - N-Back (run 2) - Maximum framewise displacement in mm"
+    },
+    "tfmri_nback_run2_maxrot": {
+        "Description": "Task fMRI - N-Back (run 2) - Maximum framewise rotation in radians"
+    },
+    "tfmri_nback_run2_maxtrans": {
+        "Description": "Task fMRI - N-Back (run 2) - Maximum framewise translation in mm"
+    },
+    "tfmri_nback_run2_nvols": {
+        "Description": "Task fMRI - N-Back (run 2) - Number of frames after removing dummy frames"
+    },
+    "tfmri_nback_run2_numtrs": {
+        "Description": "Task fMRI - N-Back (run 2) - Number of frames in acquisition"
+    },
+    "tfmri_nback_run2_subthreshnvols": {
+        "Description": "Task fMRI - N-Back (run 2) - Number of frames with FD < 0.2"
+    },
+    "tfmri_nback_run2_tr": {
+        "Description": "Task fMRI - N-Back (run 2) - Pulse repetition time in seconds"
+    }
+}

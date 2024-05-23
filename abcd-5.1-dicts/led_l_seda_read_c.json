@@ -1,0 +1,321 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_cs_cellcount_r_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_cellcount_r_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_cellcount_r_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_cellcount_r_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_cellcount_r_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_cellcount_r_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_cellcount_r_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts cells for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_asmts_r_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_asmts_r_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_asmts_r_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_asmts_r_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_asmts_r_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_asmts_r_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_asmts_r_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Per grade number of Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_avg_r_eb_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_avg_r_ol_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_coh_r_eb_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_coh_r_ol_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_grd_r_eb_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mn_grd_r_ol_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mnavg_r_ebseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mnavg_r_ebseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mnavg_r_ebsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mnavg_r_ebsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mnavg_r_ebsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mnavg_r_ebsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mnavg_r_ebseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mnavg_r_olseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mnavg_r_olseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mnavg_r_olsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mnavg_r_olsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mnavg_r_olsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mnavg_r_olsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mnavg_r_olseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mncoh_r_ebseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mncoh_r_ebseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mncoh_r_ebsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mncoh_r_ebsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mncoh_r_ebsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mncoh_r_ebsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mncoh_r_ebseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mncoh_r_olseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mncoh_r_olseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mncoh_r_olsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mncoh_r_olsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mncoh_r_olsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mncoh_r_olsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mncoh_r_olseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Cohort Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mngrd_r_ebseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mngrd_r_ebseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mngrd_r_ebsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mngrd_r_ebsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mngrd_r_ebsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mngrd_r_ebsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mngrd_r_ebseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, EB est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_mngrd_r_olseall": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_mngrd_r_olseecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_mngrd_r_olsefem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_mngrd_r_olsemal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_mngrd_r_olsemfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_mngrd_r_olsenec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_mngrd_r_olseneg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) County SE of Grade Slope of Mean Ach, Reading Language Arts, OLS est, CS HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_cs_tot_asmts_r_all": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est all"
+    },
+    "ledsch_seda_cs_tot_asmts_r_ecd": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est economically disadvantaged"
+    },
+    "ledsch_seda_cs_tot_asmts_r_fem": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est female"
+    },
+    "ledsch_seda_cs_tot_asmts_r_mal": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male"
+    },
+    "ledsch_seda_cs_tot_asmts_r_mfg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est male minus female opportunity gap"
+    },
+    "ledsch_seda_cs_tot_asmts_r_nec": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically"
+    },
+    "ledsch_seda_cs_tot_asmts_r_neg": {
+        "Description": "County Poolsub (''pooled by subject'' - within subjects) Total number of Reading Language Arts tests for pooled estimates HLM using SEDA HETOP est not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

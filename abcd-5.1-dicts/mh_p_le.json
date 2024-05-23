@@ -1,0 +1,1073 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ple_p_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ple_died_p": {
+        "Description": "Someone in family died? \u00bfAlguien en la familia muri\u00f3? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_died_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_died_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_died_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_injured_p": {
+        "Description": "Family member was seriously injured? \u00bfUn miembro de la familia ha sido gravemente herido? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_injur_p_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_injured_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_injured_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_crime_p": {
+        "Description": "Saw crime or accident? \u00bfVi\u00f3 un crimen o un accidente? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_crime_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_crime_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_crime_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_friend_p": {
+        "Description": "Lost a close friend? \u00bfPerdi\u00f3 a un amigo cercano? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_friend_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_friend_injur_p": {
+        "Description": "Close friend was seriously sick/injured? \u00bfUn amigo cercano estaba gravemente enfermo / herido? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_injur_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_injur_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_friend_injur_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_financial_p": {
+        "Description": "Negative change in parent's financial situation? \u00bfUn cambio negativo en la situaci\u00f3n financiera de los padres? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_financial_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_financial_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_financial_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_sud_p": {
+        "Description": "Family member had drug and/or alcohol problem? \u00bfUn miembro de la familia a tenido problemas con drogas y / o alcohol? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_sud_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_sud_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_sud_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_ill_p": {
+        "Description": "Child was seriously sick? \u00bfNi\u00f1o(a) se enferm\u00f3 gravemente? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_ill_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_ill_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_ill_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_injur_p": {
+        "Description": "Child was seriously injured? \u00bfNi\u00f1o(a) fue gravemente herido(a)? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_injur_p_past": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_injur_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_injur_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_argue_p": {
+        "Description": "Parents argued more than previously? \u00bfLos padres discutieron m\u00e1s que anteriormente? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_argue_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_argue_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_argue_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_job_p": {
+        "Description": "Parent figure lost job? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_job_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_job_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_job_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_away_p": {
+        "Description": "One parent was away from home more often? \u00bfUno de los padres estaba fuera de casa con m\u00e1s frecuencia? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_away_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_away_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_away_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_arrest_p": {
+        "Description": "Someone in the family was arrested? \u00bfAlguien en la familia fue arrestado? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_arrest_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_arrest_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_arrest_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_friend_died_p": {
+        "Description": "Close friend died? \u00bfUn amigo cercano muri\u00f3? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_died_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_friend_died_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_friend_died_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_mh_p": {
+        "Description": "Family member had mental/emotional problem? \u00bfUn miembro de la familia a tenido problemas mentales o emocionales? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_mh_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_mh_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_mh_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_sib_p": {
+        "Description": "Sibling left home? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_sib_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_sib_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_sib_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_victim_p": {
+        "Description": "Was a victim of crime/violence/assault? \u00bfFue v\u00edctima de crimen / violencia / agresi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_victim_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_victim_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_victim_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_separ_p": {
+        "Description": "Parents separated or divorced?  \u00bfPadres  divorciados? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_separ_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_separ_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_separ_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_law_p": {
+        "Description": "Parents/caregiver got into trouble with the law? \u00bfPadres / cuidadores tuvieron problemas con la ley? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_law_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_law_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_law_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_school_p": {
+        "Description": "Attended a new school? \u00bfAsistieron a una nueva escuela? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_school_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_school_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_school_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_move_p": {
+        "Description": "Family moved? \u00bfLa familia se mud\u00f3? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_move_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_move_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_move_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_jail_p": {
+        "Description": "One of the parents/caregivers went to jail?  \u00bfUno de los padres / cuidadores fueron a la c\u00e1rcel? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_jail_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_jail_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_jail_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_step_p": {
+        "Description": "Got new step-parent? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_step_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_step_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_step_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_new_job_p": {
+        "Description": "Parent/caregiver got a new job? \u00bfPadres / cuidadores tienen un nuevo trabajo? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_new_job_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_new_job_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_new_job_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_new_sib_p": {
+        "Description": "Got new sibling? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_new_sib_past_yr_p": {
+        "Description": "Did this happen in the past year? \u00bfEsto ha sucedido en el \u00faltimo a\u00f1o? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "ple_new_sib_fu_p": {
+        "Description": "Was this a good or bad experience for your child? \u00bfEsto fue una buena o mala experiencia para su ni\u00f1o(a)? | 1 = Mostly good Principalmente bueno; 2 = Mostly bad Principalmente malo; 6 = Not applicable No aplicable; 7 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Mostly good Principalmente bueno",
+            "2": "Mostly bad Principalmente malo",
+            "6": "Not applicable No aplicable",
+            "7": "Don't know No s\u00e9"
+        }
+    },
+    "ple_new_sib_fu2_p": {
+        "Description": "How much did the event affect your child? \u00bfCu\u00e1nto afect\u00f3 el evento a su ni\u00f1o(a)? | 0 = Not at All Para nada; 1 = A Little Un poco; 2 = Some Algo; 3 = A lot Mucho",
+        "Levels": {
+            "0": "Not at All Para nada",
+            "1": "A Little Un poco",
+            "2": "Some Algo",
+            "3": "A lot Mucho"
+        }
+    },
+    "ple_hospitalized_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_hospitalized_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_foster_care_p": {
+        "Description": "Child placed in foster care? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_foster_care_time_p": {
+        "Description": "Child in foster care for how many months? ( 1 year = 12 months) | [ple_foster_care_p] = '1'"
+    },
+    "ple_foster_care_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_foster_care_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_foster_care_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_foster_care_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_foster_care_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_foster_care_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_hit_p": {
+        "Description": "Saw or heard someone getting hit, slapped, punched, or beaten up in their school or neighborhood? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_hit_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_hit_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_hit_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_hit_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_hit_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_hit_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_shot_p": {
+        "Description": "Saw or heard someone being shot at (but not actually wounded) in their school or in their neighborhood? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_shot_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_shot_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_shot_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_shot_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_shot_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_shot_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_lockdown_p": {
+        "Description": "Had a lockdown at their school due to concerns about a school shooting or violence? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_lockdown_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_lockdown_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_lockdown_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_lockdown_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_lockdown_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_lockdown_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_homeless_p": {
+        "Description": "Your family was homeless? | 1=Yes ; 0= No [event-name] = '4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_homeless_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_homeless_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_deported_p": {
+        "Description": "One of the parents/caregivers was deported? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_homeless_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_homeless_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_homeless_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_homeless_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_deported_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_deported_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_deported_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_deported_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_deported_fu2_p": {
+        "Description": "How much did the event affect your child? | 0= Not at All ; 1= A Little ; 2= Some ; 3= A lot [ple_deported_p] = '1'",
+        "Levels": {
+            "0": "Not at All",
+            "1": "A Little",
+            "2": "Some",
+            "3": "A lot"
+        }
+    },
+    "ple_hospitalized_p": {
+        "Description": "One of the parents/caregivers was hospitalized? | 1=Yes ; 0= No [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_hospitalized_past_yr_p": {
+        "Description": "Did this happen in the past year? | 1=Yes ; 0= No [ple_hospitalized_p] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "ple_hospitalized_fu_p": {
+        "Description": "Was this a good or bad experience for your child? | 1= Mostly good ; 2= Mostly bad  ; 6= Not applicable ; 7= Don't know [ple_hospitalized_p] = '1'",
+        "Levels": {
+            "1": "Mostly good",
+            "2": "Mostly bad",
+            "6": "Not applicable",
+            "7": "Don't know"
+        }
+    },
+    "ple_p_ss_total_number": {
+        "Description": "Total Number of Events\n: Validation: No Minimum | Calculation: sum( [ple_died_p], [ple_injured_p], [ple_crime_p], [ple_friend_p], [ple_friend_injur_p], [ple_financial_p], [ple_sud_p], [ple_ill_p], [ple_injur_p], [ple_argue_p], [ple_job_p], [ple_away_p], [ple_arrest_p], [ple_friend_died_p], [ple_mh_p], [ple_sib_p], [ple_victim_p], [ple_separ_p], [ple_law_p], [ple_school_p], [ple_move_p], [ple_jail_p], [ple_step_p], [ple_new_job_p], [ple_new_sib_p] )"
+    },
+    "ple_p_ss_total_number_nm": {
+        "Description": "Total Number of Events: Number Missing Answers"
+    },
+    "ple_p_ss_total_number_nt": {
+        "Description": "Total Number of Events\n: Number Total Questions"
+    },
+    "ple_p_ss_total_good": {
+        "Description": "Total Number of Good Events\n: Validation: No Minimum | Calculation: if([ple_died_fu_p] = '1',1,0) plus   if([ple_injured_fu_p] = '1',1,0) plus if([ple_crime_fu_p]= '1',1,0) plus   if([ple_friend_fu_p]= '1',1,0) plus   if([ple_friend_injur_fu_p]= '1',1,0) plus   if([ple_financial_fu_p]= '1',1,0) plus  if([ple_sud_fu_p]= '1',1,0) plus  if([ple_ill_fu_p]= '1',1,0) plus  if([ple_injur_fu_p]= '1',1,0) plus   if([ple_argue_fu_p]= '1',1,0) plus   if([ple_job_fu_p]= '1',1,0) plus  if([ple_away_fu_p]= '1',1,0) plus  if([ple_arrest_fu_p]= '1',1,0) plus   if([ple_friend_died_fu_p]= '1',1,0) plus   if([ple_mh_fu_p]= '1',1,0) plus   if([ple_sib_fu_p]= '1',1,0) plus   if([ple_victim_fu_p]= '1',1,0) plus   if([ple_separ_fu_p]= '1',1,0) plus   if([ple_law_fu_p]= '1',1,0) plus   if([ple_school_fu_p]= '1',1,0) plus  if([ple_move_fu_p]= '1',1,0) plus     if([ple_jail_fu_p]= '1',1,0) plus   if([ple_step_fu_p]= '1',1,0) plus   if([ple_new_job_fu_p]= '1',1,0) plus   if([ple_new_sib_fu_p] = '1',1,0)"
+    },
+    "ple_p_ss_total_bad": {
+        "Description": "Total Number of Bad Events\n: Validation: No Minimum | Calculation: if([ple_died_fu_p] = '2',1,0) plus   if([ple_injured_fu_p] = '2',1,0) plus if([ple_crime_fu_p]= '2',1,0) plus   if([ple_friend_fu_p]= '2',1,0) plus   if([ple_friend_injur_fu_p]= '2',1,0) plus   if([ple_financial_fu_p]= '2',1,0) plus  if([ple_sud_fu_p]= '2',1,0) plus  if([ple_ill_fu_p]= '2',1,0) plus  if([ple_injur_fu_p]= '2',1,0) plus   if([ple_argue_fu_p]= '2',1,0) plus   if([ple_job_fu_p]= '2',1,0) plus  if([ple_away_fu_p]= '2',1,0) plus  if([ple_arrest_fu_p]= '2',1,0) plus   if([ple_friend_died_fu_p]= '2',1,0) plus   if([ple_mh_fu_p]= '2',1,0) plus   if([ple_sib_fu_p]= '2',1,0) plus   if([ple_victim_fu_p]= '2',1,0) plus   if([ple_separ_fu_p]= '2',1,0) plus   if([ple_law_fu_p]= '2',1,0) plus   if([ple_school_fu_p]= '2',1,0) plus  if([ple_move_fu_p]= '2',1,0) plus     if([ple_jail_fu_p]= '2',1,0) plus   if([ple_step_fu_p]= '2',1,0) plus   if([ple_new_job_fu_p]= '2',1,0) plus   if([ple_new_sib_fu_p] = '2',1,0)"
+    },
+    "ple_p_ss_affected_good_sum": {
+        "Description": "How Much Affected Good: Validation: No Minimum | Calculation: if([ple_died_fu_p] = '1',[ple_died_fu2_p],0) plus  if([ple_injured_fu_p] = '1',[ple_injured_fu2_p],0) plus if([ple_crime_fu_p]= '1',[ple_crime_fu2_p],0) plus  if([ple_friend_fu_p]= '1',[ple_friend_fu2_p],0) plus   if([ple_friend_injur_fu_p] = '1',[ple_friend_injur_fu2_p],0) plus   if([ple_financial_fu_p] = '1',[ple_financial_fu2_p],0) plus  if([ple_sud_fu_p]= '1',[ple_sud_fu2_p],0) plus  if([ple_ill_fu_p]= '1',[ple_ill_fu2_p],0) plus  if([ple_injur_fu_p]= '1',[ple_injur_fu2_p],0) plus   if([ple_argue_fu_p]= '1',[ple_argue_fu2_p],0) plus   if([ple_job_fu_p]= '1',[ple_job_fu2_p],0) plus  if([ple_away_fu_p]= '1',[ple_away_fu2_p],0) plus  if([ple_arrest_fu_p]= '1',[ple_arrest_fu2_p],0) plus   if([ple_friend_died_fu_p]= '1',[ple_friend_died_fu2_p],0) plus   if([ple_mh_fu_p]= '1',[ple_mh_fu2_p],0) plus   if([ple_sib_fu_p]= '1',[ple_sib_fu2_p],0) plus if([ple_victim_fu_p]= '1',[ple_victim_fu2_p],0) plus if([ple_separ_fu_p]= '1',[ple_separ_fu2_p],0) plus if([ple_law_fu_p]= '1',[ple_law_fu2_p],0) plus if([ple_school_fu_p]= '1',[ple_school_fu2_p],0) plus if([ple_move_fu_p]= '1',[ple_move_fu2_p],0) plus if([ple_jail_fu_p]= '1',[ple_jail_fu2_p],0) plus if([ple_step_fu_p]= '1',[ple_step_fu2_p],0) plus if([ple_new_job_fu_p]= '1',[ple_new_job_fu2_p],0) plus if([ple_new_sib_fu_p] = '1',[ple_new_sib_fu2_p],0)"
+    },
+    "ple_p_ss_affected_good_mean": {
+        "Description": "How Much Affected Good Mean\n: Validation: No Minimum | Calculation: [ple_p_ss_affected_good_sum] / [ple_p_ss_total_good]"
+    },
+    "ple_p_ss_affected_bad_sum": {
+        "Description": "How Much Affected Bad Sum\n: Validation: No Minimum | Calculation: if([ple_died_fu_p] = '2',[ple_died_fu2_p],0) plus   if([ple_injured_fu_p] = '2',[ple_injured_fu2_p],0) plus if([ple_crime_fu_p]= '2',[ple_crime_fu2_p],0) plus   if([ple_friend_fu_p]= '2',[ple_friend_fu2_p],0) plus   if([ple_friend_injur_fu_p] = '2',[ple_friend_injur_fu2_p],0) plus   if([ple_financial_fu_p]= '2',[ple_financial_fu2_p],0) plus  if([ple_sud_fu_p]= '2',[ple_sud_fu2_p],0) plus  if([ple_ill_fu_p]= '2',[ple_ill_fu2_p],0) plus  if([ple_injur_fu_p]= '2',[ple_injur_fu2_p],0) plus   if([ple_argue_fu_p]= '2',[ple_argue_fu2_p],0) plus   if([ple_job_fu_p]= '2',[ple_job_fu2_p],0) plus  if([ple_away_fu_p]= '2',[ple_away_fu2_p],0) plus  if([ple_arrest_fu_p]= '2',[ple_arrest_fu2_p],0) plus   if([ple_friend_died_fu_p]= '2',[ple_friend_died_fu2_p],0) plus if([ple_mh_fu_p]= '2',[ple_mh_fu2_p],0) plus if([ple_sib_fu_p]= '2',[ple_sib_fu2_p],0) plus if([ple_victim_fu_p]= '2',[ple_victim_fu2_p],0) plus if([ple_separ_fu_p]= '2',[ple_separ_fu2_p],0) plus if([ple_law_fu_p]= '2',[ple_law_fu2_p],0) plus   if([ple_school_fu_p]= '2',[ple_school_fu2_p],0) plus  if([ple_move_fu_p]= '2',[ple_move_fu2_p],0) plus if([ple_jail_fu_p]= '2',[ple_jail_fu2_p],0) plus if([ple_step_fu_p]= '2',[ple_step_fu2_p],0) plus if([ple_new_job_fu_p]= '2',[ple_new_job_fu2_p],0) plus if([ple_new_sib_fu_p] = '2',[ple_new_sib_fu2_p],0)"
+    },
+    "ple_p_ss_affected_bad_mean": {
+        "Description": "How Much Affected Bad Mean\n: Validation: No Minimum | Calculation: [ple_p_ss_affected_bad_sum] / [ple_p_ss_total_bad]"
+    },
+    "ple_p_ss_affected_mean": {
+        "Description": "How Much Affected Mean\n: Validation: No Minimum | Calculation: mean( [ple_died_fu2_p], [ple_injured_fu2_p], [ple_crime_fu2_p], [ple_friend_fu2_p], [ple_friend_injur_fu2_p], [ple_financial_fu2_p], [ple_sud_fu2_p], [ple_ill_fu2_p], [ple_injur_fu2_p], [ple_argue_fu2_p], [ple_job_fu2_p], [ple_away_fu2_p], [ple_arrest_fu2_p], [ple_friend_died_fu2_p], [ple_mh_fu2_p], [ple_sib_fu2_p], [ple_victim_fu2_p], [ple_separ_fu2_p], [ple_law_fu2_p], [ple_school_fu2_p], [ple_move_fu2_p],[ple_jail_fu2_p], [ple_step_fu2_p], [ple_new_job_fu2_p], [ple_new_sib_fu2_p] )"
+    },
+    "ple_p_ss_affect_sum": {
+        "Description": "How Much Affected Sum\n: Validation: No Minimum | Calculation: sum( [ple_died_fu2_p], [ple_injured_fu2_p], [ple_crime_fu2_p], [ple_friend_fu2_p], [ple_friend_injur_fu2_p], [ple_financial_fu2_p], [ple_sud_fu2_p], [ple_ill_fu2_p], [ple_injur_fu2_p], [ple_argue_fu2_p], [ple_job_fu2_p], [ple_away_fu2_p], [ple_arrest_fu2_p], [ple_friend_died_fu2_p], [ple_mh_fu2_p], [ple_sib_fu2_p], [ple_victim_fu2_p], [ple_separ_fu2_p], [ple_law_fu2_p], [ple_school_fu2_p], [ple_move_fu2_p], [ple_jail_fu2_p], [ple_step_fu2_p], [ple_new_job_fu2_p], [ple_new_sib_fu2_p] )"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "apqc_smri_topo_ndefect": {
+        "Description": "Number of topology defects for left and right hemispheres before topology correction"
+    },
+    "apqc_dmri_fov_cutoff_dorsal": {
+        "Description": "Maximum dorsal cutoff score in dMRI FM images"
+    },
+    "apqc_dmri_fov_cutoff_ventral": {
+        "Description": "Maximum ventral cutoff score in dMRI FM images"
+    },
+    "apqc_dmri_bounwarp_flag": {
+        "Description": "Scans available for dMRI B0 unwarp"
+    },
+    "apqc_dmri_pepolar_diff": {
+        "Description": "Phase-encode polarity difference score for dMRI fieldmap"
+    },
+    "apqc_dmri_b0dx_rms": {
+        "Description": "Root mean square of estimated B0 displacements in phase-encode direction for dMRI fieldmap"
+    },
+    "apqc_fmri_fov_cutoff_dorsal": {
+        "Description": "Maximum dorsal cutoff score in fMRI FM images"
+    },
+    "apqc_fmri_fov_cutoff_ventral": {
+        "Description": "Maximum ventral cutoff score in fMRI FM images"
+    },
+    "apqc_fmri_bounwarp_flag": {
+        "Description": "Scans available for fMRI B0 unwarp"
+    },
+    "apqc_fmri_pepolar_diff": {
+        "Description": "Phase-encode polarity difference score for fMRI fieldmap"
+    },
+    "apqc_fmri_b0dx_rms": {
+        "Description": "Root mean square of estimated B0 displacements in phase-encode direction for fMRI fieldmap"
+    },
+    "apqc_fmri_intra_tsnr": {
+        "Description": "Intrascan temporal signal to noise ratio averaged within brain mask averaged across runs"
+    },
+    "apqc_fmri_inter_tsnr": {
+        "Description": "Interrscan temporal signal to noise ratio averaged within brain mask"
+    },
+    "apqc_smri_t2w_regt1_rigid": {
+        "Description": "Normalized score indicating displacement and rotation of T2w volume relative to T1w volume"
+    },
+    "apqc_smri_t2w_regt1_warp": {
+        "Description": "Normalized score indicating stretching of T2w volume relative to T1w volume"
+    },
+    "apqc_dmri_regt1_rigid": {
+        "Description": "Normalized score indicating displacement and rotation of dMRI fieldmap relative to T1w volume"
+    },
+    "apqc_dmri_regt1_warp": {
+        "Description": "Normalized score indicating stretching of dMRI fieldmap relative to T1w volume"
+    },
+    "apqc_fmri_regt1_rigid": {
+        "Description": "Normalized score indicating displacement and rotation of fMRI fieldmap relative to T1w volume"
+    },
+    "apqc_fmri_regt1_warp": {
+        "Description": "Normalized score indicating stretching of fMRI fieldmap relative to T1w volume"
+    }
+}

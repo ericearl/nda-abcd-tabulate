@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "covid_geo_error": {
+        "Description": "Participant had additional address(es) that could were unable to be geocoded."
+    },
+    "reshist_addr1_percentOfTime": {
+        "Description": "Percentage of time spent at address 1"
+    },
+    "reshist_addr2_percentOfTime": {
+        "Description": "Percentage of time spent at address 2"
+    },
+    "reshist_addr3_percentOfTime": {
+        "Description": "Percentage of time spent at address 3"
+    },
+    "reshist_addr4_percentOfTime": {
+        "Description": "Percentage of time spent at address 4"
+    },
+    "reshist_addr5_percentOfTime": {
+        "Description": "Percentage of time spent at address 5"
+    }
+}

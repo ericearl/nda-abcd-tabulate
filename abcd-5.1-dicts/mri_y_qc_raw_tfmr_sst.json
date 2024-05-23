@@ -1,0 +1,909 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_sst_1_suid": {
+        "Description": "SST #1: Study instance UID"
+    },
+    "iqc_sst_1_seuid": {
+        "Description": "SST #1: Series instance UID"
+    },
+    "iqc_sst_1_studydate": {
+        "Description": "SST #1: Study date"
+    },
+    "iqc_sst_1_seriestime": {
+        "Description": "SST #1: Series time"
+    },
+    "iqc_sst_1_fm_missing": {
+        "Description": "SST #1: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_1_fm_wronglocus": {
+        "Description": "SST #1: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_1_fm_invalid": {
+        "Description": "SST #1: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_1_fm_qc_score": {
+        "Description": "SST FM #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_1_fm_pc_score": {
+        "Description": "SST FM #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_1_fm_complete": {
+        "Description": "SST FM #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_1_qc_score": {
+        "Description": "SST #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_1_pc_score": {
+        "Description": "SST #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_1_complete": {
+        "Description": "SST #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_1_voxvol": {
+        "Description": "SST #1: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_1_brainvol": {
+        "Description": "SST #1: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_1_brain_mean": {
+        "Description": "SST #1: Mean intensity within brain mask"
+    },
+    "iqc_sst_1_brain_std": {
+        "Description": "SST #1: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_1_nreps": {
+        "Description": "SST #1: Number of pulse repetitions"
+    },
+    "iqc_sst_1_tr": {
+        "Description": "SST #1: Repetition time in seconds"
+    },
+    "iqc_sst_1_mean_motion": {
+        "Description": "SST #1: Mean framewise displacement in mm"
+    },
+    "iqc_sst_1_mean_motion_nody": {
+        "Description": "SST #1: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_1_mean_motion_filt": {
+        "Description": "SST #1: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_1_mm_filt_nody": {
+        "Description": "SST #1: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_1_fwhm_x": {
+        "Description": "SST #1: Full width half max in x direction"
+    },
+    "iqc_sst_1_fwhm_y": {
+        "Description": "SST #1: Full width half max in y direction"
+    },
+    "iqc_sst_1_fwhm_z": {
+        "Description": "SST #1: Full width half max in z direction"
+    },
+    "iqc_sst_1_brain_tsnr_mean": {
+        "Description": "SST #1: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_1_brain_tsnr_median": {
+        "Description": "SST #1: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_1_brain_tsnr_std": {
+        "Description": "SST #1: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_1_sub_02_nody": {
+        "Description": "SST #1: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_1_sub_02_filt_nody": {
+        "Description": "SST #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_1_sub_02_filt": {
+        "Description": "SST #1: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_1_sub_02": {
+        "Description": "SST #1: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_2_suid": {
+        "Description": "SST #2: Study instance UID"
+    },
+    "iqc_sst_2_seuid": {
+        "Description": "SST #2: Series instance UID"
+    },
+    "iqc_sst_2_studydate": {
+        "Description": "SST #2: Study date"
+    },
+    "iqc_sst_2_seriestime": {
+        "Description": "SST #2: Series time"
+    },
+    "iqc_sst_2_fm_missing": {
+        "Description": "SST #2: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_2_fm_wronglocus": {
+        "Description": "SST #2: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_2_fm_invalid": {
+        "Description": "SST #2: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_2_fm_qc_score": {
+        "Description": "SST FM #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_2_fm_pc_score": {
+        "Description": "SST FM #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_2_fm_complete": {
+        "Description": "SST FM #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_2_qc_score": {
+        "Description": "SST #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_2_pc_score": {
+        "Description": "SST #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_2_complete": {
+        "Description": "SST #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_2_voxvol": {
+        "Description": "SST #2: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_2_brainvol": {
+        "Description": "SST #2: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_2_brain_mean": {
+        "Description": "SST #2: Mean intensity within brain mask"
+    },
+    "iqc_sst_2_brain_std": {
+        "Description": "SST #2: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_2_nreps": {
+        "Description": "SST #2: Number of pulse repetitions"
+    },
+    "iqc_sst_2_tr": {
+        "Description": "SST #2: Repetition time in seconds"
+    },
+    "iqc_sst_2_mean_motion": {
+        "Description": "SST #2: Mean framewise displacement in mm"
+    },
+    "iqc_sst_2_mean_motion_nody": {
+        "Description": "SST #2: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_2_mean_motion_filt": {
+        "Description": "SST #2: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_2_mm_filt_nody": {
+        "Description": "SST #2: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_2_fwhm_x": {
+        "Description": "SST #2: Full width half max in x direction"
+    },
+    "iqc_sst_2_fwhm_y": {
+        "Description": "SST #2: Full width half max in y direction"
+    },
+    "iqc_sst_2_fwhm_z": {
+        "Description": "SST #2: Full width half max in z direction"
+    },
+    "iqc_sst_2_brain_tsnr_mean": {
+        "Description": "SST #2: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_2_brain_tsnr_median": {
+        "Description": "SST #2: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_2_brain_tsnr_std": {
+        "Description": "SST #2: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_2_sub_02_nody": {
+        "Description": "SST #2: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_2_sub_02_filt_nody": {
+        "Description": "SST #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_2_sub_02_filt": {
+        "Description": "SST #2: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_2_sub_02": {
+        "Description": "SST #2: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_3_suid": {
+        "Description": "SST #3: Study instance UID"
+    },
+    "iqc_sst_3_seuid": {
+        "Description": "SST #3: Series instance UID"
+    },
+    "iqc_sst_3_studydate": {
+        "Description": "SST #3: Study date"
+    },
+    "iqc_sst_3_seriestime": {
+        "Description": "SST #3: Series time"
+    },
+    "iqc_sst_3_fm_missing": {
+        "Description": "SST #3: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_3_fm_wronglocus": {
+        "Description": "SST #3: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_3_fm_invalid": {
+        "Description": "SST #3: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_3_fm_qc_score": {
+        "Description": "SST FM #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_3_fm_pc_score": {
+        "Description": "SST FM #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_3_fm_complete": {
+        "Description": "SST FM #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_3_qc_score": {
+        "Description": "SST #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_3_pc_score": {
+        "Description": "SST #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_3_complete": {
+        "Description": "SST #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_3_voxvol": {
+        "Description": "SST #3: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_3_brainvol": {
+        "Description": "SST #3: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_3_brain_mean": {
+        "Description": "SST #3: Mean intensity within brain mask"
+    },
+    "iqc_sst_3_brain_std": {
+        "Description": "SST #3: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_3_nreps": {
+        "Description": "SST #3: Number of pulse repetitions"
+    },
+    "iqc_sst_3_tr": {
+        "Description": "SST #3: Repetition time in seconds"
+    },
+    "iqc_sst_3_mean_motion": {
+        "Description": "SST #3: Mean framewise displacement in mm"
+    },
+    "iqc_sst_3_mean_motion_nody": {
+        "Description": "SST #3: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_3_mean_motion_filt": {
+        "Description": "SST #3: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_3_mm_filt_nody": {
+        "Description": "SST #3: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_3_fwhm_x": {
+        "Description": "SST #3: Full width half max in x direction"
+    },
+    "iqc_sst_3_fwhm_y": {
+        "Description": "SST #3: Full width half max in y direction"
+    },
+    "iqc_sst_3_fwhm_z": {
+        "Description": "SST #3: Full width half max in z direction"
+    },
+    "iqc_sst_3_brain_tsnr_mean": {
+        "Description": "SST #3: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_3_brain_tsnr_median": {
+        "Description": "SST #3: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_3_brain_tsnr_std": {
+        "Description": "SST #3: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_3_sub_02_nody": {
+        "Description": "SST #3: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_3_sub_02_filt_nody": {
+        "Description": "SST #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_3_sub_02_filt": {
+        "Description": "SST #3: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_3_sub_02": {
+        "Description": "SST #3: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_4_suid": {
+        "Description": "SST #4: Study instance UID"
+    },
+    "iqc_sst_4_seuid": {
+        "Description": "SST #4: Series instance UID"
+    },
+    "iqc_sst_4_studydate": {
+        "Description": "SST #4: Study date"
+    },
+    "iqc_sst_4_seriestime": {
+        "Description": "SST #4: Series time"
+    },
+    "iqc_sst_4_fm_missing": {
+        "Description": "SST #4: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_4_fm_wronglocus": {
+        "Description": "SST #4: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_4_fm_invalid": {
+        "Description": "SST #4: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_4_fm_qc_score": {
+        "Description": "SST FM #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_4_fm_pc_score": {
+        "Description": "SST FM #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_4_fm_complete": {
+        "Description": "SST FM #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_4_qc_score": {
+        "Description": "SST #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_4_pc_score": {
+        "Description": "SST #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_4_complete": {
+        "Description": "SST #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_4_voxvol": {
+        "Description": "SST #4: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_4_brainvol": {
+        "Description": "SST #4: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_4_brain_mean": {
+        "Description": "SST #4: Mean intensity within brain mask"
+    },
+    "iqc_sst_4_brain_std": {
+        "Description": "SST #4: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_4_nreps": {
+        "Description": "SST #4: Number of pulse repetitions"
+    },
+    "iqc_sst_4_tr": {
+        "Description": "SST #4: Repetition time in seconds"
+    },
+    "iqc_sst_4_mean_motion": {
+        "Description": "SST #4: Mean framewise displacement in mm"
+    },
+    "iqc_sst_4_mean_motion_nody": {
+        "Description": "SST #4: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_4_mean_motion_filt": {
+        "Description": "SST #4: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_4_mm_filt_nody": {
+        "Description": "SST #4: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_4_fwhm_x": {
+        "Description": "SST #4: Full width half max in x direction"
+    },
+    "iqc_sst_4_fwhm_y": {
+        "Description": "SST #4: Full width half max in y direction"
+    },
+    "iqc_sst_4_fwhm_z": {
+        "Description": "SST #4: Full width half max in z direction"
+    },
+    "iqc_sst_4_brain_tsnr_mean": {
+        "Description": "SST #4: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_4_brain_tsnr_median": {
+        "Description": "SST #4: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_4_brain_tsnr_std": {
+        "Description": "SST #4: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_4_sub_02_nody": {
+        "Description": "SST #4: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_4_sub_02_filt_nody": {
+        "Description": "SST #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_4_sub_02_filt": {
+        "Description": "SST #4: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_4_sub_02": {
+        "Description": "SST #4: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_5_suid": {
+        "Description": "SST #5: Study instance UID"
+    },
+    "iqc_sst_5_seuid": {
+        "Description": "SST #5: Series instance UID"
+    },
+    "iqc_sst_5_studydate": {
+        "Description": "SST #5: Study date"
+    },
+    "iqc_sst_5_seriestime": {
+        "Description": "SST #5: Series time"
+    },
+    "iqc_sst_5_fm_missing": {
+        "Description": "SST #5: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_5_fm_wronglocus": {
+        "Description": "SST #5: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_5_fm_invalid": {
+        "Description": "SST #5: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_5_fm_qc_score": {
+        "Description": "SST FM #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_5_fm_pc_score": {
+        "Description": "SST FM #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_5_fm_complete": {
+        "Description": "SST FM #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_5_qc_score": {
+        "Description": "SST #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_5_pc_score": {
+        "Description": "SST #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_5_complete": {
+        "Description": "SST #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_5_voxvol": {
+        "Description": "SST #5: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_5_brainvol": {
+        "Description": "SST #5: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_5_brain_mean": {
+        "Description": "SST #5: Mean intensity within brain mask"
+    },
+    "iqc_sst_5_brain_std": {
+        "Description": "SST #5: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_5_nreps": {
+        "Description": "SST #5: Number of pulse repetitions"
+    },
+    "iqc_sst_5_tr": {
+        "Description": "SST #5: Repetition time in seconds"
+    },
+    "iqc_sst_5_mean_motion": {
+        "Description": "SST #5: Mean framewise displacement in mm"
+    },
+    "iqc_sst_5_mean_motion_nody": {
+        "Description": "SST #5: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_5_mean_motion_filt": {
+        "Description": "SST #5: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_5_fwhm_x": {
+        "Description": "SST #5: Full width half max in x direction"
+    },
+    "iqc_sst_5_fwhm_y": {
+        "Description": "SST #5: Full width half max in y direction"
+    },
+    "iqc_sst_5_fwhm_z": {
+        "Description": "SST #5: Full width half max in z direction"
+    },
+    "iqc_sst_5_brain_tsnr_mean": {
+        "Description": "SST #5: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_5_brain_tsnr_median": {
+        "Description": "SST #5: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_5_brain_tsnr_std": {
+        "Description": "SST #5: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_5_sub_02_nody": {
+        "Description": "SST #5: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_5_sub_02_filt_nody": {
+        "Description": "SST #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_5_sub_02_filt": {
+        "Description": "SST #5: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_5_sub_02": {
+        "Description": "SST #5: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_6_suid": {
+        "Description": "SST #6: Study instance UID"
+    },
+    "iqc_sst_6_seuid": {
+        "Description": "SST #6: Series instance UID"
+    },
+    "iqc_sst_6_studydate": {
+        "Description": "SST #6: Study date"
+    },
+    "iqc_sst_6_seriestime": {
+        "Description": "SST #6: Series time"
+    },
+    "iqc_sst_6_fm_missing": {
+        "Description": "SST #6: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_sst_6_fm_wronglocus": {
+        "Description": "SST #6: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_sst_6_fm_invalid": {
+        "Description": "SST #6: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_sst_6_fm_qc_score": {
+        "Description": "SST FM #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_6_fm_pc_score": {
+        "Description": "SST FM #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_6_fm_complete": {
+        "Description": "SST FM #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_6_qc_score": {
+        "Description": "SST #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_6_pc_score": {
+        "Description": "SST #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_sst_6_complete": {
+        "Description": "SST #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_sst_6_voxvol": {
+        "Description": "SST #6: Volume of single voxel (mm^3)"
+    },
+    "iqc_sst_6_brainvol": {
+        "Description": "SST #6: Volume of brain mask (mm^3)"
+    },
+    "iqc_sst_6_brain_mean": {
+        "Description": "SST #6: Mean intensity within brain mask"
+    },
+    "iqc_sst_6_brain_std": {
+        "Description": "SST #6: Standard deviation of intensities within brain mask"
+    },
+    "iqc_sst_6_nreps": {
+        "Description": "SST #6: Number of pulse repetitions"
+    },
+    "iqc_sst_6_tr": {
+        "Description": "SST #6: Repetition time in seconds"
+    },
+    "iqc_sst_6_mean_motion": {
+        "Description": "SST #6: Mean framewise displacement in mm"
+    },
+    "iqc_sst_6_mean_motion_nody": {
+        "Description": "SST #6: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_sst_6_mean_motion_filt": {
+        "Description": "SST #6: Mean framewise displacement in mm using the filtering technique"
+    },
+    "iqc_sst_6_mm_filt_nody": {
+        "Description": "SST #6: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_6_fwhm_x": {
+        "Description": "SST #6: Full width half max in x direction"
+    },
+    "iqc_sst_6_fwhm_y": {
+        "Description": "SST #6: Full width half max in y direction"
+    },
+    "iqc_sst_6_fwhm_z": {
+        "Description": "SST #6: Full width half max in z direction"
+    },
+    "iqc_sst_6_brain_tsnr_mean": {
+        "Description": "SST #6: Mean temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_6_brain_tsnr_median": {
+        "Description": "SST #6: Median temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_6_brain_tsnr_std": {
+        "Description": "SST #6: Standard deviation of temporal signal-to-noise ratio within brain"
+    },
+    "iqc_sst_6_sub_02_nody": {
+        "Description": "SST #6: Total number of seconds of run with framewise displacement below 0.2mm without y-displacement"
+    },
+    "iqc_sst_6_sub_02_filt_nody": {
+        "Description": "SST #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_6_sub_02_filt": {
+        "Description": "SST #6: Total number of seconds of run with framewise displacement below 0.2mm using the filtering technique"
+    },
+    "iqc_sst_6_sub_02": {
+        "Description": "SST #6: Number of seconds run had framewise displacement below 0.2mm"
+    },
+    "iqc_sst_total_ser": {
+        "Description": "SST: Total number received"
+    },
+    "iqc_sst_total_passpc": {
+        "Description": "SST: Number that passed protocol compliance"
+    },
+    "iqc_sst_total_passqc": {
+        "Description": "SST: Number that passed visual quality control (QC)"
+    },
+    "iqc_sst_good_ser": {
+        "Description": "SST: Number of runs that were complete, passed protocol compliance and QC, and had field maps acquired within 2 scans prior to the run that were complete and passed QC and protocol compliance"
+    },
+    "iqc_sst_ok_ser": {
+        "Description": "SST: Number of series that are complete and passed QC (ignoring PC)"
+    },
+    "iqc_sst_bad_ser": {
+        "Description": "SST: Number that failed either protocol compliance or QC"
+    },
+    "iqc_sst_ser_pc_issues": {
+        "Description": "SST: Number with protocol compliance issues"
+    },
+    "iqc_sst_ser_qcs": {
+        "Description": "SST: Number with QC issues"
+    },
+    "iqc_sst_ser_incomp": {
+        "Description": "SST: Number of series missing files at DAIC"
+    },
+    "iqc_sst_good_ser_wofm": {
+        "Description": "SST: Number that passed protocol compliance and QC ignoring field maps"
+    },
+    "iqc_sst_fm_missing": {
+        "Description": "SST FM: Number of missing field maps"
+    },
+    "iqc_sst_fm_wronglocus": {
+        "Description": "SST FM: Number of field maps not acquired within 2 scans prior to fMRI run"
+    },
+    "iqc_sst_fm_invalid": {
+        "Description": "SST FM: Number of invalid field maps"
+    },
+    "iqc_sst_fm_pc_issues": {
+        "Description": "SST FM: Number with protocol compliance issues"
+    },
+    "iqc_sst_fm_qcs": {
+        "Description": "SST FM: Number with QC issues"
+    },
+    "iqc_sst_fm_incomp": {
+        "Description": "SST FM: Number of series missing files at DAIC"
+    },
+    "iqc_sst_gh_qc": {
+        "Description": "SST: Number with ghosting"
+    },
+    "iqc_sst_hb_qc": {
+        "Description": "SST: Number with horizontal banding"
+    },
+    "iqc_sst_sus_qc": {
+        "Description": "SST: Number with susceptibility artifact"
+    },
+    "iqc_sst_moire_qc": {
+        "Description": "SST: Number with moire artifact"
+    },
+    "iqc_sst_other_qc": {
+        "Description": "SST: Number with other QC issue"
+    },
+    "iqc_sst_fm_gh_qc": {
+        "Description": "SST FM: Number with ghosting"
+    },
+    "iqc_sst_fm_hb_qc": {
+        "Description": "SST FM: Number with horizontal banding"
+    },
+    "iqc_sst_fm_sus_qc": {
+        "Description": "SST FM: Number with susceptibility artifact"
+    },
+    "iqc_sst_fm_moire_qc": {
+        "Description": "SST FM: Number with moire artifact"
+    },
+    "iqc_sst_fm_other_qc": {
+        "Description": "SST FM: Number with other QC issue"
+    },
+    "iqc_sst_all_voxvol": {
+        "Description": "SST: Mean volume of single voxel averaged across all scans (mm^3)"
+    },
+    "iqc_sst_ok_voxvol": {
+        "Description": "SST: Mean volume of single voxel averaged across all OK scans (mm^3)"
+    },
+    "iqc_sst_all_brainvol": {
+        "Description": "SST: Mean volume of brain mask averaged across all scans (mm^3)"
+    },
+    "iqc_sst_ok_brainvol": {
+        "Description": "SST: Mean volume of brain mask for averaged across all OK scans (mm^3)"
+    },
+    "iqc_sst_all_brain_mean": {
+        "Description": "SST: Mean intensity within brain mask averaged across all scans"
+    },
+    "iqc_sst_ok_brain_mean": {
+        "Description": "SST: Mean intensity within brain mask averaged across all OK scans"
+    },
+    "iqc_sst_all_brain_std": {
+        "Description": "SST: Standard deviation of intensities within brain mask averaged across all scans"
+    },
+    "iqc_sst_ok_brain_std": {
+        "Description": "SST: Standard deviation of intensities within brain mask averaged across all OK scans"
+    },
+    "iqc_sst_all_nreps": {
+        "Description": "SST: Total number of repetitions for all scans"
+    },
+    "iqc_sst_ok_nreps": {
+        "Description": "SST: Total number of repetitions for all OK scans"
+    },
+    "iqc_sst_all_tr": {
+        "Description": "SST: Repetition time for all scans"
+    },
+    "iqc_sst_ok_tr": {
+        "Description": "SST: Repetition time for all OK scans"
+    },
+    "iqc_sst_all_mean_motion": {
+        "Description": "SST: Mean framewise displacement in mm for all scans"
+    },
+    "iqc_sst_ok_mean_motion": {
+        "Description": "SST: Mean framewise displacement in mm for all OK scans"
+    },
+    "iqc_sst_all_mean_motion_nody": {
+        "Description": "SST: Mean framewise displacement in mm for all scans without y-displacement"
+    },
+    "iqc_sst_ok_mean_motion_nody": {
+        "Description": "SST: Mean framewise displacement in mm for all OK scans without y-displacement"
+    },
+    "iqc_sst_all_mean_motion_filt": {
+        "Description": "SST: Mean framewise displacement in mm using the filtering technique for all scans"
+    },
+    "iqc_sst_ok_mean_motion_filt": {
+        "Description": "SST: Mean framewise displacement in mm using the filtering technique for all OK scans"
+    },
+    "iqc_sst_all_mm_filt_nody": {
+        "Description": "SST: Mean framewise displacement in mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_sst_ok_mm_filt_nody": {
+        "Description": "SST: Mean framewise displacement in mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "iqc_sst_all_fwhm_x": {
+        "Description": "SST: Full width half max in x direction for all scans"
+    },
+    "iqc_sst_ok_fwhm_x": {
+        "Description": "SST: Full width half max in x direction for all OK scans"
+    },
+    "iqc_sst_all_fwhm_y": {
+        "Description": "SST: Full width half max in y direction for all scans"
+    },
+    "iqc_sst_ok_fwhm_y": {
+        "Description": "SST: Full width half max in y direction for all OK scans"
+    },
+    "iqc_sst_all_fwhm_z": {
+        "Description": "SST: Full width half max in z direction for all scans"
+    },
+    "iqc_sst_ok_fwhm_z": {
+        "Description": "SST: Full width half max in z direction for all OK scans"
+    },
+    "iqc_sst_all_brain_tsnr_mean": {
+        "Description": "SST: Mean temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_sst_ok_brain_tsnr_mean": {
+        "Description": "SST: Mean temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_sst_all_brain_tsnr_median": {
+        "Description": "SST: Median temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_sst_ok_brain_tsnr_median": {
+        "Description": "SST: Median temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_sst_all_brain_tsnr_std": {
+        "Description": "SST: Standard deviation of temporal signal to noise ratio within brain of all scans"
+    },
+    "iqc_sst_ok_brain_tsnr_std": {
+        "Description": "SST: Standard deviation of temporal signal to noise ratio within brain of all OK scans"
+    },
+    "iqc_sst_total_sub_02_nody": {
+        "Description": "SST: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all scans"
+    },
+    "iqc_sst_ok_sub_02_nody": {
+        "Description": "SST: Total number of seconds with framewise displacement below 0.2mm without y-displacement for all OK scans"
+    },
+    "iqc_sst_total_sub_02_filt_nody": {
+        "Description": "SST: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all scans"
+    },
+    "iqc_sst_ok_sub_02_filt_nody": {
+        "Description": "SST: Total number of seconds of framewise displacement below 0.2mm using the filtering technique and without y-displacement for all OK scans"
+    },
+    "iqc_sst_total_sub_02_filt": {
+        "Description": "SST: Total number of seconds of framewise displacement below 0.2mm using the filtering technique for all scans"
+    },
+    "iqc_sst_ok_sub_02_filt": {
+        "Description": "SST: Total number of seconds of framewise displacement below 0.2mm using the filtering technique for all OK scans"
+    },
+    "iqc_sst_total_sub_02": {
+        "Description": "SST: Total number of seconds of run(s) with framewise displacement below 0.2mm"
+    },
+    "iqc_sst_ok_sub_02": {
+        "Description": "SST: Total number of seconds of framewise displacement below 0.2mm for all OK scans"
+    },
+    "iqc_sst_5_mean_motion_filtnody": {
+        "Description": "SST #5: Mean framewise displacement in mm using the filtering technique and without y-displacement"
+    },
+    "iqc_sst_ep_behav_readable": {
+        "Description": "Able to read behavioral data from E-Prime SST file"
+    },
+    "iqc_sst_ep_contents_ok": {
+        "Description": "File contains an E-Prime spreadsheet"
+    },
+    "iqc_sst_ep_exper_ok": {
+        "Description": "File contains E-Prime SST data"
+    },
+    "iqc_sst_ep_run": {
+        "Description": "Run, inside the E-Prime SST file that best matches the corresponding image series"
+    },
+    "iqc_sst_fm_fov_qc": {
+        "Description": "SST FM: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_sst_fm_line_qc": {
+        "Description": "SST FM: Number of dark axial slices across the brain"
+    },
+    "iqc_sst_fov_qc": {
+        "Description": "SST: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_sst_line_qc": {
+        "Description": "SST: Number of dark axial slices across the brain"
+    },
+    "iqc_sst_mbr_qc": {
+        "Description": "SST: Number of multiband interleave degradation"
+    },
+    "eprime_mismatch_ok_sst": {
+        "Description": "Ignore difference between time of SST image series and SST E-prime file"
+    },
+    "iqc_sst_ep_date": {
+        "Description": "Eprime SST date"
+    },
+    "iqc_sst_ep_datetime_found": {
+        "Description": "Eprime SST file found and readable"
+    },
+    "iqc_sst_ep_file_found": {
+        "Description": "SST E-prime file found and readable"
+    },
+    "iqc_sst_ep_file_resf": {
+        "Description": "Diagnostic number, formed by summing:       File found?   0  -->  [Unable to find file];    Encoding:   1,      2  -->  ['utf-8','utf-16'];   Separator: 10,     20  -->  [Tab, Comma];    Quoted rows?   0,    100  -->  [No, Yes];  Start_time_info:              0,   1000  -->  [Found, Unable to extract]; File read?  0,  10000  -->  [Yes,   Unable to read];  Filename contains '()':   100000  -->  [Yes];   Experiment matches filename?    1000000  -->  [No]"
+    },
+    "iqc_sst_ep_lap_missing": {
+        "Description": "SST eprime file (laptop) missing"
+    },
+    "iqc_sst_ep_pguid_mis": {
+        "Description": "SST eprime data file has mismatched pGUID"
+    },
+    "iqc_sst_ep_scan_missing": {
+        "Description": "SST eprime file (scanner) missing"
+    },
+    "iqc_sst_ep_t_rel_to_series_max": {
+        "Description": "Maximum time difference found between E-prime SST file and associated fMRI or MRI from the same session  (Float),  minutes."
+    },
+    "iqc_sst_ep_t_rel_to_series_min": {
+        "Description": "Minimum time difference found between E-prime SST file and associated fMRI or MRI from the same session   (Float),  minutes."
+    },
+    "iqc_sst_ep_t_series_match": {
+        "Description": "SST imaging-series and behavioral-data files match, i.e. time difference less than a threshold time."
+    },
+    "iqc_sst_ep_time": {
+        "Description": "Eprime SST starting time"
+    },
+    "iqc_sst_eprime_missing": {
+        "Description": "SST E-prime file missing"
+    },
+    "iqc_sst_imported": {
+        "Description": "SST: Total number imported"
+    },
+    "iqc_sst_missing": {
+        "Description": "SST: Total number missing"
+    },
+    "iqc_sst_missing_ks": {
+        "Description": "SST: Total number with missing kspace data"
+    },
+    "iqc_sst_needrawqc": {
+        "Description": "SST: at least one series needs rawQC"
+    },
+    "iqc_sst_procfail": {
+        "Description": "SST: at least one series has a processing error before autoQC"
+    },
+    "iqc_sst_received": {
+        "Description": "SST: Total number received"
+    },
+    "iqc_sst_recon_err": {
+        "Description": "SST: Total number with reconstruction errors"
+    },
+    "iqc_sst_recon_req": {
+        "Description": "SST: Total number require reconstruction"
+    },
+    "iqc_sst_reconned": {
+        "Description": "SST: Total number reconstructed"
+    },
+    "iqc_sst_rename_err": {
+        "Description": "SST: Total number with rename error"
+    },
+    "iqc_sst_series_time": {
+        "Description": "Time of first SST imaging series"
+    },
+    "iqc_sst_study_date": {
+        "Description": "Date of first SST imaging series"
+    },
+    "iqc_sst_unpack_err": {
+        "Description": "SST: Total number with unpack errors"
+    },
+    "iqc_sst_unpacked": {
+        "Description": "SST: Total number unpacked"
+    },
+    "iqc_sst_waitautoqc": {
+        "Description": "SST: at least one series is waiting for autoQC"
+    }
+}

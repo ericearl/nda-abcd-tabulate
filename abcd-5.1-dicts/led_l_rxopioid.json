@@ -1,0 +1,60 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_opioid_Rxper100K_0": {
+        "Description": "Residential history derived - opioid prescription per 100K by state at baseline visit year (address 1)"
+    },
+    "reshist_addr1_opioid_Rxper100K_1": {
+        "Description": "Residential history derived - opioid prescription per 100K by state one year before baseline visit year (address 1)"
+    },
+    "reshist_addr1_opioid_Rxper100K_2": {
+        "Description": "Residential history derived - opioid prescription per 100K by state two years before baseline visit year (address 1)"
+    },
+    "reshist_addr1_opioid_Rxper100K_3": {
+        "Description": "Residential history derived - opioid prescription per 100K by state three years before baseline visit year (address 1)"
+    },
+    "reshist_addr1_opioid_Rxper100K_4": {
+        "Description": "Residential history derived - opioid prescription per 100K by state four years before baseline visit year (address 1)"
+    },
+    "reshist_addr1_opioid_Rxper100K_5": {
+        "Description": "Residential history derived - opioid prescription per 100K by state five years before baseline visit year (address 1)"
+    },
+    "reshist_addr2_opioid_Rxper100K_0": {
+        "Description": "Residential history derived - opioid prescription per 100K by state at baseline visit year (address 2)"
+    },
+    "reshist_addr2_opioid_Rxper100K_1": {
+        "Description": "Residential history derived - opioid prescription per 100K by state one year before baseline visit year (address 2)"
+    },
+    "reshist_addr2_opioid_Rxper100K_2": {
+        "Description": "Residential history derived - opioid prescription per 100K by state two years before baseline visit year (address 2)"
+    },
+    "reshist_addr2_opioid_Rxper100K_3": {
+        "Description": "Residential history derived - opioid prescription per 100K by state three years before baseline visit year (address 2)"
+    },
+    "reshist_addr2_opioid_Rxper100K_4": {
+        "Description": "Residential history derived - opioid prescription per 100K by state four years before baseline visit year (address 2)"
+    },
+    "reshist_addr2_opioid_Rxper100K_5": {
+        "Description": "Residential history derived - opioid prescription per 100K by state five years before baseline visit year (address 2)"
+    },
+    "reshist_addr3_opioid_Rxper100K_0": {
+        "Description": "Residential history derived - opioid prescription per 100K by state at baseline visit year (address 3)"
+    },
+    "reshist_addr3_opioid_Rxper100K_1": {
+        "Description": "Residential history derived - opioid prescription per 100K by state one year before baseline visit year (address 3)"
+    },
+    "reshist_addr3_opioid_Rxper100K_2": {
+        "Description": "Residential history derived - opioid prescription per 100K by state two years before baseline visit year (address 3)"
+    },
+    "reshist_addr3_opioid_Rxper100K_3": {
+        "Description": "Residential history derived - opioid prescription per 100K by state three years before baseline visit year (address 3)"
+    },
+    "reshist_addr3_opioid_Rxper100K_4": {
+        "Description": "Residential history derived - opioid prescription per 100K by state four years before baseline visit year (address 3)"
+    },
+    "reshist_addr3_opioid_Rxper100K_5": {
+        "Description": "Residential history derived - opioid prescription per 100K by state five years before baseline visit year (address 3)"
+    }
+}

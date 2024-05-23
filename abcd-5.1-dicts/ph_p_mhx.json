@@ -1,0 +1,1014 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "medhx_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "medhx_1a": {
+        "Description": "During the past year, has your child been to see a doctor, nurse, nurse practitioner, dentist, or any other health professional like that, OTHER than for regular checkups? /En el \u00faltimo a\u00f1o? / \u00bfsu ni\u00f1o(a) ha visto a un m\u00e9dico, enfermero(a), dentista o alg\u00fan otro profesional similar de la salud, por alg\u00fan motivo distinto a sus chequeos peri\u00f3dicos? | 1 = Yes /S\u00ed; 0 = No/ No; 6 = Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No/ No",
+            "6": "Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_1b": {
+        "Description": "has your child been to see a doctor, nurse, nurse practitioner, dentist, or any other health professional like that, OTHER than for regular checkups. What about the rest of his/her life before the past year? / \u00bfY durante el resto de su vida antes del \u00faltimo a\u00f1o? | 1 = Yes /S\u00ed; 0 = No/ No; 6 = Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No/ No",
+            "6": "Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2a": {
+        "Description": "Asthma Asma | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2b": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Allergies Alergias | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2c": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Brain Injury /Lesi\u00f3n Cerebral | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2d": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Bronchitis /Bronquitus | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2e": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Cancer/Leukemia //C\u00e1ncer/Leucimia | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2f": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Cerebral Palsy Par\u00e1lisis Cerebral | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2g": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Diabetes Diabetes | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2h": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Epilepsy or Seizures Epilepsia o convulsiones | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2i": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Hearing Problem Problema Auditivo | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2j": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Kidney Disease /Enfermedad Renal | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2k": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Lead Poisoning /Intoxicaci\u00f3n por Plomo | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Has she/he ever been to a doctor for any of these things\u2026Muscular Dystrophy /Distrofia muscular | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2m": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Multiple Sclerosis Esclerosis m\u00faltiple | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2n": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Has she/he ever been to a doctor for any of these things\u2026Problems with Vision (including the need for glasses) /Problemas de la vista (incluyendo la necesidad de lentes/gafas) | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2o": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Problems with Heart Problemas del coraz\u00f3n | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "medhx_2p": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Sickle Cell Anemia /Anemia de c\u00e9lulas falciformes | 1 = Yes; 0 = No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2q": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Very Bad Headaches /Dolores de cabeza muy intensos | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2r": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026An Operation /Cirug\u00edas | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_2s": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026Any Other Illness /Cualquier otra enfermedad | 1 = Yes; 0 = No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes",
+            "0": "No // Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_4a": {
+        "Description": "Has he/she been to an emergency room in the past year? / \u00bfSu ni\u00f1o(a) ha visitado una sala de emergencias en el \u00faltimo a\u00f1o? | 1 = Yes /S\u00ed; 0 = No /No; 6 = Don't know /No S\u00e9; 7 = Refuse to answer /Niego contestar //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No /No",
+            "6": "Don't know /No S\u00e9",
+            "7": "Refuse to answer /Niego contestar //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_4b": {
+        "Description": "How many times has he/she been to the emergency room in that past year? / \u00bfCu\u00e1ntas veces ha visitado \u00e9l/ella la sala de emergencias en este \u00faltimo a\u00f1o? | 1 = 1 time /1 vez; 2 = 2 times /2 veces; 3 = 3-4 times/ 3-4 veces; 4 = 5-9 times /5-9 veces; 5 = 10+ times/ 10+ veces //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "1 time /1 vez",
+            "2": "2 times /2 veces",
+            "3": "3-4 times/ 3-4 veces",
+            "4": "5-9 times /5-9 veces",
+            "5": "10+ times/ 10+ veces //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_5a": {
+        "Description": "Has he/she been to the emergency room any time BEFORE this past year, that is, any other time in his/her whole life? / \u00bfSu ni\u00f1o(a) visit\u00f3 la sala de emergencias en alg\u00fan momento ANTES de este \u00faltimo a\u00f1o; es decir, en alg\u00fan otro momento de su vida? | 1 = Yes /S\u00ed; 0 = No /No; 6 = Don't know /No S\u00e9; 7 = Refuse to answer /Niego contestar //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No /No",
+            "6": "Don't know /No S\u00e9",
+            "7": "Refuse to answer /Niego contestar //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_5b": {
+        "Description": "How many times did s(he) go to the emergency room before the past year? / \u00bfCu\u00e1ntas veces acudi\u00f3 a la sala de emergencias antes de este \u00faltimo a\u00f1o ? | 1 = 1 time /1 vez; 2 = 2 times /2 veces; 3 = 3-4 times/ 3-4 veces; 4 = 5-9 times /5-9 veces; 5 = 10+ times/ 10+ veces //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "1 time /1 vez",
+            "2": "2 times /2 veces",
+            "3": "3-4 times/ 3-4 veces",
+            "4": "5-9 times /5-9 veces",
+            "5": "10+ times/ 10+ veces //Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6a": {
+        "Description": "Has she/he ever been to a doctor for any of these things\u2026 Broken Bones Fracturas | 1 = Yes S\u00ed; 0 = No No",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No"
+        }
+    },
+    "medhx_6a_notes": {
+        "Description": "Broken Bones. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6b": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Sprains /Esguinces | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6b_notes": {
+        "Description": "Sprains. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6c": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Cuts or Scrapes /Cortadas o rasgu\u00f1os | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6c_times": {
+        "Description": "Cuts or Scrapes. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6d": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Stitches /Suturas | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6d_notes": {
+        "Description": "Stitches. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6e": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Other Serious Wounds /Otras heridas graves | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6e_times": {
+        "Description": "Other Serious Wounds. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6f": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Falls/ Ca\u00eddas | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6f_notes": {
+        "Description": "Falls. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6g": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Burns /Quemaduras | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6g_times": {
+        "Description": "Burns. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6h": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...High Fever /Fiebre alta | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6h_times": {
+        "Description": "High Fever. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6i": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Head Injury /Lesi\u00f3n en la cabeza | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6i_times": {
+        "Description": "Head Injury. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6j": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Knocked Unconscious/ P\u00e9rdida del conocimiento | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6j_times": {
+        "Description": "Knocked Unconscious. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6k": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Bruises /Moretones | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6k_times": {
+        "Description": "Bruises. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Asthma Attack/ Ataque de asma | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6l_notes": {
+        "Description": "Asthma Attack. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6m": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Broken Teeth/ Dientes rotos | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6m_times": {
+        "Description": "Broken Teeth. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6n": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Animal Bite/ Mordedura de animal | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6n_notes": {
+        "Description": "Animal Bite. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6o": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Overdose/ Sobredosis | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6o_notes": {
+        "Description": "Overdose. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6p": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Seizure/ Convulsi\u00f3n | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6p_notes": {
+        "Description": "Seizure. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6q": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Accidental Poisoning/ Envenenamiento accidental | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6q_notes": {
+        "Description": "Accidental Poisoning. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6r": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Gun Shot Wound /Herida por arma de fuego | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6r_notes": {
+        "Description": "Gun Shot Wound. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6s": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Wound from knife or any other weapon /Herida por cuchillo o cualquier otra arma | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6s_times": {
+        "Description": "Wound from knife or any other weapon. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_6t": {
+        "Description": "Has he/she ever been to a doctor, a nurse, nurse practitioner, the emergency room or a clinic because any of these things happened...Other /Otro hospitalization reasons | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_6t_times": {
+        "Description": "Other hospitalizations. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_8a": {
+        "Description": "Has he/she ever been in the hospital overnight or longer? / \u00bf\u00c9l/ella ha pasado una noche o m\u00e1s  en el hospital? | 1 = Yes /S\u00ed; 0 = No/ No; 6 = Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No/ No",
+            "6": "Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_9a": {
+        "Description": "Has he/she ever had general anesthesia or sedation for any surgery or procedure? / \u00bfAlguna vez \u00e9l/ella ha estado bajo anestesia general o sedaci\u00f3n para alguna cirug\u00eda o procedimiento? | 1 = Yes /S\u00ed; 0 = No/ No; 6 = Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes /S\u00ed",
+            "0": "No/ No",
+            "6": "Don't know /No s\u00e9//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_9b": {
+        "Description": "general anesthesia or sedation for any surgery or procedure. How many times? / \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_9c": {
+        "Description": "general anesthesia or sedation for any surgery or procedure. At what age for the most recent time? / \u00bfA qu\u00e9 edad durante el tiempo m\u00e1s reciente? | Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+    },
+    "medhx_11": {
+        "Description": "Is he/she able to see the difference between blue and green? / \u00bfEs su ni\u00f1o(a) capaz de ver la diferencia entre el azul y el verde? | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_12": {
+        "Description": "How about the difference between blue and yellow? / \u00bfQu\u00e9 tal la diferencia entre el azul y el amarillo? | 1 = Yes/ S\u00ed; 0 = No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life.",
+        "Levels": {
+            "1": "Yes/ S\u00ed",
+            "0": "No/ No//Now I'd like to ask you about your child's use of health services during the past year and throughout his/her whole life."
+        }
+    },
+    "medhx_ss_4b_p": {
+        "Description": "How many times has he/she been to the emergency room in that past year? | 0 = 0; 1 = 1 time; 2 = 2 times; 3 = 3-4 times; 4 = 5-9 times; 5 = >10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_4b].",
+        "Levels": {
+            "0": "0",
+            "1": "1 time",
+            "2": "2 times",
+            "3": "3-4 times",
+            "4": "5-9 times",
+            "5": ">10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_4b]."
+        }
+    },
+    "medhx_ss_5b_p": {
+        "Description": "How many times did s(he) go to the emergency room before the past year? | 0 = 0; 1 = 1 time; 2 = 2 times; 3 = 3-4 times; 4 = 5-9 times; 5 = >10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_5b].",
+        "Levels": {
+            "0": "0",
+            "1": "1 time",
+            "2": "2 times",
+            "3": "3-4 times",
+            "4": "5-9 times",
+            "5": ">10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_5b]."
+        }
+    },
+    "medhx_ss_6a_times_p": {
+        "Description": "Broken Bones\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6a_notes]."
+    },
+    "medhx_ss_6b_times_p": {
+        "Description": "Sprains\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6b_notes]."
+    },
+    "medhx_ss_6c_times_p": {
+        "Description": "Scrapes\n: How many times | If yes is endorsed, parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6c_times]."
+    },
+    "medhx_ss_6d_times_p": {
+        "Description": "Stitches\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6d_notes]."
+    },
+    "medhx_ss_6e_times_p": {
+        "Description": "Other Serious Wounds\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6e_times]."
+    },
+    "medhx_ss_6f_times_p": {
+        "Description": "Falls\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6f_notes]."
+    },
+    "medhx_ss_6g_times_p": {
+        "Description": "Burns\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6g_times]."
+    },
+    "medhx_ss_6h_times_p": {
+        "Description": "High Fever\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6h_times]."
+    },
+    "medhx_ss_6i_times_p": {
+        "Description": "Head Injury: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6i_times]."
+    },
+    "medhx_ss_6j_times_p": {
+        "Description": "Knocked Unconscious\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6j_times]."
+    },
+    "medhx_ss_6k_times_p": {
+        "Description": "Bruises: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6k_times]."
+    },
+    "medhx_ss_6l_times_p": {
+        "Description": "Asthma Attack\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6l_notes]."
+    },
+    "medhx_ss_6m_times_p": {
+        "Description": "Broken Teeth\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6m_times]."
+    },
+    "medhx_ss_6n_times_p": {
+        "Description": "Animal Bite\n: How many times? [medhx_6m_times] | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6n_notes]."
+    },
+    "medhx_ss_6o_times_p": {
+        "Description": "Overdose\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6o_notes]."
+    },
+    "medhx_ss_6p_times_p": {
+        "Description": "Seizure\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6p_notes]."
+    },
+    "medhx_ss_6q_times_p": {
+        "Description": "Accidental Poisoning\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6q_notes]."
+    },
+    "medhx_ss_6r_times_p": {
+        "Description": "Gun Shot Wound\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6r_notes]."
+    },
+    "medhx_ss_6s_times_p": {
+        "Description": "Wound from knife or any other weapon\n: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6s_times]."
+    },
+    "medhx_ss_9b_p": {
+        "Description": "Has he/she ever had general anesthesia or sedation for any surgery or procedure: How many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_9b]."
+    },
+    "medhx_ss_6t_times_p": {
+        "Description": "Other\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6t_times]."
+    },
+    "medhx_l_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "medhx_1a_l": {
+        "Description": "During the past year, has your child been to see a doctor, nurse, nurse practitioner, dentist, or any other health professional like that, OTHER than for regular checkups? En el \u00faltimo a\u00f1o, \u00bfsu ni\u00f1o(a) ha visto a un m\u00e9dico, enfermero(a), dentista o alg\u00fan otro profesional similar de la salud, por alg\u00fan motivo DISTINTO a sus chequeos peri\u00f3dicos? | 1 = Yes S\u00cd; 0 = No No; 6 = Don't know No s\u00e9",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No",
+            "6": "Don't know No s\u00e9"
+        }
+    },
+    "medhx_2a_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Asthma Asma | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2b_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Allergies Alergias | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2c_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Brain Injury Lesi\u00f3n Cerebral | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2d_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Bronchitis Bronquitus | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2e_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Cancer/Leukemia C\u00e1ncer/Leucimia | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2f_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Cerebral Palsy Par\u00e1lisis Cerebral | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2g_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Diabetes Diabetes | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2h_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Epilepsy or Seizures Epilepsia o convulsiones | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2i_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Hearing Problem Problema Auditivo | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2j_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Kidney Disease Enfermedad Renal | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2k_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Lead Poisoning Intoxicaci\u00f3n por Plomo | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2l_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Muscular Dystrophy Distrofia muscular | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2m_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Multiple Sclerosis Esclerosis m\u00faltiple | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2n_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Problems with Vision (including the need for glasses) Problemas de la vista (incluyendo la necesidad de lentes/gafas) | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2o_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Problems with Heart Problemas del coraz\u00f3n | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2p_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Sickle Cell Anemia Anemia de c\u00e9lulas falciformes | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2q_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Very Bad Headaches Dolores de cabeza muy intensos | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2r_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? An Operation Cirug\u00edas | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_2_notes2_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Any Other Illness Cualquier otra enfermedad | 1 = Yes S\u00cd; 0 = No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00cd",
+            "0": "No No// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_4a_l": {
+        "Description": "Has your child been to an emergency room since we last saw you? | 1 = Yes S\u00ed; 0 = No No; 6 = Don't know No S\u00e9; 7 = Refuse to answer Niego contestar// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No",
+            "6": "Don't know No S\u00e9",
+            "7": "Refuse to answer Niego contestar// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_4b_l": {
+        "Description": "How many times has your child been to the emergency room since we last saw you on [asnt_timestamp_c]? | 1 = 1 time 1 vez; 2 = 2 times 2 veces; 3 = 3-4 times 3-4 veces; 4 = 5-9 times 5-9 veces; 5 = 10+ times 10+ veces// Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "1 time 1 vez",
+            "2": "2 times 2 veces",
+            "3": "3-4 times 3-4 veces",
+            "4": "5-9 times 5-9 veces",
+            "5": "10+ times 10+ veces// Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6a_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Broken Bones Fracturas | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6a_notes_l": {
+        "Description": "Broken Bones: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6b_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Sprains Esguinces | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6b_notes_l": {
+        "Description": "Sprains: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6c_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Cuts or Scrapes Cortadas o rasgu\u00f1os | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6c_times_l": {
+        "Description": "Cuts or Scrapes: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6d_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Stitches Suturas | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6d_notes_l": {
+        "Description": "Stitches: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6e_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Other Serious Wounds Otras heridas graves | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6e_times_l": {
+        "Description": "Other Serious Wounds: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6f_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Falls Ca\u00eddas | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6f_notes_l": {
+        "Description": "Falls: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6g_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Burns Quemaduras | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6g_times_l": {
+        "Description": "Burns: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6h_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? High Fever Fiebre alta | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6h_times_l": {
+        "Description": "High Fever: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6i_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Head Injury Lesi\u00f3n en la cabeza | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6i_times_l": {
+        "Description": "Head Injury: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6j_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Knocked Unconscious P\u00e9rdida del conocimiento | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6j_times_l": {
+        "Description": "Knocked Unconscious: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6k_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Bruises Moretones | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6k_times_l": {
+        "Description": "Bruises: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6l_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Asthma Attack Ataque de asma | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6l_notes_l": {
+        "Description": "Asthma Attack: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6m_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Broken Teeth Dientes rotos | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6m_times_l": {
+        "Description": "Broken Teeth: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6n_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Animal Bite Mordedura de animal | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6n_notes_l": {
+        "Description": "Animal Bite: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6o_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Overdose Sobredosis | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6o_notes_l": {
+        "Description": "Overdose: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6p_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Seizure Convulsi\u00f3n | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6p_notes_l": {
+        "Description": "Seizure: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6q_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Accidental Poisoning Envenenamiento accidental | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6q_notes_l": {
+        "Description": "Accidental Poisoning: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6r_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Gun Shot Wound Herida por arma de fuego | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6r_notes_l": {
+        "Description": "Gun Shot Wound: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6s_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Wound from knife or any other weapon Herida por cuchillo o cualquier otra arma | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6s_times_l": {
+        "Description": "Knife or Other Weapon Wound: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_6t_l": {
+        "Description": "Since we last saw you, has she/he been to a doctor for any of these things? Other Otro | 1 = Yes S\u00ed; 0 = No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No //Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_6t_times_l": {
+        "Description": "Other: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_8a_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child been in the hospital overnight or longer? | 1 = Yes S\u00ed; 0 = No No; 6 = Don't know No s\u00e9//Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No",
+            "6": "Don't know No s\u00e9//Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_9a_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c],  has your child had general anesthesia or sedation for any surgery or procedure? | 1 = Yes S\u00ed; 0 = No No; 6 = Don't know No s\u00e9//Now I'd like to ask you about your child's use of health services since we last saw you on_____.",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No",
+            "6": "Don't know No s\u00e9//Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+        }
+    },
+    "medhx_9b_l": {
+        "Description": "General Anesthesia or Sedation: How many times? \u00bfCu\u00e1ntas veces? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_9c_l": {
+        "Description": "At what age for the most recent time (years)? \u00bfA qu\u00e9 edad durante el tiempo m\u00e1s reciente? | Now I'd like to ask you about your child's use of health services since we last saw you on_____."
+    },
+    "medhx_11_l": {
+        "Description": "Is your child able to see the difference between blue and green? | 1 = Yes S\u00ed; 0 = No No",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No"
+        }
+    },
+    "medhx_12_l": {
+        "Description": "How about the difference between blue and yellow? \u00bfQu\u00e9 tal la diferencia entre el azul y el amarillo? | 1 = Yes S\u00ed; 0 = No No",
+        "Levels": {
+            "1": "Yes S\u00ed",
+            "0": "No No"
+        }
+    },
+    "medhx_2t_l": {
+        "Description": "Rare Medical Condition not on this list | 1=Yes; 0=No ([medhx_1a_l] = '1' or [medhx_1a_l] = '6') and ([event-name] = '4_year_follow_up_y_arm_1')",
+        "Levels": {
+            "1": "Yes",
+            "0": "No ("
+        }
+    },
+    "medhx_13_l": {
+        "Description": "Has your child ever received the HPV (human papillomavirus) vaccine? (This is a vaccination sometimes given at ages 11-12.) | 1=Yes ; 0=No ; 999=Not sure ; 777=Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Not sure",
+            "777": "Decline to answer"
+        }
+    },
+    "medhx_ss_4b_p_l": {
+        "Description": "How many times has he/she been to the emergency room in that past year? | 0 = 0; 1 = 1 time; 2 = 2 times; 3 = 3-4 times; 4 = 5-9 times; 5 = >10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_4b_l].",
+        "Levels": {
+            "0": "0",
+            "1": "1 time",
+            "2": "2 times",
+            "3": "3-4 times",
+            "4": "5-9 times",
+            "5": ">10+ times | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_4b_l]."
+        }
+    },
+    "medhx_ss_6a_times_p_l": {
+        "Description": "Broken Bones\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6a_notes_l]."
+    },
+    "medhx_ss_6b_times_p_l": {
+        "Description": "Sprains\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6b_notes_l]."
+    },
+    "medhx_ss_6c_times_p_l": {
+        "Description": "Scrapes\nHow many times | If yes is endorsed, parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6c_times_l]."
+    },
+    "medhx_ss_6d_times_p_l": {
+        "Description": "Stitches\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6d_notes_l]."
+    },
+    "medhx_ss_6e_times_p_l": {
+        "Description": "Other Serious Wounds\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6e_times_l]."
+    },
+    "medhx_ss_6f_times_p_l": {
+        "Description": "Falls\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6f_notes_l]."
+    },
+    "medhx_ss_6g_times_p_l": {
+        "Description": "Burns\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6g_times_l]."
+    },
+    "medhx_ss_6h_times_p_l": {
+        "Description": "High Fever\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6h_times_l]."
+    },
+    "medhx_ss_6i_times_p_l": {
+        "Description": "Head Injury\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6i_times_l]."
+    },
+    "medhx_ss_6j_times_p_l": {
+        "Description": "Knocked Unconscious\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6j_times_l]."
+    },
+    "medhx_ss_6k_times_p_l": {
+        "Description": "Bruises\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6k_times_l]."
+    },
+    "medhx_ss_6l_times_p_l": {
+        "Description": "Asthma Attack\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6l_notes_l]."
+    },
+    "medhx_ss_6m_times_p_l": {
+        "Description": "Broken Teeth\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6m_times_l]."
+    },
+    "medhx_ss_6n_times_p_l": {
+        "Description": "Animal Bite\nHow many times? [medhx_6m_times] | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6n_notes_l]."
+    },
+    "medhx_ss_6o_times_p_l": {
+        "Description": "Overdose\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6o_notes_l]."
+    },
+    "medhx_ss_6p_times_p_l": {
+        "Description": "Seizure\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6p_notes_l]."
+    },
+    "medhx_ss_6q_times_p_l": {
+        "Description": "Accidental Poisoning\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6q_notes_l]."
+    },
+    "medhx_ss_6r_times_p_l": {
+        "Description": "Gun Shot Wound\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6r_notes_l]."
+    },
+    "medhx_ss_6s_times_p_l": {
+        "Description": "Wound from knife or any other weapon\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6s_times_l]."
+    },
+    "medhx_ss_6t_times_p_l": {
+        "Description": "Other\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_6t_times_l]."
+    },
+    "medhx_ss_9b_p_l": {
+        "Description": "Has he/she ever had general anesthesia or sedation for any surgery or procedure?\nHow many times? | If yes is endorsed,  parent is then asked \"How many times.\" If no is endorsed, \"0\" has replaced missing [medhx_9b_l]."
+    }
+}

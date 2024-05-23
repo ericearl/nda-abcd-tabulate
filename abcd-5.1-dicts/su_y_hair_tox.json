@@ -1,0 +1,625 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_y_hair_date_accessioned": {
+        "Description": "Date on which hair was assayed"
+    },
+    "su_y_hair_status_y": {
+        "Description": "Hair sample collection status | 2 = Collected; 4 = Participant refused; 5 = Not collected, hair was not appropriate (too short, braids, etc.); 6 = Institution not authorized to collect samples due to COVID; 7 = Staff discomfort due to COVID; 8 = Exceed 15min of < 6ft distance from youth (COVID); 9 = Not approved by ABCD for collection; 3 = Not collected (other)",
+        "Levels": {
+            "2": "Collected",
+            "4": "Participant refused",
+            "5": "Not collected, hair was not appropriate (too short, braids, etc.)",
+            "6": "Institution not authorized to collect samples due to COVID",
+            "7": "Staff discomfort due to COVID",
+            "8": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "9": "Not approved by ABCD for collection",
+            "3": "Not collected (other)"
+        }
+    },
+    "su_y_hair_dot_y": {
+        "Description": "Datetime of sample collection"
+    },
+    "su_y_hair_color___1": {
+        "Description": "Natural color of hair: Brown | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___2": {
+        "Description": "Natural color of hair: Black | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___3": {
+        "Description": "Natural color of hair: Blonde | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___4": {
+        "Description": "Natural color of hair: Red | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___5": {
+        "Description": "Natural color of hair: White/Gray | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___6": {
+        "Description": "Natural color of hair: Other | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_color___7": {
+        "Description": "Natural color of hair: Unable to determine | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "su_y_hair_length": {
+        "Description": "Estimated length of hair | 1 = Short; 2 = Shoulder Length; 3 = Long",
+        "Levels": {
+            "1": "Short",
+            "2": "Shoulder Length",
+            "3": "Long"
+        }
+    },
+    "su_y_hair_cosmetic": {
+        "Description": "Any cosmetic treatment to the hair collected? | 1 = None; 2 = Yes, colored; 3 = Yes, highlights; 4 = Yes, perm or permanently straightened; 5 = Yes, other",
+        "Levels": {
+            "1": "None",
+            "2": "Yes, colored",
+            "3": "Yes, highlights",
+            "4": "Yes, perm or permanently straightened",
+            "5": "Yes, other"
+        }
+    },
+    "su_y_hair_selection": {
+        "Description": "Reason for selection for testing | 1 = High Risk; 2 = Randomly selected low risk; 3 = Special funding",
+        "Levels": {
+            "1": "High Risk",
+            "2": "Randomly selected low risk",
+            "3": "Special funding"
+        }
+    },
+    "su_y_hair_length_lab": {
+        "Description": "Length of hair tested at lab before testing (in cm)"
+    },
+    "su_y_hair_scr_coc_001": {
+        "Description": "Immunoassay screen for cocaine | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_opi_001": {
+        "Description": "Immunoassay screen for opiates | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_pcp_001": {
+        "Description": "Immunoassay screen for PCP | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_amp_001": {
+        "Description": "Immunoassay screen for amphetamines | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_can_001": {
+        "Description": "Immunoassay screen for THCCOOH | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_can_002": {
+        "Description": "THCCOOH assay (sent directly to mass spectrometry regardless of screen results) | 4 = Not completed; 3 = Completed; 666 = Quantity not sufficient",
+        "Levels": {
+            "4": "Not completed",
+            "3": "Completed",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_can_003": {
+        "Description": "Cannabinoids (THC, CBD, CBN, THCV) assay (sent directly to mass spectrometry regardless of screen results) | 3 = Completed; 666 = Quantity not sufficient",
+        "Levels": {
+            "3": "Completed",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_alc_001": {
+        "Description": "EtG (alcohol) assay (sent directly to mass spectrometry regardless of screen results) | 3 = Completed; 666 = Quantity not sufficient",
+        "Levels": {
+            "3": "Completed",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_nic_001": {
+        "Description": "Immunoassay screen for cotinine | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_bnz_001": {
+        "Description": "Immunoassay screen for benzodiazepines | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_scr_ftl_001": {
+        "Description": "Immunoassay screen for fentanyl | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_cnf_amp_001": {
+        "Description": "Confirmation mass spectrometry results for Amphetamine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_amp_001": {
+        "Description": "Quantification of mass spectrometry results for Amphetamine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_amp_002": {
+        "Description": "Confirmation mass spectrometry results for MDA (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_amp_002": {
+        "Description": "Quantification of mass spectrometry results for MDA (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_amp_003": {
+        "Description": "Confirmation mass spectrometry results for MDEA (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_amp_003": {
+        "Description": "Quantification of mass spectrometry results for MDEA (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_amp_004": {
+        "Description": "Confirmation mass spectrometry results for MDMA (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_amp_004": {
+        "Description": "Quantification of mass spectrometry results for MDMA (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_amp_005": {
+        "Description": "Confirmation mass spectrometry results for Methamphetamine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_amp_005": {
+        "Description": "Quantification of mass spectrometry results for Methamphetamine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_coc_001": {
+        "Description": "Confirmation mass spectrometry results for Benzoylecgonine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_001": {
+        "Description": "Quantification of mass spectrometry results for Benzoylecgonine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_coc_002": {
+        "Description": "Confirmation mass spectrometry results for Cocaethylene (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_002": {
+        "Description": "Quantification of mass spectrometry results for Cocaethylene (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_coc_003": {
+        "Description": "Confirmation mass spectrometry results for Cocaine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_003": {
+        "Description": "Quantification of mass spectrometry results for Cocaine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_coc_004": {
+        "Description": "Confirmation mass spectrometry results for Norcocaine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_004": {
+        "Description": "Quantification of mass spectrometry results for Norcocaine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_alc_001": {
+        "Description": "Confirmation mass spectrometry results for EtG (alcohol; run on GC-MS) (cutoff: 1 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_alc_001": {
+        "Description": "Quantification of mass spectrometry results for EtG (alcohol; run on GC-MS) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_alc_002": {
+        "Description": "Confirmation mass spectrometry results for EtG (alcohol; run on LC-MS) (cutoff: 2 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_alc_002": {
+        "Description": "Quantification of mass spectrometry results for EtG (alcohol; run on LC-MS) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_nic_001": {
+        "Description": "Confirmation mass spectrometry results for trans-3-Hydroxycotinine (cutoff: 10 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_nic_001": {
+        "Description": "Quantification of mass spectrometry results for trans-3-Hydroxycotinine (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_nic_002": {
+        "Description": "Confirmation mass spectrometry results for Cotinine (cutoff: 50 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_nic_002": {
+        "Description": "Quantification of mass spectrometry results for Cotinine (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_can_001": {
+        "Description": "Confirmation mass spectrometry results for Cannabidiol (CBD) (cutoff: 10 pg/1mg) | 0 = Negative; 1 = Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive"
+        }
+    },
+    "su_y_hair_qnt_can_001": {
+        "Description": "Quantification of mass spectrometry results for Cannabidiol (CBD) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_can_002": {
+        "Description": "Confirmation mass spectrometry results for Cannabinol (CBN) (cutoff: 10 pg/1mg) | 0 = Negative; 1 = Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive"
+        }
+    },
+    "su_y_hair_qnt_can_002": {
+        "Description": "Quantification of mass spectrometry results for Cannabinol (CBN) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_can_003": {
+        "Description": "Confirmation mass spectrometry results for Tetrahydrocannabinol (THC) (cutoff: 10 pg/1mg) | 0 = Negative; 1 = Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive"
+        }
+    },
+    "su_y_hair_qnt_can_003": {
+        "Description": "Quantification of mass spectrometry results for Tetrahydrocannabinol (THC) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_can_004": {
+        "Description": "Confirmation mass spectrometry results for Tetrahydrocannabivarin (THCV) (cutoff: 10 pg/1mg) | 0 = Negative; 1 = Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive"
+        }
+    },
+    "su_y_hair_qnt_can_004": {
+        "Description": "Quantification of mass spectrometry results for Tetrahydrocannabivarin (THCV) (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_can_005": {
+        "Description": "Confirmation mass spectrometry results for THCCOOH (cutoff: 0.2 pg/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_can_005": {
+        "Description": "Quantification of mass spectrometry results for THCCOOH (unit: pg/10mg)"
+    },
+    "su_y_hair_cnf_bnz_001": {
+        "Description": "Confirmation mass spectrometry results for Alprazolam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_001": {
+        "Description": "Quantification of mass spectrometry results for Alprazolam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_002": {
+        "Description": "Confirmation mass spectrometry results for Clonazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_002": {
+        "Description": "Quantification of mass spectrometry results for Clonazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_003": {
+        "Description": "Confirmation mass spectrometry results for Diazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_003": {
+        "Description": "Quantification of mass spectrometry results for Diazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_004": {
+        "Description": "Confirmation mass spectrometry results for Flunitrazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_004": {
+        "Description": "Quantification of mass spectrometry results for Flunitrazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_005": {
+        "Description": "Confirmation mass spectrometry results for Lorazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_005": {
+        "Description": "Quantification of mass spectrometry results for Lorazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_006": {
+        "Description": "Confirmation mass spectrometry results for Midazolam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_006": {
+        "Description": "Quantification of mass spectrometry results for Midazolam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_007": {
+        "Description": "Confirmation mass spectrometry results for Nordiazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_007": {
+        "Description": "Quantification of mass spectrometry results for Nordiazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_008": {
+        "Description": "Confirmation mass spectrometry results for Oxazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_008": {
+        "Description": "Quantification of mass spectrometry results for Oxazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_009": {
+        "Description": "Confirmation mass spectrometry results for Phenazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_009": {
+        "Description": "Quantification of mass spectrometry results for Phenazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_bnz_010": {
+        "Description": "Confirmation mass spectrometry results for Temazepam (cutoff: 5 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_bnz_010": {
+        "Description": "Quantification of mass spectrometry results for Temazepam (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_ftl_001": {
+        "Description": "Confirmation mass spectrometry results for Fentanyl (cutoff: 1 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_ftl_001": {
+        "Description": "Quantification of mass spectrometry results for Fentanyl (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_opi_001": {
+        "Description": "Confirmation mass spectrometry results for Hydrocodone (cutoff: . ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_001": {
+        "Description": "Quantification of mass spectrometry results for Hydrocodone (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_002": {
+        "Description": "Confirmation mass spectrometry results for Oxycodone (cutoff: .5 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_002": {
+        "Description": "Quantification of mass spectrometry results for Oxycodone (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_003": {
+        "Description": "Confirmation mass spectrometry results for Hydromorphone (cutoff: .5 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_003": {
+        "Description": "Quantification of mass spectrometry results for Hydromorphone (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_004": {
+        "Description": "Confirmation mass spectrometry results for Oxymorphone (cutoff: .5 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_004": {
+        "Description": "Quantification of mass spectrometry results for Oxymorphone (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_005": {
+        "Description": "Confirmation mass spectrometry results for Morphine (cutoff: .25 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_005": {
+        "Description": "Quantification of mass spectrometry results for Morphine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_006": {
+        "Description": "Confirmation mass spectrometry results for Codeine (cutoff: .5 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_006": {
+        "Description": "Quantification of mass spectrometry results for Codeine (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_opi_007": {
+        "Description": "Confirmation mass spectrometry results for 6-MAM (cutoff: .5 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_opi_007": {
+        "Description": "Quantification of mass spectrometry results for 6-MAM (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_pcp_001": {
+        "Description": "Confirmation mass spectrometry results for Phencyclidine (PCP) (cutoff: 1 ng/10mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_pcp_001": {
+        "Description": "Quantification of mass spectrometry results for Phencyclidine (PCP) (unit: ng/10mg)"
+    },
+    "su_y_hair_cnf_coc_005": {
+        "Description": "Confirmation mass spectrometry results for Meta-Hydroxycocaine (cutoff: 0.4 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_005": {
+        "Description": "Quantification of mass spectrometry results for Meta-Hydroxycocaine (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_coc_006": {
+        "Description": "Confirmation mass spectrometry results for Ortho-Hydroxycocaine (cutoff: 0.4 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_006": {
+        "Description": "Quantification of mass spectrometry results for Ortho-Hydroxycocaine (unit: pg/1mg)"
+    },
+    "su_y_hair_cnf_coc_007": {
+        "Description": "Confirmation mass spectrometry results for Para-Hydroxycocaine (cutoff: 0.4 pg/1mg) | 0 = Negative; 1 = Positive; 666 = Quantity not sufficient",
+        "Levels": {
+            "0": "Negative",
+            "1": "Positive",
+            "666": "Quantity not sufficient"
+        }
+    },
+    "su_y_hair_qnt_coc_007": {
+        "Description": "Quantification of mass spectrometry results for Para-Hydroxycocaine (unit: pg/1mg)"
+    }
+}

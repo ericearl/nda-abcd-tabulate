@@ -1,0 +1,1230 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_sacgvf_bcdk_bktslh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sacgvf_bcdk_bktsrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sacgvf_bcdk_cdacgelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_cdacgerh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_cdmdfrlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sacgvf_bcdk_cdmdfrrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sacgvf_bcdk_culh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sacgvf_bcdk_curh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sacgvf_bcdk_ehinallh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sacgvf_bcdk_ehinalrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sacgvf_bcdk_frpelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sacgvf_bcdk_frperh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sacgvf_bcdk_fflh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sacgvf_bcdk_ffrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sacgvf_bcdk_ifpalh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sacgvf_bcdk_ifparh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sacgvf_bcdk_iftplh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sacgvf_bcdk_iftprh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sacgvf_bcdk_isalh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sacgvf_bcdk_isarh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sacgvf_bcdk_ihcgelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sacgvf_bcdk_ihcgerh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sacgvf_bcdk_laoclh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sacgvf_bcdk_laocrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sacgvf_bcdk_laobofrlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sacgvf_bcdk_laobofrrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sacgvf_bcdk_lglh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sacgvf_bcdk_lgrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sacgvf_bcdk_mobofrlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sacgvf_bcdk_mobofrrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sacgvf_bcdk_mdtplh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sacgvf_bcdk_mdtprh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sacgvf_bcdk_pacnlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sacgvf_bcdk_pacnrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sacgvf_bcdk_pahpallh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sacgvf_bcdk_pahpalrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sacgvf_bcdk_psopelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sacgvf_bcdk_psoperh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sacgvf_bcdk_psobslh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sacgvf_bcdk_psobsrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sacgvf_bcdk_pstglh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sacgvf_bcdk_pstgrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sacgvf_bcdk_pcnlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sacgvf_bcdk_pcnrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sacgvf_bcdk_postcnlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sacgvf_bcdk_postcnrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sacgvf_bcdk_pocgelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_pocgerh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_precnlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sacgvf_bcdk_precnrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sacgvf_bcdk_pculh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sacgvf_bcdk_pcurh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sacgvf_bcdk_racgelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_racgerh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sacgvf_bcdk_rmdfrlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sacgvf_bcdk_rmdfrrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sacgvf_bcdk_sufrlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sacgvf_bcdk_sufrrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sacgvf_bcdk_supalh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sacgvf_bcdk_suparh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sacgvf_bcdk_sutplh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sacgvf_bcdk_sutprh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sacgvf_bcdk_smlh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sacgvf_bcdk_smrh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sacgvf_bcdk_tppelh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sacgvf_bcdk_tpperh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sacgvf_bcdk_tvtplh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sacgvf_bcdk_tvtprh": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_all_211": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_all_245": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_all_212": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_all_246": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_all_213": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_all_247": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_all_214": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_all_248": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_all_215": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_all_249": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_all_241": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_all_275": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_all_216": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_all_250": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_all_217": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_all_251": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_all_218": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_all_252": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_all_244": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_all_278": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_all_219": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_all_253": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_all_220": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_all_254": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_all_221": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_all_255": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_all_222": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_all_256": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_all_223": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_all_257": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_all_224": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_all_258": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_all_226": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_all_260": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_all_225": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_all_259": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_all_227": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_all_261": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_all_228": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_all_262": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_all_229": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_all_263": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_all_230": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_all_264": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_all_231": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_all_265": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_all_232": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_all_266": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_all_233": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_all_267": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_all_234": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_all_268": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_all_235": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_all_269": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_all_236": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_all_270": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_all_237": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_all_271": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_all_238": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_all_272": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_all_239": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_all_273": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_all_240": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_all_274": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_all_242": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_all_276": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_all_243": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_all_277": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sstr1_211": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sstr1_245": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sstr1_212": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr1_246": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr1_213": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr1_247": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr1_214": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sstr1_248": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sstr1_215": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sstr1_249": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sstr1_241": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sstr1_275": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sstr1_216": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sstr1_250": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sstr1_217": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sstr1_251": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sstr1_218": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sstr1_252": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sstr1_244": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sstr1_278": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sstr1_219": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sstr1_253": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sstr1_220": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sstr1_254": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sstr1_221": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sstr1_255": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sstr1_222": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sstr1_256": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sstr1_223": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sstr1_257": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sstr1_224": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sstr1_258": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sstr1_226": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sstr1_260": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sstr1_225": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sstr1_259": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sstr1_227": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sstr1_261": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sstr1_228": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sstr1_262": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sstr1_229": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sstr1_263": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sstr1_230": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sstr1_264": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sstr1_231": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sstr1_265": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sstr1_232": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sstr1_266": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sstr1_233": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sstr1_267": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sstr1_234": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sstr1_268": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sstr1_235": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr1_269": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr1_236": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr1_270": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr1_237": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sstr1_271": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sstr1_238": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sstr1_272": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sstr1_239": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sstr1_273": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sstr1_240": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sstr1_274": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sstr1_242": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sstr1_276": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sstr1_243": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sstr1_277": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_r1sem_211": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_r1sem_245": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_r1sem_212": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_246": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_213": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_247": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_214": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_r1sem_248": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_r1sem_215": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_r1sem_249": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_r1sem_241": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_r1sem_275": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_r1sem_216": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_r1sem_250": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_r1sem_217": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_r1sem_251": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_r1sem_218": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_r1sem_252": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_r1sem_244": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_r1sem_278": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_r1sem_219": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_r1sem_253": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_r1sem_220": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_r1sem_254": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_r1sem_221": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r1sem_255": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r1sem_222": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_r1sem_256": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_r1sem_223": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_r1sem_257": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_r1sem_224": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_r1sem_258": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_r1sem_226": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_r1sem_260": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_r1sem_225": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_r1sem_259": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_r1sem_227": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_r1sem_261": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_r1sem_228": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_r1sem_262": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_r1sem_229": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_r1sem_263": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_r1sem_230": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_r1sem_264": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_r1sem_231": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_r1sem_265": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_r1sem_232": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_r1sem_266": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_r1sem_233": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_r1sem_267": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_r1sem_234": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_r1sem_268": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_r1sem_235": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_269": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r1sem_236": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_270": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r1sem_237": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_r1sem_271": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_r1sem_238": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_r1sem_272": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_r1sem_239": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_r1sem_273": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_r1sem_240": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_r1sem_274": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_r1sem_242": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_r1sem_276": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_r1sem_243": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_r1sem_277": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sstr2_211": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sstr2_245": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sstr2_212": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr2_246": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sstr2_213": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr2_247": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sstr2_214": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sstr2_248": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sstr2_215": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sstr2_249": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sstr2_241": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sstr2_275": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sstr2_216": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sstr2_250": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sstr2_217": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sstr2_251": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sstr2_218": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sstr2_252": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sstr2_244": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sstr2_278": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sstr2_219": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sstr2_253": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sstr2_220": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sstr2_254": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sstr2_221": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sstr2_255": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sstr2_222": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sstr2_256": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sstr2_223": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sstr2_257": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sstr2_224": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sstr2_258": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sstr2_226": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sstr2_260": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sstr2_225": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sstr2_259": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sstr2_227": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sstr2_261": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sstr2_228": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sstr2_262": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sstr2_229": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sstr2_263": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sstr2_230": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sstr2_264": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sstr2_231": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sstr2_265": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sstr2_232": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sstr2_266": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sstr2_233": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sstr2_267": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sstr2_234": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sstr2_268": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sstr2_235": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr2_269": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sstr2_236": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr2_270": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sstr2_237": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sstr2_271": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sstr2_238": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sstr2_272": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sstr2_239": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sstr2_273": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sstr2_240": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sstr2_274": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sstr2_242": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sstr2_276": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sstr2_243": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sstr2_277": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    },
+    "tfmri_sst_r2sem_211": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-bankssts"
+    },
+    "tfmri_sst_r2sem_245": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-bankssts"
+    },
+    "tfmri_sst_r2sem_212": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_246": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-caudalanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_213": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_247": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-caudalmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_214": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-cuneus"
+    },
+    "tfmri_sst_r2sem_248": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-cuneus"
+    },
+    "tfmri_sst_r2sem_215": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-entorhinal"
+    },
+    "tfmri_sst_r2sem_249": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-entorhinal"
+    },
+    "tfmri_sst_r2sem_241": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-frontalpole"
+    },
+    "tfmri_sst_r2sem_275": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-frontalpole"
+    },
+    "tfmri_sst_r2sem_216": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-fusiform"
+    },
+    "tfmri_sst_r2sem_250": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-fusiform"
+    },
+    "tfmri_sst_r2sem_217": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-inferiorparietal"
+    },
+    "tfmri_sst_r2sem_251": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-inferiorparietal"
+    },
+    "tfmri_sst_r2sem_218": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-inferiortemporal"
+    },
+    "tfmri_sst_r2sem_252": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-inferiortemporal"
+    },
+    "tfmri_sst_r2sem_244": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-insula"
+    },
+    "tfmri_sst_r2sem_278": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-insula"
+    },
+    "tfmri_sst_r2sem_219": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-isthmuscingulate"
+    },
+    "tfmri_sst_r2sem_253": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-isthmuscingulate"
+    },
+    "tfmri_sst_r2sem_220": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-lateraloccipital"
+    },
+    "tfmri_sst_r2sem_254": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-lateraloccipital"
+    },
+    "tfmri_sst_r2sem_221": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r2sem_255": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-lateralorbitofrontal"
+    },
+    "tfmri_sst_r2sem_222": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-lingual"
+    },
+    "tfmri_sst_r2sem_256": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-lingual"
+    },
+    "tfmri_sst_r2sem_223": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-medialorbitofrontal"
+    },
+    "tfmri_sst_r2sem_257": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-medialorbitofrontal"
+    },
+    "tfmri_sst_r2sem_224": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-middletemporal"
+    },
+    "tfmri_sst_r2sem_258": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-middletemporal"
+    },
+    "tfmri_sst_r2sem_226": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-paracentral"
+    },
+    "tfmri_sst_r2sem_260": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-paracentral"
+    },
+    "tfmri_sst_r2sem_225": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-parahippocampal"
+    },
+    "tfmri_sst_r2sem_259": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-parahippocampal"
+    },
+    "tfmri_sst_r2sem_227": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-parsopercularis"
+    },
+    "tfmri_sst_r2sem_261": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-parsopercularis"
+    },
+    "tfmri_sst_r2sem_228": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-parsorbitalis"
+    },
+    "tfmri_sst_r2sem_262": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-parsorbitalis"
+    },
+    "tfmri_sst_r2sem_229": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-parstriangularis"
+    },
+    "tfmri_sst_r2sem_263": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-parstriangularis"
+    },
+    "tfmri_sst_r2sem_230": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-pericalcarine"
+    },
+    "tfmri_sst_r2sem_264": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-pericalcarine"
+    },
+    "tfmri_sst_r2sem_231": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-postcentral"
+    },
+    "tfmri_sst_r2sem_265": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-postcentral"
+    },
+    "tfmri_sst_r2sem_232": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-posteriorcingulate"
+    },
+    "tfmri_sst_r2sem_266": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-posteriorcingulate"
+    },
+    "tfmri_sst_r2sem_233": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-precentral"
+    },
+    "tfmri_sst_r2sem_267": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-precentral"
+    },
+    "tfmri_sst_r2sem_234": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-precuneus"
+    },
+    "tfmri_sst_r2sem_268": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-precuneus"
+    },
+    "tfmri_sst_r2sem_235": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_269": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-rostralanteriorcingulate"
+    },
+    "tfmri_sst_r2sem_236": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_270": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-rostralmiddlefrontal"
+    },
+    "tfmri_sst_r2sem_237": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-superiorfrontal"
+    },
+    "tfmri_sst_r2sem_271": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-superiorfrontal"
+    },
+    "tfmri_sst_r2sem_238": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-superiorparietal"
+    },
+    "tfmri_sst_r2sem_272": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-superiorparietal"
+    },
+    "tfmri_sst_r2sem_239": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-superiortemporal"
+    },
+    "tfmri_sst_r2sem_273": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-superiortemporal"
+    },
+    "tfmri_sst_r2sem_240": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-supramarginal"
+    },
+    "tfmri_sst_r2sem_274": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-supramarginal"
+    },
+    "tfmri_sst_r2sem_242": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-temporalpole"
+    },
+    "tfmri_sst_r2sem_276": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-temporalpole"
+    },
+    "tfmri_sst_r2sem_243": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI lh-transversetemporal"
+    },
+    "tfmri_sst_r2sem_277": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in APARC ROI rh-transversetemporal"
+    }
+}

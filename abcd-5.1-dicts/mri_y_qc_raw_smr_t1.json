@@ -1,0 +1,198 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_t1_1_suid": {
+        "Description": "T1 #1: Study instance UID"
+    },
+    "iqc_t1_1_seuid": {
+        "Description": "T1 #1: Series instance UID"
+    },
+    "iqc_t1_1_studydate": {
+        "Description": "T1 #1: Study date"
+    },
+    "iqc_t1_1_seriestime": {
+        "Description": "T1 #1: Series time"
+    },
+    "iqc_t1_1_qc_score": {
+        "Description": "T1 #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_1_pc_score": {
+        "Description": "T1 #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_1_complete": {
+        "Description": "T1 #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_t1_1_voxvol": {
+        "Description": "T1 #1: Volume of single voxel (mm^3)"
+    },
+    "iqc_t1_1_brainvol": {
+        "Description": "T1 #1: Volume of brain mask (mm^3)"
+    },
+    "iqc_t1_1_brain_mean": {
+        "Description": "T1 #1: Mean intensity within brain mask"
+    },
+    "iqc_t1_1_brain_std": {
+        "Description": "T1 #1: Standard deviation of intensities within brain mask"
+    },
+    "iqc_t1_2_suid": {
+        "Description": "T1 #2: Study instance UID"
+    },
+    "iqc_t1_2_seuid": {
+        "Description": "T1 #2: Series instance UID"
+    },
+    "iqc_t1_2_studydate": {
+        "Description": "T1 #2: Study date"
+    },
+    "iqc_t1_2_seriestime": {
+        "Description": "T1 #2: Series time"
+    },
+    "iqc_t1_2_qc_score": {
+        "Description": "T1 #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_2_pc_score": {
+        "Description": "T1 #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_2_complete": {
+        "Description": "T1 #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_t1_2_voxvol": {
+        "Description": "T1 #2: Volume of single voxel (mm^3)"
+    },
+    "iqc_t1_2_brainvol": {
+        "Description": "T1 #2: Volume of brain mask (mm^3)"
+    },
+    "iqc_t1_2_brain_mean": {
+        "Description": "T1 #2: Mean intensity within brain mask"
+    },
+    "iqc_t1_2_brain_std": {
+        "Description": "T1 #2: Standard deviation of intensities within brain mask"
+    },
+    "iqc_t1_3_suid": {
+        "Description": "T1 #3: Study instance UID"
+    },
+    "iqc_t1_3_seuid": {
+        "Description": "T1 #3: Series instance UID"
+    },
+    "iqc_t1_3_studydate": {
+        "Description": "T1 #3: Study date"
+    },
+    "iqc_t1_3_seriestime": {
+        "Description": "T1 #3: Series time"
+    },
+    "iqc_t1_3_qc_score": {
+        "Description": "T1 #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_3_pc_score": {
+        "Description": "T1 #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_t1_3_complete": {
+        "Description": "T1 #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_t1_3_voxvol": {
+        "Description": "T1 #3: Volume of single voxel (mm^3)"
+    },
+    "iqc_t1_3_brainvol": {
+        "Description": "T1 #3: Volume of brain mask (mm^3)"
+    },
+    "iqc_t1_3_brain_mean": {
+        "Description": "T1 #3: Mean intensity within brain mask"
+    },
+    "iqc_t1_3_brain_std": {
+        "Description": "T1 #3: Standard deviation of intensities within brain mask"
+    },
+    "iqc_t1_total_ser": {
+        "Description": "T1: Total number received"
+    },
+    "iqc_t1_total_passpc": {
+        "Description": "T1: Number that passed protocol compliance"
+    },
+    "iqc_t1_total_passqc": {
+        "Description": "T1: Number that passed visual quality control (QC)"
+    },
+    "iqc_t1_good_ser": {
+        "Description": "T1: Number that passed protocol compliance and QC"
+    },
+    "iqc_t1_ok_ser": {
+        "Description": "T1: Number of series that are complete and passed QC (ignoring PC)"
+    },
+    "iqc_t1_bad_ser": {
+        "Description": "T1: Number that failed either protocol compliance or QC"
+    },
+    "iqc_t1_ser_pc_issues": {
+        "Description": "T1: Number with protocol compliance issues"
+    },
+    "iqc_t1_ser_qcs": {
+        "Description": "T1: Number with QC issues"
+    },
+    "iqc_t1_ser_incomp": {
+        "Description": "T1: Number of series missing files at DAIC"
+    },
+    "iqc_t1_mo_qc": {
+        "Description": "T1: Number with motion artifact"
+    },
+    "iqc_t1_sus_qc": {
+        "Description": "T1: Number with susceptibility artifact"
+    },
+    "iqc_t1_other_qc": {
+        "Description": "T1: Number with other QC issue"
+    },
+    "iqc_t1_all_voxvol": {
+        "Description": "T1: Mean volume of single voxel averaged across all scans (mm^3)"
+    },
+    "iqc_t1_ok_voxvol": {
+        "Description": "T1: Mean volume of single voxel averaged across all OK scans (mm^3)"
+    },
+    "iqc_t1_all_brainvol": {
+        "Description": "T1: Mean volume of brain mask averaged across all scans (mm^3)"
+    },
+    "iqc_t1_ok_brainvol": {
+        "Description": "T1: Mean volume of brain mask averaged across all OK scans (mm^3)"
+    },
+    "iqc_t1_all_brain_mean": {
+        "Description": "T1: Mean intensity within brain mask averaged across all scans"
+    },
+    "iqc_t1_ok_brain_mean": {
+        "Description": "T1: Mean intensity within brain mask averaged across all OK scans"
+    },
+    "iqc_t1_all_brain_std": {
+        "Description": "T1: Standard deviation of intensities within brain mask averaged across all scans"
+    },
+    "iqc_t1_ok_brain_std": {
+        "Description": "T1: Standard deviation of intensities within brain mask averaged across all OK scans"
+    },
+    "iqc_t1_fov_qc": {
+        "Description": "T1: Number with dorsal cutoff, ventral cutoff, or wrapping"
+    },
+    "iqc_t1_line_qc": {
+        "Description": "T1: Number with dark axial slices across the brain"
+    },
+    "iqc_t1_imported": {
+        "Description": "T1: Total number imported"
+    },
+    "iqc_t1_missing": {
+        "Description": "T1: Total number missing"
+    },
+    "iqc_t1_needrawqc": {
+        "Description": "T1: at least one series needs rawQC"
+    },
+    "iqc_t1_procfail": {
+        "Description": "T1: at least one series has a processing error before autoQC"
+    },
+    "iqc_t1_received": {
+        "Description": "T1: Total number received"
+    },
+    "iqc_t1_rename_err": {
+        "Description": "T1: Total number with rename errors"
+    },
+    "iqc_t1_unpack_err": {
+        "Description": "T1: Total number with unpack errors"
+    },
+    "iqc_t1_unpacked": {
+        "Description": "T1: Total number unpacked"
+    },
+    "iqc_t1_waitautoqc": {
+        "Description": "T1: at least one series is waiting for autoQC"
+    }
+}

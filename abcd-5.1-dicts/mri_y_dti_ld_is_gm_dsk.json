@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtildgm_cdsn_bslh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-banks of superior temporal sulcus"
+    },
+    "dmri_dtildgm_cdsn_bsrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-banks of superior temporal sulcus"
+    },
+    "dmri_dtildgm_cdsn_cdacatelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-caudal anterior cingulate"
+    },
+    "dmri_dtildgm_cdsn_cdacaterh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-caudal anterior cingulate"
+    },
+    "dmri_dtildgm_cdsn_cdmflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-caudal middle frontal"
+    },
+    "dmri_dtildgm_cdsn_cdmfrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-caudal middle frontal"
+    },
+    "dmri_dtildgm_cdsn_cuneuslh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-cuneus"
+    },
+    "dmri_dtildgm_cdsn_cuneusrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-cuneus"
+    },
+    "dmri_dtildgm_cdsn_ehinallh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-entorhinal"
+    },
+    "dmri_dtildgm_cdsn_ehinalrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-entorhinal"
+    },
+    "dmri_dtildgm_cdsn_fpolelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-frontal pole"
+    },
+    "dmri_dtildgm_cdsn_fpolerh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-frontal pole"
+    },
+    "dmri_dtildgm_cdsn_fflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-fusiform"
+    },
+    "dmri_dtildgm_cdsn_ffrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-fusiform"
+    },
+    "dmri_dtildgm_cdsn_ifpalh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-inferior parietal"
+    },
+    "dmri_dtildgm_cdsn_ifparh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-inferior parietal"
+    },
+    "dmri_dtildgm_cdsn_iftmlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-inferior temporal"
+    },
+    "dmri_dtildgm_cdsn_iftmrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-inferior temporal"
+    },
+    "dmri_dtildgm_cdsn_insulalh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-insula"
+    },
+    "dmri_dtildgm_cdsn_insularh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-insula"
+    },
+    "dmri_dtildgm_cdsn_ihcatelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-isthmus cingulate"
+    },
+    "dmri_dtildgm_cdsn_ihcaterh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-isthmus cingulate"
+    },
+    "dmri_dtildgm_cdsn_loclh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-lateral occipital"
+    },
+    "dmri_dtildgm_cdsn_locrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-lateral occipital"
+    },
+    "dmri_dtildgm_cdsn_loboflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-lateral orbital frontal"
+    },
+    "dmri_dtildgm_cdsn_lobofrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-lateral orbital frontal"
+    },
+    "dmri_dtildgm_cdsn_llh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-lingual"
+    },
+    "dmri_dtildgm_cdsn_lrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-lingual"
+    },
+    "dmri_dtildgm_cdsn_mean": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI whole brain"
+    },
+    "dmri_dtildgm_cdsn_meanlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-hemisphere"
+    },
+    "dmri_dtildgm_cdsn_meanrh": {
+        "Description": "Avergae longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-hemisphere"
+    },
+    "dmri_dtildgm_cdsn_mdoboflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-medial orbito frontal"
+    },
+    "dmri_dtildgm_cdsn_mdobofrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-medial orbito frontal"
+    },
+    "dmri_dtildgm_cdsn_mtmlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-middle temporal"
+    },
+    "dmri_dtildgm_cdsn_mtmrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-middle temporal"
+    },
+    "dmri_dtildgm_cdsn_pcllh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-paracentral"
+    },
+    "dmri_dtildgm_cdsn_pclrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-paracentral"
+    },
+    "dmri_dtildgm_cdsn_phpallh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-parahippocampal"
+    },
+    "dmri_dtildgm_cdsn_phpalrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-parahippocampal"
+    },
+    "dmri_dtildgm_cdsn_pprslh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-pars opercularis"
+    },
+    "dmri_dtildgm_cdsn_pprsrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-pars opercularis"
+    },
+    "dmri_dtildgm_cdsn_pbalislh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-pars orbitalis"
+    },
+    "dmri_dtildgm_cdsn_pbalisrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-pars orbitalis"
+    },
+    "dmri_dtildgm_cdsn_ptislh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-pars triangularis"
+    },
+    "dmri_dtildgm_cdsn_ptisrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-pars triangularis"
+    },
+    "dmri_dtildgm_cdsn_periccelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-pericalcarine"
+    },
+    "dmri_dtildgm_cdsn_periccerh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-pericalcarine"
+    },
+    "dmri_dtildgm_cdsn_postcllh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-post central"
+    },
+    "dmri_dtildgm_cdsn_postclrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-post central"
+    },
+    "dmri_dtildgm_cdsn_pscatelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-post cingulate"
+    },
+    "dmri_dtildgm_cdsn_pscaterh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-post cingulate"
+    },
+    "dmri_dtildgm_cdsn_precllh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-precentral"
+    },
+    "dmri_dtildgm_cdsn_preclrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-precentral"
+    },
+    "dmri_dtildgm_cdsn_pnlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-precuneus"
+    },
+    "dmri_dtildgm_cdsn_pnrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-precuneus"
+    },
+    "dmri_dtildgm_cdsn_rlacatelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-rostral anterior cingulate"
+    },
+    "dmri_dtildgm_cdsn_rlacaterh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-rostral anterior cingulate"
+    },
+    "dmri_dtildgm_cdsn_rlmflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-rostral middle frontal"
+    },
+    "dmri_dtildgm_cdsn_rlmfrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-rostral middle frontal"
+    },
+    "dmri_dtildgm_cdsn_srflh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI  left-superior frontal"
+    },
+    "dmri_dtildgm_cdsn_srfrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-superior frontal"
+    },
+    "dmri_dtildgm_cdsn_srpalh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-superior parietal"
+    },
+    "dmri_dtildgm_cdsn_srparh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-superior parietal"
+    },
+    "dmri_dtildgm_cdsn_srtmlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-superior temporal"
+    },
+    "dmri_dtildgm_cdsn_srtmrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-superior temporal"
+    },
+    "dmri_dtildgm_cdsn_umllh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-superior marginal"
+    },
+    "dmri_dtildgm_cdsn_umlrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-superior marginal"
+    },
+    "dmri_dtildgm_cdsn_tmpolelh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-temporal pole"
+    },
+    "dmri_dtildgm_cdsn_tmpolerh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-temporal pole"
+    },
+    "dmri_dtildgm_cdsn_trvtmlh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI left-transverse temporal"
+    },
+    "dmri_dtildgm_cdsn_trvtmrh": {
+        "Description": "Average longitudinal diffusivity, parcellation of cortical gray matter associated with cortical ROI right-transverse temporal"
+    }
+}

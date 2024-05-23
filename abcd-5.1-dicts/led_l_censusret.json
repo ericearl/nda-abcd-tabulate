@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_census-2010ret": {
+        "Description": "Residential history derived - Mail return rate for the 2010 census, census tract; from Census Bureau Planning Database (addr1)"
+    },
+    "reshist_addr1_census-ACS1418ret": {
+        "Description": "Residential history derived - Self-response rate for the 2014-208 ACS, census tract; from Census Bureau Planning Database (addr1)"
+    },
+    "reshist_addr2_census-2010ret": {
+        "Description": "Residential history derived - Mail return rate for the 2010 census, census tract; from Census Bureau Planning Database (addr2)"
+    },
+    "reshist_addr2_census-ACS1418ret": {
+        "Description": "Residential history derived - Self-response rate for the 2014-208 ACS, census tract; from Census Bureau Planning Database (addr2)"
+    },
+    "reshist_addr3_census-2010ret": {
+        "Description": "Residential history derived - Mail return rate for the 2010 census, census tract; from Census Bureau Planning Database (addr3)"
+    },
+    "reshist_addr3_census-ACS1418ret": {
+        "Description": "Residential history derived - Self-response rate for the 2014-208 ACS, census tract; from Census Bureau Planning Database (addr3)"
+    }
+}

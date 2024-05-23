@@ -1,0 +1,33 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_EJSCREEN_airtoxcr": {
+        "Description": "Residential history derived - NATA Air Toxics Cancer Risk;Lifetime inhalation cancer risk; EJSCREEN (addr1)"
+    },
+    "reshist_addr1_EJSCREEN_resphaz": {
+        "Description": "Residential history derived - NATA Respiratory Hazard Index; Ratio of exposure concentration to EPA Reference Concentration; EJSCREEN (addr1)"
+    },
+    "reshist_addr1_EJSCREEN_dieselpm": {
+        "Description": "Residential history derived - NATA Diesel PM in micrograms of PM2.5 per cubic meter in air; EJSCREEN (addr1)"
+    },
+    "reshist_addr2_EJSCREEN_airtoxcr": {
+        "Description": "Residential history derived - NATA Air Toxics Cancer Risk;Lifetime inhalation cancer risk; EJSCREEN (addr2)"
+    },
+    "reshist_addr2_EJSCREEN_resphaz": {
+        "Description": "Residential history derived - NATA Respiratory Hazard Index; Ratio of exposure concentration to EPA Reference Concentration; EJSCREEN (addr2)"
+    },
+    "reshist_addr2_EJSCREEN_dieselpm": {
+        "Description": "Residential history derived - NATA Neurological Hazard Index; Ratio of exposure concentration to EPA Reference Concentration; EJSCREEN (addr2)"
+    },
+    "reshist_addr3_EJSCREEN_airtoxcr": {
+        "Description": "Residential history derived - NATA Air Toxics Cancer Risk;Lifetime inhalation cancer risk; EJSCREEN (addr3)"
+    },
+    "reshist_addr3_EJSCREEN_resphaz": {
+        "Description": "Residential history derived - NATA Respiratory Hazard Index; Ratio of exposure concentration to EPA Reference Concentration; EJSCREEN (addr3)"
+    },
+    "reshist_addr3_EJSCREEN_dieselpm": {
+        "Description": "Residential history derived - NATA Neurological Hazard Index; Ratio of exposure concentration to EPA Reference Concentration; EJSCREEN (addr3)"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_visit_01": {
+        "Description": "Is this visit being completed on the same day as the ABCD visit  or on a separate day? | 1 = Same day; 2=  Separate day",
+        "Levels": {
+            "1": "Same day",
+            "2": "Separate day"
+        }
+    },
+    "socialdev_visit_02": {
+        "Description": "Which caregiver is completing today's visit? | 1 = Primary caregiver; 2=  Secondary caregiver",
+        "Levels": {
+            "1": "Primary caregiver",
+            "2": "Secondary caregiver"
+        }
+    },
+    "socialdev_visit_03": {
+        "Description": "Has a Change of Caregiver form been filled out for this visit | 1 = Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "socialdev_visit_consent": {
+        "Description": "Did the participants legal guardians give consent for participation in the Social Development SubStudy? | 1 = Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "socialdev_visit_assent": {
+        "Description": "Did the participant assented to participation into the Social Development SubStudy? | 1 = Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "socialdev_visit_date": {
+        "Description": "Visit date for Social Development Sub-Study"
+    },
+    "socialdev_visit_preport_l___1": {
+        "Description": "Did the guardian consent to allow reporting of sensitive information under the conditions listed on the consent form?1, Yes | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "socialdev_visit_novisit_l": {
+        "Description": "If this visit will not be completed, indicate the most appropriate reason, when known: | 1=Can't schedule ; 2=Declined this year ; 3=Opted out of SD only ; 4=Ineligible quit ABCD",
+        "Levels": {
+            "1": "Can't schedule",
+            "2": "Declined this year",
+            "3": "Opted out of SD only",
+            "4": "Ineligible quit ABCD"
+        }
+    },
+    "socialdev_visit_last_l": {
+        "Description": "Date of LAST SD substudy visit"
+    },
+    "socialdev_visit_date_l": {
+        "Description": "Visit date for Social Development substudy"
+    },
+    "socialdev_visit_creport_l___1": {
+        "Description": "Did the child assent to allow reporting of sensitive information under conditions listed on the assent form?1, Yes | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "socialdev_visit_consent_l___1": {
+        "Description": "Did the participant's legal guardian give consent for participation in the Social Development substudy?1, Yes | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "socialdev_visit_assent_l___1": {
+        "Description": "Did the participant assent to participation into the Social Development substudy?1, Yes | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "socialdev_visit_03_l___1": {
+        "Description": "Has a Change of Caregiver form been filled out for this visit?1, Yes | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "socialdev_visit_02_l": {
+        "Description": "Which caregiver is completing today's visit? | 1=Primary caregiver ; 2=Secondary caregiver [socialdev_visit_01_l] = '2'",
+        "Levels": {
+            "1": "Primary caregiver",
+            "2": "Secondary caregiver"
+        }
+    },
+    "socialdev_visit_01_l": {
+        "Description": "Is this visit being completed on the same day as the ABCD visit, or on a separate day? | 1=Same day ; 2=Separate day",
+        "Levels": {
+            "1": "Same day",
+            "2": "Separate day"
+        }
+    }
+}

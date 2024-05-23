@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_sacsvcg_bscs_3rdvte": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sacsvcg_bscs_4thvte": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sacsvcg_bscs_aalh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sacsvcg_bscs_aarh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sacsvcg_bscs_aylh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sacsvcg_bscs_ayrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sacsvcg_bscs_bs": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sacsvcg_bscs_cdelh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sacsvcg_bscs_cderh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sacsvcg_bscs_crbcxlh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sacsvcg_bscs_crbcxrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sacsvcg_bscs_crbwmlh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sacsvcg_bscs_crbwmrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sacsvcg_bscs_cbwmlh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sacsvcg_bscs_cbwmrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sacsvcg_bscs_csf": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sacsvcg_bscs_hpuslh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sacsvcg_bscs_hpusrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sacsvcg_bscs_inflatvtlh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sacsvcg_bscs_inflatvtrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sacsvcg_bscs_lavtelh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sacsvcg_bscs_lavterh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sacsvcg_bscs_pdlh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sacsvcg_bscs_pdrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sacsvcg_bscs_pulh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sacsvcg_bscs_purh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sacsvcg_bscs_tplh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sacsvcg_bscs_tprh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sacsvcg_bscs_vtdclh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sacsvcg_bscs_vtdcrh": {
+        "Description": "Beta weight for SST all correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_all_40": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_all_41": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_all_46": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_all_59": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_all_44": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_all_58": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_all_42": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_all_37": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_all_54": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_all_35": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_all_52": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_all_34": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_all_51": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_all_31": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_all_48": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_all_45": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_all_43": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_all_57": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_all_33": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_all_50": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_all_32": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_all_49": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_all_39": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_all_56": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_all_38": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_all_55": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_all_36": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_all_53": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_all_47": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_all_60": {
+        "Description": "Standard error of the mean for SST all correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sstr1_40": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sstr1_41": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sstr1_46": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sstr1_59": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sstr1_44": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sstr1_58": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sstr1_42": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sstr1_37": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sstr1_54": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sstr1_35": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sstr1_52": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sstr1_34": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sstr1_51": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sstr1_31": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sstr1_48": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sstr1_45": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sstr1_43": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sstr1_57": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sstr1_33": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sstr1_50": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sstr1_32": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sstr1_49": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sstr1_39": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sstr1_56": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sstr1_38": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sstr1_55": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sstr1_36": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sstr1_53": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sstr1_47": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sstr1_60": {
+        "Description": "Beta weight for SST run1 correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_r1sem_40": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_r1sem_41": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_r1sem_46": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_r1sem_59": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_r1sem_44": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_r1sem_58": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_r1sem_42": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_r1sem_37": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_r1sem_54": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_r1sem_35": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_r1sem_52": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_r1sem_34": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_r1sem_51": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_r1sem_31": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_r1sem_48": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_r1sem_45": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_r1sem_43": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_r1sem_57": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_r1sem_33": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_r1sem_50": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_r1sem_32": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_r1sem_49": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_r1sem_39": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_r1sem_56": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_r1sem_38": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_r1sem_55": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_r1sem_36": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_r1sem_53": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_r1sem_47": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_r1sem_60": {
+        "Description": "Standard error of the mean for SST run1 correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sstr2_40": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sstr2_41": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sstr2_46": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sstr2_59": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sstr2_44": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sstr2_58": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sstr2_42": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sstr2_37": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sstr2_54": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sstr2_35": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sstr2_52": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sstr2_34": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sstr2_51": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sstr2_31": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sstr2_48": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sstr2_45": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sstr2_43": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sstr2_57": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sstr2_33": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sstr2_50": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sstr2_32": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sstr2_49": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sstr2_39": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sstr2_56": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sstr2_38": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sstr2_55": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sstr2_36": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sstr2_53": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sstr2_47": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sstr2_60": {
+        "Description": "Beta weight for SST run2 correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_sst_r2sem_40": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_sst_r2sem_41": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_sst_r2sem_46": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_sst_r2sem_59": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_sst_r2sem_44": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_sst_r2sem_58": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_sst_r2sem_42": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_sst_r2sem_37": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_sst_r2sem_54": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_sst_r2sem_35": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_sst_r2sem_52": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_sst_r2sem_34": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_sst_r2sem_51": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_sst_r2sem_31": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_sst_r2sem_48": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_sst_r2sem_45": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI csf"
+    },
+    "tfmri_sst_r2sem_43": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_sst_r2sem_57": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_sst_r2sem_33": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_sst_r2sem_50": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_sst_r2sem_32": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_sst_r2sem_49": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_sst_r2sem_39": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_sst_r2sem_56": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_sst_r2sem_38": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_sst_r2sem_55": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_sst_r2sem_36": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_sst_r2sem_53": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_sst_r2sem_47": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_sst_r2sem_60": {
+        "Description": "Standard error of the mean for SST run2 correct stop versus correct go contrast in ASEG ROI right-ventraldc"
+    }
+}

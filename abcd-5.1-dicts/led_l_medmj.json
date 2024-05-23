@@ -1,0 +1,60 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_effMML": {
+        "Description": "Residential history derived - indicates if the medical marijuana law (MML) (i.e. patients have legal protection to possess MJ for medicinal purposes) was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_effREC": {
+        "Description": "Residential history derived - indicates if the recreational adult-use MML was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_active_medlegdisp": {
+        "Description": "Residential history derived - indicates if medical marijuana dispensaries were a legal source of supply in the state at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_active_dispREC": {
+        "Description": "Residential history derived - indicates if a rec store was opened in the state at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_effhighcbdmj": {
+        "Description": "Residential history derived - indicates if a high CBD/low THC law became was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_effMML": {
+        "Description": "Residential history derived - indicates if the medical marijuana law (MML) (i.e. patients have legal protection to possess MJ for medicinal purposes) was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_effREC": {
+        "Description": "Residential history derived - indicates if the recreational adult-use MML was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_active_medlegdisp": {
+        "Description": "Residential history derived - indicates if medical marijuana dispensaries was a legal as a source of supply in the state at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_active_dispREC": {
+        "Description": "Residential history derived - indicates if a rec store was opened in the state at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_effhighcbdmj": {
+        "Description": "Residential history derived - indicates if a high CBD/low THC law became was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_effMML": {
+        "Description": "Residential history derived - indicates if the medical marijuana law (MML) (i.e. patients have legal protection to possess MJ for medicinal purposes) was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_effREC": {
+        "Description": "Residential history derived - indicates if the recreational adult-use MML was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_active_medlegdisp": {
+        "Description": "Residential history derived - indicates if medical marijuana dispensaries was a legal as a source of supply in the state at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_active_dispREC": {
+        "Description": "Residential history derived - indicates if a rec store was opened in the state at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_effhighcbdmj": {
+        "Description": "Residential history derived - indicates if a high CBD/low THC law became was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr1_decrimmmj_ind": {
+        "Description": "Residential history derived - indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (address 1)"
+    },
+    "reshist_addr2_decrimmmj_ind": {
+        "Description": "Residential history derived - indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (address 2)"
+    },
+    "reshist_addr3_decrimmmj_ind": {
+        "Description": "Residential history derived - indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (address 3)"
+    }
+}

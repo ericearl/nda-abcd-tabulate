@@ -1,0 +1,117 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "rsfmri_var_scs_3rdv": {
+        "Description": "Temporal variance in ASEG ROI 3rd-ventricle"
+    },
+    "rsfmri_var_scs_4thv": {
+        "Description": "Temporal variance in ASEG ROI 4th-ventricle"
+    },
+    "rsfmri_var_scs_aalh": {
+        "Description": "Temporal variance in ASEG ROI left-accumbens-area"
+    },
+    "rsfmri_var_scs_aarh": {
+        "Description": "Temporal variance in ASEG ROI right-accumbens-area"
+    },
+    "rsfmri_var_scs_amygdalalh": {
+        "Description": "Temporal variance in ASEG ROI left-amygdala"
+    },
+    "rsfmri_var_scs_amygdalarh": {
+        "Description": "Temporal variance in ASEG ROI right-amygdala"
+    },
+    "rsfmri_var_scs_brainstem": {
+        "Description": "Temporal variance in ASEG ROI brain-stem"
+    },
+    "rsfmri_var_scs_caudatelh": {
+        "Description": "Temporal variance in ASEG ROI left-caudate"
+    },
+    "rsfmri_var_scs_caudaterh": {
+        "Description": "Temporal variance in ASEG ROI right-caudate"
+    },
+    "rsfmri_var_scs_crbcortexlh": {
+        "Description": "Temporal variance in ASEG ROI left-cerebellum-cortex"
+    },
+    "rsfmri_var_scs_crbcortexrh": {
+        "Description": "Temporal variance in ASEG ROI right-cerebellum-cortex"
+    },
+    "rsfmri_var_scs_crbwmlh": {
+        "Description": "Temporal variance in ASEG ROI left-cerebellum-white-matter"
+    },
+    "rsfmri_var_scs_crbwmrh": {
+        "Description": "Temporal variance in ASEG ROI right-cerebellum-white-matter"
+    },
+    "rsfmri_var_scs_cbcortexlh": {
+        "Description": "Temporal variance in ASEG ROI left-cerebral-cortex"
+    },
+    "rsfmri_var_scs_cbcortexrh": {
+        "Description": "Temporal variance in ASEG ROI right-cerebral-cortex"
+    },
+    "rsfmri_var_scs_cbwmlh": {
+        "Description": "Temporal variance in ASEG ROI left-cerebral-white-matter"
+    },
+    "rsfmri_var_scs_cbwmrh": {
+        "Description": "Temporal variance in ASEG ROI right-cerebral-white-matter"
+    },
+    "rsfmri_var_scs_csf": {
+        "Description": "Temporal variance in ASEG ROI csf"
+    },
+    "rsfmri_var_scs_hpuslh": {
+        "Description": "Temporal variance in ASEG ROI left-hippocampus"
+    },
+    "rsfmri_var_scs_hpusrh": {
+        "Description": "Temporal variance in ASEG ROI right-hippocampus"
+    },
+    "rsfmri_var_scs_inflatventlh": {
+        "Description": "Temporal variance in ASEG ROI left-inf-lat-vent"
+    },
+    "rsfmri_var_scs_inflatventrh": {
+        "Description": "Temporal variance in ASEG ROI right-inf-lat-vent"
+    },
+    "rsfmri_var_scs_lavlh": {
+        "Description": "Temporal variance in ASEG ROI left-lateral-ventricle"
+    },
+    "rsfmri_var_scs_lavrh": {
+        "Description": "Temporal variance in ASEG ROI right-lateral-ventricle"
+    },
+    "rsfmri_var_scs_lesionlh": {
+        "Description": "Temporal variance in ASEG ROI left-lesion"
+    },
+    "rsfmri_var_scs_lesionrh": {
+        "Description": "Temporal variance in ASEG ROI right-lesion"
+    },
+    "rsfmri_var_scs_pallidumlh": {
+        "Description": "Temporal variance in ASEG ROI left-pallidum"
+    },
+    "rsfmri_var_scs_pallidumrh": {
+        "Description": "Temporal variance in ASEG ROI right-pallidum"
+    },
+    "rsfmri_var_scs_putamenlh": {
+        "Description": "Temporal variance in ASEG ROI left-putamen"
+    },
+    "rsfmri_var_scs_putamenrh": {
+        "Description": "Temporal variance in ASEG ROI right-putamen"
+    },
+    "rsfmri_var_scs_tplh": {
+        "Description": "Temporal variance in ASEG ROI left-thalamus-proper"
+    },
+    "rsfmri_var_scs_tprh": {
+        "Description": "Temporal variance in ASEG ROI right-thalamus-proper"
+    },
+    "rsfmri_var_scs_ventraldclh": {
+        "Description": "Temporal variance in ASEG ROI left-ventraldc"
+    },
+    "rsfmri_var_scs_ventraldcrh": {
+        "Description": "Temporal variance in ASEG ROI right-ventraldc"
+    },
+    "rsfmri_var_scs_wmhypin": {
+        "Description": "Temporal variance in ASEG ROI wm-hypointensities"
+    },
+    "rsfmri_var_scs_wmhypinlh": {
+        "Description": "Temporal variance in ASEG ROI left-wm-hypointensities"
+    },
+    "rsfmri_var_scs_wmhypinrh": {
+        "Description": "Temporal variance in ASEG ROI right-wm-hypointensities"
+    }
+}

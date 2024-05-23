@@ -1,0 +1,87 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "peerinfluence_q1": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people go along with their friends just to keep their friends happy; 2 = 2, Other people refuse to go along with what their friends want to do, even though they know it will make their friends unhappy",
+        "Levels": {
+            "1": "1, Some people go along with their friends just to keep their friends happy",
+            "2": "2, Other people refuse to go along with what their friends want to do, even though they know it will make their friends unhappy"
+        }
+    },
+    "peerinfluence_q2": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people think it's more important to be an individual than to fit in with the crowd; 2 = 2, Other people think it is more important to fit in with the crowd than to stand out as an individual",
+        "Levels": {
+            "1": "1, Some people think it's more important to be an individual than to fit in with the crowd",
+            "2": "2, Other people think it is more important to fit in with the crowd than to stand out as an individual"
+        }
+    },
+    "peerinfluence_q3": {
+        "Description": "Which sort of person are you most like? | 1 = 1, For some people, it's pretty easy for their friends to get them to change their mind; 2 = 2, For other people, it's pretty hard for their friends to get them to change their mind",
+        "Levels": {
+            "1": "1, For some people, it's pretty easy for their friends to get them to change their mind",
+            "2": "2, For other people, it's pretty hard for their friends to get them to change their mind"
+        }
+    },
+    "peerinfluence_q4": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people would do something that they knew was wrong just to stay on their friends' good side; 2 = 2, Other people would not do something they knew was wrong just to stay on their friends' good side",
+        "Levels": {
+            "1": "1, Some people would do something that they knew was wrong just to stay on their friends' good side",
+            "2": "2, Other people would not do something they knew was wrong just to stay on their friends' good side"
+        }
+    },
+    "peerinfluence_q5": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people hide their true opinion from their friends if they think their friends will make fun of them because of it; 2 = 2, Other people will say their true opinion in front of their friends, even if they know their friends will make fun of them because of it",
+        "Levels": {
+            "1": "1, Some people hide their true opinion from their friends if they think their friends will make fun of them because of it",
+            "2": "2, Other people will say their true opinion in front of their friends, even if they know their friends will make fun of them because of it"
+        }
+    },
+    "peerinfluence_q6": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people will not break the law just because their friends say that they would; 2 = 2, Other people would break the law if their friends said that they would break it",
+        "Levels": {
+            "1": "1, Some people will not break the law just because their friends say that they would",
+            "2": "2, Other people would break the law if their friends said that they would break it"
+        }
+    },
+    "peerinfluence_q7": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people change the way they act so much when they are with their friends that they wonder who they \"really are\"; 2 = 2, Other people act the same way when they are alone as they do when they are with their friends",
+        "Levels": {
+            "1": "1, Some people change the way they act so much when they are with their friends that they wonder who they \"really are\"",
+            "2": "2, Other people act the same way when they are alone as they do when they are with their friends"
+        }
+    },
+    "peerinfluence_q8": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people take more risks when they are with their friends than they do when they are alone; 2 = 2, Other people act just as risky when they are alone as when they are with their friends",
+        "Levels": {
+            "1": "1, Some people take more risks when they are with their friends than they do when they are alone",
+            "2": "2, Other people act just as risky when they are alone as when they are with their friends"
+        }
+    },
+    "peerinfluence_q9": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people say things they don't really believe because they think it will make their friends respect them more; 2 = 2, Other people would not say things they didn't really believe just to get their friends to respect them more",
+        "Levels": {
+            "1": "1, Some people say things they don't really believe because they think it will make their friends respect them more",
+            "2": "2, Other people would not say things they didn't really believe just to get their friends to respect them more"
+        }
+    },
+    "peerinfluence_q10": {
+        "Description": "Which sort of person are you most like? | 1 = 1, Some people think it's better to be an individual even if people will be angry at you for going against the crowd; 2 = 2, Other people think it's better to go along with the crowd than to make people angry at you",
+        "Levels": {
+            "1": "1, Some people think it's better to be an individual even if people will be angry at you for going against the crowd",
+            "2": "2, Other people think it's better to go along with the crowd than to make people angry at you"
+        }
+    },
+    "peerinfluence_admin": {
+        "Description": "Please indicate how instrument was administered: | 1 = RA-Administered; 2 = Youth Self-Administered; 3 = Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "peerinfluence_ss_mean": {
+        "Description": "Peer Influence Summary Score: Mean of all items; Validation: minimum of 7 items answered"
+    }
+}

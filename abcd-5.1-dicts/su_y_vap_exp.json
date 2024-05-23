@@ -1,0 +1,104 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_vape_expect_01": {
+        "Description": "Vaping is less harmful to my health than smoking | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_02": {
+        "Description": "Vaping is less harmful to others' health than smoking | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_03": {
+        "Description": "Vaping comes in flavors people like | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_04": {
+        "Description": "You can vape at times when or in places where smoking isn't allowed | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_05": {
+        "Description": "Vaping is low-cost | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_06": {
+        "Description": "Vaping doesn't smell | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_07": {
+        "Description": "Vaping looks cool | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_08": {
+        "Description": "Vaping is easier to hide | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_vape_expect_09": {
+        "Description": "Vaping causes a stronger buzz or high | 1=Disagree strongly ; 2=Disagree somewhat ; 3=Uncertain ; 4=Agree somewhat ; 5=Agree strongly [xskipout_vape] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Disagree strongly",
+            "2": "Disagree somewhat",
+            "3": "Uncertain",
+            "4": "Agree somewhat",
+            "5": "Agree strongly"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

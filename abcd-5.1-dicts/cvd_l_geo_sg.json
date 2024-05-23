@@ -1,0 +1,1056 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db0": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db1": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db2": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db3": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db4": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db5": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel_db6": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db0": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db1": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db2": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db3": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db4": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db5": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_disttravel1yrp_db6": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db0": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db1": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db2": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db3": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db4": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db5": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell_db6": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db0": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db1": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db2": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db3": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db4": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db5": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_homedwell1yrp_db6": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db0": {
+        "Description": "SafeGraph Device completely at home by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db1": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db2": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db3": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db4": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db5": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome_db6": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db0": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db1": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db2": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db3": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db4": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db5": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_devathome1yrp_db6": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ftwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_sg_ptwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db0": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db1": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db2": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db3": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db4": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db5": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel_db6": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db0": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db1": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db2": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db3": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db4": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db5": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_disttravel1yrp_db6": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db0": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db1": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db2": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db3": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db4": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db5": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell_db6": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db0": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db1": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db2": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db3": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db4": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db5": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_homedwell1yrp_db6": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db0": {
+        "Description": "SafeGraph Device completely at home by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db1": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db2": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db3": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db4": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db5": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome_db6": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db0": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db1": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db2": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db3": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db4": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db5": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_devathome1yrp_db6": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ftwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_sg_ptwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db0": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db1": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db2": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db3": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db4": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db5": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel_db6": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db0": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db1": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db2": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db3": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db4": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db5": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_disttravel1yrp_db6": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db0": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db1": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db2": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db3": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db4": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db5": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell_db6": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db0": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db1": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db2": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db3": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db4": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db5": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_homedwell1yrp_db6": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db0": {
+        "Description": "SafeGraph Device completely at home by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db1": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db2": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db3": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db4": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db5": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome_db6": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db0": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db1": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db2": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db3": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db4": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db5": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_devathome1yrp_db6": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ftwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_sg_ptwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db0": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db1": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db2": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db3": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db4": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db5": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel_db6": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db0": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db1": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db2": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db3": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db4": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db5": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_disttravel1yrp_db6": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db0": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db1": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db2": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db3": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db4": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db5": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell_db6": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db0": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db1": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db2": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db3": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db4": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db5": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_homedwell1yrp_db6": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db0": {
+        "Description": "SafeGraph Device completely at home by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db1": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db2": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db3": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db4": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db5": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome_db6": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db0": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db1": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db2": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db3": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db4": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db5": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_devathome1yrp_db6": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ftwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_sg_ptwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db0": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db1": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db2": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db3": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db4": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db5": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel_db6": {
+        "Description": "SafeGraph Device median distance traveled from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db0": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db1": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db2": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db3": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db4": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db5": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_disttravel1yrp_db6": {
+        "Description": "SafeGraph Device median distance traveled (1 year prior) from home by census block in meters. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db0": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db1": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db2": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db3": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db4": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db5": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell_db6": {
+        "Description": "SafeGraph Device home dwell time by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db0": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db1": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db2": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db3": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db4": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db5": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_homedwell1yrp_db6": {
+        "Description": "SafeGraph Device home dwell time (1 year prior) by census block in minutes. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db0": {
+        "Description": "SafeGraph Device completely at home by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db1": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db2": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db3": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db4": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db5": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome_db6": {
+        "Description": "SafeGraph Device completely at home by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db0": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db1": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db2": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db3": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db4": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db5": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_devathome1yrp_db6": {
+        "Description": "SafeGraph Device completely at home (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ftwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting FullTime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior by census block ratio. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db0": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db1": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db2": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db3": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db4": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db5": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_sg_ptwork1yrp_db6": {
+        "Description": "SafeGraph Device exhibiting Parttime work behavior (1 year prior) by census block ratio. 6 days before from questionnaire dissemenation date"
+    }
+}

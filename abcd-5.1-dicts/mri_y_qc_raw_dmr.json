@@ -1,0 +1,1035 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_dmri_1_suid": {
+        "Description": "dMRI #1: Study instance UID"
+    },
+    "iqc_dmri_1_seuid": {
+        "Description": "dMRI #1: Series instance UID"
+    },
+    "iqc_dmri_1_studydate": {
+        "Description": "dMRI #1: Study date"
+    },
+    "iqc_dmri_1_seriestime": {
+        "Description": "dMRI #1: Series time"
+    },
+    "iqc_dmri_1_fm_missing": {
+        "Description": "dMRI #1: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_1_fm_wronglocus": {
+        "Description": "dMRI #1: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_1_fm_invalid": {
+        "Description": "dMRI #1: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_1_fm_qc_score": {
+        "Description": "dMRI FM #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_1_fm_pc_score": {
+        "Description": "dMRI FM #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_1_fm_complete": {
+        "Description": "dMRI FM #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_1_qc_score": {
+        "Description": "dMRI #1: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_1_pc_score": {
+        "Description": "dMRI #1: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_1_complete": {
+        "Description": "dMRI #1: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_1_voxvol": {
+        "Description": "dMRI #1: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_1_brainvol": {
+        "Description": "dMRI #1: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_1_brain_mean": {
+        "Description": "dMRI #1: Mean intensity within brain mask"
+    },
+    "iqc_dmri_1_brain_std": {
+        "Description": "dMRI #1: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_1_nreps": {
+        "Description": "dMRI #1: Number of pulse repetitions"
+    },
+    "iqc_dmri_1_tr": {
+        "Description": "dMRI #1: Repetition time in seconds"
+    },
+    "iqc_dmri_1_mean_motion": {
+        "Description": "dMRI #1: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_1_mean_motion_nody": {
+        "Description": "dMRI #1: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_1_nbad_frame_slices": {
+        "Description": "dMRI #1: Number of censored slices in all frames"
+    },
+    "iqc_dmri_1_nbad_frames": {
+        "Description": "dMRI #1: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_1_nbad_slices": {
+        "Description": "dMRI #1: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_1_fa_mean": {
+        "Description": "dMRI #1: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_1_fa_median": {
+        "Description": "dMRI #1: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_1_fa_std": {
+        "Description": "dMRI #1: Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_1_md_mean": {
+        "Description": "dMRI #1: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_1_md_median": {
+        "Description": "dMRI #1: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_1_md_std": {
+        "Description": "dMRI #1: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_1_b0_mean": {
+        "Description": "dMRI #1: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_1_b0_median": {
+        "Description": "dMRI #1: Median intensity in b=0 image"
+    },
+    "iqc_dmri_1_b0_std": {
+        "Description": "dMRI #1: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_1_dterr_mean": {
+        "Description": "dMRI #1 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_1_dterr_median": {
+        "Description": "dMRI #1 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_1_dterr_std": {
+        "Description": "dMRI #1 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_2_suid": {
+        "Description": "dMRI #2: Study instance UID"
+    },
+    "iqc_dmri_2_seuid": {
+        "Description": "dMRI #2: Series instance UID"
+    },
+    "iqc_dmri_2_studydate": {
+        "Description": "dMRI #2: Study date"
+    },
+    "iqc_dmri_2_seriestime": {
+        "Description": "dMRI #2: Series time"
+    },
+    "iqc_dmri_2_fm_missing": {
+        "Description": "dMRI #2: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_2_fm_wronglocus": {
+        "Description": "dMRI #2: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_2_fm_invalid": {
+        "Description": "dMRI #2: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_2_fm_qc_score": {
+        "Description": "dMRI FM #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_2_fm_pc_score": {
+        "Description": "dMRI FM #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_2_fm_complete": {
+        "Description": "dMRI FM #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_2_qc_score": {
+        "Description": "dMRI #2: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_2_pc_score": {
+        "Description": "dMRI #2: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_2_complete": {
+        "Description": "dMRI #2: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_2_voxvol": {
+        "Description": "dMRI #2: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_2_brainvol": {
+        "Description": "dMRI #2: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_2_brain_mean": {
+        "Description": "dMRI #2: Mean intensity within brain mask"
+    },
+    "iqc_dmri_2_brain_std": {
+        "Description": "dMRI #2: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_2_nreps": {
+        "Description": "dMRI #2: Number of pulse repetitions"
+    },
+    "iqc_dmri_2_tr": {
+        "Description": "dMRI #2: Repetition time in seconds"
+    },
+    "iqc_dmri_2_mean_motion": {
+        "Description": "dMRI #2: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_2_mean_motion_nody": {
+        "Description": "dMRI #2: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_2_nbad_frame_slices": {
+        "Description": "dMRI #2: Number of censored slices in all frames"
+    },
+    "iqc_dmri_2_nbad_frames": {
+        "Description": "dMRI #2: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_2_nbad_slices": {
+        "Description": "dMRI #2: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_2_fa_mean": {
+        "Description": "dMRI #2: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_2_fa_median": {
+        "Description": "dMRI #2: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_2_fa_std": {
+        "Description": "dMRI #2: Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_2_md_mean": {
+        "Description": "dMRI #2: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_2_md_median": {
+        "Description": "dMRI #2: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_2_md_std": {
+        "Description": "dMRI #2: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_2_b0_mean": {
+        "Description": "dMRI #2: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_2_b0_median": {
+        "Description": "dMRI #2: Median intensity in b=0 image"
+    },
+    "iqc_dmri_2_b0_std": {
+        "Description": "dMRI #2: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_2_dterr_mean": {
+        "Description": "dMRI #2 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_2_dterr_median": {
+        "Description": "dMRI #2 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_2_dterr_std": {
+        "Description": "dMRI #2 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_3_suid": {
+        "Description": "dMRI #3: Study instance UID"
+    },
+    "iqc_dmri_3_seuid": {
+        "Description": "dMRI #3: Series instance UID"
+    },
+    "iqc_dmri_3_studydate": {
+        "Description": "dMRI #3: Study date"
+    },
+    "iqc_dmri_3_seriestime": {
+        "Description": "dMRI #3: Series time"
+    },
+    "iqc_dmri_3_fm_missing": {
+        "Description": "dMRI #3: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_3_fm_wronglocus": {
+        "Description": "dMRI #3: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_3_fm_invalid": {
+        "Description": "dMRI #3: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_3_fm_qc_score": {
+        "Description": "dMRI FM #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_3_fm_pc_score": {
+        "Description": "dMRI FM #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_3_fm_complete": {
+        "Description": "dMRI FM #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_3_qc_score": {
+        "Description": "dMRI #3: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_3_pc_score": {
+        "Description": "dMRI #3: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_3_complete": {
+        "Description": "dMRI #3: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_3_voxvol": {
+        "Description": "dMRI #3: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_3_brainvol": {
+        "Description": "dMRI #3: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_3_brain_mean": {
+        "Description": "dMRI #3: Mean intensity within brain mask"
+    },
+    "iqc_dmri_3_brain_std": {
+        "Description": "dMRI #3: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_3_nreps": {
+        "Description": "dMRI #3: Number of pulse repetitions"
+    },
+    "iqc_dmri_3_tr": {
+        "Description": "dMRI #3: Repetition time in seconds"
+    },
+    "iqc_dmri_3_mean_motion": {
+        "Description": "dMRI #3: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_3_mean_motion_nody": {
+        "Description": "dMRI #3: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_3_nbad_frame_slices": {
+        "Description": "dMRI #3: Number of censored slices in all frames"
+    },
+    "iqc_dmri_3_nbad_frames": {
+        "Description": "dMRI #3: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_3_nbad_slices": {
+        "Description": "dMRI #3: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_3_fa_mean": {
+        "Description": "dMRI #3: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_3_fa_median": {
+        "Description": "dMRI #3: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_3_fa_std": {
+        "Description": "dMRI #3:Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_3_md_mean": {
+        "Description": "dMRI #3: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_3_md_median": {
+        "Description": "dMRI #3: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_3_md_std": {
+        "Description": "dMRI #3: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_3_b0_mean": {
+        "Description": "dMRI #3: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_3_b0_median": {
+        "Description": "dMRI #3: Median intensity in b=0 image"
+    },
+    "iqc_dmri_3_b0_std": {
+        "Description": "dMRI #3: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_3_dterr_mean": {
+        "Description": "dMRI #3 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_3_dterr_median": {
+        "Description": "dMRI #3 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_3_dterr_std": {
+        "Description": "dMRI #3 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_4_suid": {
+        "Description": "dMRI #4: Study instance UID"
+    },
+    "iqc_dmri_4_seuid": {
+        "Description": "dMRI #4: Series instance UID"
+    },
+    "iqc_dmri_4_studydate": {
+        "Description": "dMRI #4: Study date"
+    },
+    "iqc_dmri_4_seriestime": {
+        "Description": "dMRI #4: Series time"
+    },
+    "iqc_dmri_4_fm_missing": {
+        "Description": "dMRI #4: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_4_fm_wronglocus": {
+        "Description": "dMRI #4: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_4_fm_invalid": {
+        "Description": "dMRI #4: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_4_fm_qc_score": {
+        "Description": "dMRI FM #4: QC score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_4_fm_pc_score": {
+        "Description": "dMRI FM #4: Protocol compliance score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_4_fm_complete": {
+        "Description": "dMRI FM #4: DAIC received correct number of files for the field map of this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_4_qc_score": {
+        "Description": "dMRI #4: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_4_pc_score": {
+        "Description": "dMRI #4: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_4_complete": {
+        "Description": "dMRI #4: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_4_voxvol": {
+        "Description": "dMRI #4: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_4_brainvol": {
+        "Description": "dMRI #4: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_4_brain_mean": {
+        "Description": "dMRI #4: Mean intensity within brain mask"
+    },
+    "iqc_dmri_4_brain_std": {
+        "Description": "dMRI #4: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_4_nreps": {
+        "Description": "dMRI #4: Number of pulse repetitions"
+    },
+    "iqc_dmri_4_tr": {
+        "Description": "dMRI #4: Repetition time in seconds"
+    },
+    "iqc_dmri_4_mean_motion": {
+        "Description": "dMRI #4: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_4_mean_motion_nody": {
+        "Description": "dMRI #4: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_4_nbad_frame_slices": {
+        "Description": "dMRI #4: Number of censored slices in all frames"
+    },
+    "iqc_dmri_4_nbad_frames": {
+        "Description": "dMRI #4: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_4_nbad_slices": {
+        "Description": "dMRI #4: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_4_fa_mean": {
+        "Description": "dMRI #4: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_4_fa_median": {
+        "Description": "dMRI #4: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_4_fa_std": {
+        "Description": "dMRI #4:Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_4_md_mean": {
+        "Description": "dMRI #4: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_4_md_median": {
+        "Description": "dMRI #4: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_4_md_std": {
+        "Description": "dMRI #4: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_4_b0_mean": {
+        "Description": "dMRI #4: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_4_b0_median": {
+        "Description": "dMRI #4: Median intensity in b=0 image"
+    },
+    "iqc_dmri_4_b0_std": {
+        "Description": "dMRI #4: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_4_dterr_mean": {
+        "Description": "dMRI #4 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_4_dterr_median": {
+        "Description": "dMRI #4 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_4_dterr_std": {
+        "Description": "dMRI #4 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_5_suid": {
+        "Description": "dMRI #5: Study instance UID"
+    },
+    "iqc_dmri_5_seuid": {
+        "Description": "dMRI #5: Series instance UID"
+    },
+    "iqc_dmri_5_studydate": {
+        "Description": "dMRI #5: Study date"
+    },
+    "iqc_dmri_5_seriestime": {
+        "Description": "dMRI #5: Series time"
+    },
+    "iqc_dmri_5_fm_missing": {
+        "Description": "dMRI #5: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_5_fm_wronglocus": {
+        "Description": "dMRI #5: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_5_fm_invalid": {
+        "Description": "dMRI #5: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_5_fm_qc_score": {
+        "Description": "dMRI FM #5: QC score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_5_fm_pc_score": {
+        "Description": "dMRI FM #5: Protocol compliance score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_5_fm_complete": {
+        "Description": "dMRI FM #5: DAIC received correct number of files for the field map of this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_5_qc_score": {
+        "Description": "dMRI #5: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_5_pc_score": {
+        "Description": "dMRI #5: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_5_complete": {
+        "Description": "dMRI #5: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_5_voxvol": {
+        "Description": "dMRI #5: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_5_brainvol": {
+        "Description": "dMRI #5: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_5_brain_mean": {
+        "Description": "dMRI #5: Mean intensity within brain mask"
+    },
+    "iqc_dmri_5_brain_std": {
+        "Description": "dMRI #5: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_5_nreps": {
+        "Description": "dMRI #5: Number of pulse repetitions"
+    },
+    "iqc_dmri_5_tr": {
+        "Description": "dMRI #5: Repetition time in seconds"
+    },
+    "iqc_dmri_5_mean_motion": {
+        "Description": "dMRI #5: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_5_mean_motion_nody": {
+        "Description": "dMRI #5: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_5_nbad_frame_slices": {
+        "Description": "dMRI #5: Number of censored slices in all frames"
+    },
+    "iqc_dmri_5_nbad_frames": {
+        "Description": "dMRI #5: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_5_nbad_slices": {
+        "Description": "dMRI #5: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_5_fa_mean": {
+        "Description": "dMRI #5: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_5_fa_median": {
+        "Description": "dMRI #5: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_5_fa_std": {
+        "Description": "dMRI #5:Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_5_md_mean": {
+        "Description": "dMRI #5: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_5_md_median": {
+        "Description": "dMRI #5: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_5_md_std": {
+        "Description": "dMRI #5: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_5_b0_mean": {
+        "Description": "dMRI #5: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_5_b0_median": {
+        "Description": "dMRI #5: Median intensity in b=0 image"
+    },
+    "iqc_dmri_5_b0_std": {
+        "Description": "dMRI #5: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_5_dterr_mean": {
+        "Description": "dMRI #5 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_5_dterr_median": {
+        "Description": "dMRI #5 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_5_dterr_std": {
+        "Description": "dMRI #5 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_6_suid": {
+        "Description": "dMRI #6: Study instance UID"
+    },
+    "iqc_dmri_6_seuid": {
+        "Description": "dMRI #6: Series instance UID"
+    },
+    "iqc_dmri_6_studydate": {
+        "Description": "dMRI #6: Study date"
+    },
+    "iqc_dmri_6_seriestime": {
+        "Description": "dMRI #6: Series time"
+    },
+    "iqc_dmri_6_fm_missing": {
+        "Description": "dMRI #6: Whether field map is missing for scan (1=yes, 0=no)"
+    },
+    "iqc_dmri_6_fm_wronglocus": {
+        "Description": "dMRI #6: Whether field map was collected more than 2 series prior to scan (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_6_fm_invalid": {
+        "Description": "dMRI #6: Whether field map for scan was invalid for use (1 = yes, 0 = no)"
+    },
+    "iqc_dmri_6_fm_qc_score": {
+        "Description": "dMRI FM #6: QC score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_6_fm_pc_score": {
+        "Description": "dMRI FM #6: Protocol compliance score of 1 (pass) or 0 (fail) for dMRI field map"
+    },
+    "iqc_dmri_6_fm_complete": {
+        "Description": "dMRI FM #6: DAIC received correct number of files for the field map of this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_6_qc_score": {
+        "Description": "dMRI #6: QC score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_6_pc_score": {
+        "Description": "dMRI #6: Protocol compliance score of 1 (pass) or 0 (fail)"
+    },
+    "iqc_dmri_6_complete": {
+        "Description": "dMRI #6: DAIC received correct number of files for this series (1=pass, 0=fail)"
+    },
+    "iqc_dmri_6_voxvol": {
+        "Description": "dMRI #6: Volume of single voxel (mm^3)"
+    },
+    "iqc_dmri_6_brainvol": {
+        "Description": "dMRI #6: Volume of brain mask (mm^3)"
+    },
+    "iqc_dmri_6_brain_mean": {
+        "Description": "dMRI #6: Mean intensity within brain mask"
+    },
+    "iqc_dmri_6_brain_std": {
+        "Description": "dMRI #6: Standard deviation of intensities within brain mask"
+    },
+    "iqc_dmri_6_nreps": {
+        "Description": "dMRI #6: Number of pulse repetitions"
+    },
+    "iqc_dmri_6_tr": {
+        "Description": "dMRI #6: Repetition time in seconds"
+    },
+    "iqc_dmri_6_mean_motion": {
+        "Description": "dMRI #6: Mean framewise displacement in mm"
+    },
+    "iqc_dmri_6_mean_motion_nody": {
+        "Description": "dMRI #6: Mean framewise displacement in mm without y-displacement"
+    },
+    "iqc_dmri_6_nbad_frame_slices": {
+        "Description": "dMRI #6: Number of censored slices in all frames"
+    },
+    "iqc_dmri_6_nbad_frames": {
+        "Description": "dMRI #6: Number of frames with at least 1 censored slice"
+    },
+    "iqc_dmri_6_nbad_slices": {
+        "Description": "dMRI #6: Number of slices with at least 1 censored frame"
+    },
+    "iqc_dmri_6_fa_mean": {
+        "Description": "dMRI #6: Mean fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_6_fa_median": {
+        "Description": "dMRI #6: Median fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_6_fa_std": {
+        "Description": "dMRI #6:Standard deviation of fractional anisotropy within brain mask"
+    },
+    "iqc_dmri_6_md_mean": {
+        "Description": "dMRI #6: Mean mean diffusivity within brain mask"
+    },
+    "iqc_dmri_6_md_median": {
+        "Description": "dMRI #6: Median mean diffusivity within brain mask"
+    },
+    "iqc_dmri_6_md_std": {
+        "Description": "dMRI #6: Standard deviation of mean diffusivity within brain mask"
+    },
+    "iqc_dmri_6_b0_mean": {
+        "Description": "dMRI #6: Mean intensity in b=0 image"
+    },
+    "iqc_dmri_6_b0_median": {
+        "Description": "dMRI #6: Median intensity in b=0 image"
+    },
+    "iqc_dmri_6_b0_std": {
+        "Description": "dMRI #6: Standard deviation of intensity in b=0 image"
+    },
+    "iqc_dmri_6_dterr_mean": {
+        "Description": "dMRI #6 Mean residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_6_dterr_median": {
+        "Description": "dMRI #6 Median residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_6_dterr_std": {
+        "Description": "dMRI #6 Standard deviation of residual error of diffusion tensor fit"
+    },
+    "iqc_dmri_total_ser": {
+        "Description": "dMRI: Total number received"
+    },
+    "iqc_dmri_total_passpc": {
+        "Description": "dMRI: Number that passed protocol compliance"
+    },
+    "iqc_dmri_total_passqc": {
+        "Description": "dMRI: Number that passed visual quality control (QC)"
+    },
+    "iqc_dmri_good_ser": {
+        "Description": "dMRI: Number that passed protocol compliance and QC"
+    },
+    "iqc_dmri_ok_ser": {
+        "Description": "dMRI: Number of series that are complete and passed QC (ignoring PC)"
+    },
+    "iqc_dmri_bad_ser": {
+        "Description": "dMRI: Number that failed either protocol compliance or QC"
+    },
+    "iqc_dmri_ser_pc_issues": {
+        "Description": "dMRI: Number with protocol compliance issues"
+    },
+    "iqc_dmri_ser_qcs": {
+        "Description": "dMRI: Number with QC issues"
+    },
+    "iqc_dmri_ser_incomp": {
+        "Description": "dMRI: Number of series missing files at DAIC"
+    },
+    "iqc_dmri_fm_missing": {
+        "Description": "dMRI FM: number of field maps missing"
+    },
+    "iqc_dmri_fm_wronglocus": {
+        "Description": "dMRI FM: Number of field maps not acquired immediately prior to dMRI"
+    },
+    "iqc_dmri_fm_invalid": {
+        "Description": "dMRI FM: number of invalid field maps"
+    },
+    "iqc_dmri_fm_pc_issues": {
+        "Description": "dMRI FM: Number with protocol compliance issues"
+    },
+    "iqc_dmri_fm_qcs": {
+        "Description": "dMRI FM: Number with QC issues"
+    },
+    "iqc_dmri_fm_incomp": {
+        "Description": "dMRI FM: Number of series missing files at DAIC"
+    },
+    "iqc_dmri_fa_qc": {
+        "Description": "dMRI: Number with fractional anisotropy map issues"
+    },
+    "iqc_dmri_gh_qc": {
+        "Description": "dMRI: Number with ghosting"
+    },
+    "iqc_dmri_hb_qc": {
+        "Description": "dMRI: Number with horizontal banding"
+    },
+    "iqc_dmri_sus_qc": {
+        "Description": "dMRI: Number with susceptibility artifact"
+    },
+    "iqc_dmri_moire_qc": {
+        "Description": "dMRI: Number with moire artifact"
+    },
+    "iqc_dmri_other_qc": {
+        "Description": "dMRI: Number with other QC issue"
+    },
+    "iqc_dmri_fm_gh_qc": {
+        "Description": "dMRI FM: Number with ghosting"
+    },
+    "iqc_dmri_fm_hb_qc": {
+        "Description": "dMRI FM: Number with horizontal banding"
+    },
+    "iqc_dmri_fm_sus_qc": {
+        "Description": "dMRI FM: Number with susceptibility artifact"
+    },
+    "iqc_dmri_fm_moire_qc": {
+        "Description": "dMRI FM: Number with moire artifact"
+    },
+    "iqc_dmri_fm_other_qc": {
+        "Description": "dMRI FM: Number with other QC issue"
+    },
+    "iqc_dmri_all_voxvol": {
+        "Description": "dMRI: Mean volume of single voxel averaged across all scans (mm^3)"
+    },
+    "iqc_dmri_ok_voxvol": {
+        "Description": "dMRI: Mean volume of single voxel averaged across all OK scans (mm^3)"
+    },
+    "iqc_dmri_all_brainvol": {
+        "Description": "dMRI: Mean volume of brain mask averaged across all scans (mm^3)"
+    },
+    "iqc_dmri_ok_brainvol": {
+        "Description": "dMRI: Mean volume of brain mask averaged across all OK scans (mm^3)"
+    },
+    "iqc_dmri_all_brain_mean": {
+        "Description": "dMRI: Mean intensity within brain mask averaged across all scans"
+    },
+    "iqc_dmri_ok_brain_mean": {
+        "Description": "dMRI: Mean intensity within brain mask averaged across all OK scans"
+    },
+    "iqc_dmri_all_brain_std": {
+        "Description": "dMRI: Standard deviation of intensities within brain mask averaged across all scans"
+    },
+    "iqc_dmri_ok_brain_std": {
+        "Description": "dMRI: Standard deviation of intensities within brain mask averaged across all OK scans"
+    },
+    "iqc_dmri_all_nreps": {
+        "Description": "dMRI: Total number of repetitions for all scans"
+    },
+    "iqc_dmri_ok_nreps": {
+        "Description": "dMRI: Total number of repetitions for all OK scans"
+    },
+    "iqc_dmri_all_tr": {
+        "Description": "dMRI: Repetition time for all scans"
+    },
+    "iqc_dmri_ok_tr": {
+        "Description": "dMRI: Repetition time for all OK scans"
+    },
+    "iqc_dmri_all_mean_motion": {
+        "Description": "dMRI: Mean framewise displacement in mm for all scans"
+    },
+    "iqc_dmri_ok_mean_motion": {
+        "Description": "dMRI: Mean framewise displacement in mm for all OK scans"
+    },
+    "iqc_dmri_all_mean_motion_nody": {
+        "Description": "dMRI: Mean framewise displacement in mm for all scans without y-displacement"
+    },
+    "iqc_dmri_ok_mean_motion_nody": {
+        "Description": "dMRI: Mean framewise displacement in mm for all OK scans without y-displacement"
+    },
+    "iqc_dmri_all_nbad_frame_slices": {
+        "Description": "dMRI: Total number of censored slices in all frames for all scans"
+    },
+    "iqc_dmri_ok_nbad_frame_slices": {
+        "Description": "dMRI: Total number of censored slices in all frames for all OK scans"
+    },
+    "iqc_dmri_all_nbad_frames": {
+        "Description": "dMRI: Total number of slices with at least 1 censored frame in all scans"
+    },
+    "iqc_dmri_ok_nbad_frames": {
+        "Description": "dMRI: Total number of slices with at least 1 censored frame in all OK scans"
+    },
+    "iqc_dmri_all_nbad_slices": {
+        "Description": "dMRI: Total number of frames with at least 1 censored slice in all scans"
+    },
+    "iqc_dmri_ok_nbad_slices": {
+        "Description": "dMRI: Total number of frames with at least 1 censored slice in all OK scans"
+    },
+    "iqc_dmri_all_fa_mean": {
+        "Description": "dMRI: Mean fractional anisotropy within brain mask for all scans"
+    },
+    "iqc_dmri_ok_fa_mean": {
+        "Description": "dMRI: Mean fractional anisotropy within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_fa_median": {
+        "Description": "dMRI: Median fractional anisotropy within brain mask for all scans"
+    },
+    "iqc_dmri_ok_fa_median": {
+        "Description": "dMRI: Median fractional anisotropy within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_fa_std": {
+        "Description": "dMRI: Standard deviation of fractional anisotropy within brain mask for all scans"
+    },
+    "iqc_dmri_ok_fa_std": {
+        "Description": "dMRI: Standard deviation of fractional anisotropy within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_md_mean": {
+        "Description": "dMRI: Mean mean diffusivity within brain mask for all scans"
+    },
+    "iqc_dmri_ok_md_mean": {
+        "Description": "dMRI: Mean mean diffusivity within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_md_median": {
+        "Description": "dMRI: Median mean diffusivity within brain mask for all scans"
+    },
+    "iqc_dmri_ok_md_median": {
+        "Description": "dMRI: Median mean diffusivity within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_md_std": {
+        "Description": "dMRI: Standard deviation of mean diffusivity within brain mask for all scans"
+    },
+    "iqc_dmri_ok_md_std": {
+        "Description": "dMRI: Standard deviation of mean diffusivity within brain mask for all OK scans"
+    },
+    "iqc_dmri_all_b0_mean": {
+        "Description": "dMRI: Mean intensity in b=0 image for all scans"
+    },
+    "iqc_dmri_ok_b0_mean": {
+        "Description": "dMRI: Mean intensity in b=0 image for all OK scans"
+    },
+    "iqc_dmri_all_b0_median": {
+        "Description": "dMRI: Median intensity in b=0 image for all scans"
+    },
+    "iqc_dmri_ok_b0_median": {
+        "Description": "dMRI: Median intensity in b=0 image for all OK scans"
+    },
+    "iqc_dmri_all_b0_std": {
+        "Description": "dMRI: Standard deviation of intensity in b=0 image for all scans"
+    },
+    "iqc_dmri_ok_b0_std": {
+        "Description": "dMRI: Standard deviation of intensity in b=0 image for all OK scans"
+    },
+    "iqc_dmri_all_dterr_mean": {
+        "Description": "dMRI: Mean residual error of diffusion tensor fit for all scans"
+    },
+    "iqc_dmri_ok_dterr_mean": {
+        "Description": "dMRI: Mean residual error of diffusion tensor fit for all OK scans"
+    },
+    "iqc_dmri_all_dterr_median": {
+        "Description": "dMRI: Median residual error of diffusion tensor fit for all scans"
+    },
+    "iqc_dmri_ok_dterr_median": {
+        "Description": "dMRI: Median residual error of diffusion tensor fit for all OK scans"
+    },
+    "iqc_dmri_all_dterr_std": {
+        "Description": "dMRI: Standard deviation of residual error of diffusion tensor fit for all scans"
+    },
+    "iqc_dmri_ok_dterr_std": {
+        "Description": "dMRI: Standard deviation of residual error of diffusion tensor fit for all OK scans"
+    },
+    "iqc_dmri_fm_fov_qc": {
+        "Description": "dMRI FM: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_dmri_fm_line_qc": {
+        "Description": "dMRI FM: Number of dark axial slices across the brain"
+    },
+    "iqc_dmri_fm_mbr_qc": {
+        "Description": "dMRI FM: Number of multiband interleave degradation"
+    },
+    "iqc_dmri_fov_qc": {
+        "Description": "dMRI: Number of dorsal cutoff, ventral cutoff or wrapping"
+    },
+    "iqc_dmri_line_qc": {
+        "Description": "dMRI: Number of dark axial slices across the brain"
+    },
+    "iqc_dmri_mbr_qc": {
+        "Description": "dMRI: Number of multiband interleave degradation"
+    },
+    "iqc_dmri_fm_ap_imported": {
+        "Description": "dMRI_FM_AP: Total number imported"
+    },
+    "iqc_dmri_fm_ap_missing_ks": {
+        "Description": "dMRI_FM_AP: Total number with missing kspace data"
+    },
+    "iqc_dmri_fm_ap_needrawqc": {
+        "Description": "dMRI FM AP: at least one series needs rawQC"
+    },
+    "iqc_dmri_fm_ap_procfail": {
+        "Description": "dMRI FM AP: at least one series has a processing error before autoQC"
+    },
+    "iqc_dmri_fm_ap_received": {
+        "Description": "dMRI_FM_AP: Total number received"
+    },
+    "iqc_dmri_fm_ap_recon_err": {
+        "Description": "dMRI_FM_AP: Total number with reconstruction errors"
+    },
+    "iqc_dmri_fm_ap_recon_req": {
+        "Description": "dMRI_FM_AP: Total number require reconstruction"
+    },
+    "iqc_dmri_fm_ap_reconned": {
+        "Description": "dMRI_FM_AP: Total number reconstructed"
+    },
+    "iqc_dmri_fm_ap_rename_err": {
+        "Description": "dMRI_FM_AP: Total number with rename error"
+    },
+    "iqc_dmri_fm_ap_unpack_err": {
+        "Description": "dMRI_FM_AP: Total number with unpack errors"
+    },
+    "iqc_dmri_fm_ap_unpacked": {
+        "Description": "dMRI_FM_AP: Total number unpacked"
+    },
+    "iqc_dmri_fm_ap_waitautoqc": {
+        "Description": "dMRI FM AP: at least one series is waiting for autoQC"
+    },
+    "iqc_dmri_fm_imported": {
+        "Description": "dMRI_FM: Total number imported"
+    },
+    "iqc_dmri_fm_missing_ks": {
+        "Description": "dMRI_FM: Total number with missing kspace data"
+    },
+    "iqc_dmri_fm_needrawqc": {
+        "Description": "dMRI FM: at least one series needs rawQC"
+    },
+    "iqc_dmri_fm_pa_imported": {
+        "Description": "dMRI_FM_PA: Total number imported"
+    },
+    "iqc_dmri_fm_pa_missing_ks": {
+        "Description": "dMRI_FM_PA: Total number with missing kspace data"
+    },
+    "iqc_dmri_fm_pa_needrawqc": {
+        "Description": "dMRI FM AP: at least one series needs rawQC"
+    },
+    "iqc_dmri_fm_pa_procfail": {
+        "Description": "dMRI FM PA: at least one series has a processing error before autoQC"
+    },
+    "iqc_dmri_fm_pa_received": {
+        "Description": "dMRI_FM_PA: Total number received"
+    },
+    "iqc_dmri_fm_pa_recon_err": {
+        "Description": "dMRI_FM_PA: Total number with reconstruction errors"
+    },
+    "iqc_dmri_fm_pa_recon_req": {
+        "Description": "dMRI_FM_PA: Total number require reconstruction"
+    },
+    "iqc_dmri_fm_pa_reconned": {
+        "Description": "dMRI_FM_PA: Total number reconstructed"
+    },
+    "iqc_dmri_fm_pa_rename_err": {
+        "Description": "dMRI_FM_PA: Total number with rename error"
+    },
+    "iqc_dmri_fm_pa_unpack_err": {
+        "Description": "dMRI_FM_PA: Total number with unpack errors"
+    },
+    "iqc_dmri_fm_pa_unpacked": {
+        "Description": "dMRI_FM_PA: Total number unpacked"
+    },
+    "iqc_dmri_fm_pa_waitautoqc": {
+        "Description": "dMRI FM PA: at least one series is waiting for autoQC"
+    },
+    "iqc_dmri_fm_procfail": {
+        "Description": "dMRI FM: at least one series has a processing error before autoQC"
+    },
+    "iqc_dmri_fm_received": {
+        "Description": "dMRI_FM: Total number received"
+    },
+    "iqc_dmri_fm_recon_err": {
+        "Description": "dMRI_FM: Total number with reconstruction errors"
+    },
+    "iqc_dmri_fm_recon_req": {
+        "Description": "dMRI_FM: Total number require reconstruction"
+    },
+    "iqc_dmri_fm_reconned": {
+        "Description": "dMRI_FM: Total number reconstructed"
+    },
+    "iqc_dmri_fm_rename_err": {
+        "Description": "dMRI FM: Total number with rename error"
+    },
+    "iqc_dmri_fm_unpack_err": {
+        "Description": "dMRI_FM: Total number with unpack errors"
+    },
+    "iqc_dmri_fm_unpacked": {
+        "Description": "dMRI_FM: Total number unpacked"
+    },
+    "iqc_dmri_fm_waitautoqc": {
+        "Description": "dMRI FM: at least one series is waiting for autoQC"
+    },
+    "iqc_dmri_imported": {
+        "Description": "dMRI: Total number imported"
+    },
+    "iqc_dmri_missing": {
+        "Description": "dMRI: Total number missing"
+    },
+    "iqc_dmri_missing_ks": {
+        "Description": "dMRI: Total number with missing kspace data"
+    },
+    "iqc_dmri_needrawqc": {
+        "Description": "dMRI: at least one series needs rawQC"
+    },
+    "iqc_dmri_procfail": {
+        "Description": "dMRI: at least one series has a processing error before autoQC"
+    },
+    "iqc_dmri_received": {
+        "Description": "dMRI: Total number received"
+    },
+    "iqc_dmri_recon_err": {
+        "Description": "dMRI: Total number with recon errors"
+    },
+    "iqc_dmri_recon_req": {
+        "Description": "dMRI: Total number require reconstruction"
+    },
+    "iqc_dmri_reconned": {
+        "Description": "dMRI: Total number reconned"
+    },
+    "iqc_dmri_rename_err": {
+        "Description": "dMRI: Total number with rename error"
+    },
+    "iqc_dmri_unpack_err": {
+        "Description": "dMRI: Total number with unpack errors"
+    },
+    "iqc_dmri_unpacked": {
+        "Description": "dMRI: Total number unpacked"
+    },
+    "iqc_dmri_waitautoqc": {
+        "Description": "dMRI: at least one series is waiting for autoQC"
+    }
+}

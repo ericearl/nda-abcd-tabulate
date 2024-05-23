@@ -1,0 +1,147 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "fes_youth_q10": {
+        "Description": "Family members really help and support one another. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q1": {
+        "Description": "We fight a lot in our family. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q11": {
+        "Description": "We often seem to be killing time at home. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q2": {
+        "Description": "Family members rarely become openly angry. | 0 = True; 1 = False",
+        "Levels": {
+            "0": "True",
+            "1": "False"
+        }
+    },
+    "fes_youth_q12": {
+        "Description": "We put a lot of energy into what we do at home. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q3": {
+        "Description": "Family members sometimes get so angry they throw things. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q13": {
+        "Description": "There is a feeling of togetherness in our family. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q4": {
+        "Description": "Family members hardly ever lose their tempers. | 0 = True; 1 = False",
+        "Levels": {
+            "0": "True",
+            "1": "False"
+        }
+    },
+    "fes_youth_q14": {
+        "Description": "We rarely volunteer when something has to be done at home. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q5": {
+        "Description": "Family members often criticize each other. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q15": {
+        "Description": "Family members really back each other up. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q6": {
+        "Description": "Family members sometimes hit each other. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q16": {
+        "Description": "There is very little group spirit in our family. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q7": {
+        "Description": "If there's a disagreement in our family, we try hard to smooth things over and keep the peace. | 0 = True; 1 = False",
+        "Levels": {
+            "0": "True",
+            "1": "False"
+        }
+    },
+    "fes_youth_q17": {
+        "Description": "We really get along well with each other. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q8": {
+        "Description": "Family members often try to one-up or outdo each other. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q18": {
+        "Description": "There is plenty of time and attention for everyone in our family. | 1 = True; 0 = False",
+        "Levels": {
+            "1": "True",
+            "0": "False"
+        }
+    },
+    "fes_youth_q9": {
+        "Description": "In our family, we believe you don't ever get anywhere by raising your voice. | 0 = True; 1 = False",
+        "Levels": {
+            "0": "True",
+            "1": "False"
+        }
+    },
+    "fes_y_ss_fc": {
+        "Description": "Conflict Subscale from the Family Environment Scale Sum of Youth Report (RAW Score): fes_youth_q1 + fes_youth_q2 + fes_youth_q3 + fes_youth_q4 + fes_youth_q5 + fes_youth_q6 + fes_youth_q7 + fes_youth_q8 + fes_youth_q9; Validation: Minimum of five items answered | Note that the scores for items that are reversed scored already reflect this scoring (fes_youth_q1, fes_youth_q4, fes_youth_q7, fes_youth_q9). Moos, R. H., and  Moos, B. S. (1994)  Family Environment Scale manual (3rd ed.). Palo Alto, CA: Consulting Psychologists Press."
+    },
+    "fes_y_ss_fc_nm": {
+        "Description": "Conflict Subscale from the Family Environment Scale, Sum of Youth Report: Number Missing Answers"
+    },
+    "fes_y_ss_fc_nt": {
+        "Description": "Conflict Subscale from the Family Environment Scale, Sum of Youth Report: Number Total Questions"
+    },
+    "fes_y_ss_fc_na": {
+        "Description": "Conflict Subscale from the Family Environment Scale, Sum of Youth Report: Number Answered"
+    },
+    "fes_y_ss_fc_pr": {
+        "Description": "Conflict Subscale from the Family Environment Scale, Sum of Youth Report: Prorated Score (Based on minimum of five items answered): [fes_y_ss_fc]*[fes_y_ss_fc_nt] /[fes_y_ss_fc_na]"
+    }
+}

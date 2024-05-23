@@ -1,0 +1,330 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "hangover1": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Felt extremely thirsty or dehydrated. | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover2": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Felt more tired than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover3": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Experienced a headache | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover4": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Felt very nauseous | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover5": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Vomited | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover6": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Felt very weak | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover7": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Had difficulty concentrating | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover8": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   More sensitive to light and sound than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover9": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Sweated more than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover10": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Had a lot of trouble sleeping | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover11": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Was anxious | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover12": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Felt depressed | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover13": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by   Experienced trembling or shaking | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover14": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by  Forgot what happened the night before or \"blacked out\" | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover1_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: felt extremely thirsty or dehydrated. | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover2_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: felt more tired than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover3_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: experienced a headache | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover4_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: felt very nauseous | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover5_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: vomited | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover6_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: felt very weak | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover7_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: had difficulty concentrating | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover8_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: more sensitive to light and sound than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover9_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: sweated more than usual | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover10_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: had a lot of trouble sleeping | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover11_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: was anxious | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover12_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: felt depressed | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover13_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: experienced trembling or shaking | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "hangover14_l": {
+        "Description": "In the past 6 months, what percentage of drinking occasions were followed the next morning by: forgot what happened the night before or \"blacked out\" | 0 = (0%)Never; 1 = (25%)Occasionally; 2 = (50%)About half the time; 3 = (75%)Most of the time; 4 = (100%)Every time / xskipout_alc_l   == '1'",
+        "Levels": {
+            "0": "(0%)Never",
+            "1": "(25%)Occasionally",
+            "2": "(50%)About half the time",
+            "3": "(75%)Most of the time",
+            "4": "(100%)Every time"
+        }
+    },
+    "su_alc_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    },
+    "hss_ss_sum": {
+        "Description": "Sum number of Yes answers (Baseline) | Sum number of Yes answers (Baseline)"
+    },
+    "hss_ss_sum_nm": {
+        "Description": "HSS Sum number missing (Baseline) | HSS Sum number missing (Baseline)"
+    },
+    "hss_ss_sum_nt": {
+        "Description": "HSS Sum number total (Baseline) | HSS Sum number total (Baseline)"
+    },
+    "hss_ss_wt_sum": {
+        "Description": "Weighted scoring (Sum of scores (range 0-52). (Item is weighted by its frequency.) raw score totaled (Baseline) | Weighted scoring (Sum of scores (range 0-52). (Item is weighted by its frequency.) raw score totaled (Baseline)"
+    },
+    "hss_ss_wt_sum_nm": {
+        "Description": "HSS Weighted scoring number missing (Baseline) | HSS Weighted scoring number missing (Baseline)"
+    },
+    "hss_ss_wt_sum_nt": {
+        "Description": "HSS Weighted scoring number total (Baseline) | HSS Weighted scoring number total (Baseline)"
+    },
+    "hss_ss_sum_l": {
+        "Description": "Sum number of Yes answers (Followup Visits) | Sum number of Yes answers (Followup Visits)"
+    },
+    "hss_ss_sum_nm_l": {
+        "Description": "HSS Sum number missing (Followup Visits) | HSS Sum number missing (Followup Visits)"
+    },
+    "hss_ss_sum_nt_l": {
+        "Description": "HSS Sum number total (Followup Visits) | HSS Sum number total (Followup Visits)"
+    },
+    "hss_ss_wt_sum_l": {
+        "Description": "Weighted scoring (Sum of scores (range 0-52). (Item is weighted by its frequency.) raw score totaled  (Followup Visits) | Weighted scoring (Sum of scores (range 0-52). (Item is weighted by its frequency.)  raw score totaled  (Followup Visits)"
+    },
+    "hss_ss_wt_sum_nm_l": {
+        "Description": "HSS Sum and Weighted scoring  number missing (Followup Visits) | HSS Sum and Weighted scoring  number missing (Followup Visits)"
+    },
+    "hss_ss_wt_sum_nt_l": {
+        "Description": "HSS Weighted scoring number total (Followup Visits) | HSS Weighted scoring number total (Followup Visits)"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_leadrisk_poverty": {
+        "Description": "Percentage of individuals below -125 percent of poverty level in census tract of primary residential address"
+    },
+    "reshist_addr2_leadrisk_poverty": {
+        "Description": "Percentage of individuals below -125 percent of poverty level in census tract of secondary residential address"
+    },
+    "reshist_addr3_leadrisk_poverty": {
+        "Description": "Percentage of individuals below -125 percent of poverty level in census tract of tertiary residential address"
+    },
+    "reshist_addr1_leadrisk_housing": {
+        "Description": "Estimated percentage of homes at risk for lead exposure given lead-based paint in census tract of primary residential address"
+    },
+    "reshist_addr2_leadrisk_housing": {
+        "Description": "Estimated percentage of homes at risk for lead exposure given lead-based paint in census tract of secondary residential address"
+    },
+    "reshist_addr3_leadrisk_housing": {
+        "Description": "Estimated percentage of homes at risk for lead exposure given lead-based paint in census tract of tertiary residential address"
+    },
+    "reshist_addr1_leadrisk": {
+        "Description": "Estimated lead risk in census tract of primary residential address (1-10 scale)"
+    },
+    "reshist_addr2_leadrisk": {
+        "Description": "Estimated lead risk in census tract of secondary residential address (1-10 scale)"
+    },
+    "reshist_addr3_leadrisk": {
+        "Description": "Estimated lead risk in census tract of tertiary residential address (1-10 scale)"
+    }
+}

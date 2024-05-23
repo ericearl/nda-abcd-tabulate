@@ -1,0 +1,2670 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfsstabwdp_6": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_80": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_7": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_81": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_8": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_82": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_1": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstabwdp_75": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstabwdp_2": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstabwdp_76": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstabwdp_3": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstabwdp_77": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstabwdp_4": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstabwdp_78": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstabwdp_5": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstabwdp_79": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstabwdp_9": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstabwdp_83": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstabwdp_10": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstabwdp_84": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstabwdp_11": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstabwdp_85": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstabwdp_12": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_86": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_13": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_87": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_14": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_88": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_15": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstabwdp_89": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstabwdp_16": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstabwdp_90": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstabwdp_17": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstabwdp_91": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstabwdp_18": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstabwdp_92": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstabwdp_19": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstabwdp_93": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstabwdp_20": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstabwdp_94": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstabwdp_21": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstabwdp_95": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstabwdp_22": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstabwdp_96": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstabwdp_23": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstabwdp_97": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstabwdp_24": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstabwdp_98": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstabwdp_27": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstabwdp_101": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstabwdp_25": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstabwdp_99": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstabwdp_26": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstabwdp_100": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstabwdp_28": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstabwdp_102": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstabwdp_29": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstabwdp_103": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstabwdp_30": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstabwdp_104": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstabwdp_31": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstabwdp_105": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstabwdp_32": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstabwdp_106": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstabwdp_37": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstabwdp_111": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstabwdp_38": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstabwdp_112": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstabwdp_33": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstabwdp_107": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstabwdp_34": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstabwdp_108": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstabwdp_35": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstabwdp_109": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstabwdp_36": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstabwdp_110": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstabwdp_39": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_113": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_40": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_114": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_41": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstabwdp_115": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstabwdp_42": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstabwdp_116": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstabwdp_43": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstabwdp_117": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstabwdp_44": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstabwdp_118": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstabwdp_45": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstabwdp_119": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstabwdp_46": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstabwdp_120": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstabwdp_47": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_121": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_48": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_122": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_49": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_123": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_50": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_124": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_51": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_125": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_52": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstabwdp_126": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstabwdp_53": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstabwdp_127": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstabwdp_54": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstabwdp_128": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstabwdp_55": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstabwdp_129": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstabwdp_56": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstabwdp_130": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstabwdp_59": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstabwdp_133": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstabwdp_57": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstabwdp_131": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstabwdp_58": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstabwdp_132": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstabwdp_60": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstabwdp_134": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstabwdp_61": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstabwdp_135": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstabwdp_64": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstabwdp_138": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstabwdp_62": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstabwdp_136": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstabwdp_63": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstabwdp_137": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstabwdp_65": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstabwdp_139": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstabwdp_66": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstabwdp_140": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstabwdp_67": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstabwdp_141": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstabwdp_68": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstabwdp_142": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstabwdp_69": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstabwdp_143": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstabwdp_70": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstabwdp_144": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstabwdp_71": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstabwdp_145": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstabwdp_72": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstabwdp_146": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstabwdp_73": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstabwdp_147": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstabwdp_74": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstabwdp_148": {
+        "Description": "Beta weight for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstasemdp_6": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_80": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_7": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_81": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_8": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_82": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_1": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstasemdp_75": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstasemdp_2": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstasemdp_76": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstasemdp_3": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstasemdp_77": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstasemdp_4": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstasemdp_78": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstasemdp_5": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstasemdp_79": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstasemdp_9": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstasemdp_83": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstasemdp_10": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstasemdp_84": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstasemdp_11": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstasemdp_85": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstasemdp_12": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_86": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_13": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_87": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_14": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_88": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_15": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstasemdp_89": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstasemdp_16": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstasemdp_90": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstasemdp_17": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstasemdp_91": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstasemdp_18": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstasemdp_92": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstasemdp_19": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstasemdp_93": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstasemdp_20": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstasemdp_94": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstasemdp_21": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstasemdp_95": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstasemdp_22": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstasemdp_96": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstasemdp_23": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstasemdp_97": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstasemdp_24": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstasemdp_98": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstasemdp_27": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstasemdp_101": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstasemdp_25": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstasemdp_99": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstasemdp_26": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstasemdp_100": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstasemdp_28": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstasemdp_102": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstasemdp_29": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstasemdp_103": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstasemdp_30": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstasemdp_104": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstasemdp_31": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstasemdp_105": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstasemdp_32": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstasemdp_106": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstasemdp_37": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstasemdp_111": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstasemdp_38": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstasemdp_112": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstasemdp_33": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstasemdp_107": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstasemdp_34": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstasemdp_108": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstasemdp_35": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstasemdp_109": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstasemdp_36": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstasemdp_110": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstasemdp_39": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_113": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_40": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_114": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_41": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstasemdp_115": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstasemdp_42": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstasemdp_116": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstasemdp_43": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstasemdp_117": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstasemdp_44": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstasemdp_118": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstasemdp_45": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstasemdp_119": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstasemdp_46": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstasemdp_120": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstasemdp_47": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_121": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_48": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_122": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_49": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_123": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_50": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_124": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_51": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_125": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_52": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstasemdp_126": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstasemdp_53": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstasemdp_127": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstasemdp_54": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstasemdp_128": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstasemdp_55": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstasemdp_129": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstasemdp_56": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstasemdp_130": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstasemdp_59": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstasemdp_133": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstasemdp_57": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstasemdp_131": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstasemdp_58": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstasemdp_132": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstasemdp_60": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstasemdp_134": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstasemdp_61": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstasemdp_135": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstasemdp_64": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstasemdp_138": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstasemdp_62": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstasemdp_136": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstasemdp_63": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstasemdp_137": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstasemdp_65": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstasemdp_139": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstasemdp_66": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstasemdp_140": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstasemdp_67": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstasemdp_141": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstasemdp_68": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstasemdp_142": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstasemdp_69": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstasemdp_143": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstasemdp_70": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstasemdp_144": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstasemdp_71": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstasemdp_145": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstasemdp_72": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstasemdp_146": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstasemdp_73": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstasemdp_147": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstasemdp_74": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstasemdp_148": {
+        "Description": "Standard error of the mean for SST all correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1bwdp_6": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_80": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_7": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_81": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_8": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_82": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_1": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1bwdp_75": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1bwdp_2": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1bwdp_76": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1bwdp_3": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1bwdp_77": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1bwdp_4": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1bwdp_78": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1bwdp_5": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1bwdp_79": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1bwdp_9": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_83": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_10": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_84": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_11": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr1bwdp_85": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr1bwdp_12": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_86": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_13": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_87": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_14": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_88": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_15": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr1bwdp_89": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr1bwdp_16": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr1bwdp_90": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr1bwdp_17": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1bwdp_91": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1bwdp_18": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr1bwdp_92": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr1bwdp_19": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr1bwdp_93": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr1bwdp_20": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr1bwdp_94": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr1bwdp_21": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1bwdp_95": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1bwdp_22": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr1bwdp_96": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr1bwdp_23": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1bwdp_97": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1bwdp_24": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr1bwdp_98": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr1bwdp_27": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr1bwdp_101": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr1bwdp_25": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr1bwdp_99": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr1bwdp_26": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr1bwdp_100": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr1bwdp_28": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr1bwdp_102": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr1bwdp_29": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr1bwdp_103": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr1bwdp_30": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr1bwdp_104": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr1bwdp_31": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr1bwdp_105": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr1bwdp_32": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr1bwdp_106": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr1bwdp_37": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1bwdp_111": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1bwdp_38": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr1bwdp_112": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr1bwdp_33": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1bwdp_107": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1bwdp_34": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_108": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_35": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_109": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_36": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr1bwdp_110": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr1bwdp_39": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_113": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_40": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_114": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_41": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1bwdp_115": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1bwdp_42": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr1bwdp_116": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr1bwdp_43": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr1bwdp_117": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr1bwdp_44": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr1bwdp_118": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr1bwdp_45": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr1bwdp_119": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr1bwdp_46": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1bwdp_120": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1bwdp_47": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_121": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_48": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_122": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_49": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_123": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_50": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_124": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_51": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_125": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_52": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1bwdp_126": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1bwdp_53": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr1bwdp_127": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr1bwdp_54": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr1bwdp_128": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr1bwdp_55": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1bwdp_129": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1bwdp_56": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1bwdp_130": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1bwdp_59": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1bwdp_133": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1bwdp_57": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1bwdp_131": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1bwdp_58": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1bwdp_132": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1bwdp_60": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1bwdp_134": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1bwdp_61": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1bwdp_135": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1bwdp_64": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr1bwdp_138": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr1bwdp_62": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1bwdp_136": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1bwdp_63": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr1bwdp_137": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr1bwdp_65": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1bwdp_139": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1bwdp_66": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr1bwdp_140": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr1bwdp_67": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr1bwdp_141": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr1bwdp_68": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_142": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_69": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_143": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_70": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr1bwdp_144": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr1bwdp_71": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr1bwdp_145": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr1bwdp_72": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1bwdp_146": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1bwdp_73": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr1bwdp_147": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr1bwdp_74": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1bwdp_148": {
+        "Description": "Beta weight for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1semdp_6": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_80": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_7": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_81": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_8": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_82": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_1": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1semdp_75": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1semdp_2": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1semdp_76": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1semdp_3": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1semdp_77": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1semdp_4": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1semdp_78": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1semdp_5": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1semdp_79": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1semdp_9": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_83": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_10": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_84": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_11": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr1semdp_85": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr1semdp_12": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_86": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_13": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_87": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_14": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_88": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_15": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr1semdp_89": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr1semdp_16": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr1semdp_90": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr1semdp_17": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1semdp_91": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1semdp_18": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr1semdp_92": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr1semdp_19": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr1semdp_93": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr1semdp_20": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr1semdp_94": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr1semdp_21": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1semdp_95": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1semdp_22": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr1semdp_96": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr1semdp_23": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1semdp_97": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1semdp_24": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr1semdp_98": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr1semdp_27": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr1semdp_101": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr1semdp_25": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr1semdp_99": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr1semdp_26": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr1semdp_100": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr1semdp_28": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr1semdp_102": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr1semdp_29": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr1semdp_103": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr1semdp_30": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr1semdp_104": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr1semdp_31": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr1semdp_105": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr1semdp_32": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr1semdp_106": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr1semdp_37": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1semdp_111": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1semdp_38": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr1semdp_112": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr1semdp_33": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1semdp_107": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1semdp_34": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_108": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_35": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_109": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_36": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr1semdp_110": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr1semdp_39": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_113": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_40": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_114": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_41": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1semdp_115": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1semdp_42": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr1semdp_116": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr1semdp_43": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr1semdp_117": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr1semdp_44": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr1semdp_118": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr1semdp_45": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr1semdp_119": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr1semdp_46": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1semdp_120": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1semdp_47": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_121": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_48": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_122": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_49": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_123": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_50": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_124": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_51": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_125": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_52": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1semdp_126": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1semdp_53": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr1semdp_127": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr1semdp_54": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr1semdp_128": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr1semdp_55": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1semdp_129": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1semdp_56": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1semdp_130": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1semdp_59": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1semdp_133": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1semdp_57": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1semdp_131": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1semdp_58": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1semdp_132": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1semdp_60": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1semdp_134": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1semdp_61": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1semdp_135": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1semdp_64": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr1semdp_138": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr1semdp_62": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1semdp_136": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1semdp_63": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr1semdp_137": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr1semdp_65": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1semdp_139": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1semdp_66": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr1semdp_140": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr1semdp_67": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr1semdp_141": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr1semdp_68": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_142": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_69": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_143": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_70": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr1semdp_144": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr1semdp_71": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr1semdp_145": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr1semdp_72": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1semdp_146": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1semdp_73": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr1semdp_147": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr1semdp_74": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1semdp_148": {
+        "Description": "Standard error of the mean for SST run1 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2bwdp_6": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_80": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_7": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_81": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_8": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_82": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_1": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2bwdp_75": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2bwdp_2": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2bwdp_76": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2bwdp_3": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2bwdp_77": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2bwdp_4": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2bwdp_78": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2bwdp_5": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2bwdp_79": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2bwdp_9": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_83": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_10": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_84": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_11": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr2bwdp_85": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr2bwdp_12": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_86": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_13": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_87": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_14": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_88": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_15": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr2bwdp_89": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr2bwdp_16": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr2bwdp_90": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr2bwdp_17": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2bwdp_91": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2bwdp_18": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr2bwdp_92": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr2bwdp_19": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr2bwdp_93": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr2bwdp_20": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr2bwdp_94": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr2bwdp_21": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2bwdp_95": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2bwdp_22": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr2bwdp_96": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr2bwdp_23": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2bwdp_97": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2bwdp_24": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr2bwdp_98": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr2bwdp_27": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr2bwdp_101": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr2bwdp_25": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr2bwdp_99": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr2bwdp_26": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr2bwdp_100": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr2bwdp_28": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr2bwdp_102": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr2bwdp_29": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr2bwdp_103": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr2bwdp_30": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr2bwdp_104": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr2bwdp_31": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr2bwdp_105": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr2bwdp_32": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr2bwdp_106": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr2bwdp_37": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2bwdp_111": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2bwdp_38": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr2bwdp_112": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr2bwdp_33": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2bwdp_107": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2bwdp_34": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_108": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_35": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_109": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_36": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr2bwdp_110": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr2bwdp_39": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_113": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_40": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_114": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_41": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2bwdp_115": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2bwdp_42": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr2bwdp_116": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr2bwdp_43": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr2bwdp_117": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr2bwdp_44": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr2bwdp_118": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr2bwdp_45": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr2bwdp_119": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr2bwdp_46": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2bwdp_120": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2bwdp_47": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_121": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_48": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_122": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_49": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_123": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_50": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_124": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_51": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_125": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_52": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2bwdp_126": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2bwdp_53": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr2bwdp_127": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr2bwdp_54": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr2bwdp_128": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr2bwdp_55": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2bwdp_129": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2bwdp_56": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2bwdp_130": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2bwdp_59": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2bwdp_133": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2bwdp_57": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2bwdp_131": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2bwdp_58": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2bwdp_132": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2bwdp_60": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2bwdp_134": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2bwdp_61": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2bwdp_135": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2bwdp_64": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr2bwdp_138": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr2bwdp_62": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2bwdp_136": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2bwdp_63": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr2bwdp_137": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr2bwdp_65": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2bwdp_139": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2bwdp_66": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr2bwdp_140": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr2bwdp_67": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr2bwdp_141": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr2bwdp_68": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_142": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_69": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_143": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_70": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr2bwdp_144": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr2bwdp_71": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr2bwdp_145": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr2bwdp_72": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2bwdp_146": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2bwdp_73": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr2bwdp_147": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr2bwdp_74": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2bwdp_148": {
+        "Description": "Beta weight for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2semdp_6": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_80": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_7": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_81": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_8": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_82": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_1": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2semdp_75": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2semdp_2": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2semdp_76": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2semdp_3": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2semdp_77": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2semdp_4": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2semdp_78": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2semdp_5": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2semdp_79": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2semdp_9": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_83": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_10": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_84": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_11": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr2semdp_85": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr2semdp_12": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_86": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_13": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_87": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_14": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_88": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_15": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr2semdp_89": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr2semdp_16": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr2semdp_90": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr2semdp_17": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2semdp_91": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2semdp_18": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr2semdp_92": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr2semdp_19": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr2semdp_93": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr2semdp_20": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr2semdp_94": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr2semdp_21": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2semdp_95": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2semdp_22": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr2semdp_96": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr2semdp_23": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2semdp_97": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2semdp_24": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr2semdp_98": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr2semdp_27": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr2semdp_101": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr2semdp_25": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr2semdp_99": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr2semdp_26": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr2semdp_100": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr2semdp_28": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr2semdp_102": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr2semdp_29": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr2semdp_103": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr2semdp_30": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr2semdp_104": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr2semdp_31": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr2semdp_105": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr2semdp_32": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr2semdp_106": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr2semdp_37": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2semdp_111": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2semdp_38": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr2semdp_112": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr2semdp_33": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2semdp_107": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2semdp_34": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_108": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_35": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_109": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_36": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr2semdp_110": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr2semdp_39": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_113": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_40": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_114": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_41": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2semdp_115": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2semdp_42": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr2semdp_116": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr2semdp_43": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr2semdp_117": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr2semdp_44": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr2semdp_118": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr2semdp_45": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr2semdp_119": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr2semdp_46": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2semdp_120": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2semdp_47": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_121": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_48": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_122": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_49": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_123": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_50": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_124": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_51": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_125": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_52": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2semdp_126": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2semdp_53": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr2semdp_127": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr2semdp_54": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr2semdp_128": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr2semdp_55": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2semdp_129": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2semdp_56": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2semdp_130": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2semdp_59": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2semdp_133": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2semdp_57": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2semdp_131": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2semdp_58": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2semdp_132": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2semdp_60": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2semdp_134": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2semdp_61": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2semdp_135": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2semdp_64": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr2semdp_138": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr2semdp_62": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2semdp_136": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2semdp_63": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr2semdp_137": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr2semdp_65": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2semdp_139": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2semdp_66": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr2semdp_140": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr2semdp_67": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr2semdp_141": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr2semdp_68": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_142": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_69": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_143": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_70": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr2semdp_144": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr2semdp_71": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr2semdp_145": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr2semdp_72": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2semdp_146": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2semdp_73": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr2semdp_147": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr2semdp_74": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2semdp_148": {
+        "Description": "Standard error of the mean for SST run2 correct go versus fixation contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    }
+}

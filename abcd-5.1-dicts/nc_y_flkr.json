@@ -1,0 +1,109 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "flkr_scr_scriptlastupdate": {
+        "Description": "Script last updated"
+    },
+    "flkr_scr_comp_platform": {
+        "Description": "The platform the script was run on"
+    },
+    "flkr_scr_script_startdate": {
+        "Description": "date script was run"
+    },
+    "flkr_scr_script_starttime": {
+        "Description": "time script was run"
+    },
+    "flkr_scr_script_subjectid": {
+        "Description": "subject id number"
+    },
+    "flkr_scr_script_groupid": {
+        "Description": "group id"
+    },
+    "flkr_scr_script_session": {
+        "Description": "Session id"
+    },
+    "flkr_scr_elapsedtime": {
+        "Description": "Elapsed Time"
+    },
+    "flkr_scr_completed": {
+        "Description": "Completed"
+    },
+    "flkr_scr_blockcount": {
+        "Description": "Block Count"
+    },
+    "flkr_scr_countpracticeblocks": {
+        "Description": "Count Practice Blocks"
+    },
+    "flkr_scr_acc_practice_mean": {
+        "Description": "ACC Practice Mean"
+    },
+    "flkr_scr_practicepass": {
+        "Description": "Practice Pass"
+    },
+    "flkr_scr_trialcount": {
+        "Description": "Trial Count"
+    },
+    "flkr_scr_propcorrect": {
+        "Description": "Prop Correct"
+    },
+    "flkr_scr_meanrt": {
+        "Description": "Mean Response Time"
+    },
+    "flkr_scr_medrt": {
+        "Description": "Median Response Time"
+    },
+    "flkr_scr_trialcount_congruent": {
+        "Description": "Trial Count Congruent"
+    },
+    "flkr_scr_propcorrect_congruent": {
+        "Description": "Prop Correct Congruent"
+    },
+    "flkr_scr_meanrt_congruent": {
+        "Description": "Mean Response Time Congruent"
+    },
+    "flkr_scr_medrt_congruent": {
+        "Description": "Median Response Time Congruent"
+    },
+    "flkr_scr_trialcount_incongruent": {
+        "Description": "Trial Count Incongruent"
+    },
+    "flkr_scr_propcorrect_incongruent": {
+        "Description": "Prop Correct Incongruent"
+    },
+    "flkr_scr_meanrt_incongruent": {
+        "Description": "Mean Response Time Incongruent"
+    },
+    "flkr_scr_medrt_incongruent": {
+        "Description": "Median Response Time Incongruent"
+    },
+    "neurocog_2_flanker___1": {
+        "Description": "Method of Flanker administration [Check all that apply]: 1, Audio | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_flanker___2": {
+        "Description": "Method of Flanker administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_flanker___3": {
+        "Description": "Method of Flanker administration [Check all that apply]: 3, In person (ONLY if issues arise and hybrid) | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_flanker___4": {
+        "Description": "Method of Flanker administration [Check all that apply]: 4, Unmonitored | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

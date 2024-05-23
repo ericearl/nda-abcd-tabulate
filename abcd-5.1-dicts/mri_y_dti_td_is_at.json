@@ -1,0 +1,132 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtitd_fiberat_allfibers": {
+        "Description": "Average transverse diffusion coefficient within all DTI atlas tract fibers"
+    },
+    "dmri_dtitd_fiberat_allfiblh": {
+        "Description": "Average transverse diffusion coefficient within left hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtitd_fiberat_allfcclh": {
+        "Description": "Average transverse diffusion coefficient within left hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtitd_fiberat_allfccrh": {
+        "Description": "Average transverse diffusion coefficient within right hemisphere DTI atlas tract fibers without corpus callosum"
+    },
+    "dmri_dtitd_fiberat_allfibrh": {
+        "Description": "Average transverse diffusion coefficient within right hemisphere DTI atlas tract fibers"
+    },
+    "dmri_dtitd_fiberat_atrlh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left anterior thalamic radiations"
+    },
+    "dmri_dtitd_fiberat_atrrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right anterior thalamic radiations"
+    },
+    "dmri_dtitd_fiberat_cc": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract corpus callosum"
+    },
+    "dmri_dtitd_fiberat_cgclh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left cingulate cingulum"
+    },
+    "dmri_dtitd_fiberat_cgcrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right cingulate cingulum"
+    },
+    "dmri_dtitd_fiberat_cghlh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left parahippocampal cingulum"
+    },
+    "dmri_dtitd_fiberat_cghrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right parahippocampal cingulum"
+    },
+    "dmri_dtitd_fiberat_cstlh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left corticospinal/pyramidal"
+    },
+    "dmri_dtitd_fiberat_cstrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right corticospinal/pyramidal"
+    },
+    "dmri_dtitd_fiberat_fmaj": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract foreceps major"
+    },
+    "dmri_dtitd_fiberat_fmin": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract foreceps minor"
+    },
+    "dmri_dtitd_fiberat_fscslh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtitd_fiberat_fscsrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right superior corticostriate-frontal cortex only"
+    },
+    "dmri_dtitd_fiberat_fxcutlh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left fornix, excluding fimbria"
+    },
+    "dmri_dtitd_fiberat_fxcutrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right fornix, excluding fimbria"
+    },
+    "dmri_dtitd_fiberat_fxlh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left fornix"
+    },
+    "dmri_dtitd_fiberat_fxrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right fornix"
+    },
+    "dmri_dtitd_fiberat_ifolh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtitd_fiberat_iforh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right inferior-fronto-occipital fasiculus"
+    },
+    "dmri_dtitd_fiberat_ifsfclh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left inferior frontal superior frontal cortex"
+    },
+    "dmri_dtitd_fiberat_ifsfcrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right inferior frontal superior frontal cortex"
+    },
+    "dmri_dtitd_fiberat_ilflh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left inferior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_ilfrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right inferior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_pscslh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtitd_fiberat_pscsrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right superior corticostriate-parietal cortex only"
+    },
+    "dmri_dtitd_fiberat_pslflh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_pslfrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right parietal superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_scslh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left superior corticostriate"
+    },
+    "dmri_dtitd_fiberat_scsrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right superior corticostriate"
+    },
+    "dmri_dtitd_fiberat_sifclh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left striatal inferior frontal cortex"
+    },
+    "dmri_dtitd_fiberat_sifcrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right striatal inferior frontal cortex"
+    },
+    "dmri_dtitd_fiberat_slflh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_slfrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_tslflh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_tslfrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right  temporal superior longitudinal fasiculus"
+    },
+    "dmri_dtitd_fiberat_unclh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract left uncinate"
+    },
+    "dmri_dtitd_fiberat_uncrh": {
+        "Description": "Average transverse diffusion coefficient within DTI atlas tract right uncinate"
+    }
+}

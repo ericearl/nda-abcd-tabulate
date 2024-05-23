@@ -1,0 +1,2670 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "midabwdp450": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp524": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp451": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp525": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp452": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp526": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "midabwdp445": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "midabwdp519": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "midabwdp446": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "midabwdp520": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "midabwdp447": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "midabwdp521": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "midabwdp448": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "midabwdp522": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "midabwdp449": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "midabwdp523": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "midabwdp453": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "midabwdp527": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "midabwdp454": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "midabwdp528": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "midabwdp455": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "midabwdp529": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "midabwdp456": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "midabwdp530": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "midabwdp457": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "midabwdp531": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "midabwdp458": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "midabwdp532": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "midabwdp459": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "midabwdp533": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "midabwdp460": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "midabwdp534": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "midabwdp461": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "midabwdp535": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "midabwdp462": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "midabwdp536": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "midabwdp463": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "midabwdp537": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "midabwdp464": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "midabwdp538": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "midabwdp465": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "midabwdp539": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "midabwdp466": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "midabwdp540": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "midabwdp467": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "midabwdp541": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "midabwdp468": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "midabwdp542": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "midabwdp471": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "midabwdp545": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "midabwdp469": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "midabwdp543": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "midabwdp470": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "midabwdp544": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "midabwdp472": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "midabwdp546": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "midabwdp473": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "midabwdp547": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "midabwdp474": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "midabwdp548": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "midabwdp475": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "midabwdp549": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "midabwdp476": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "midabwdp550": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "midabwdp481": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "midabwdp555": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "midabwdp482": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "midabwdp556": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "midabwdp477": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "midabwdp551": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "midabwdp478": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "midabwdp552": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "midabwdp479": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "midabwdp553": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "midabwdp480": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "midabwdp554": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "midabwdp483": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "midabwdp557": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "midabwdp484": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "midabwdp558": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "midabwdp485": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "midabwdp559": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "midabwdp486": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "midabwdp560": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "midabwdp487": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "midabwdp561": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "midabwdp488": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "midabwdp562": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "midabwdp489": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "midabwdp563": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "midabwdp490": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "midabwdp564": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "midabwdp491": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "midabwdp565": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "midabwdp492": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "midabwdp566": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "midabwdp493": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "midabwdp567": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "midabwdp494": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "midabwdp568": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "midabwdp495": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "midabwdp569": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "midabwdp496": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "midabwdp570": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "midabwdp497": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "midabwdp571": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "midabwdp498": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "midabwdp572": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "midabwdp499": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "midabwdp573": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "midabwdp500": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "midabwdp574": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "midabwdp503": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "midabwdp577": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "midabwdp501": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "midabwdp575": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "midabwdp502": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "midabwdp576": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "midabwdp504": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "midabwdp578": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "midabwdp505": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "midabwdp579": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "midabwdp508": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "midabwdp582": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "midabwdp506": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "midabwdp580": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "midabwdp507": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "midabwdp581": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "midabwdp509": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "midabwdp583": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "midabwdp510": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "midabwdp584": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "midabwdp511": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "midabwdp585": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "midabwdp512": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "midabwdp586": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "midabwdp513": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "midabwdp587": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "midabwdp514": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "midabwdp588": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "midabwdp515": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "midabwdp589": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "midabwdp516": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "midabwdp590": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "midabwdp517": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "midabwdp591": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "midabwdp518": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "midabwdp592": {
+        "Description": "Beta weight for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "midasemdp450": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp524": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp451": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp525": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp452": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp526": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "midasemdp445": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "midasemdp519": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "midasemdp446": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "midasemdp520": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "midasemdp447": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "midasemdp521": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "midasemdp448": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "midasemdp522": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "midasemdp449": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "midasemdp523": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "midasemdp453": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "midasemdp527": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "midasemdp454": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "midasemdp528": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "midasemdp455": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "midasemdp529": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "midasemdp456": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "midasemdp530": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "midasemdp457": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "midasemdp531": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "midasemdp458": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "midasemdp532": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "midasemdp459": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "midasemdp533": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "midasemdp460": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "midasemdp534": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "midasemdp461": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "midasemdp535": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "midasemdp462": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "midasemdp536": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "midasemdp463": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "midasemdp537": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "midasemdp464": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "midasemdp538": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "midasemdp465": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "midasemdp539": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "midasemdp466": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "midasemdp540": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "midasemdp467": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "midasemdp541": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "midasemdp468": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "midasemdp542": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "midasemdp471": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "midasemdp545": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "midasemdp469": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "midasemdp543": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "midasemdp470": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "midasemdp544": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "midasemdp472": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "midasemdp546": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "midasemdp473": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "midasemdp547": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "midasemdp474": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "midasemdp548": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "midasemdp475": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "midasemdp549": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "midasemdp476": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "midasemdp550": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "midasemdp481": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "midasemdp555": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "midasemdp482": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "midasemdp556": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "midasemdp477": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "midasemdp551": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "midasemdp478": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "midasemdp552": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "midasemdp479": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "midasemdp553": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "midasemdp480": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "midasemdp554": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "midasemdp483": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "midasemdp557": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "midasemdp484": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "midasemdp558": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "midasemdp485": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "midasemdp559": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "midasemdp486": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "midasemdp560": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "midasemdp487": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "midasemdp561": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "midasemdp488": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "midasemdp562": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "midasemdp489": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "midasemdp563": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "midasemdp490": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "midasemdp564": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "midasemdp491": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "midasemdp565": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "midasemdp492": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "midasemdp566": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "midasemdp493": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "midasemdp567": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "midasemdp494": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "midasemdp568": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "midasemdp495": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "midasemdp569": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "midasemdp496": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "midasemdp570": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "midasemdp497": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "midasemdp571": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "midasemdp498": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "midasemdp572": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "midasemdp499": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "midasemdp573": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "midasemdp500": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "midasemdp574": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "midasemdp503": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "midasemdp577": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "midasemdp501": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "midasemdp575": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "midasemdp502": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "midasemdp576": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "midasemdp504": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "midasemdp578": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "midasemdp505": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "midasemdp579": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "midasemdp508": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "midasemdp582": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "midasemdp506": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "midasemdp580": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "midasemdp507": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "midasemdp581": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "midasemdp509": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "midasemdp583": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "midasemdp510": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "midasemdp584": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "midasemdp511": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "midasemdp585": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "midasemdp512": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "midasemdp586": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "midasemdp513": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "midasemdp587": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "midasemdp514": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "midasemdp588": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "midasemdp515": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "midasemdp589": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "midasemdp516": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "midasemdp590": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "midasemdp517": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "midasemdp591": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "midasemdp518": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "midasemdp592": {
+        "Description": "Standard error of the mean for MID all loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfmrimr1_450": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_524": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_451": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_525": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_452": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_526": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfmrimr1_445": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfmrimr1_519": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfmrimr1_446": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfmrimr1_520": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfmrimr1_447": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfmrimr1_521": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfmrimr1_448": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfmrimr1_522": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfmrimr1_449": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfmrimr1_523": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfmrimr1_453": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfmrimr1_527": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfmrimr1_454": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfmrimr1_528": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfmrimr1_455": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfmrimr1_529": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfmrimr1_456": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_530": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_457": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_531": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_458": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_532": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfmrimr1_459": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfmrimr1_533": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfmrimr1_460": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfmrimr1_534": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfmrimr1_461": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfmrimr1_535": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfmrimr1_462": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfmrimr1_536": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfmrimr1_463": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfmrimr1_537": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfmrimr1_464": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfmrimr1_538": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfmrimr1_465": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfmrimr1_539": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfmrimr1_466": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfmrimr1_540": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfmrimr1_467": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfmrimr1_541": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfmrimr1_468": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfmrimr1_542": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfmrimr1_471": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfmrimr1_545": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfmrimr1_469": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfmrimr1_543": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfmrimr1_470": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfmrimr1_544": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfmrimr1_472": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfmrimr1_546": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfmrimr1_473": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfmrimr1_547": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfmrimr1_474": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfmrimr1_548": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfmrimr1_475": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfmrimr1_549": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfmrimr1_476": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfmrimr1_550": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfmrimr1_481": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfmrimr1_555": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfmrimr1_482": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfmrimr1_556": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfmrimr1_477": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfmrimr1_551": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfmrimr1_478": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfmrimr1_552": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfmrimr1_479": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfmrimr1_553": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfmrimr1_480": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfmrimr1_554": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfmrimr1_483": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfmrimr1_557": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfmrimr1_484": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfmrimr1_558": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfmrimr1_485": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfmrimr1_559": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfmrimr1_486": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfmrimr1_560": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfmrimr1_487": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfmrimr1_561": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfmrimr1_488": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfmrimr1_562": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfmrimr1_489": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfmrimr1_563": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfmrimr1_490": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfmrimr1_564": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfmrimr1_491": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_565": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_492": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_566": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_493": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_567": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfmrimr1_494": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfmrimr1_568": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfmrimr1_495": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfmrimr1_569": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfmrimr1_496": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfmrimr1_570": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfmrimr1_497": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfmrimr1_571": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfmrimr1_498": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfmrimr1_572": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfmrimr1_499": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfmrimr1_573": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfmrimr1_500": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfmrimr1_574": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfmrimr1_503": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfmrimr1_577": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfmrimr1_501": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfmrimr1_575": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfmrimr1_502": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfmrimr1_576": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfmrimr1_504": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfmrimr1_578": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfmrimr1_505": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfmrimr1_579": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfmrimr1_508": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfmrimr1_582": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfmrimr1_506": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfmrimr1_580": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfmrimr1_507": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfmrimr1_581": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfmrimr1_509": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfmrimr1_583": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfmrimr1_510": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfmrimr1_584": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfmrimr1_511": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfmrimr1_585": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfmrimr1_512": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfmrimr1_586": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfmrimr1_513": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfmrimr1_587": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfmrimr1_514": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfmrimr1_588": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfmrimr1_515": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfmrimr1_589": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfmrimr1_516": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfmrimr1_590": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfmrimr1_517": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfmrimr1_591": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfmrimr1_518": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfmrimr1_592": {
+        "Description": "Beta weight for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tmidr1semdp_450": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_524": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_451": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_525": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_452": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_526": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tmidr1semdp_445": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tmidr1semdp_519": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tmidr1semdp_446": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tmidr1semdp_520": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tmidr1semdp_447": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tmidr1semdp_521": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tmidr1semdp_448": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tmidr1semdp_522": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tmidr1semdp_449": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tmidr1semdp_523": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tmidr1semdp_453": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tmidr1semdp_527": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tmidr1semdp_454": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tmidr1semdp_528": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tmidr1semdp_455": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tmidr1semdp_529": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tmidr1semdp_456": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_530": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_457": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_531": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_458": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_532": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tmidr1semdp_459": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tmidr1semdp_533": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tmidr1semdp_460": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tmidr1semdp_534": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tmidr1semdp_461": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tmidr1semdp_535": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tmidr1semdp_462": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tmidr1semdp_536": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tmidr1semdp_463": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tmidr1semdp_537": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tmidr1semdp_464": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tmidr1semdp_538": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tmidr1semdp_465": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tmidr1semdp_539": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tmidr1semdp_466": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tmidr1semdp_540": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tmidr1semdp_467": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tmidr1semdp_541": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tmidr1semdp_468": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tmidr1semdp_542": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tmidr1semdp_471": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tmidr1semdp_545": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tmidr1semdp_469": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tmidr1semdp_543": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tmidr1semdp_470": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tmidr1semdp_544": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tmidr1semdp_472": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tmidr1semdp_546": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tmidr1semdp_473": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tmidr1semdp_547": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tmidr1semdp_474": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tmidr1semdp_548": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tmidr1semdp_475": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tmidr1semdp_549": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tmidr1semdp_476": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tmidr1semdp_550": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tmidr1semdp_481": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tmidr1semdp_555": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tmidr1semdp_482": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tmidr1semdp_556": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tmidr1semdp_477": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tmidr1semdp_551": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tmidr1semdp_478": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tmidr1semdp_552": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tmidr1semdp_479": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tmidr1semdp_553": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tmidr1semdp_480": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tmidr1semdp_554": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tmidr1semdp_483": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tmidr1semdp_557": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tmidr1semdp_484": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tmidr1semdp_558": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tmidr1semdp_485": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tmidr1semdp_559": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tmidr1semdp_486": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tmidr1semdp_560": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tmidr1semdp_487": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tmidr1semdp_561": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tmidr1semdp_488": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tmidr1semdp_562": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tmidr1semdp_489": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tmidr1semdp_563": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tmidr1semdp_490": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tmidr1semdp_564": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tmidr1semdp_491": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_565": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_492": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_566": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_493": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_567": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tmidr1semdp_494": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tmidr1semdp_568": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tmidr1semdp_495": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tmidr1semdp_569": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tmidr1semdp_496": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tmidr1semdp_570": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tmidr1semdp_497": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tmidr1semdp_571": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tmidr1semdp_498": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tmidr1semdp_572": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tmidr1semdp_499": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tmidr1semdp_573": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tmidr1semdp_500": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tmidr1semdp_574": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tmidr1semdp_503": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tmidr1semdp_577": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tmidr1semdp_501": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tmidr1semdp_575": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tmidr1semdp_502": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tmidr1semdp_576": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tmidr1semdp_504": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tmidr1semdp_578": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tmidr1semdp_505": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tmidr1semdp_579": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tmidr1semdp_508": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tmidr1semdp_582": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tmidr1semdp_506": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tmidr1semdp_580": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tmidr1semdp_507": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tmidr1semdp_581": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tmidr1semdp_509": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tmidr1semdp_583": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tmidr1semdp_510": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tmidr1semdp_584": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tmidr1semdp_511": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tmidr1semdp_585": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tmidr1semdp_512": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tmidr1semdp_586": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tmidr1semdp_513": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tmidr1semdp_587": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tmidr1semdp_514": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tmidr1semdp_588": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tmidr1semdp_515": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tmidr1semdp_589": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tmidr1semdp_516": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tmidr1semdp_590": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tmidr1semdp_517": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tmidr1semdp_591": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tmidr1semdp_518": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tmidr1semdp_592": {
+        "Description": "Standard error of the mean for MID run1 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tr2bwdp_450": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_524": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_451": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_525": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_452": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_526": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2bwdp_445": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tr2bwdp_519": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tr2bwdp_446": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tr2bwdp_520": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tr2bwdp_447": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tr2bwdp_521": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tr2bwdp_448": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tr2bwdp_522": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tr2bwdp_449": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tr2bwdp_523": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tr2bwdp_453": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tr2bwdp_527": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tr2bwdp_454": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tr2bwdp_528": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tr2bwdp_455": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tr2bwdp_529": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tr2bwdp_456": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_530": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_457": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_531": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_458": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_532": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tr2bwdp_459": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tr2bwdp_533": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tr2bwdp_460": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tr2bwdp_534": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tr2bwdp_461": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tr2bwdp_535": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tr2bwdp_462": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tr2bwdp_536": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tr2bwdp_463": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tr2bwdp_537": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tr2bwdp_464": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tr2bwdp_538": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tr2bwdp_465": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tr2bwdp_539": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tr2bwdp_466": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tr2bwdp_540": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tr2bwdp_467": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tr2bwdp_541": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tr2bwdp_468": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tr2bwdp_542": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tr2bwdp_471": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tr2bwdp_545": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tr2bwdp_469": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tr2bwdp_543": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tr2bwdp_470": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tr2bwdp_544": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tr2bwdp_472": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tr2bwdp_546": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tr2bwdp_473": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tr2bwdp_547": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tr2bwdp_474": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tr2bwdp_548": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tr2bwdp_475": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tr2bwdp_549": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tr2bwdp_476": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tr2bwdp_550": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tr2bwdp_481": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tr2bwdp_555": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tr2bwdp_482": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tr2bwdp_556": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tr2bwdp_477": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tr2bwdp_551": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tr2bwdp_478": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tr2bwdp_552": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tr2bwdp_479": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tr2bwdp_553": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tr2bwdp_480": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tr2bwdp_554": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tr2bwdp_483": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2bwdp_557": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2bwdp_484": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2bwdp_558": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2bwdp_485": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tr2bwdp_559": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tr2bwdp_486": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tr2bwdp_560": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tr2bwdp_487": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tr2bwdp_561": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tr2bwdp_488": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tr2bwdp_562": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tr2bwdp_489": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tr2bwdp_563": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tr2bwdp_490": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tr2bwdp_564": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tr2bwdp_491": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_565": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_492": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_566": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_493": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_567": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tr2bwdp_494": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tr2bwdp_568": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tr2bwdp_495": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tr2bwdp_569": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tr2bwdp_496": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tr2bwdp_570": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tr2bwdp_497": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tr2bwdp_571": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tr2bwdp_498": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tr2bwdp_572": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tr2bwdp_499": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tr2bwdp_573": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tr2bwdp_500": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tr2bwdp_574": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tr2bwdp_503": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tr2bwdp_577": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tr2bwdp_501": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tr2bwdp_575": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tr2bwdp_502": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tr2bwdp_576": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tr2bwdp_504": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tr2bwdp_578": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tr2bwdp_505": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tr2bwdp_579": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tr2bwdp_508": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tr2bwdp_582": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tr2bwdp_506": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tr2bwdp_580": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tr2bwdp_507": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tr2bwdp_581": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tr2bwdp_509": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tr2bwdp_583": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tr2bwdp_510": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tr2bwdp_584": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tr2bwdp_511": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tr2bwdp_585": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tr2bwdp_512": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tr2bwdp_586": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tr2bwdp_513": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tr2bwdp_587": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tr2bwdp_514": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tr2bwdp_588": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tr2bwdp_515": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tr2bwdp_589": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tr2bwdp_516": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tr2bwdp_590": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tr2bwdp_517": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tr2bwdp_591": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tr2bwdp_518": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tr2bwdp_592": {
+        "Description": "Beta weight for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tr2semdp_450": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_524": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_451": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_525": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_452": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_526": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tr2semdp_445": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tr2semdp_519": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tr2semdp_446": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tr2semdp_520": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tr2semdp_447": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tr2semdp_521": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tr2semdp_448": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tr2semdp_522": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tr2semdp_449": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tr2semdp_523": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tr2semdp_453": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tr2semdp_527": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tr2semdp_454": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tr2semdp_528": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tr2semdp_455": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tr2semdp_529": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tr2semdp_456": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tr2semdp_530": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tr2semdp_457": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tr2semdp_531": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tr2semdp_458": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tr2semdp_532": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tr2semdp_459": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tr2semdp_533": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tr2semdp_460": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tr2semdp_534": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tr2semdp_461": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tr2semdp_535": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tr2semdp_462": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tr2semdp_536": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tr2semdp_463": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tr2semdp_537": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tr2semdp_464": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tr2semdp_538": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tr2semdp_465": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tr2semdp_539": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tr2semdp_466": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tr2semdp_540": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tr2semdp_467": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tr2semdp_541": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tr2semdp_468": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tr2semdp_542": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tr2semdp_471": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tr2semdp_545": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tr2semdp_469": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tr2semdp_543": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tr2semdp_470": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tr2semdp_544": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tr2semdp_472": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tr2semdp_546": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tr2semdp_473": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tr2semdp_547": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tr2semdp_474": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tr2semdp_548": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tr2semdp_475": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tr2semdp_549": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tr2semdp_476": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tr2semdp_550": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tr2semdp_481": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tr2semdp_555": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tr2semdp_482": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tr2semdp_556": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tr2semdp_477": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tr2semdp_551": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tr2semdp_478": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tr2semdp_552": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tr2semdp_479": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tr2semdp_553": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tr2semdp_480": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tr2semdp_554": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tr2semdp_483": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2semdp_557": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2semdp_484": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2semdp_558": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tr2semdp_485": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tr2semdp_559": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tr2semdp_486": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tr2semdp_560": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tr2semdp_487": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tr2semdp_561": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tr2semdp_488": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tr2semdp_562": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tr2semdp_489": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tr2semdp_563": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tr2semdp_490": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tr2semdp_564": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tr2semdp_491": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_565": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_492": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_566": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_493": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_567": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tr2semdp_494": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tr2semdp_568": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tr2semdp_495": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tr2semdp_569": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tr2semdp_496": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tr2semdp_570": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tr2semdp_497": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tr2semdp_571": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tr2semdp_498": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tr2semdp_572": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tr2semdp_499": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tr2semdp_573": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tr2semdp_500": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tr2semdp_574": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tr2semdp_503": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tr2semdp_577": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tr2semdp_501": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tr2semdp_575": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tr2semdp_502": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tr2semdp_576": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tr2semdp_504": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tr2semdp_578": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tr2semdp_505": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tr2semdp_579": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tr2semdp_508": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tr2semdp_582": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tr2semdp_506": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tr2semdp_580": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tr2semdp_507": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tr2semdp_581": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tr2semdp_509": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tr2semdp_583": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tr2semdp_510": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tr2semdp_584": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tr2semdp_511": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tr2semdp_585": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tr2semdp_512": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tr2semdp_586": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tr2semdp_513": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tr2semdp_587": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tr2semdp_514": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tr2semdp_588": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tr2semdp_515": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tr2semdp_589": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tr2semdp_516": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tr2semdp_590": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tr2semdp_517": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tr2semdp_591": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tr2semdp_518": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tr2semdp_592": {
+        "Description": "Standard error of the mean for MID run2 loss positive versus negative feedback contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    }
+}

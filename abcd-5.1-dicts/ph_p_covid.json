@@ -1,0 +1,949 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "cvp_p_select_language": {
+        "Description": "\u00bfEspa\u00f1ol? Despu\u00e9s de seleccionar 'Si', por favor haga clic en cualquier parte de la p\u00e1gina para cambiar la traducci\u00f3n. | 1, S\u00ed"
+    },
+    "fam_wage_loss2_cv_p": {
+        "Description": "In the past year, has anyone in your household lost wages, sales, or work due to the impact of coronavirus on employment, business, or the economy?\n  / En el \u00faltimo a\u00f1o, \u00bfalguien en su hogar perdi\u00f3 salarios, ventas o trabajo debido al impacto del coronavirus en el empleo, los negocios o la econom\u00eda? | 1 = No / No;  2 = Yes / S\u00ed;  777 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "777": "Refuse to answer / Niego contestar"
+        }
+    },
+    "fam_wage_loss_cv_p": {
+        "Description": "Since January 2020, has anyone in your household lost wages, sales, or work due to the impact of coronavirus on employment, business, or the economy?\n  / Desde enero de 2020, \u00bfalguien en su hogar ha perdido salarios, ventas o trabajo debido al impacto del coronavirus en el empleo, las empresas o la econom\u00eda? | 1 = No / No;  2 = Yes / S\u00ed;  777 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "777": "Refuse to answer / Niego contestar"
+        }
+    },
+    "fam_income_cv_p": {
+        "Description": "If you lost all your current source(s) of household income (your paycheck, public assistance, or other forms of income), how long could you continue to live at your current address and standard of living? / Si usted perdiera todas sus fuentes actuales de ingresos del hogar (su cheque de pago, asistencia p\u00fablica u otras formas de ingresos), \u00bfcu\u00e1nto tiempo podr\u00eda continuar viviendo en su domicilio actual y calidad de vida? | 1 = Less than 1 month / Menos de 1 mes;  2 = 1 to 2 months / 1 a 2 meses;  3 = 3 to 6 months / 3 a 6 meses;  4 = 7 to 12 months / 7 a 12 meses;  5 = More than 1 year / M\u00e1s de 1 a\u00f1o",
+        "Levels": {
+            "1": "Less than 1 month / Menos de 1 mes",
+            "2": "1 to 2 months / 1 a 2 meses",
+            "3": "3 to 6 months / 3 a 6 meses",
+            "4": "7 to 12 months / 7 a 12 meses",
+            "5": "More than 1 year / M\u00e1s de 1 a\u00f1o"
+        }
+    },
+    "fam_exp_racism_p": {
+        "Description": "I am worried that our family will experience racism or discrimination in relation to coronavirus / Me preocupa que nuestra familia experimente racismo o discriminaci\u00f3n en relaci\u00f3n con el coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "increased_conflict_p": {
+        "Description": "I have noticed increased conflict in our family since our area started worrying about coronavirus / He notado un aumento del conflicto en nuestra familia desde que nuestra zona comenz\u00f3 a preocuparse por el coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "worry_about_p": {
+        "Description": "I think all of this worry about coronavirus is blown out of proportion / Creo que toda esta preocupaci\u00f3n por el coronavirus es desproporcionada | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "fam_ht_acc_cv_p": {
+        "Description": "Mental health treatment access: / Acceso a los tratamientos de salud mental | 0, No change / Ning\u00fan cambio;  1 = Mild: Appointments moved to telehealth / Leve: Citas cambiadas a telesalud;  2 = Moderate: Delays or cancellations in appointments and/or delays in getting prescriptions; changes have minimal impact on health / Moderado: Retrasos o cancelaciones de citas y/o retrasos en obtener recetas m\u00e9dicas; Cambios con m\u00ednimo impacto en la salud;  3 = Severe: Unable to access needed care resulting in severe risk and/or significant impact / Severo: Sin acceso a la atenci\u00f3n m\u00e9dica necesaria resultando en riesgo severo y/o impacto de cantidad importante",
+        "Levels": {
+            "1": "Mild: Appointments moved to telehealth / Leve: Citas cambiadas a telesalud",
+            "2": "Moderate: Delays or cancellations in appointments and/or delays in getting prescriptions",
+            "3": "Severe: Unable to access needed care resulting in severe risk and/or significant impact / Severo: Sin acceso a la atenci\u00f3n m\u00e9dica necesaria resultando en riesgo severo y/o impacto de cantidad importante"
+        }
+    },
+    "fam_supp_acc_cv_p": {
+        "Description": "Access to family and close non-family social contacts (such as friends, neighbors, members of a social or religious group you belong to) / Acceso a familiares y contactos sociales cercanos (por ejemplo, amigos, vecinos, miembros de un grupo social o religioso al que perteneces) | 0, No change / Ning\u00fan cambio;  1 = Mild: Continued visits with physical distancing and/or regular phone calls and/or televideo or social media contacts / Leve: Visitas continuas con distanciamiento fisica y/o llamadas regulares y/o contactos de televideo o redes sociales;  2 = Moderate: Loss of in person and remote contact with a few people, but not all supports / Moderado: P\u00e9rdida de contacto en persona y lejano con algunas personas, pero no todos los apoyos;  3 = Severe: Loss of in person and remote contact with all supports / Severo: P\u00e9rdida de contacto en persona y lejano con todos los apoyos",
+        "Levels": {
+            "1": "Mild: Continued visits with physical distancing and/or regular phone calls and/or televideo or social media contacts / Leve: Visitas continuas con distanciamiento fisica y/o llamadas regulares y/o contactos de televideo o redes sociales",
+            "2": "Moderate: Loss of in person and remote contact with a few people, but not all supports / Moderado: P\u00e9rdida de contacto en persona y lejano con algunas personas, pero no todos los apoyos",
+            "3": "Severe: Loss of in person and remote contact with all supports / Severo: P\u00e9rdida de contacto en persona y lejano con todos los apoyos"
+        }
+    },
+    "fam_stress_cv_p": {
+        "Description": "Experience of stress related to coronavirus pandemic / Experiencia de estr\u00e9s relacionada a la pandemia del coronavirus | 0, None / Ning\u00fan/Ninguno;  1 = Mild: Occasional worries and/or minor stress-related symptoms (e.g., feel a little anxious, sad, and/or angry; mild/rare trouble sleeping) / Leve: Preocupaciones ocasionales y/o s\u00edntomas menores relacionados con el estr\u00e9s (por ejemplo, sentir un poco de ansiedad, tristeza y/o enojo, problemas leves/raros para dormir);  2 = Moderate: Frequent worries and/or moderate stress-related symptoms (e.g., feel moderately anxious, sad, and/or angry; moderate/occasional trouble sleeping) / Moderado: Preocupaciones frecuentes y/o s\u00edntomas moderados relacionados con el estr\u00e9s (por ejemplo, sentir ansiedad moderada, tristeza y/o enojo; problemas moderada/ocasional para dormir);  3 = Severe: Persistent worries and/or severe stress-related symptoms (e.g., feel extremely anxious, sad, and/or angry; severe/frequent trouble sleeping) / Severo: Preocupaciones persistentes y/o s\u00edntomas graves relacionados con el estr\u00e9s (por ejemplo sentir ansiedad extrema, tristeza y/o enojo; problemas severas/frecuentes para dormir)",
+        "Levels": {
+            "1": "Mild: Occasional worries and/or minor stress-related symptoms (e.g., feel a little anxious, sad, and/or angry",
+            "2": "Moderate: Frequent worries and/or moderate stress-related symptoms (e.g., feel moderately anxious, sad, and/or angry",
+            "3": "Severe: Persistent worries and/or severe stress-related symptoms (e.g., feel extremely anxious, sad, and/or angry"
+        }
+    },
+    "fam_discord_cv_p": {
+        "Description": "Stress and discord in the family: / Estr\u00e9s y conflicto en la familia | 0, None: Family members are showing no or very little signs of irritation or being short-tempered with one another / Ninguna: Los miembros de la familia no muestran o tienen pocos signos de irritaci\u00f3n o mal genio con unos a los otros;  1 = Mild: Family members occasionally irritable or short-tempered with one another, may occasionally shout at one another / Leve: Los miembros de la familia est\u00e1n ocasionalmente irritables o de mal genio unos con otros, ocasionalmente pueden gritarse el uno al otro;  2 = Moderate: Family members frequently irritable and short-tempered with one another; and/or children in the home are throwing things, knocking over furniture, or showing signs of moderate stress / Moderado: Los miembros de la familia est\u00e1n frecuentemente irritables y de mal genio unos con unos a los otros; y/o los ni\u00f1os en el hogar tirando cosas, volteando muebles, o muestran signos de estr\u00e9s moderado;  3 = Severe: Family members are constantly irritable and short-tempered with one another, shouting frequently; children and adults in the home throwing things at one another, and/or knocking over furniture, or showing signs of severe stress / Severo: Los miembros de la familia est\u00e1n constantemente irritables y de mal genio, gritando con frecuencia; ni\u00f1os y adultos en el hogar tirando cosas unos a los otros y/o volteando muebles o muestran signos de estr\u00e9s severo",
+        "Levels": {
+            "1": "Mild: Family members occasionally irritable or short-tempered with one another, may occasionally shout at one another / Leve: Los miembros de la familia est\u00e1n ocasionalmente irritables o de mal genio unos con otros, ocasionalmente pueden gritarse el uno al otro",
+            "2": "Moderate: Family members frequently irritable and short-tempered with one another",
+            "3": "Severe: Family members are constantly irritable and short-tempered with one another, shouting frequently"
+        }
+    },
+    "school_cv_p": {
+        "Description": "In the <u>past week</u>, is your child's schooling like it was in January 2020 before the coronavirus? / En la \u00faltima semana, \u00bfla escolarizaci\u00f3n de su hijo/a es como lo fue en enero del 2020, antes del coronavirus? | 1 = No - was going to school in person and now it's online/school-at-home / No - iba a la escuela en persona y ahora es en l\u00ednea/ escuela en casa;  2 = No - was going to school in person and now not doing any in-person or school-at-home activity / No - iba a la escuela en persona y ahora no esta participando en ninguna actividad en persona o de escuela en casa\u200b;  3 = No - was going to school in person all school days; <b>now</b> school is in-person only <u>some days</u> or <u>part</u> of the usual school day / No - iba a la escuela en persona todos los d\u00edas escolares; ahora la escuela es en persona solo algunos d\u00edas o parte del d\u00eda escolar t\u00edpico;  4 = No - school is out for summer/on vacation, or doing a summer school program<u>some days</u> or <u>part</u> of the usual school day / No - la escuela esta en vacaciones de verano o en vacaciones, o esta participando en un programa escolar de verano;  5 = Yes - going to school all school days, in person / S\u00ed - esta yendo a la escuela todos los d\u00edas escolares en persona;  6 = Yes - doing same homeschool/online school program since before this pandemic / S\u00ed-esta haciendo el mismo programa escolar en casa/en l\u00ednea desde antes de esta pandemia;  7 = Other / Otro",
+        "Levels": {
+            "1": "No - was going to school in person and now it's online/school-at-home / No - iba a la escuela en persona y ahora es en l\u00ednea/ escuela en casa",
+            "2": "No - was going to school in person and now not doing any in-person or school-at-home activity / No - iba a la escuela en persona y ahora no esta participando en ninguna actividad en persona o de escuela en casa\u200b",
+            "3": "No - was going to school in person all school days",
+            "4": "No - school is out for summer/on vacation, or doing a summer school program<u>some days</u> or <u>part</u> of the usual school day / No - la escuela esta en vacaciones de verano o en vacaciones, o esta participando en un programa escolar de verano",
+            "5": "Yes - going to school all school days, in person / S\u00ed - esta yendo a la escuela todos los d\u00edas escolares en persona",
+            "6": "Yes - doing same homeschool/online school program since before this pandemic / S\u00ed-esta haciendo el mismo programa escolar en casa/en l\u00ednea desde antes de esta pandemia",
+            "7": "Other / Otro"
+        }
+    },
+    "school_close_date_cv_p": {
+        "Description": "Last date of in-person class / Ultima fecha de clases en persona"
+    },
+    "school_close_date_2_cv_p": {
+        "Description": "nan | 999 = Don't know;  777 = Refuse to answer;  1 = Not applicable",
+        "Levels": {
+            "999": "Don't know",
+            "777": "Refuse to answer",
+            "1": "Not applicable"
+        }
+    },
+    "school_at_home_cv_p": {
+        "Description": "Has your child had school-at-home? / \u00bfHa tenido su ni\u00f1o(a) escuela en casa? | 0, No / No;  1 = Yes / S\u00ed;  999 = Don't know / No s\u00e9",
+        "Levels": {
+            "1": "Yes / S\u00ed",
+            "999": "Don't know / No s\u00e9"
+        }
+    },
+    "work_ability_cv_p": {
+        "Description": "Is your role caring for your child conflicting with your work responsibilities? / \u00bfSu rol de cuidar a su hijo/a esta en conflicto con sus responsabilidades laborales? | 1 = None / No;  2 = Some / Un poco;  3 = A great deal / Mucho;  999 = Don't know / No se",
+        "Levels": {
+            "1": "None / No",
+            "2": "Some / Un poco",
+            "3": "A great deal / Mucho",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_care_cv_p": {
+        "Description": "During this period of school closure, are you the primary (or co-primary) person responsible for your child's care during the day? / \u00bfDurante este periodo de clausura escolar, usted es la persona primaria (o co-primaria) responsable por el cuidado de su hijo/a durante el d\u00eda? | 1 = No / No;  2 = Yes / S\u00ed;  777 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "777": "Refuse to answer / Niego contestar"
+        }
+    },
+    "homework_time_cv_p": {
+        "Description": "On an average weekday, how many hours per day did your child spend doing schoolwork? / En un dia entre semana t\u00edpico, \u00bfcu\u00e1ntas horas al d\u00eda pasa su hijo/a haciendo tareas? | 0, 0;  1 = 1;  2 = 2;  3 = 3;  4 = 4;  5 = 5;  6 = 6;  7 = 7;  8 = 8;  9 = 9;  10 = 10;  11 = 11;  12 = 12;  13 = 13;  14 = 14;  15 = 15;  16 = 16;  17 = 17;  18 = 18;  19 = 19;  20, 20;  21 = 21;  22 = 22;  23 = 23;  999 = Don't know/No se",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "21": "21",
+            "22": "22",
+            "23": "23",
+            "999": "Don't know/No se"
+        }
+    },
+    "school_engage_cv_p___1": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): Self-study with online material / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): Autoaprendizaje con material en l\u00ednea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___2": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): Self-study with paper school packet and textbooks / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): Autoaprendizaje con paquetes escolares y libros | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___3": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): Guided screen-sharing instruction by teachers / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): Instrucciones guiadas en pantalla con maestros | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___4": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): Video-instruction by teachers / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): Instrucciones en video con maestros | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___5": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): No formal school curriculum was provided / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): No se proporcion\u00f3 un curr\u00edculo escolar formal | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___7": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): In-person some days or part of the usual school day / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): En persona algunos d\u00edas o parte del d\u00eda escolar habitual | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___8": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): In-person all school days / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): En persona todos los d\u00edas escolares | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___9": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): School out for summer/vacation, or doing a summer school program / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): Escuela de verano / vacaciones, o haciendo programas de escuela de verano | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "school_engage_cv_p___6": {
+        "Description": "How is your child engaging in their school's curriculum (check all that apply): Not sure / \u00bfC\u00f3mo participa su hijo/a en el plan de estudios de su escuela? (Marque todos los que correspondan): No estoy seguro/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "homework_help_time_cv_p": {
+        "Description": "How many hours per day did you spend helping your child access or complete their schoolwork? / \u00bfCu\u00e1ntas horas al d\u00eda pas\u00f3 ayudando a su hijo/a a acceder y completar su trabajo escolar? | 0, 0;  1 = 1;  2 = 2;  3 = 3;  4 = 4;  5 = 5;  6 = 6;  7 = 7;  8 = 8;  9 = 9;  10 = 10;  999 = enDon't know/enesNo se/es",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "999": "enDon't know/enesNo se/es"
+        }
+    },
+    "material_access_cv_p": {
+        "Description": "Were you or your child able to access school provided materials (e.g. online, through pick up, some other way) / \u00bfUsted o su hijo/a pudieron acceder materiales proporcionados por la escuela? (Por internet, recogiendo paquetes de la escuela, o de alguna otra manera) | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se;  4 = Not applicable / No aplica",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se",
+            "4": "Not applicable / No aplica"
+        }
+    },
+    "internet_access_cv_p": {
+        "Description": "Do you have internet access at home? / \u00bfTienen acceso a internet en casa? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "tool_access_cv_p": {
+        "Description": "Does your child have access to the things needed\n (such as a laptop) to do their school work at home? / \u00bfTiene su hijo/a acceso a las cosas necesarias\n (como una computadora port\u00e1til) para hacer su trabajo escolar en casa? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "school_difficulty_p": {
+        "Description": "How easy or difficult was it for your child to complete school work remotely? / Que tan f\u00e1cil o dif\u00edcil fue para su hijo/a completar su trabajo escolar desde casa | 1 = No problem / Sin problemas;  2 = Just some minor problems / Unos peque\u00f1os problemas;  3 = Each day was different / Cada d\u00eda era diferente;  4 = Hard / Dif\u00edcil;  5 = Very hard / Demasiado dif\u00edcil;  999 = Don't know / No se;  6 = Not applicable / No Aplica",
+        "Levels": {
+            "1": "No problem / Sin problemas",
+            "2": "Just some minor problems / Unos peque\u00f1os problemas",
+            "3": "Each day was different / Cada d\u00eda era diferente",
+            "4": "Hard / Dif\u00edcil",
+            "5": "Very hard / Demasiado dif\u00edcil",
+            "999": "Don't know / No se",
+            "6": "Not applicable / No Aplica"
+        }
+    },
+    "graded_cv_p": {
+        "Description": "Is your child being graded for their schoolwork? / Su hijo/a esta recibiendo calificaciones por su trabajo? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se;  4 = Not applicable / No aplica",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se",
+            "4": "Not applicable / No aplica"
+        }
+    },
+    "extra_material_cv_p": {
+        "Description": "Did you or your child supplement the educational materials provided by the school with other sources (e.g., Khan Academy)? / Usted o su hijo/a suplementaron los materiales educacionales proporcionados por la escuela con otros materiales (ej. Khan Academy)? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "school_nutrition_cv_p": {
+        "Description": "Did your child get breakfast and/or lunch from your school? / Su hijo/a recibi\u00f3 desayuno o lonche por parte de la escuela? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "iep_cv_p": {
+        "Description": "Does your child have an IEP or 504 plan? / Su hijo/a tiene un plan IEP o 504? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "iep_provide_cv_p": {
+        "Description": "Did the school continue to provide services? / \u00bfLa escuela contin\u00fao proporcionando servicios? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "school_prep_cv_p": {
+        "Description": "How prepared do you think your child will be for next school year? / Que tan preparado/a piensa que estar\u00e1 su hijo/a para el pr\u00f3ximo ano escolar? | 1 = Not at all / Para nada;  2 = Slightly / Ligeramente o un poco;  3 = Moderately / Moderadamente;  4 = Very / Altamente o Mucho;  5 = Extremely / Extremadamente",
+        "Levels": {
+            "1": "Not at all / Para nada",
+            "2": "Slightly / Ligeramente o un poco",
+            "3": "Moderately / Moderadamente",
+            "4": "Very / Altamente o Mucho",
+            "5": "Extremely / Extremadamente"
+        }
+    },
+    "child_symptoms_cv_p___1": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Shortness of breath/ \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Dificultad para respirar | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___2": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Sore throat / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Dolor de garganta | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___3": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Headache / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Dolor de cabeza | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___4": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Muscle or body aches / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Dolores musculares o corporales | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___5": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Runny nose / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Nariz que moquea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___6": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Fatigue and excessive sleepiness / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Fatiga y somnolencia excesiva | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___7": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Diarrhea, nausea, or vomiting / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Diarrea, n\u00e1useas o v\u00f3mitos | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___8": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Loss of sense of smell or taste / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): P\u00e9rdida del sentido del olfato o del gusto | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___9": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Itchy/red eyes / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Picaz\u00f3n/ojos rojos | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___10": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): Skin rash / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Erupci\u00f3n cutanea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptoms_cv_p___11": {
+        "Description": "Which of the following symptoms has your child had at any point in time since March 2020? (check all that apply): None of the above / \u00bfCu\u00e1l de los siguientes s\u00edntomas ha tenido su hijo en alg\u00fan momento desde marzo de 2020? (Marque todos los que correspondan): Ninguno de los anteriores | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_covid_cv_p": {
+        "Description": "Has your healthcare provider ever told you that your child has or might have COVID-19 (coronavirus)? / \u00bfLe ha dicho su proveedor de atenci\u00f3n m\u00e9dica que su hijo(a) tiene o podr\u00eda tener COVID-19 (coronavirus)? | 1 = No / No;  2 = Yes / S\u00ed;  777 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "777": "Refuse to answer / Niego contestar"
+        }
+    },
+    "child_diagnosis_cv_p": {
+        "Description": "How was s/he diagnosed? / \u00bfC\u00f3mo fue diagnosticado(a)? | 1 = By a healthcare worker in person / Por un trabajador de salud en persona;  2 = By a healthcare worker via tele-medicine / Por un trabajador de salud a trav\u00e9s de la telemedicina;  3 = By a healthcare worker via telephone or email / Por un trabajador de la salud por tel\u00e9fono o correo electr\u00f3nico;  4 = By a positive COVID-19 viral test / Por un resultado positivo a la prueba del virus COVID-19",
+        "Levels": {
+            "1": "By a healthcare worker in person / Por un trabajador de salud en persona",
+            "2": "By a healthcare worker via tele-medicine / Por un trabajador de salud a trav\u00e9s de la telemedicina",
+            "3": "By a healthcare worker via telephone or email / Por un trabajador de la salud por tel\u00e9fono o correo electr\u00f3nico",
+            "4": "By a positive COVID-19 viral test / Por un resultado positivo a la prueba del virus COVID-19"
+        }
+    },
+    "child_symptom_actions_cv_p___1": {
+        "Description": "Which of the following ever occurred as a result of your child's symptoms? (check all that apply): My child was kept overnight in a hospital because a healthcare provider thought the child had COVID-19 / \u00bfCu\u00e1l de las siguientes situaciones ocurri\u00f3 como resultado de los s\u00edntomas de su hijo? (marque todo lo que corresponda): Mi hijo(a) fue retenido(a) durante la noche en un hospital porque un proveedor de atenci\u00f3n m\u00e9dica pens\u00f3 que el(la) ni\u00f1o(a) ten\u00eda COVID-19 | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptom_actions_cv_p___2": {
+        "Description": "Which of the following ever occurred as a result of your child's symptoms? (check all that apply): My child saw a healthcare provider in person, such as in a clinic, doctor's office, urgent care, ER / \u00bfCu\u00e1l de las siguientes situaciones ocurri\u00f3 como resultado de los s\u00edntomas de su hijo? (marque todo lo que corresponda): Mi hijo(a) vio a un proveedor de atenci\u00f3n m\u00e9dica en persona, como en una cl\u00ednica, consultorio m\u00e9dico, atenci\u00f3n de urgencia, ER | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptom_actions_cv_p___3": {
+        "Description": "Which of the following ever occurred as a result of your child's symptoms? (check all that apply): My child or I spoke to a healthcare provider over the phone, email, or online / \u00bfCu\u00e1l de las siguientes situaciones ocurri\u00f3 como resultado de los s\u00edntomas de su hijo? (marque todo lo que corresponda): Mi hijo(a) o yo hablamos con un proveedor de atenci\u00f3n m\u00e9dica por tel\u00e9fono, correo electr\u00f3nico o en l\u00ednea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptom_actions_cv_p___4": {
+        "Description": "Which of the following ever occurred as a result of your child's symptoms? (check all that apply): My child self-isolated or quarantined at home / \u00bfCu\u00e1l de las siguientes situaciones ocurri\u00f3 como resultado de los s\u00edntomas de su hijo? (marque todo lo que corresponda): Mi hijo(a) o yo estamos aislados(as) o en cuarentena en casa | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_symptom_actions_cv_p___5": {
+        "Description": "Which of the following ever occurred as a result of your child's symptoms? (check all that apply): None of the above / \u00bfCu\u00e1l de las siguientes situaciones ocurri\u00f3 como resultado de los s\u00edntomas de su hijo? (marque todo lo que corresponda): Ninguno de los anteriores | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_tested_cv_p": {
+        "Description": "Has your child been tested for COVID-19? / \u00bfLe han realizado la prueba de COVID-19 a su hijo(a)? | 1 = No, I never tried to get my child tested / No, nunca trat\u00e9 de hacerle una prueba a mi hijo(a);  2 = No, I tried to get my child tested but was not able to / No, trat\u00e9 de hacerle una prueba a mi hijo(a) pero no pude;  3 = Yes, and all tests showed that my child did not have it (\"negative\" tests) / S\u00ed, y la prueba mostr\u00f3 que mi hijo(a) no lo tuvo (prueba \"negativa\");  4 = Yes, and one or more tests showed that my child did have it (\"positive\" test) / S\u00ed, y la prueba mostr\u00f3 que mi hijo(a) s\u00ed lo tuvo (prueba \"positiva\");  5 = Yes, and my child is waiting for the results / S\u00ed, y mi hijo(a) est\u00e1 esperando los resultados",
+        "Levels": {
+            "1": "No, I never tried to get my child tested / No, nunca trat\u00e9 de hacerle una prueba a mi hijo(a)",
+            "2": "No, I tried to get my child tested but was not able to / No, trat\u00e9 de hacerle una prueba a mi hijo(a) pero no pude",
+            "3": "Yes, and all tests showed that my child did not have it (\"negative\" tests) / S\u00ed, y la prueba mostr\u00f3 que mi hijo(a) no lo tuvo (prueba \"negativa\")",
+            "4": "Yes, and one or more tests showed that my child did have it (\"positive\" test) / S\u00ed, y la prueba mostr\u00f3 que mi hijo(a) s\u00ed lo tuvo (prueba \"positiva\")",
+            "5": "Yes, and my child is waiting for the results / S\u00ed, y mi hijo(a) est\u00e1 esperando los resultados"
+        }
+    },
+    "child_test_instruc_cv_p": {
+        "Description": "When was your child tested? If they were tested mutiple times, please provide the dates for up to three tests. / \u00bfCu\u00e1ndo se le hizo la prueba a su hijo(a)? Si le hicieron la prueba varias veces, proporcione las fechas de hasta tres pruebas."
+    },
+    "child_test_1_cv_p": {
+        "Description": "Date of first test: / Fecha de la primer prueba:"
+    },
+    "test_1_results_cv_p": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_test_2_cv_p": {
+        "Description": "Date of second test: / Fecha de la segunda prueba"
+    },
+    "test_2_results_cv_p": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_test_3_cv_p": {
+        "Description": "Date of third test: / Fecha de la tercer prueba:"
+    },
+    "test_3_results_cv_p": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_test_4_cv_p": {
+        "Description": "Date of fourth test: / Fecha de la cuarta prueba:"
+    },
+    "test_4_results_cv_p": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_test_5_cv_p": {
+        "Description": "Date of fifth test: / Fecha de la quinta prueba:"
+    },
+    "test_5_results_cv_p": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_test_6_cv_p": {
+        "Description": "Date of sixth test: / Fecha de la sexta prueba:"
+    },
+    "test_4_results_cv_p_3": {
+        "Description": "Results: / Resultados: | 1 = Positive / Positiva;  2 = Negative / Negativa;  999 = Don't know / No se",
+        "Levels": {
+            "1": "Positive / Positiva",
+            "2": "Negative / Negativa",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_care_impact_cv_p___1": {
+        "Description": "In what ways has the COVID-19 pandemic impacted your child's overall healthcare? (check all that apply): My child did not go to healthcare appointments because I was concerned about him/her entering the healthcare provider's office / \u00bfDe qu\u00e9 manera el brote de COVID-19 ha afectado la atenci\u00f3n m\u00e9dica general de su hijo? (marque todo lo que corresponda): Mi hijo(a) no asisti\u00f3 a citas de atenci\u00f3n m\u00e9dica porque me preocupaba que \u00e9l / ella ingresara al consultorio del proveedor de atenci\u00f3n m\u00e9dica | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_care_impact_cv_p___2": {
+        "Description": "In what ways has the COVID-19 pandemic impacted your child's overall healthcare? (check all that apply): My child's healthcare provider cancelled appointments / \u00bfDe qu\u00e9 manera el brote de COVID-19 ha afectado la atenci\u00f3n m\u00e9dica general de su hijo? (marque todo lo que corresponda): El proveedor de atenci\u00f3n m\u00e9dica de mi hijo(a) cancel\u00f3 las citas | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_care_impact_cv_p___3": {
+        "Description": "In what ways has the COVID-19 pandemic impacted your child's overall healthcare? (check all that apply): My child's healthcare provider changed to phone or online visits. / \u00bfDe qu\u00e9 manera el brote de COVID-19 ha afectado la atenci\u00f3n m\u00e9dica general de su hijo? (marque todo lo que corresponda): El proveedor de atenci\u00f3n m\u00e9dica de mi hijo(a) cambi\u00f3 a visitas telef\u00f3nicas o en l\u00ednea. | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_care_impact_cv_p___4": {
+        "Description": "In what ways has the COVID-19 pandemic impacted your child's overall healthcare? (check all that apply): My child's healthcare provider told him/her to self-isolate or quarantine / \u00bfDe qu\u00e9 manera el brote de COVID-19 ha afectado la atenci\u00f3n m\u00e9dica general de su hijo? (marque todo lo que corresponda): El proveedor de atenci\u00f3n m\u00e9dica de mi hijo(a) le dijo que se pusiera en autoaislamiento o cuarentena | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "child_care_impact_cv_p___5": {
+        "Description": "In what ways has the COVID-19 pandemic impacted your child's overall healthcare? (check all that apply): None of these apply / \u00bfDe qu\u00e9 manera el brote de COVID-19 ha afectado la atenci\u00f3n m\u00e9dica general de su hijo? (marque todo lo que corresponda): Ninguno de estos aplica | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "talk_wash_cv_p": {
+        "Description": "The importance of hand washing for preventing the spread of germs / La importancia del lavarse las manos para prevenir la propagaci\u00f3n de g\u00e9rmenes | 1 = Never / Nunca;  2 = Rarely / Raramente o Casi nunca;  3 = Occasionally / Ocasionalmente o de vez en cuando;  4 = Frequently / Frecuentemente;  5 = Very Frequently / Muy frecuentemente",
+        "Levels": {
+            "1": "Never / Nunca",
+            "2": "Rarely / Raramente o Casi nunca",
+            "3": "Occasionally / Ocasionalmente o de vez en cuando",
+            "4": "Frequently / Frecuentemente",
+            "5": "Very Frequently / Muy frecuentemente"
+        }
+    },
+    "talk_social_distance_cv_p": {
+        "Description": "The importance of physical distancing / La importancia del distanciamiento fisica | 1 = Never / Nunca;  2 = Rarely / Raramente o Casi nunca;  3 = Occasionally / Ocasionalmente o de vez en cuando;  4 = Frequently / Frecuentemente;  5 = Very Frequently / Muy frecuentemente",
+        "Levels": {
+            "1": "Never / Nunca",
+            "2": "Rarely / Raramente o Casi nunca",
+            "3": "Occasionally / Ocasionalmente o de vez en cuando",
+            "4": "Frequently / Frecuentemente",
+            "5": "Very Frequently / Muy frecuentemente"
+        }
+    },
+    "talk_mask_cv_p": {
+        "Description": "The importance of wearing a mask / La importancia de usar una mascarilla | 1 = Never / Nunca;  2 = Rarely / Raramente o Casi nunca;  3 = Occasionally / Ocasionalmente o de vez en cuando;  4 = Frequently / Frecuentemente;  5 = Very Frequently / Muy frecuentemente",
+        "Levels": {
+            "1": "Never / Nunca",
+            "2": "Rarely / Raramente o Casi nunca",
+            "3": "Occasionally / Ocasionalmente o de vez en cuando",
+            "4": "Frequently / Frecuentemente",
+            "5": "Very Frequently / Muy frecuentemente"
+        }
+    },
+    "child_worry_cv_p": {
+        "Description": "My child seems worried about becoming ill or that others they know will become ill with coronavirus / Mi hijo/a parece preocupado de enfermarse o de que otros que conocen se enfermen de coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "avoid_talking_about_cv_p": {
+        "Description": "I have avoided talking to my child about coronavirus / He evitado hablar con mi hijo/a sobre el coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "child_frustrated_cv_p": {
+        "Description": "My child is frustrated with changes or rules we have made in relation to coronavirus / Mi hijo/a est\u00e1 frustrado con los cambios o las normas que hemos hecho en relaci\u00f3n con el coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "child_breaking_rules_cv_p": {
+        "Description": "My child is breaking rules we have made in relation to coronavirus / Mi hijo/a rompe las reglas que hemos hecho en relaci\u00f3n con el coronavirus | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "child_serious_cv_p": {
+        "Description": "My child seems to be taking coronavirus and \"social distancing\" seriously / Mi hijo/a parece estar tomando en serio el coronavirus y el \"distanciamiento social\" | 1 = Strongly Disagree / Muy en Desacuerdo;  2 = Disagree / Desacuerdo;  3 = Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo;  4 = Agree / Acuerdo;  5 = Strongly Agree / Muy de acuerdo",
+        "Levels": {
+            "1": "Strongly Disagree / Muy en Desacuerdo",
+            "2": "Disagree / Desacuerdo",
+            "3": "Neither Disagree or Agree / Ni en desacuerdo ni de acuerdo",
+            "4": "Agree / Acuerdo",
+            "5": "Strongly Agree / Muy de acuerdo"
+        }
+    },
+    "fam_diag_cv_p": {
+        "Description": "Number of immediate family members (same household) diagnosed with coronavirus / N\u00famero de miembros de la familia inmediata (mismo hogar) diagnosticados con coronavirus | 0, 0;  1 = 1;  2 = 2;  3 = 3;  4 = 4;  5 = 5;  6 = 6;  7 = 7;  8 = 8;  9 = 9;  10 = 10+",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10+"
+        }
+    },
+    "fam_member_relation_cv_p___1": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Child's Biological Mother / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Madre biol\u00f3gica del ni\u00f1o/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___2": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Child's Biological Father / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Padre biol\u00f3gico del ni\u00f1o/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___3": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Adoptive Parent / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Padre adoptivo/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___4": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Child's Custodial Parent/ \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Padre con custodia del ni\u00f1o/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___5": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Child's Biological Sibling / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Hermano/Hermana biol\u00f3gica del ni\u00f1o/a | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___6": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): A grandparent / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Un(a) abuelo(a) | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___7": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): A close friend / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Un(a) amigo(a) cercano(a) | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "fam_member_relation_cv_p___8": {
+        "Description": "Who was this person in relation to your child? (Check all that apply): Other / \u00bfQui\u00e9n era esa persona en relaci\u00f3n a su ni\u00f1o(a)?(Marque todas las que correspondan): Otro/Otra | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "bio_mom_hos_cv_p": {
+        "Description": "Did the biological mother require hospitalization? / \u00bfLa madre biol\u00f3gica requiri\u00f3 hospitalizaci\u00f3n? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "bio_dad_hos_cv_p": {
+        "Description": "Did the biological father require hospitalization? / \u00bfEl padre biol\u00f3gico requiri\u00f3 hospitalizaci\u00f3n? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se"
+        }
+    },
+    "child_vaccination_cv_p": {
+        "Description": "If a vaccine to prevent coronavirus/COVID-19 with FDA approval for children was available right now at no cost, would you have your child vaccinated? / Si una vacuna contra el COVID-19 aprobada para ni\u00f1a/os por la Administraci\u00f3n de Alimentos y Medicamentos (FDA) estuviera disponible ahora mismo sin costo, \u00bfvacunar\u00eda a su hija/o? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se;  777 = Refuse to answer / Niego a contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se",
+            "777": "Refuse to answer / Niego a contestar"
+        }
+    },
+    "vac_child_cv_p": {
+        "Description": "Has your child had a vaccine to prevent coronavirus/COVID-19? / \u00bfSu hijo/a ha recibido una vacuna para prevenir el coronavirus / COVID-19? | 1 = No / No;  2 = Yes / S\u00ed;  999 = Don't know / No se;  777 = Refuse to answer / Niego a contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "999": "Don't know / No se",
+            "777": "Refuse to answer / Niego a contestar"
+        }
+    },
+    "vac_child_type_cv_p": {
+        "Description": "Which type was their first vaccine? / \u00bfQu\u00e9 tipo fue su primera vacuna? | 1 = Pfizer / Pfizer;  2 = Moderna / Moderna;  3 = Johnson & Johnson / Johnson & Johnson;  4 = Other / Otra",
+        "Levels": {
+            "1": "Pfizer / Pfizer",
+            "2": "Moderna / Moderna",
+            "3": "Johnson & Johnson / Johnson & Johnson",
+            "4": "Other / Otra"
+        }
+    },
+    "vac_child_date_cv_p": {
+        "Description": "When did your child receive their first vaccination? / \u00bfCu\u00e1ndo recibi\u00f3 su hijo/a su primera vacuna?"
+    },
+    "vac_child_2_cv_p": {
+        "Description": "Has your child received their second vaccination? / \u00bfSu hijo/a ha recibido su segunda vacuna? | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_child_date_2_cv_p": {
+        "Description": "When did your child receive their second vaccination? / \u00bfCu\u00e1ndo recibi\u00f3 su hijo/a su segunda vacuna?"
+    },
+    "vac_child_3_cv_p": {
+        "Description": "Has your child received their third vaccination (booster)? / \u00bfSu hijo/a ha recibido su tercera vacuna (refuerzo)? | 1 = No / No;  2 = Yes / S\u00ed;  3 = Don't Know / No se;  4 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "3": "Don't Know / No se",
+            "4": "Refuse to answer / Niego contestar"
+        }
+    },
+    "vac_child_date_3_cv_p": {
+        "Description": "When did your child receive their third vaccination (booster)? / \u00bfCu\u00e1ndo recibi\u00f3 su hijo/a su tercera vacuna (refuerzo)?"
+    },
+    "vac_child_4_cv_p": {
+        "Description": "Has your child received their fourth vaccination (booster)? / \u00bfSu hijo/a ha recibido su cuarta vacuna (refuerzo)? | 1 = No / No;  2 = Yes / S\u00ed;  3 = Don't Know / No se;  4 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "3": "Don't Know / No se",
+            "4": "Refuse to answer / Niego contestar"
+        }
+    },
+    "vac_child_date_4_cv_p": {
+        "Description": "When did your child receive their fourth vaccination (booster)? / \u00bfCu\u00e1ndo recibi\u00f3 su hijo/a su cuarta vacuna (refuerzo)?"
+    },
+    "vac_child_5_cv_p": {
+        "Description": "Has your child received their fifth vaccination (booster)? / \u00bfSu hijo/a ha recibido su quinta vacuna (refuerzo)? | 1 = No / No;  2 = Yes / S\u00ed;  3 = Don't Know / No se;  4 = Refuse to answer / Niego contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed",
+            "3": "Don't Know / No se",
+            "4": "Refuse to answer / Niego contestar"
+        }
+    },
+    "vac_child_date_5_cv_p": {
+        "Description": "When did your child receive their fifth vaccination (booster)? / \u00bfCu\u00e1ndo recibi\u00f3 su hijo/a su quinta vacuna (refuerzo)?"
+    },
+    "vac_exp_cv_p___1": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Pain at the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___2": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Redness at the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___3": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Swelling at the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___4": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Itching at the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___5": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Chill / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Escalofr\u00edos | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___6": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Headache / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan: Dolor de cabeza | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___7": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Joint pain / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan: Dolor en las articulaciones | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___8": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Muscle or body aches / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Dolores musculares o corporales | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___9": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Fatigue or Tiredness / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Fatiga o cansancio | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___10": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Nausea / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): N\u00e1usea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___11": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Vomiting / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): V\u00f3mito | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___12": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Diarrhea / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Diarrea | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___13": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Abdominal pain / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Dolor abdominal | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___14": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Rash not including the immediate area around the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___16": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): Myocarditis (inflammation of the heart muscle)Rash not including the immediate area around the injection site / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Miocarditis (inflamaci\u00f3n del m\u00fasculo card\u00edaco) Erupci\u00f3n que no incluye el \u00e1rea inmediata alrededor del sitio de la inyecci\u00f3n | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "vac_exp_cv_p___15": {
+        "Description": "Did your child have any of the following experiences after receiving any coronavirus vaccine (check all that apply): None / \u00bfTuvo su hijo alguna de las siguientes experiencias despu\u00e9s de recibir alguna vacuna contra el coronavirus? (marque todas las que correspondan): Ninguno | 1 = No / No;  2 = Yes / S\u00ed",
+        "Levels": {
+            "1": "No / No",
+            "2": "Yes / S\u00ed"
+        }
+    },
+    "rltn_to_child": {
+        "Description": "What is your relation to the child? / \u00bfCu\u00e1l es su relaci\u00f3n con el ni\u00f1o/a? | 1 = Biological mother / Madre biol\u00f3gica;  2 = Biological father / Padre biol\u00f3gico;  3 = Adoptive mother or female legal guardian/caretaker / Madre adoptiva o tutora legal/cuidadora;  4 = Adoptive father or male legal guardian/caretaker / Padre adoptivo o tutor legal/cuidador masculino;  5 = Step-mother / Madrastra;  6 = Step-father / Padrastro;  7 = Other / Otro",
+        "Levels": {
+            "1": "Biological mother / Madre biol\u00f3gica",
+            "2": "Biological father / Padre biol\u00f3gico",
+            "3": "Adoptive mother or female legal guardian/caretaker / Madre adoptiva o tutora legal/cuidadora",
+            "4": "Adoptive father or male legal guardian/caretaker / Padre adoptivo o tutor legal/cuidador masculino",
+            "5": "Step-mother / Madrastra",
+            "6": "Step-father / Padrastro",
+            "7": "Other / Otro"
+        }
+    }
+}

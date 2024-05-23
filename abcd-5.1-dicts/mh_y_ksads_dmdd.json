@@ -1,0 +1,91 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ksads_dmdd_raw_963_t": {
+        "Description": "How many times per week do you yell when you are upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_972_t": {
+        "Description": "When would you say the problems with your temper began?"
+    },
+    "ksads_dmdd_raw_971_t": {
+        "Description": "Was there a time in the past year when you did not lose your temper at all for 3 months or longer? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_970_t": {
+        "Description": "In the past year, in which situations have you lost your temper:Others Places | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_969_t": {
+        "Description": "In the past year, in which situations have you lost your temper:With Family | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_968_t": {
+        "Description": "In the past year, in which situations have you lost your temper:With Friends | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_967_t": {
+        "Description": "In the past year, in which situations have you lost your temper:At School | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_965_t": {
+        "Description": "How many times per week do you kick or punch people or things when you are upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_964_t": {
+        "Description": "How many times per week do you throw things when you are upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_962_t": {
+        "Description": "How many temper outbursts do you typically have per week? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_961_t": {
+        "Description": "Have you had trouble with your temper since you were young, since before you were 10? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

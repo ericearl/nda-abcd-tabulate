@@ -1,0 +1,190 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "rel_family_id": {
+        "Description": "Family ID (participants belonging to the same family share a family ID). The family ID is autocalculated and will change after the addition/removal of subjects from the ABCD study. Family IDs will, therefore, differ between data releases"
+    },
+    "rel_birth_id": {
+        "Description": "Birth event ID determined by rel_family_id and unique birthdates within rel_family_id groups"
+    },
+    "rel_group_id": {
+        "Description": "Group ID (twins and triplets in the same family share a group ID)"
+    },
+    "rel_ingroup_order": {
+        "Description": "In-Group Order ID (twins and triplets in the same family and in the same group have different values)"
+    },
+    "rel_relationship": {
+        "Description": "Relationship of the participant in his or her family | 0 = single; 1 = sibling; 2 = twin; 3 = triplet",
+        "Levels": {
+            "0": "single",
+            "1": "sibling",
+            "2": "twin",
+            "3": "triplet"
+        }
+    },
+    "rel_same_sex": {
+        "Description": "Same sex twin | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "genetic_pi_hat_1": {
+        "Description": "Probability of identity by descend between participant and genetic_paired_subjectid_1"
+    },
+    "genetic_pi_hat_2": {
+        "Description": "Probability of identity by descend between participant and genetic_paired_subjectid_2"
+    },
+    "genetic_pi_hat_3": {
+        "Description": "Probability of identity by descend between participant and genetic_paired_subjectid_3"
+    },
+    "genetic_pi_hat_4": {
+        "Description": "Probability of identity by descend between participant and genetic_paired_subjectid_4"
+    },
+    "genetic_zygosity_status_1": {
+        "Description": "Genetically inferred zygosity status between participant and genetic_paired_subjectid_1 | 1= monozygotic ; 2= dizygotic ; 3=siblings ;-1= not available (twins/sibs, genetic_pi_hat not calculated)",
+        "Levels": {
+            "1": "monozygotic",
+            "2": "dizygotic",
+            "3": "siblings",
+            "-1": "not available (twins/sibs, genetic_pi_hat not calculated)"
+        }
+    },
+    "genetic_zygosity_status_2": {
+        "Description": "Genetically inferred zygosity status between participant and genetic_paired_subjectid_2 | 1= monozygotic ; 2= dizygotic ; 3=siblings ;-1= not available (twins/sibs, genetic_pi_hat not calculated)",
+        "Levels": {
+            "1": "monozygotic",
+            "2": "dizygotic",
+            "3": "siblings",
+            "-1": "not available (twins/sibs, genetic_pi_hat not calculated)"
+        }
+    },
+    "genetic_zygosity_status_3": {
+        "Description": "Genetically inferred zygosity status between participant and genetic_paired_subjectid_3 | 1= monozygotic ; 2= dizygotic ; 3=siblings ;-1= not available (twins/sibs, genetic_pi_hat not calculated)",
+        "Levels": {
+            "1": "monozygotic",
+            "2": "dizygotic",
+            "3": "siblings",
+            "-1": "not available (twins/sibs, genetic_pi_hat not calculated)"
+        }
+    },
+    "genetic_zygosity_status_4": {
+        "Description": "Genetically inferred zygosity status between participant and genetic_paired_subjectid_4 | 1= monozygotic ; 2= dizygotic ; 3=siblings ;-1= not available (twins/sibs, genetic_pi_hat not calculated)",
+        "Levels": {
+            "1": "monozygotic",
+            "2": "dizygotic",
+            "3": "siblings",
+            "-1": "not available (twins/sibs, genetic_pi_hat not calculated)"
+        }
+    },
+    "genetic_paired_subjectid_1": {
+        "Description": "Genetically related with participant based on genetic_pi_hat_1"
+    },
+    "genetic_paired_subjectid_2": {
+        "Description": "Genetically related with participant based on genetic_pi_hat_2"
+    },
+    "genetic_paired_subjectid_3": {
+        "Description": "Genetically related with participant based on genetic_pi_hat_3"
+    },
+    "genetic_paired_subjectid_4": {
+        "Description": "Genetically related with participant based on genetic_pi_hat_4"
+    },
+    "genetic_pc_1": {
+        "Description": "First principal component of genetic ancestry"
+    },
+    "genetic_pc_2": {
+        "Description": "Second principal component of genetic ancestry"
+    },
+    "genetic_pc_3": {
+        "Description": "Third principal component of genetic ancestry"
+    },
+    "genetic_pc_4": {
+        "Description": "Fourth principal component of genetic ancestry"
+    },
+    "genetic_pc_5": {
+        "Description": "Fifth principal component of genetic ancestry"
+    },
+    "genetic_pc_6": {
+        "Description": "Sixth principal component of genetic ancestry"
+    },
+    "genetic_pc_7": {
+        "Description": "Seventh principal component of genetic ancestry"
+    },
+    "genetic_pc_8": {
+        "Description": "Eighth  principal component of genetic ancestry"
+    },
+    "genetic_pc_9": {
+        "Description": "Ninth principal component of genetic ancestry"
+    },
+    "genetic_pc_10": {
+        "Description": "Tenth principal component of genetic ancestry"
+    },
+    "genetic_pc_11": {
+        "Description": "Eleventh principal component of genetic ancestry"
+    },
+    "genetic_pc_12": {
+        "Description": "Twelfth principal component of genetic ancestry"
+    },
+    "genetic_pc_13": {
+        "Description": "Thirteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_14": {
+        "Description": "Fourteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_15": {
+        "Description": "Fifteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_16": {
+        "Description": "Sixteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_17": {
+        "Description": "Seventeenth principal component of genetic ancestry"
+    },
+    "genetic_pc_18": {
+        "Description": "Eighteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_19": {
+        "Description": "Nineteenth principal component of genetic ancestry"
+    },
+    "genetic_pc_20": {
+        "Description": "Twentieth principal component of genetic ancestry"
+    },
+    "genetic_pc_21": {
+        "Description": "Twenty-first principal component of genetic ancestry"
+    },
+    "genetic_pc_22": {
+        "Description": "Twenty-second principal component of genetic ancestry"
+    },
+    "genetic_pc_23": {
+        "Description": "Twenty-third principal component of genetic ancestry"
+    },
+    "genetic_pc_24": {
+        "Description": "Twenty-fourth principal component of genetic ancestry"
+    },
+    "genetic_pc_25": {
+        "Description": "Twenty-fifth principal component of genetic ancestry"
+    },
+    "genetic_pc_26": {
+        "Description": "Twenty-sixth principal component of genetic ancestry"
+    },
+    "genetic_pc_27": {
+        "Description": "Twenty-seventh principal component of genetic ancestry"
+    },
+    "genetic_pc_28": {
+        "Description": "Twenty-eighth  principal component of genetic ancestry"
+    },
+    "genetic_pc_29": {
+        "Description": "Twenty-ninth principal component of genetic ancestry"
+    },
+    "genetic_pc_30": {
+        "Description": "Thirtieth principal component of genetic ancestry"
+    },
+    "genetic_pc_31": {
+        "Description": "Thirty-first principal component of genetic ancestry"
+    },
+    "genetic_pc_32": {
+        "Description": "Thirty-second principal component of genetic ancestry"
+    }
+}

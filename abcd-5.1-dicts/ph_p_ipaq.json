@@ -1,0 +1,215 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ipaq_light_acts_hrs": {
+        "Description": "How much time did you usually spend walking on those days? | 0=0 ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=9 ; 10=10 ; 11=11 ; 12=12 ; 13=13 ; 14=14 ; 15=15 ; 16=16 ; 17=17 ; 18=18 ; 19=19 ; 20=20 ; 21=21 ; 22=22 ; 23=23 ; 999=Don't know No lo se [ipaq_light_acts] = '1' or [ipaq_light_acts] = '2' or [ipaq_light_acts] = '3'  or [ipaq_light_acts] = '4'  or [ipaq_light_acts] = '5'  or [ipaq_light_acts] = '6'  or [ipaq_light_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "21": "21",
+            "22": "22",
+            "23": "23",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_vig_acts_min": {
+        "Description": "Minutes | 0=0; 15=15; 30=30; 45=45; 999=Don't know [ipaq_vig_acts] = '1' or [ipaq_vig_acts] = '2' or [ipaq_vig_acts] = '3'  or [ipaq_vig_acts] = '4'  or [ipaq_vig_acts] = '5'  or [ipaq_vig_acts] = '6'  or [ipaq_vig_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "15": "15",
+            "30": "30",
+            "45": "45",
+            "999": "Don't know"
+        }
+    },
+    "ipaq_vig_acts_hrs": {
+        "Description": "How much time did you usually spend doing vigorous \u00c2\u00a0physical activitieson one of those days? | 0=0 ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=9 ; 10=10 ; 11=11 ; 12=12 ; 13=13 ; 14=14 ; 15=15 ; 16=16 ; 17=17 ; 18=18 ; 19=19 ; 20=20 ; 21=21 ; 22=22 ; 23=23 ; 999=Don't know No lo se [ipaq_vig_acts] = '1' or [ipaq_vig_acts] = '2' or [ipaq_vig_acts] = '3'  or [ipaq_vig_acts] = '4'  or [ipaq_vig_acts] = '5'  or [ipaq_vig_acts] = '6'  or [ipaq_vig_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "21": "21",
+            "22": "22",
+            "23": "23",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_vig_acts": {
+        "Description": "During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, digging, aerobics, or fast bicycling? | 0=No vigorous physical activities Ninguna actividad f\u00c3\u00adsica vigorosa  ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 999=Don't know No lo se",
+        "Levels": {
+            "0": "No vigorous physical activities Ninguna actividad f\u00c3\u00adsica vigorosa",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_p_select_language___1": {
+        "Description": "Espanol? | 0=No ; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ipaq_mod_acts_min": {
+        "Description": "Minutes | 0=0; 15=15; 30=30; 45=45; 999=Don't know [ipaq_mod_acts] = '1' or [ipaq_mod_acts] = '2' or [ipaq_mod_acts] = '3'  or [ipaq_mod_acts] = '4'  or [ipaq_mod_acts] = '5'  or [ipaq_mod_acts] = '6'  or [ipaq_mod_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "15": "15",
+            "30": "30",
+            "45": "45",
+            "999": "Don't know"
+        }
+    },
+    "ipaq_mod_acts_hrs": {
+        "Description": "How much time did you usually spend doing moderate physical activities on one of those\ndays? | 0=0 ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=9 ; 10=10 ; 11=11 ; 12=12 ; 13=13 ; 14=14 ; 15=15 ; 16=16 ; 17=17 ; 18=18 ; 19=19 ; 20=20 ; 21=21 ; 22=22 ; 23=23 ; 999=Don't know No lo se [ipaq_mod_acts] = '1' or [ipaq_mod_acts] = '2' or [ipaq_mod_acts] = '3'  or [ipaq_mod_acts] = '4'  or [ipaq_mod_acts] = '5'  or [ipaq_mod_acts] = '6'  or [ipaq_mod_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "21": "21",
+            "22": "22",
+            "23": "23",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_mod_acts": {
+        "Description": "During the last 7 days, on how many days did you do moderate physical activities like carrying light loads, bicycling at a regular pace, or doubles tennis? Do not include walking. | 0=No moderate physical activities Ninguna actividad f\u00c3\u00adsica moderada  ; 1=1 1  ; 2=2 2  ; 3=3 3  ; 4=4 4  ; 5=5 5  ; 6=6 6  ; 7=7 7  ; 999=Don't know No lo se",
+        "Levels": {
+            "0": "No moderate physical activities Ninguna actividad f\u00c3\u00adsica moderada",
+            "1": "1 1",
+            "2": "2 2",
+            "3": "3 3",
+            "4": "4 4",
+            "5": "5 5",
+            "6": "6 6",
+            "7": "7 7",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_light_acts_min": {
+        "Description": "Minutes | 0=0; 15=15; 30=30; 45=45; 999=Don't know [ipaq_light_acts] = '1' or [ipaq_light_acts] = '2' or [ipaq_light_acts] = '3'  or [ipaq_light_acts] = '4'  or [ipaq_light_acts] = '5'  or [ipaq_light_acts] = '6'  or [ipaq_light_acts] = '7'",
+        "Levels": {
+            "0": "0",
+            "15": "15",
+            "30": "30",
+            "45": "45",
+            "999": "Don't know"
+        }
+    },
+    "ipaq_light_acts": {
+        "Description": "During the last 7 days, on how many days did you walk for at least 10 minutes at a time? | 0=No light physical activities No camin\u00c3\u00b3  ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 999=Don't know No lo se",
+        "Levels": {
+            "0": "No light physical activities No camin\u00c3\u00b3",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "999": "Don't know No lo se"
+        }
+    },
+    "ipaq_inactive_min": {
+        "Description": "Minutes | 0=0; 15=15; 30=30; 45=45; 999=Don't know",
+        "Levels": {
+            "0": "0",
+            "15": "15",
+            "30": "30",
+            "45": "45",
+            "999": "Don't know"
+        }
+    },
+    "ipaq_inactive_hrs": {
+        "Description": "During the last 7 days, how much time did\nyou spend sitting on a week day? | 0=0 ; 1=1 ; 2=2 ; 3=3 ; 4=4 ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=9 ; 10=10 ; 11=11 ; 12=12 ; 13=13 ; 14=14 ; 15=15 ; 16=16 ; 17=17 ; 18=18 ; 19=19 ; 20=20 ; 21=21 ; 22=22 ; 23=23 ; 999=Don't know No lo se",
+        "Levels": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "21": "21",
+            "22": "22",
+            "23": "23",
+            "999": "Don't know No lo se"
+        }
+    }
+}

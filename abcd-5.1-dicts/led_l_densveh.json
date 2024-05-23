@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_vehdens_area": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per sq. mile of land area, ACS20142018, census tract (addr1)"
+    },
+    "reshist_addr1_vehdens_pop": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per individual, ACS20142018, census tract (addr1)"
+    },
+    "reshist_addr2_vehdens_area": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per sq. mile of land area, ACS20142018, census tract (addr2)"
+    },
+    "reshist_addr2_vehdens_pop": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per individual, ACS20142018, census tract (addr2)"
+    },
+    "reshist_addr3_vehdens_area": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per sq. mile of land area, ACS20142018, census tract (addr3)"
+    },
+    "reshist_addr3_vehdens_pop": {
+        "Description": "Residential history derived - Aggregate Number Of Vehicles Available per individual, ACS20142018, census tract (addr3)"
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_ends_motiv_01": {
+        "Description": "Vaping ENDS helps you fit in with other people | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_02": {
+        "Description": "Vaping ENDS makes it easier to be sociable with others | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_03": {
+        "Description": "Vaping ENDS helps you enjoy a party | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_04": {
+        "Description": "Vaping ENDS makes social gatherings more fun | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_05": {
+        "Description": "Vaping ENDS makes you feel more energetic | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_06": {
+        "Description": "Vaping ENDS helps you concentrate on things | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_07": {
+        "Description": "Vaping ENDS makes you feel more self-confident | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_08": {
+        "Description": "Vaping ENDS makes you feel more sure of yourself | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_09": {
+        "Description": "You can vape when there's nothing better to do | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_10": {
+        "Description": "Vaping ENDS is something to do when you're bored | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_11": {
+        "Description": "Vaping ENDS helps you forget about worries | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_12": {
+        "Description": "Vaping ENDS helps you calm down when you're feeling tense and nervous | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_13": {
+        "Description": "Vaping ENDS helps you when you're feeling angry | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_14": {
+        "Description": "Vaping ENDS makes you feel more relaxed | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motiv_15": {
+        "Description": "Vaping ENDS cheers you up when you're in a bad mood | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motives_16": {
+        "Description": "I often vape without thinking about it | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motives_17": {
+        "Description": "I vape ENDS to fit in with a group I like | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motives_18": {
+        "Description": "I vape ENDS to be liked | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_ends_motives_19": {
+        "Description": "I vape ENDS so I won't feel left out | 1=Not at all true ; 2=A little true ; 3=Somewhat true ; 4=Pretty true ; 5=Very true [xskipout_end] = 1'' and [event-name] = ''4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "Not at all true",
+            "2": "A little true",
+            "3": "Somewhat true",
+            "4": "Pretty true",
+            "5": "Very true"
+        }
+    },
+    "su_nic_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

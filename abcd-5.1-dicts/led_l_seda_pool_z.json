@@ -1,0 +1,408 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_z_cellcount_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) all"
+    },
+    "ledsch_seda_z_cellcount_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) economically disadvantaged"
+    },
+    "ledsch_seda_z_cellcount_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) female"
+    },
+    "ledsch_seda_z_cellcount_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) male"
+    },
+    "ledsch_seda_z_cellcount_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) male minus female opportunity gap"
+    },
+    "ledsch_seda_z_cellcount_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) not disadvantaged economically"
+    },
+    "ledsch_seda_z_cellcount_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Commuting Zone) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_grdcenter": {
+        "Description": "Grade used for pooled centering (Commuting Zone)"
+    },
+    "ledsch_seda_z_mn_asmts_all": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) all"
+    },
+    "ledsch_seda_z_mn_asmts_ecd": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_asmts_fem": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) female"
+    },
+    "ledsch_seda_z_mn_asmts_mal": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) male"
+    },
+    "ledsch_seda_z_mn_asmts_mfg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_asmts_nec": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_asmts_neg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Commuting Zone) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_avg_eb_all": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_avg_eb_ecd": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_avg_eb_fem": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_avg_eb_mal": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_avg_eb_mfg": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_avg_eb_nec": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_avg_eb_neg": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_all": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_ecd": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_fem": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_mal": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_mfg": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_nec": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_avg_eb_se_neg": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_avg_ol_all": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_avg_ol_ecd": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_avg_ol_fem": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_avg_ol_mal": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_avg_ol_mfg": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_avg_ol_nec": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_avg_ol_neg": {
+        "Description": "Commuting Zone Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_all": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_ecd": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_fem": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_mal": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_mfg": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_nec": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_avg_ol_se_neg": {
+        "Description": "Commuting Zone SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_coh_eb_all": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_coh_eb_ecd": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_coh_eb_fem": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_coh_eb_mal": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_coh_eb_mfg": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_coh_eb_nec": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_coh_eb_neg": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_all": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_ecd": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_fem": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_mal": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_mfg": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_nec": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_coh_eb_se_neg": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_coh_ol_all": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_coh_ol_ecd": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_coh_ol_fem": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_coh_ol_mal": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_coh_ol_mfg": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_coh_ol_nec": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_coh_ol_neg": {
+        "Description": "Commuting Zone Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_all": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_ecd": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_fem": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_mal": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_mfg": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_nec": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_coh_ol_se_neg": {
+        "Description": "Commuting Zone SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_grd_eb_all": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_grd_eb_ecd": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_grd_eb_fem": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_grd_eb_mal": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_grd_eb_mfg": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_grd_eb_nec": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_grd_eb_neg": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_all": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_ecd": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_fem": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_mal": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_mfg": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_nec": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_grd_eb_se_neg": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_grd_ol_all": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_grd_ol_ecd": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_grd_ol_fem": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_grd_ol_mal": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_grd_ol_mfg": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_grd_ol_nec": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_grd_ol_neg": {
+        "Description": "Commuting Zone Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_all": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_ecd": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_fem": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_mal": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_mfg": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_nec": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_grd_ol_se_neg": {
+        "Description": "Commuting Zone SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_mth_eb_all": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_mth_eb_ecd": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_mth_eb_fem": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_mth_eb_mal": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_mth_eb_mfg": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_mth_eb_nec": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_mth_eb_neg": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_all": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS all"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_ecd": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_fem": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS female"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_mal": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_mfg": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_nec": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_mth_eb_se_neg": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_mth_ol_all": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_mth_ol_ecd": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_mth_ol_fem": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_mth_ol_mal": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_mth_ol_mfg": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_mth_ol_nec": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_mth_ol_neg": {
+        "Description": "Commuting Zone Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_all": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS all"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_ecd": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_fem": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS female"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_mal": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_mfg": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_nec": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_z_mn_mth_ol_se_neg": {
+        "Description": "Commuting Zone SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_z_tot_asmts_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) all"
+    },
+    "ledsch_seda_z_tot_asmts_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) economically disadvantaged"
+    },
+    "ledsch_seda_z_tot_asmts_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) female"
+    },
+    "ledsch_seda_z_tot_asmts_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) male"
+    },
+    "ledsch_seda_z_tot_asmts_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) male minus female opportunity gap"
+    },
+    "ledsch_seda_z_tot_asmts_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) not disadvantaged economically"
+    },
+    "ledsch_seda_z_tot_asmts_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Commuting Zone) not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

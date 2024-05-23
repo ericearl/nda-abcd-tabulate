@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_alcoh_out_dens": {
+        "Description": "Estimate of alcohol outlet density (Number of Establishments where alcohol could be purchased and/or consumed based on North American Industry Classification System (NAICS) from ZIP Code Business Patterns from Census 2016)"
+    },
+    "reshist_addr2_alcoh_out_dens": {
+        "Description": "Estimate of alcohol outlet density (Number of Establishments where alcohol could be purchased and/or consumed based on North American Industry Classification System (NAICS) from ZIP Code Business Patterns from Census 2016)"
+    },
+    "reshist_addr3_alcoh_out_dens": {
+        "Description": "Estimate of alcohol outlet density (Number of Establishments where alcohol could be purchased and/or consumed based on North American Industry Classification System (NAICS) from ZIP Code Business Patterns from Census 2016)"
+    }
+}

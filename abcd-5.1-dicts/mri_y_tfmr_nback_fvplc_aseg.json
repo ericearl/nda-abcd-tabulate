@@ -1,0 +1,546 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfmri_nback_all_160": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_all_161": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_all_166": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_all_179": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_all_164": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_all_178": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_all_162": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_all_157": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_all_174": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_all_155": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_all_172": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_all_154": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_171": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_all_151": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_all_168": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_all_165": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_all_163": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_all_177": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_all_153": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_all_170": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_all_152": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_all_169": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_all_159": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_all_176": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_all_158": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_all_175": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_all_156": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_all_173": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_all_167": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_all_180": {
+        "Description": "Beta weight for nBack all face versus place contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbackallsem_160": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbackallsem_161": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbackallsem_166": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbackallsem_179": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbackallsem_164": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbackallsem_178": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbackallsem_162": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbackallsem_157": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbackallsem_174": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbackallsem_155": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_172": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbackallsem_154": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_171": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbackallsem_151": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_168": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbackallsem_165": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI csf"
+    },
+    "tfmrinbackallsem_163": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbackallsem_177": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbackallsem_153": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbackallsem_170": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbackallsem_152": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbackallsem_169": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbackallsem_159": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbackallsem_176": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbackallsem_158": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbackallsem_175": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbackallsem_156": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbackallsem_173": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbackallsem_167": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbackallsem_180": {
+        "Description": "Standard error of the mean for nBack all face versus place contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1_160": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1_161": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1_166": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1_179": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1_164": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1_178": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1_162": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1_157": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1_174": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1_155": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_172": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1_154": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_171": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1_151": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_168": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1_165": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1_163": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1_177": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1_153": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1_170": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1_152": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1_169": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1_159": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1_176": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1_158": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1_175": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1_156": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1_173": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1_167": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1_180": {
+        "Description": "Beta weight for nBack run1 face versus place contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r1sem_160": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r1sem_161": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r1sem_166": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r1sem_179": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r1sem_164": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r1sem_178": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r1sem_162": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r1sem_157": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r1sem_174": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r1sem_155": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_172": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r1sem_154": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_171": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r1sem_151": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_168": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r1sem_165": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r1sem_163": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r1sem_177": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r1sem_153": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_170": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r1sem_152": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_169": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r1sem_159": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r1sem_176": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r1sem_158": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r1sem_175": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r1sem_156": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_173": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r1sem_167": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r1sem_180": {
+        "Description": "Standard error of the mean for nBack run1 face versus place contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmri_nback_r2_160": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmri_nback_r2_161": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmri_nback_r2_166": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmri_nback_r2_179": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmri_nback_r2_164": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmri_nback_r2_178": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmri_nback_r2_162": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmri_nback_r2_157": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmri_nback_r2_174": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmri_nback_r2_155": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_172": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmri_nback_r2_154": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_171": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmri_nback_r2_151": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_168": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmri_nback_r2_165": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI csf"
+    },
+    "tfmri_nback_r2_163": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmri_nback_r2_177": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmri_nback_r2_153": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmri_nback_r2_170": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmri_nback_r2_152": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmri_nback_r2_169": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmri_nback_r2_159": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmri_nback_r2_176": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmri_nback_r2_158": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmri_nback_r2_175": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmri_nback_r2_156": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmri_nback_r2_173": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmri_nback_r2_167": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmri_nback_r2_180": {
+        "Description": "Beta weight for nBack run2 face versus place contrast in ASEG ROI right-ventraldc"
+    },
+    "tfmrinbr2fvpsscs3rdvt": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI 3rd-ventricle"
+    },
+    "tfmrinbr2fvpsscs4thvt": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI 4th-ventricle"
+    },
+    "tfmrinbr2fvpsscsaalh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-accumbens-area"
+    },
+    "tfmrinbr2fvpsscsaarh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-accumbens-area"
+    },
+    "tfmrinbr2fvpsscsaylh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-amygdala"
+    },
+    "tfmrinbr2fvpsscsayrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-amygdala"
+    },
+    "tfmrinbr2fvpsscsbs": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI brain-stem"
+    },
+    "tfmrinbr2fvpsscscdelh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-caudate"
+    },
+    "tfmrinbr2fvpsscscderh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-caudate"
+    },
+    "tfmrinbr2fvpsscscrbcxlh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-cerebellum-cortex"
+    },
+    "tfmrinbr2fvpsscscrbcxrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-cerebellum-cortex"
+    },
+    "tfmrinbr2fvpsscscrbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-cerebellum-white-matter"
+    },
+    "tfmrinbr2fvpsscscrbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-cerebellum-white-matter"
+    },
+    "tfmrinbr2fvpsscscbwmlh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-cerebral-white-matter"
+    },
+    "tfmrinbr2fvpsscscbwmrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-cerebral-white-matter"
+    },
+    "tfmrinbr2fvpsscscsf": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI csf"
+    },
+    "tfmrinbr2fvpsscshpuslh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-hippocampus"
+    },
+    "tfmrinbr2fvpsscshpusrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-hippocampus"
+    },
+    "tfmrinbr2fvpsscsinfvtlh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-inf-lat-vent"
+    },
+    "tfmrinbr2fvpsscsinfvtrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-inf-lat-vent"
+    },
+    "tfmrinbr2fvpsscslvtlh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-lateral-ventricle"
+    },
+    "tfmrinbr2fvpsscslvtrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-lateral-ventricle"
+    },
+    "tfmrinbr2fvpsscspalh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-pallidum"
+    },
+    "tfmrinbr2fvpsscsparh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-pallidum"
+    },
+    "tfmrinbr2fvpsscspulh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-putamen"
+    },
+    "tfmrinbr2fvpsscspurh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-putamen"
+    },
+    "tfmrinbr2fvpsscstplh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-thalamus-proper"
+    },
+    "tfmrinbr2fvpsscstprh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-thalamus-proper"
+    },
+    "tfmrinbr2fvpsscsvtrdclh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI left-ventraldc"
+    },
+    "tfmrinbr2fvpsscsvtrdcrh": {
+        "Description": "Standard error of the mean for nBack run2 face versus place contrast in ASEG ROI right-ventraldc"
+    }
+}

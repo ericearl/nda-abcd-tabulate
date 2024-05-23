@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_elevation": {
+        "Description": "Residential history derived elevation 1"
+    },
+    "reshist_addr2_elevation": {
+        "Description": "Residential history derived elevation 2"
+    },
+    "reshist_addr3_elevation": {
+        "Description": "Residential history derived elevation 3"
+    }
+}

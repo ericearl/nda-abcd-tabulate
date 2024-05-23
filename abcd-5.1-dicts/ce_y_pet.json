@@ -1,0 +1,63 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pet_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered; 2=Youth Self-Administered; 3=Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "pet_identify___0": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one):0=No=I do NOT have any pets | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___1": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 1=Dog | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___2": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 2=Cat | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___3": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 3=Horse | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___4": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 4=Fish | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___5": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 5=Other Small animal (e.g.=rabbit=hamster=bird) | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "pet_identify___6": {
+        "Description": "Do you currently have any pets? Please select all the pets that you currently have (you can pick more than one): 6=Other | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

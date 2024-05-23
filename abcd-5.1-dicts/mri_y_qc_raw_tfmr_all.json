@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_eprime_found": {
+        "Description": "Number of tasks acquired in a session"
+    },
+    "iqc_eprime_valid": {
+        "Description": "All E-Prime files of the acquired tasks are readable, contain the intended task, and the experiment date & time can be extracted"
+    },
+    "iqc_eprime_lap_missing": {
+        "Description": "Event has missing eprime files collected from laptop"
+    },
+    "iqc_eprime_missing": {
+        "Description": "Event has missing E-prime file"
+    },
+    "iqc_eprime_scan_missing": {
+        "Description": "Event has missing eprime files collected in scanner"
+    },
+    "iqc_eprime_scan_t_match": {
+        "Description": "Imaging-series and behavioral-data files match for all tasks.  i.e. time differences are less than a threshold time."
+    },
+    "iqc_fmri_fm_ap_imported": {
+        "Description": "fMRI_FM_AP: Total number imported"
+    },
+    "iqc_fmri_fm_ap_needrawqc": {
+        "Description": "fMRI FM AP: at least one series needs rawQC"
+    },
+    "iqc_fmri_fm_ap_procfail": {
+        "Description": "fMRI FM AP: at least one series has a processing error before autoQC"
+    },
+    "iqc_fmri_fm_ap_received": {
+        "Description": "fMRI_FM_AP: Total number received"
+    },
+    "iqc_fmri_fm_ap_rename_err": {
+        "Description": "fMRI_FM_AP: Total number with rename error"
+    },
+    "iqc_fmri_fm_ap_unpack_err": {
+        "Description": "fMRI_FM_AP: Total number with unpack errors"
+    },
+    "iqc_fmri_fm_ap_unpacked": {
+        "Description": "fMRI_FM_AP: Total number unpacked"
+    },
+    "iqc_fmri_fm_ap_waitautoqc": {
+        "Description": "fMRI FM AP: at least one series is waiting for autoQC"
+    },
+    "iqc_fmri_fm_imported": {
+        "Description": "fMRI_FM: Total number imported"
+    },
+    "iqc_fmri_fm_needrawqc": {
+        "Description": "fMRI FM: at least one series needs rawQC"
+    },
+    "iqc_fmri_fm_pa_imported": {
+        "Description": "fMRI_FM_PA: Total number imported"
+    },
+    "iqc_fmri_fm_pa_needrawqc": {
+        "Description": "fMRI FM PA: at least one series needs rawQC"
+    },
+    "iqc_fmri_fm_pa_procfail": {
+        "Description": "fMRI FM PA: at least one series has a processing error before autoQC"
+    },
+    "iqc_fmri_fm_pa_received": {
+        "Description": "fMRI_FM_PA: Total number received"
+    },
+    "iqc_fmri_fm_pa_rename_err": {
+        "Description": "fMRI_FM_PA: Total number with rename error"
+    },
+    "iqc_fmri_fm_pa_unpack_err": {
+        "Description": "fMRI_FM_PA: Total number with unpack errors"
+    },
+    "iqc_fmri_fm_pa_unpacked": {
+        "Description": "fMRI_FM_PA: Total number unpacked"
+    },
+    "iqc_fmri_fm_pa_waitautoqc": {
+        "Description": "fMRI FM PA:  at least one series is waiting for autoQC"
+    },
+    "iqc_fmri_fm_procfail": {
+        "Description": "fMRI FM: at least one series has a processing error before autoQC"
+    },
+    "iqc_fmri_fm_received": {
+        "Description": "fMRI_FM: Total number received"
+    },
+    "iqc_fmri_fm_rename_err": {
+        "Description": "fMRI FM: Total number with rename error"
+    },
+    "iqc_fmri_fm_unpack_err": {
+        "Description": "fMRI_FM: Total number with unpack errors"
+    },
+    "iqc_fmri_fm_unpacked": {
+        "Description": "fMRI_FM: Total number unpacked"
+    },
+    "iqc_fmri_fm_waitautoqc": {
+        "Description": "fMRI FM: at least one series is waiting for autoQC"
+    }
+}

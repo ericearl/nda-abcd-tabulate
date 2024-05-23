@@ -1,0 +1,60 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_pfire_1": {
+        "Description": "Are any firearms now kept in or around your home? | 1 = Yes; 0 = No; 98=  I don't know; 99=  I'd rather not say",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    },
+    "socialdev_pfire_2": {
+        "Description": "Are any of these firearms now loaded? | 1 = Yes; 0 = No; 98=  I don't know; 99=  I'd rather not say",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    },
+    "socialdev_pfire_3": {
+        "Description": "Are any of these loaded firearms also unlocked? | 1 = Yes; 0 = No; 98=  I don't know; 99=  I'd rather not say",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    },
+    "socialdev_pfire_1_l": {
+        "Description": "Are any firearms now kept in or around your home? | 1=Yes ; 0=No ; 98=I don't know ; 99=I'd rather not say",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    },
+    "socialdev_pfire_2_l": {
+        "Description": "Are any of these firearms now loaded? | 1=Yes ; 0=No ; 98=I don't know ; 99=I'd rather not say [socialdev_pfire_1_l]='1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    },
+    "socialdev_pfire_3_l": {
+        "Description": "Are any of these loaded firearms also unlocked? | 1=Yes ; 0=No ; 98=I don't know ; 99=I'd rather not say [socialdev_pfire_1_l]='1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "98": "I don't know",
+            "99": "I'd rather not say"
+        }
+    }
+}

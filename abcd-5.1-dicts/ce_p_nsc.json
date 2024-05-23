@@ -1,0 +1,52 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "nei_p_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, \u00bfS\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "neighborhood1r_p": {
+        "Description": "I feel safe walking in my neighborhood, day or night. Me siento seguro(a) caminando por mi vecindario, de d\u00eda o de noche. | 1 = Strongly Disagree /Muy en desacuerdo; 2 = Disagree /En desacuerdo; 3 = Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo); 4 = Agree /De acuerdo; 5 = Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree",
+        "Levels": {
+            "1": "Strongly Disagree /Muy en desacuerdo",
+            "2": "Disagree /En desacuerdo",
+            "3": "Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo)",
+            "4": "Agree /De acuerdo",
+            "5": "Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree"
+        }
+    },
+    "neighborhood2r_p": {
+        "Description": "Violence is not a problem in my neighborhood./ La violencia no es un problema en mi vecindario. | 1 = Strongly Disagree /Muy en desacuerdo; 2 = Disagree /En desacuerdo; 3 = Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo); 4 = Agree /De acuerdo; 5 = Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree",
+        "Levels": {
+            "1": "Strongly Disagree /Muy en desacuerdo",
+            "2": "Disagree /En desacuerdo",
+            "3": "Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo)",
+            "4": "Agree /De acuerdo",
+            "5": "Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree"
+        }
+    },
+    "neighborhood3r_p": {
+        "Description": "My neighborhood is safe from crime. Mi vecindario est\u00e1 a salvo de la delincuencia. | 1 = Strongly Disagree /Muy en desacuerdo; 2 = Disagree /En desacuerdo; 3 = Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo); 4 = Agree /De acuerdo; 5 = Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree",
+        "Levels": {
+            "1": "Strongly Disagree /Muy en desacuerdo",
+            "2": "Disagree /En desacuerdo",
+            "3": "Neutral (neither agree nor disagree)/ Neutral (ni de acuerdo ni en desacuerdo)",
+            "4": "Agree /De acuerdo",
+            "5": "Strongly Agree/ Muy de acuerdo//The following questions are about your neighborhood. Your neighborhood is the area within about a 20-minute walk (or about a mile) from your home. For each of the statements please indicate whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree"
+        }
+    },
+    "nsc_p_ss_mean_3_items": {
+        "Description": "Neighborhood Safety Protocol: Mean of Parent Report, (neighborhood1r_p + neighborhood2r_p + neighborhood3r_p)/3; Validation: No minimum | Echeverria, S. E., Diez-Roux, A. V.,  et al. (2004) Reliability of self-reported neighborhood characteristics. J Urban Health 81(4): 682-701;  Mujahid, M. S., et al. (2007)  Assessing the measurement properties of neighborhood scales: from psychometrics to ecometrics.  Am J Epidemiol 165(8): 858-67."
+    },
+    "nsc_p_ss_mean_3_items_nm": {
+        "Description": "Neighborhood Safety Protocol, Mean of Parent Report: Number Missing Answers"
+    },
+    "nsc_p_ss_mean_3_items_nt": {
+        "Description": "Neighborhood Safety Protocol, Mean of Parent Report: Number Total Questions"
+    }
+}

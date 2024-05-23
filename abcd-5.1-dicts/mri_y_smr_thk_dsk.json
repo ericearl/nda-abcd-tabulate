@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_thick_cdk_banksstslh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_thick_cdk_cdacatelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-caudalanteriorcingulate"
+    },
+    "smri_thick_cdk_cdmdfrlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-caudalmiddlefrontal"
+    },
+    "smri_thick_cdk_cuneuslh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-cuneus"
+    },
+    "smri_thick_cdk_ehinallh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-entorhinal"
+    },
+    "smri_thick_cdk_fusiformlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-fusiform"
+    },
+    "smri_thick_cdk_ifpllh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-inferiorparietal"
+    },
+    "smri_thick_cdk_iftmlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-inferiortemporal"
+    },
+    "smri_thick_cdk_ihcatelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-isthmuscingulate"
+    },
+    "smri_thick_cdk_locclh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-lateraloccipital"
+    },
+    "smri_thick_cdk_lobfrlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-lateralorbitofrontal"
+    },
+    "smri_thick_cdk_linguallh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-lingual"
+    },
+    "smri_thick_cdk_mobfrlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-medialorbitofrontal"
+    },
+    "smri_thick_cdk_mdtmlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-middletemporal"
+    },
+    "smri_thick_cdk_parahpallh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-parahippocampal"
+    },
+    "smri_thick_cdk_paracnlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-paracentral"
+    },
+    "smri_thick_cdk_parsopclh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-parsopercularis"
+    },
+    "smri_thick_cdk_parsobislh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-parsorbitalis"
+    },
+    "smri_thick_cdk_parstgrislh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-parstriangularis"
+    },
+    "smri_thick_cdk_pericclh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-pericalcarine"
+    },
+    "smri_thick_cdk_postcnlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-postcentral"
+    },
+    "smri_thick_cdk_ptcatelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-posteriorcingulate"
+    },
+    "smri_thick_cdk_precnlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-precentral"
+    },
+    "smri_thick_cdk_pclh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-precuneus"
+    },
+    "smri_thick_cdk_rracatelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-rostralanteriorcingulate"
+    },
+    "smri_thick_cdk_rrmdfrlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-rostralmiddlefrontal"
+    },
+    "smri_thick_cdk_sufrlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-superiorfrontal"
+    },
+    "smri_thick_cdk_supllh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-superiorparietal"
+    },
+    "smri_thick_cdk_sutmlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-superiortemporal"
+    },
+    "smri_thick_cdk_smlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-supramarginal"
+    },
+    "smri_thick_cdk_frpolelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-frontalpole"
+    },
+    "smri_thick_cdk_tmpolelh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-temporalpole"
+    },
+    "smri_thick_cdk_trvtmlh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-transversetemporal"
+    },
+    "smri_thick_cdk_insulalh": {
+        "Description": "Cortical thickness in mm of APARC ROI lh-insula"
+    },
+    "smri_thick_cdk_banksstsrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_thick_cdk_cdacaterh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-caudalanteriorcingulate"
+    },
+    "smri_thick_cdk_cdmdfrrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-caudalmiddlefrontal"
+    },
+    "smri_thick_cdk_cuneusrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-cuneus"
+    },
+    "smri_thick_cdk_ehinalrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-entorhinal"
+    },
+    "smri_thick_cdk_fusiformrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-fusiform"
+    },
+    "smri_thick_cdk_ifplrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-inferiorparietal"
+    },
+    "smri_thick_cdk_iftmrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-inferiortemporal"
+    },
+    "smri_thick_cdk_ihcaterh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-isthmuscingulate"
+    },
+    "smri_thick_cdk_loccrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-lateraloccipital"
+    },
+    "smri_thick_cdk_lobfrrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-lateralorbitofrontal"
+    },
+    "smri_thick_cdk_lingualrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-lingual"
+    },
+    "smri_thick_cdk_mobfrrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-medialorbitofrontal"
+    },
+    "smri_thick_cdk_mdtmrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-middletemporal"
+    },
+    "smri_thick_cdk_parahpalrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-parahippocampal"
+    },
+    "smri_thick_cdk_paracnrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-paracentral"
+    },
+    "smri_thick_cdk_parsopcrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-parsopercularis"
+    },
+    "smri_thick_cdk_parsobisrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-parsorbitalis"
+    },
+    "smri_thick_cdk_parstgrisrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-parstriangularis"
+    },
+    "smri_thick_cdk_periccrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-pericalcarine"
+    },
+    "smri_thick_cdk_postcnrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-postcentral"
+    },
+    "smri_thick_cdk_ptcaterh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-posteriorcingulate"
+    },
+    "smri_thick_cdk_precnrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-precentral"
+    },
+    "smri_thick_cdk_pcrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-precuneus"
+    },
+    "smri_thick_cdk_rracaterh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-rostralanteriorcingulate"
+    },
+    "smri_thick_cdk_rrmdfrrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-rostralmiddlefrontal"
+    },
+    "smri_thick_cdk_sufrrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-superiorfrontal"
+    },
+    "smri_thick_cdk_suplrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-superiorparietal"
+    },
+    "smri_thick_cdk_sutmrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-superiortemporal"
+    },
+    "smri_thick_cdk_smrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-supramarginal"
+    },
+    "smri_thick_cdk_frpolerh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-frontalpole"
+    },
+    "smri_thick_cdk_tmpolerh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-temporalpole"
+    },
+    "smri_thick_cdk_trvtmrh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-transversetemporal"
+    },
+    "smri_thick_cdk_insularh": {
+        "Description": "Cortical thickness in mm of APARC ROI rh-insula"
+    },
+    "smri_thick_cdk_meanlh": {
+        "Description": "Mean cortical thickness in mm for left hemisphere"
+    },
+    "smri_thick_cdk_meanrh": {
+        "Description": "Mean cortical thickness in mm for right hemisphere"
+    },
+    "smri_thick_cdk_mean": {
+        "Description": "Mean cortical thickness in mm for whole brain"
+    }
+}

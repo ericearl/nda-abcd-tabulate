@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_m_baplusavgall": {
+        "Description": "baand rate, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_hsecdnec": {
+        "Description": "Information index between schools: ECD/Non ECD (metro) Ed Factsthe information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_m_hsflnfl": {
+        "Description": "Information index between schools: FRPL/Non FRPL (metro) CCDthe information theory index is computed as the average deviation of each student's school racial diversity from the district-wide racial diversity. Values of 0 indicate no segregation while values of 1 indicate complete segregation. See Theil (1972) for more information"
+    },
+    "ledsch_seda_m_in_acs": {
+        "Description": "Metro has data in the ACSderived"
+    },
+    "ledsch_seda_m_in_ccd": {
+        "Description": "Metro has data in the CCD derived"
+    },
+    "ledsch_seda_m_in_metro": {
+        "Description": "Metropolitan area, 2013 definition"
+    },
+    "ledsch_seda_m_in_micro": {
+        "Description": "Micropolitan area, 2013 definition"
+    },
+    "ledsch_seda_m_lninc50avgall": {
+        "Description": "log of median income, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_metro_same0913": {
+        "Description": "Metro has same set of counties in 2009 and 2013 derived"
+    },
+    "ledsch_seda_m_perasn": {
+        "Description": "percent asians in the metro CCD"
+    },
+    "ledsch_seda_m_perblk": {
+        "Description": "percent blacks in the metro CCD"
+    },
+    "ledsch_seda_m_perecd": {
+        "Description": "percent ECD in the metro Ed Facts"
+    },
+    "ledsch_seda_m_perfrl": {
+        "Description": "percent free or reduced lunch in the metro CCD"
+    },
+    "ledsch_seda_m_perhsp": {
+        "Description": "percent hispanics in the metro CCD"
+    },
+    "ledsch_seda_m_perind": {
+        "Description": "percent native americans in the metro CCD"
+    },
+    "ledsch_seda_m_perrl": {
+        "Description": "percent reduced lunch in the metro CCD"
+    },
+    "ledsch_seda_m_perwht": {
+        "Description": "percent whites in the metro CCD"
+    },
+    "ledsch_seda_m_povertyavgall": {
+        "Description": "poverty rate, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_rsecdnec": {
+        "Description": "Relative Diversity index between schools: ECD/Non ECD (metro) Ed Factsthe relative diversity index captures ECD-non ECD differences in exposure to ECD students at the average ECD-non ECD student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_m_rsflnfl": {
+        "Description": "Relative Diversity index between schools: FRPL/Non FRPL (metro) CCDthe relative diversity index captures free lunch-not free lunch differences in exposure to free lunch students at the average free lunch/not free lunch student's school within the unit; for more information see Reardon and Firebaugh (2002)"
+    },
+    "ledsch_seda_m_rural": {
+        "Description": "% of Schools in Metro that are Rural CCD"
+    },
+    "ledsch_seda_m_sesavgall": {
+        "Description": "ses composite, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACSsee SEDA documentation for more detailed information on the construction of the SES measures from the ACS"
+    },
+    "ledsch_seda_m_single_momavg_l": {
+        "Description": "single mother HH rate, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_snapavgall": {
+        "Description": "snap receipt rate, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_suburb": {
+        "Description": "% of Schools in Metro that are Suburban CCD"
+    },
+    "ledsch_seda_m_totenrl": {
+        "Description": "Total Enrollment, Grades 3-8 (metro) CCD"
+    },
+    "ledsch_seda_m_town": {
+        "Description": "% of Schools in Metro that are Town CCD"
+    },
+    "ledsch_seda_m_unempavgall": {
+        "Description": "unemployment rate, eb estimate, all families, 2005-09 & 2014-18 avg (metro) ACS"
+    },
+    "ledsch_seda_m_urban": {
+        "Description": "% of Schools in Metro that are Urban CCD"
+    },
+    "ledsch_seda_m_use_flag": {
+        "Description": "Can use ACS data from this metro (common definition over time) derived"
+    }
+}

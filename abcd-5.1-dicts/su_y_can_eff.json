@@ -1,0 +1,240 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "sub_res_mj_q01": {
+        "Description": "When using marijuana the first time or two, did you: Like the taste | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q02": {
+        "Description": "When using marijuana the first time or two, did you: Cough | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q03": {
+        "Description": "When using marijuana the first time or two, did you: Feel dizzy or light-headed | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q04": {
+        "Description": "When using marijuana the first time or two, did you: Feel more relaxed | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q05": {
+        "Description": "When using marijuana the first time or two, did you: Get a headache | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q06": {
+        "Description": "When using marijuana the first time or two, did you: Feel a pleasurable rush or buzz | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q07": {
+        "Description": "When using marijuana the first time or two, did you: Feel your heart racing | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q08": {
+        "Description": "When using marijuana the first time or two, did you: Feel nauseated, like vomiting | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q09": {
+        "Description": "When using marijuana the first time or two, did you: Feel your muscles tremble or become jittery | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q10": {
+        "Description": "When using marijuana the first time or two, did you: Feeling burning in your throat | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q11": {
+        "Description": "When using marijuana the first time or two, did you: Feel confused | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q01_l": {
+        "Description": "When using marijuana the first time or two, did you: like the taste | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' ||  or  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q02_l": {
+        "Description": "When using marijuana the first time or two, did you: cough | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q03_l": {
+        "Description": "When using marijuana the first time or two, did you: feel dizzy or light-headed | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q04_l": {
+        "Description": "When using marijuana the first time or two, did you: feel more relaxed | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q05_l": {
+        "Description": "When using marijuana the first time or two, did you: get a headache | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q06_l": {
+        "Description": "When using marijuana the first time or two, did you: feel a pleasurable rush or buzz | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || or  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q07_l": {
+        "Description": "When using marijuana the first time or two, did you: feel your heart racing | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' || tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q08_l": {
+        "Description": "When using marijuana the first time or two, did you: feel nauseated, like vomiting | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' ||  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q09_l": {
+        "Description": "When using marijuana the first time or two, did you: feel your muscles tremble or become jittery | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' ||  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q10_l": {
+        "Description": "When using marijuana the first time or two, did you: feeling burning in your throat | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' ||  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "sub_res_mj_q11_l": {
+        "Description": "When using marijuana the first time or two, did you: feel confused | 1 = Not at all; 2 = A little bit; 3 = Some; 4 = Quite a bit; 5 = A great deal / tlfb_mj_use_l  == '1' ||  tlfb_blunt_use_l  == '1' ||  tlfb_edible_use_l  == '1' ||  tlfb_mj_conc_use_l  == '1' ||  tlfb_mj_drink_use_l  == '1' ||  tlfb_tincture_use_l  == '1'",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little bit",
+            "3": "Some",
+            "4": "Quite a bit",
+            "5": "A great deal"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "sub_res_mj_total": {
+        "Description": "total number and severity of subjective responses for first marijuana use episode | sum(sub_res_mj_q01_ce7e66, sub_res_mj_q02_7e4ec7, sub_res_mj_q03_066715, sub_res_mj_q04_d2aac3,  sub_res_mj_q05_b99418, sub_res_mj_q06_5ffdd9, sub_res_mj_q07_e6d97f, sub_res_mj_q08_1bc744, sub_res_mj_q09_2498f8, sub_res_mj_q10_44ac4a, sub_res_mj_q11_c062ca)"
+    },
+    "sub_res_mj_total_i": {
+        "Description": "total number and severity of subjective responses for first marijuana use episode | sum(sub_res_mj_q01_I, sub_res_mj_q02_I, sub_res_mj_q03_I, sub_res_mj_q04_I, sub_res_mj_q05_I, sub_res_mj_q06_I, sub_res_mj_q07_I, sub_res_mj_q08_I,  sub_res_mj_q09_I, sub_res_mj_q10_I, sub_res_mj_q11_I)"
+    }
+}

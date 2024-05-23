@@ -1,0 +1,264 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_mj_motiv_01": {
+        "Description": "To forget my worries | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_02": {
+        "Description": "Because my friends pressure me to use marijuana | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_03": {
+        "Description": "Because it helps me enjoy a party | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_04": {
+        "Description": "Because it helps me when I feel depressed or nervous | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_05": {
+        "Description": "To be sociable | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_06": {
+        "Description": "To cheer me up when I am in a bad mood | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_07": {
+        "Description": "Because I like the feeling | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_08": {
+        "Description": "So that others won't kid me about not using marijuana | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_09": {
+        "Description": "Because it's exciting | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_10": {
+        "Description": "To get high | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_11": {
+        "Description": "Because it makes social gatherings more fun | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_12": {
+        "Description": "To fit in with the group I like | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_13": {
+        "Description": "Because it gives me a pleasant feeling | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_14": {
+        "Description": "Because it improves parties and celebration | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_15": {
+        "Description": "Because I feel more self-confident and sure of myself | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_16": {
+        "Description": "To celebrate a special occasion with friends | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_17": {
+        "Description": "To forget about my problems | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_18": {
+        "Description": "Because it's fun | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_19": {
+        "Description": "To be liked | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_20": {
+        "Description": "So I won't feel left out | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_21": {
+        "Description": "To know myself better | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_22": {
+        "Description": "Because it helps me be more creative and original | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_23": {
+        "Description": "To understand things differently | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_24": {
+        "Description": "To expand my awareness | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_motiv_25": {
+        "Description": "To be more open to experiences | 1=almost never/never ; 2=some of the time ; 3=half of the time ; 4=most of the time ; 5=almost always/always [xskipout_mj_l] = '1' and [event-name] = 4_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

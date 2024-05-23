@@ -1,0 +1,458 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "resp_wheeze_yn_y": {
+        "Description": "Have you ever had wheezing or whistling in the chest at any time in the past? | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_yr_y": {
+        "Description": "At what age (in years) did you first have wheezing or whistling in the chest? | 1 = 1;  2 = 2;  3 = 3;  4 = 4;  5 = 5;  6 = 6;  7 = 7;  8 = 8;  9 = 9;  10 = 10;  11 = 11;  12 = 12;  13 = 13;  14 = 14;  15 = 15;  16 = 16;  17 = 17;  18 = 18;  19 = 19;  20 = 20;  999 = Don't know",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_age_y": {
+        "Description": "If you aren't sure of the age, can you recall if it was... | 0 = Before 5 years old (before elementary school);  1 = Between 5-12 years old (in elementary or middle school);  2 = Between 13-18 years old (in middle school or high school);  3 = After 18 years old (after high school)",
+        "Levels": {
+            "0": "Before 5 years old (before elementary school)",
+            "1": "Between 5-12 years old (in elementary or middle school)",
+            "2": "Between 13-18 years old (in middle school or high school)",
+            "3": "After 18 years old (after high school)"
+        }
+    },
+    "resp_current_yn_y": {
+        "Description": "Have you had wheezing or whistling in the chest in the past 12 months? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_wheeze_tally_y": {
+        "Description": "How many attacks of wheezing have you had in the past 12 months? | 0 = None;  1 = 1;  2 = 2;  3 = 3;  4 = 4-12;  5 = More than 12",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4-12",
+            "5": "More than 12"
+        }
+    },
+    "resp_wheeze_sleep_y": {
+        "Description": "In the past 12 months, how often, on average, has your sleep been disturbed due to wheezing? | 0 = Never woken with wheezing;  1 = Less than one time per week;  2 = One or more times per week",
+        "Levels": {
+            "0": "Never woken with wheezing",
+            "1": "Less than one time per week",
+            "2": "One or more times per week"
+        }
+    },
+    "resp_wheeze_speech_yn_y": {
+        "Description": "In the past 12 months, has wheezing ever been severe enough to limit your speech to only one or two words at a time between breaths? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_wheeze_active_y": {
+        "Description": "During the past 12 months, how much did you limit your usual activities due to wheezing or whistling? Would you say... | 0 = Not at all;  1 = A little;  2 = A fair amount;  3 = A moderate amount;  4 = A lot",
+        "Levels": {
+            "0": "Not at all",
+            "1": "A little",
+            "2": "A fair amount",
+            "3": "A moderate amount",
+            "4": "A lot"
+        }
+    },
+    "resp_wheeze_abs_y": {
+        "Description": "During the past 12 months, how many days of school did you miss due to wheezing or whistling? | 0 = None;  1 = 1 to 2;  2 = 3 or more",
+        "Levels": {
+            "0": "None",
+            "1": "1 to 2",
+            "2": "3 or more"
+        }
+    },
+    "resp_wheeze_trig1_y": {
+        "Description": "Cats | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig2_y": {
+        "Description": "Dogs | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig3_y": {
+        "Description": "Mice | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig4_y": {
+        "Description": "Other Animals | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig5_y": {
+        "Description": "Cockroaches | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig6_y": {
+        "Description": "Dusty Places | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig7_y": {
+        "Description": "Moldy Places | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig8_y": {
+        "Description": "Cigarette or Cigar smoke | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig9_y": {
+        "Description": "Vaping or E-Cigarettes | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig10_y": {
+        "Description": "Strong Odors | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig11_y": {
+        "Description": "Indoor wood smoke (fireplaces, wood stoves, etc..) | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig12_y": {
+        "Description": "Outdoor wood smoke (BBQs, campfires, etc...) | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig13_y": {
+        "Description": "Pollen/Grass/Trees | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig14_y": {
+        "Description": "Weather changes | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig15_y": {
+        "Description": "Cold air | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig16_y": {
+        "Description": "Exercise | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig17_y": {
+        "Description": "Common cold or sinus infection | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_wheeze_trig18_y": {
+        "Description": "Foods (specify) | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_others_y": {
+        "Description": "Please specify what other animals sets off or triggers any of your wheezing or whistling symptoms"
+    },
+    "resp_otherspec_y": {
+        "Description": "Please specify what food sets off or triggers any of your wheezing or whistling symptoms"
+    },
+    "resp_exercise_yn_y": {
+        "Description": "In the past 12 months, has your chest sounded wheezy during or after exercise? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_yn_y": {
+        "Description": "In the past 12 months, have you had a dry cough at night, apart from a cough associated with a cold or chest infection? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___1": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: January | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___2": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: February | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___3": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: March | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___4": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: April | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___5": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: May | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___6": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: June | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___7": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: July | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___8": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: August | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___9": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: September | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___10": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: October | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___11": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: November | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_pmcough_month_y___12": {
+        "Description": "In which of these past month(s) did this cough occur? [check all that apply]: December | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_diagnosis_yn_y": {
+        "Description": "Has a doctor or other healthcare provider ever diagnosed you with asthma? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_diagnosis_age_y": {
+        "Description": "At what age were you diagnosed with asthma? | 1 = 1;  2 = 2;  3 = 3;  4 = 4;  5 = 5;  6 = 6;  7 = 7;  8 = 8;  9 = 9;  10 = 10;  11 = 11;  12 = 12;  13 = 13;  14 = 14;  15 = 15;  16 = 16;  17 = 17;  18 = 18;  19 = 19;  20 = 20;  999 = don't know",
+        "Levels": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "16": "16",
+            "17": "17",
+            "18": "18",
+            "19": "19",
+            "20": "20",
+            "999": "don't know"
+        }
+    },
+    "resp_diagnosis_y": {
+        "Description": "If you aren't sure of the age can you recall if it was... | 0 = Before 5 years old (before elementary school);  1 = Between 5-12 years old (in elementary or middle school);  2 = Between 13-18 years old (in middle or highschool);  3 = After 18 years old (after high school)",
+        "Levels": {
+            "0": "Before 5 years old (before elementary school)",
+            "1": "Between 5-12 years old (in elementary or middle school)",
+            "2": "Between 13-18 years old (in middle or highschool)",
+            "3": "After 18 years old (after high school)"
+        }
+    },
+    "resp_asthma_yn_y": {
+        "Description": "Do you still have asthma? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_asthma_hosp_yn_y": {
+        "Description": "Have you ever been hospitalized overnight for asthma or a severe episode of wheezing or whistling in the chest at any time in the past? [Do not include emergency room visits] | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_asthma_hosp_y": {
+        "Description": "How many times have you been hospitalized overnight for asthma or a severe episode of wheezing or whistling in the chest? [Do not include emergency room visits] | 0 = None;  1 = 1-2;  2 = 3-5;  3 = 6 or more",
+        "Levels": {
+            "0": "None",
+            "1": "1-2",
+            "2": "3-5",
+            "3": "6 or more"
+        }
+    },
+    "resp_recent_hosp_y": {
+        "Description": "In the past 12 months, have you been hospitalized overnight for asthma or a severe episode of\n wheezing or whistling in the chest? [Do not include emergency room visits] | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_urgentcare_yn_y": {
+        "Description": "In the past 12 months, have you had to visit an emergency room or urgent care center because of asthma or a severe episode of wheezing or whistling in the chest? | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_bronch_yn_y": {
+        "Description": "Have you ever been diagnosed with pneumonia or bronchitis? | 1 = Yes;  0 = No;  999 = Don't know",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know"
+        }
+    },
+    "resp_bronch_tally_y": {
+        "Description": "How many times has pneumonia or bronchitis been diagnosed? | 0 = 1 time;  1 = 2-4 times;  2 = 5 or more times",
+        "Levels": {
+            "0": "1 time",
+            "1": "2-4 times",
+            "2": "5 or more times"
+        }
+    },
+    "resp_bronch_hosp_yn_y": {
+        "Description": "Have you ever been hospitalized overnight for pneumonia or bronchitis? [Do not include emergency room visits] | 1 = Yes;  0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "resp_bronch_hosp_y": {
+        "Description": "How many times have you been hospitalized for pneumonia or bronchitis? | 1 = 1 time;  2 = 2-4 times;  3 = 5 or more times",
+        "Levels": {
+            "1": "1 time",
+            "2": "2-4 times",
+            "3": "5 or more times"
+        }
+    }
+}

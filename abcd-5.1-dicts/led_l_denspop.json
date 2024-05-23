@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_popdensity": {
+        "Description": "Residential history derived - UN adjusted population density 1"
+    },
+    "reshist_addr2_popdensity": {
+        "Description": "Residential history derived- UN adjusted population density 2"
+    },
+    "reshist_addr3_popdensity": {
+        "Description": "Residential history derived- UN adjusted population density 3"
+    }
+}

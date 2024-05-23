@@ -1,0 +1,476 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "socialdev_pneigh_01": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were skipping school and hanging out on a street corner. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_02": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were spray-painting graffiti on a local building. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_03": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were showing disrespect to an adult. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_04": {
+        "Description": "My neighbors could be counted on to intervene in various ways if a fight broke out in front of their house. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_05": {
+        "Description": "My neighbors could be counted on to intervene in various ways if the fire station closest to their home was threatened with budget cuts. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_06": {
+        "Description": "People around here are willing to help their neighbors. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_07": {
+        "Description": "This is a close-knit neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_08": {
+        "Description": "People in this neighborhood generally don't get along with each other. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_09": {
+        "Description": "People in this neighborhood do not share the same values. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_10": {
+        "Description": "People in this neighborhood can be trusted. | 1 = Strongly disagree; 2 = Disagree; 3=  Neutral; 4=  Agree; 5=  Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_11": {
+        "Description": "There is a lot of graffiti in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_12": {
+        "Description": "My neighborhood is noisy. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_13": {
+        "Description": "Vandalism is common in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_14": {
+        "Description": "There are a lot of abandoned buildings in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_15": {
+        "Description": "My neighborhood is clean. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_16": {
+        "Description": "People in my neighborhood take good care of their houses and apartments. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_17": {
+        "Description": "There are too many people hanging around on the streets near my home. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_18": {
+        "Description": "There is too much drug use in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_19": {
+        "Description": "There is too much alcohol use in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_20": {
+        "Description": "I'm always having trouble with my neighbors. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_21": {
+        "Description": "There is a lot of crime in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_22": {
+        "Description": "In my neighborhood  people watch out for each other. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_23": {
+        "Description": "The police protection in my neighborhood is adequate. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_24": {
+        "Description": "My neighborhood is safe. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_25": {
+        "Description": "I can trust MOST people in my neighborhood. | 1 = Strongly disagree; 2 = Disagree; 3 = Agree; 4 = Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_01_l": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were skipping school and hanging out on a street corner. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_02_l": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were spray-painting graffiti on a local building. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_03_l": {
+        "Description": "My neighbors could be counted on to intervene in various ways if children were showing disrespect to an adult. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_04_l": {
+        "Description": "My neighbors could be counted on to intervene in various ways if a fight broke out in front of their house. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_05_l": {
+        "Description": "My neighbors could be counted on to intervene in various ways if the fire station closest to their home was threatened with budget cuts. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_06_l": {
+        "Description": "People around here are willing to help their neighbors. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_07_l": {
+        "Description": "This is a close-knit neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_08_l": {
+        "Description": "People in this neighborhood generally don't get along with each other. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_09_l": {
+        "Description": "People in this neighborhood do not share the same values. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_10_l": {
+        "Description": "People in this neighborhood can be trusted. | 1=Strongly disagree ; 2=Disagree ; 3=Neutral ; 4=Agree ; 5=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Neutral",
+            "4": "Agree",
+            "5": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_11_l": {
+        "Description": "There is a lot of graffiti in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_12_l": {
+        "Description": "My neighborhood is noisy. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_13_l": {
+        "Description": "Vandalism is common in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_14_l": {
+        "Description": "There are a lot of abandoned buildings in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_15_l": {
+        "Description": "My neighborhood is clean. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_16_l": {
+        "Description": "People in my neighborhood take good care of their houses and apartments. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_17_l": {
+        "Description": "There are too many people hanging around on the streets near my home. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_18_l": {
+        "Description": "There is too much drug use in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_19_l": {
+        "Description": "There is too much alcohol use in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_20_l": {
+        "Description": "I'm always having trouble with my neighbors. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_21_l": {
+        "Description": "There is a lot of crime in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_22_l": {
+        "Description": "In my neighborhood=people watch out for each other. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_23_l": {
+        "Description": "The police protection in my neighborhood is adequate. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_24_l": {
+        "Description": "My neighborhood is safe. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    },
+    "socialdev_pneigh_25_l": {
+        "Description": "I can trust MOST people in my neighborhood. | 1=Strongly disagree ; 2=Disagree ; 3=Agree ; 4=Strongly agree",
+        "Levels": {
+            "1": "Strongly disagree",
+            "2": "Disagree",
+            "3": "Agree",
+            "4": "Strongly agree"
+        }
+    }
+}

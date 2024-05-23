@@ -1,0 +1,36 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "t2w_postqc_containertype": {
+        "Description": "Container type"
+    },
+    "t2w_postqc_stype": {
+        "Description": "Series type"
+    },
+    "t2w_postqc_nrev": {
+        "Description": "Number of reviews"
+    },
+    "t2w_postqc_revdisp": {
+        "Description": "Disparity between reviewers"
+    },
+    "t2w_postqc_qc": {
+        "Description": "Overall QC score"
+    },
+    "t2w_postqc_regt1": {
+        "Description": "Registration error score (0=good registration, 1=mild rotation or translation, 2=moderate rotation or translation, 3=severe rotation or translation)"
+    },
+    "t2w_postqc_motion": {
+        "Description": "Motion score (0=no motion, 1=mild motion, 2=moderate motion, 3=severe motion artifact)"
+    },
+    "t2w_postqc_inhomogeneity": {
+        "Description": "Inhomogeneity score (0=no inhomogeneity, 1=mild inhomogeneity, 2=moderate inhomogeneity, 3=severe inhomogeneity)"
+    },
+    "t2w_postqc_artifact": {
+        "Description": "Artifact score  (0=no susceptibility artifact, 1=mild artifact, 2=moderate artifact, 3=severe artifact)"
+    },
+    "t2w_postqc_notes": {
+        "Description": "sMRI T2w postprocessing QC Notes"
+    }
+}

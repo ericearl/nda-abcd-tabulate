@@ -1,0 +1,535 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tbi_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "tbi_1": {
+        "Description": "Has your child ever been hospitalized or treated in an emergency room following an injury to his/her head or neck? \u00bfAlguna vez han hospitalizado a su ni\u00f1o/a o le han tratado en una sala de emergencias despu\u00e9s de sufrir una lesi\u00f3n en la cabeza o en el cuello? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_1b": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_1c": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_1d": {
+        "Description": "How old was he/she? \u00bfQu\u00e9 edad ten\u00eda?"
+    },
+    "tbi_2": {
+        "Description": "Has your child ever injured his/her head or neck in a car accident or from crashing some other moving vehicle like a bicycle, motorcyle, or ATV? \u00bfSu ni\u00f1o/a alguna vez se ha lastimado la cabeza o el cuello en un accidente de auto o por chocar cuando iba en alg\u00fan otro veh\u00edculo en movimiento, como una bicicleta, motocicleta o veh\u00edculo todo terreno? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_2b": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_2c": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_2d": {
+        "Description": "How old was he/she? \u00bfQu\u00e9 edad ten\u00eda?"
+    },
+    "tbi_3": {
+        "Description": "Has you child ever injured his/her head or neck in a fall or from being hit by something? (For example, falling from a bike or horse, rollerblading, falling on ice, being hit by a rock) Has your child ever injured his/her head or neck playing sports or on the playground? \u00bfSu ni\u00f1o/a alguna vez se ha lastimado la cabeza o el cuello en una ca\u00edda o porque algo le haya ca\u00eddo en la cabeza (p. ej., al caerse de una bicicleta o un caballo, al andar en patines, al caerse en el hielo o que le haya ca\u00eddo una roca)? \u00bfSu ni\u00f1o(a) alguna vez se ha lastimado la cabeza o el cuello haciendo deporte o jugando en un parque? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_3b": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_3c": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_3d": {
+        "Description": "How old was he/she? \u00bfQu\u00e9 edad ten\u00eda?"
+    },
+    "tbi_4": {
+        "Description": "Has your child ever injured his/her head or neck in a fight, from being hit by something, or from being shaken violently? Has your child ever been shot in the head? \u00bfSu ni\u00f1o/a alguna vez se ha lastimado la cabeza o el cuello en una pelea, al recibir un golpe de alg\u00fan objeto  o porque lo/la hayan sacudido con violencia? \u00bfSu ni\u00f1o(a) alguna vez ha recibido un disparo en la cabeza? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_4b": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_4c": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_4d": {
+        "Description": "How old was he/she? \u00bfQu\u00e9 edad ten\u00eda?"
+    },
+    "tbi_5": {
+        "Description": "Has your child ever been nearby when an explosion or blast has occurred? \u00bfSu ni\u00f1o/a alguna vez ha estado cerca de una explosi\u00f3n o un estallido? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_5b": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_5c": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_5d": {
+        "Description": "How old was he/she? \u00bfQu\u00e9 edad ten\u00eda?"
+    },
+    "tbi_6o": {
+        "Description": "Do you want to report any more injuries with LOC? \u00bfQuisiera reportar otras lesiones que hayan resultado en la p\u00e9rdida de conocimiento? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_6p": {
+        "Description": "If yes, how many more? \u00bfSi la respuesta fue s\u00ed, cuantas m\u00e1s?"
+    },
+    "tbi_6q": {
+        "Description": "How many minutes was the longest knock out? \u00bfCu\u00e1ntos minutos dur\u00f3 el tiempo m\u00e1s largo que estuvo inconsciente?"
+    },
+    "tbi_6r": {
+        "Description": "How many were more than or equal to 30 min? \u00bfCu\u00e1ntas veces ha estado inconsciente por \u2265 30 min o m\u00e1s?"
+    },
+    "tbi_6s": {
+        "Description": "What was their youngest age? \u00bfA qu\u00e9 edad fue la primera vez que estuvo inconsciente?"
+    },
+    "tbi_7a": {
+        "Description": "Did your child experience a period of time in his/her life when he/she experienced multiple, repeated impacts to the head? (e.g., abused, contact sports) \u00bfHubo alg\u00fan per\u00edodo en la vida de su ni\u00f1o/a en el que haya recibido golpes o impactos m\u00faltiples y repetidos a la cabeza (p. ej., abuso infantil, deportes de contacto)? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_7c1": {
+        "Description": "Was he/she knocked out or did he/she lose consciousness (LOC)? If yes, how long? \u00bfEstuvo \u00e9l o ella noqueado/a o perdi\u00f3 el conocimiento? \u00bfSi la respuesta es si, por cu\u00e1nto tiempo? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbl_7c2": {
+        "Description": "Was he/she dazed or did he/she have a gap in his/her memory from the injury? \u00bfSe sinti\u00f3 \u00e9l/ella aturdido, o tuvo lapsos de memoria  por causa de la lesi\u00f3n? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_7e": {
+        "Description": "At what age did these effects begin? \u00bfA qu\u00e9 edad comenzaron estos efectos?"
+    },
+    "tbi_7f": {
+        "Description": "At what age did these effects end? \u00bfA qu\u00e9 edad terminaron estos efectos?"
+    },
+    "tbi_7g": {
+        "Description": "Was there another instance where your child experienced a period of time in his/her life when he/she experienced multiple, repeated impacts to the head? \u00bfHubo alg\u00fan otro per\u00edodo en la vida de su ni\u00f1o(a) en el que haya recibido golpes o impactos m\u00faltiples y repetidos a la cabeza? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_7i": {
+        "Description": "What was the typical effect of the injury? Cu\u00e1l fue el efecto t\u00edpico de la lesi\u00f3n? | 1 = Dazed/memory gap; 2 = LOC p\u00e9rdida de conocimiento",
+        "Levels": {
+            "1": "Dazed/memory gap",
+            "2": "LOC p\u00e9rdida de conocimiento"
+        }
+    },
+    "tbi_7k": {
+        "Description": "At what age did these effects begin? \u00bfA qu\u00e9 edad comenzaron estos efectos?"
+    },
+    "tbi_7l": {
+        "Description": "At what age did these effects end? \u00bfA qu\u00e9 edad terminaron estos efectos?"
+    },
+    "tbi_8g": {
+        "Description": "Was there another instance where your child experienced a period of time in his/her life when he/she experienced multiple, repeated impacts to the head? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_8i": {
+        "Description": "What was the typical effect of the injury? Cu\u00e1l fue el efecto t\u00edpico de la lesi\u00f3n? | 1 = Dazed/memory gap; 2 = LOC p\u00e9rdida de conocimiento",
+        "Levels": {
+            "1": "Dazed/memory gap",
+            "2": "LOC p\u00e9rdida de conocimiento"
+        }
+    },
+    "tbi_8k": {
+        "Description": "At what age did these effects begin? \u00bfA qu\u00e9 edad comenzaron estos efectos?"
+    },
+    "tbi_8l": {
+        "Description": "At what age did these effects end? \u00bfA qu\u00e9 edad terminaron estos efectos?"
+    },
+    "tbi_ss_ntbiloc": {
+        "Description": "Number of TBI-LOC (number of TBIs with loss consciousness): SUM(AND([tbi_1]=1,[tbi_1b]>0), AND([tbi_2]=1,[tbi_2b]>0,AND([tbi_3]=1,[tbi_3b]>0),AND([tbi_4]=1,[tbi_4b]>0),AND([tbi_5]=1,[tbi_5b]>0),[tbi_6p], AND([tbi_7a]=1,[tbi_7c1]>0), AND([tbi_7g]=1,[tbi_7i]=1), AND([tbi_8g]=1,[tbi_8i]=1)); Validation: No minimum | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_ntbiloc_nm": {
+        "Description": "Number of TBI-LOC: Number Missing Answers"
+    },
+    "tbi_ss_ntbiloc30": {
+        "Description": "Number of TBI-LOC >= 30 (number of TBIs with loss of conscioiusness >= 30 minutes): SUM(AND([tbi_1]=1,[tbi_1b]>1), AND([tbi_2]=1,[tbi_2b]>1)AND(tbi_3]=1,[tbi_3b]>1),  AND([tbi_4]=1,[tbi_4b]>1),AND([tbi_5]=1,[tbi_5b]>1),[tbi_6r], AND([tbi_7a]=1,[7c1]>1));  Validation: No minimum | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_ntbiloc30_nm": {
+        "Description": "Number of TBI_LOC >= 30: Number Missing  Answers"
+    },
+    "tbi_ss_nmrpi": {
+        "Description": "Number of periods with multiple or repeated injuries: SUM([tbi_7a],[tbi_7g],[tbi_8g]);  Validation: No minimum | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_nmrpi_nm": {
+        "Description": "Number of periods with multiple or repeated injuries:  Number Missing  Answers"
+    },
+    "tbi_ss_agefirst": {
+        "Description": "Age at first TBI-LOC:  IF(OR(AND([tbi_1]=1,[tbi_1b]>0),AND([tbi_2]=1,[tbi_2b]>0),AND([tbi_3]=1,[tbi_3b]>0), AND([tbi_4]=1,[tbi_4b]>0),AND([tbi_5]=1,[tbi_5b]>0),[tbi_6o]=1,AND([tbi_7a]=1,[tbi_7c1]>0), AND([tbi_7g]=1,[tbi_7i]=1),AND([tbi_8g]=1,[tbi_8i]=1)), MIN([tbi_1d],[tbi_2d],[tbi_3d],[tbi_4d],[tbi_5d],[tbi_6s],[tbi_7e],[tbi_7k],[tbi_8k]),\"\");  Validation: No minimum | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_agefirst_nm": {
+        "Description": "Age at first TBI-LOC:  Number Missing Answers"
+    },
+    "tbi_ss_before15": {
+        "Description": "TBI-LOC before age 15 | Bogner, J. A., G. G. Whiteneck, et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst1": {
+        "Description": "Worst injury1: improbable TBI (No TBI) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst1b": {
+        "Description": "Worst injury1b: improbable TBI complex  (TBI without LOC or memory loss) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst2": {
+        "Description": "Worst Injury2: possible mild TBI  (TBI without LOC but memory loss) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst3": {
+        "Description": "Worst Injury3: Mild TBI (TBI with LOC less than or equal to 30 m) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst4": {
+        "Description": "Worst Injury4: moderate TBI (TBI with LOC 30 m - 24 h) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst5": {
+        "Description": "Worst Injury5: Severe TBI (TBI with LOC greater than or equal to 24 h) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_ss_worst_overall": {
+        "Description": "Worst Injury Overall: Worst TBI - 1, Improbable TBI (no TBI or TBI w/o LOC or memory loss); 2, Possible mild TBI (TBI w/o LOC but memory loss); 3, Mild TBI (TBI w/LOC \u2264 30 min); 4, Moderate TBI (TBI w/LOC  30 min - 24 hrs); 5, Severe TBI (TBI w/ LOC \u2265 24 hrs) | Bogner, J. A., Whiteneck, G. G.,  et al. (2017)  Test-Retest Reliability of Traumatic Brain Injury Outcome Measures: A Traumatic Brain Injury Model Systems Study.  J Head Trauma Rehabil  32(5): E1-E16."
+    },
+    "tbi_l_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "tbi_1_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child been hospitalized or treated in an emergency room following an injury to their head or neck? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_1b_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_1c_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_1d_l": {
+        "Description": "How old was your child?"
+    },
+    "tbi_2_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child injured their head or neck in a car accident or from crashing some other moving vehicle like a bicycle, motorcyle, or ATV? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_2b_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_2c_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_2d_l": {
+        "Description": "How old was your child?"
+    },
+    "tbi_3_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child injured their head or neck in a fall or from being hit by something? (For example, falling from a bike or horse, rollerblading, falling on ice, being hit by a rock). In the past year, has your child injured their head or neck playing sports or on the playground? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_3b_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_3c_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_3d_l": {
+        "Description": "How old was your child?"
+    },
+    "tbi_4_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child injured their head or neck in a fight, from being hit by something, or from being shaken violently? In the past year, has your child been shot in the head? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_4b_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_4c_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_4d_l": {
+        "Description": "How old was your child?"
+    },
+    "tbi_5_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], has your child been nearby when an explosion or blast has occurred? Desde la \u00faltima vez que nos vimos en [asnt_timestamp_c], \u00bfha estado su ni\u00f1o/a cerca de una explosi\u00f3n o un estallido? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_5b_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbi_5c_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_5d_l": {
+        "Description": "How old was your child?"
+    },
+    "tbi_6o_l": {
+        "Description": "Do you want to report any more injuries with loss of consciousness since we last saw you on [asnt_timestamp_c]? Desde la \u00faltima vez que nos vimos en [baseline_year_1_arm_1][asnt_timestamp] \u00bfquisiera reportar otras lesiones que hayan resultado en la p\u00e9rdida de conocimiento ? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_6p_l": {
+        "Description": "If yes, how many more? \u00bfSi la respuesta fue s\u00ed, cuantas m\u00e1s?"
+    },
+    "tbi_6q_l": {
+        "Description": "How many minutes was the longest knock out? \u00bfCu\u00e1ntos minutos dur\u00f3 el tiempo m\u00e1s largo que estuvo inconsciente?"
+    },
+    "tbi_6r_l": {
+        "Description": "How many were more than or equal to 30 min? \u00bfCu\u00e1ntas veces ha estado inconsciente por \u2265 30 min o m\u00e1s?"
+    },
+    "tbi_6s_l": {
+        "Description": "What was their youngest age? \u00bfA qu\u00e9 edad fue la primera vez que estuvo inconsciente?"
+    },
+    "tbi_7a_l": {
+        "Description": "Since we last saw you on [asnt_timestamp_c], did your child experience a period of time when they experienced multiple, repeated impacts to the head? (e.g., abused, contact sports)? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_7c1_l": {
+        "Description": "Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? | 0 = No LOC Sin p\u00e9rdida de conocimiento; 1 = < 30min < 30min; 2 = 30min-24hrs 30min-24hrs; 3 = >24 hrs >24 hrs",
+        "Levels": {
+            "0": "No LOC Sin p\u00e9rdida de conocimiento",
+            "1": "< 30min < 30min",
+            "2": "30min-24hrs 30min-24hrs",
+            "3": ">24 hrs >24 hrs"
+        }
+    },
+    "tbl_7c2_l": {
+        "Description": "Was your child dazed or did they have a gap in their memory from the injury? | 1 = Yes Si; 0 = No No",
+        "Levels": {
+            "1": "Yes Si",
+            "0": "No No"
+        }
+    },
+    "tbi_7e_l": {
+        "Description": "At what age did these effects begin? \u00bfA qu\u00e9 edad comenzaron estos efectos?"
+    },
+    "tbi_7f_l": {
+        "Description": "At what age did these effects end? \u00bfA qu\u00e9 edad terminaron estos efectos?"
+    },
+    "tbi_8": {
+        "Description": "The next question asks about concussions. A concussion is when a blow or jolt to the head causes problems such as headaches, dizziness, being dazed or confused, difficulty remembering or concentrating, vomiting, blurred vision, or being knocked out. Since we last saw on you [asnt_timestamp_c], how many times did your child have a concussion from playing a sport or being physically active? | 0=0 times ; 1=1 time ; 2=2 times ; 3=3 times ; 4=4 or more times [event-name] = '4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "0 times",
+            "1": "1 time",
+            "2": "2 times",
+            "3": "3 times",
+            "4": "4 or more times"
+        }
+    },
+    "tbi_ss_ntbiloc_l": {
+        "Description": "Number of TBI-LOC (number of TBIs with loss consciousness): SUM(AND([tbi_1]=1,[tbi_1b]>0), AND([tbi_2]=1,[tbi_2b]>0,AND([tbi_3]=1,[tbi_3b]>0),AND([tbi_4]=1,[tbi_4b]>0),AND([tbi_5]=1,[tbi_5b]>0),[tbi_6p], AND([tbi_7a]=1,[tbi_7c1]>0)); Validation: No minimum"
+    },
+    "tbi_ss_ntbiloc_nm_l": {
+        "Description": "Number of TBI-LOC : Number missing"
+    },
+    "tbi_ss_ntbiloc30_l": {
+        "Description": "Number of TBI-LOC >= 30 (number of TBIs with loss of conscioiusness >= 30 minutes): SUM(AND([tbi_1]=1,[tbi_1b]>1), AND([tbi_2]=1,[tbi_2b]>1)AND(tbi_3]=1,[tbi_3b]>1), AND([tbi_4]=1,[tbi_4b]>1),AND([tbi_5]=1,[tbi_5b]>1),[tbi_6r], AND([tbi_7a]=1,[7c1]>1)); Validation: No minimum"
+    },
+    "tbi_ss_ntbiloc30_nm_l": {
+        "Description": "Number of TBI_LOC >= 30\n: Number missing"
+    },
+    "tbi_ss_nmrpi_l": {
+        "Description": "Number of periods with multiple or repeated injuries: SUM([tbi_7a]); Validation: No minimum"
+    },
+    "tbi_ss_nmrpi_nm_l": {
+        "Description": "Number of periods with multiple or repeated injuries\n: Number missing"
+    },
+    "tbi_ss_agefirst_l": {
+        "Description": "Age at first TBI-LOC: IF(OR(AND([tbi_1]=1,[tbi_1b]>0),AND([tbi_2]=1,[tbi_2b]>0),AND([tbi_3]=1,[tbi_3b]>0), AND([tbi_4]=1,[tbi_4b]>0),AND([tbi_5]=1,[tbi_5b]>0),[tbi_6o]=1,AND([tbi_7a]=1,[tbi_7c1]>0)), MIN([tbi_1d],[tbi_2d],[tbi_3d],[tbi_4d],[tbi_5d],[tbi_6s],[tbi_7e],\"\"); Validation: No minimum"
+    },
+    "tbi_ss_agefirst_nm_l": {
+        "Description": "Age at first TBI-LOC: Number missing"
+    },
+    "tbi_ss_worst_overall_l": {
+        "Description": "Worst Injury Overall: Worst TBI - 1, Improbable  TBI (no TBI or TBI w/o LOC or memory loss); 2, Possible mild TBI (TBI w/o LOC but memory loss); 3, Mild TBI (TBI w/LOC \u2264 30 min); 4, Moderate TBI (TBI w/LOC  30 min - 24 hrs); 5, Severe TBI (TBI w/ LOC \u2265 24 hrs) | 1 = 1.  Improbable  TBI; 2 = 2.  Improbable TBI complex; 3 = 3. Mild TBI; 4 = 4. Moderate TBI; 5 = 5. Severe TBI",
+        "Levels": {
+            "1": "1.  Improbable  TBI",
+            "2": "2.  Improbable TBI complex",
+            "3": "3. Mild TBI",
+            "4": "4. Moderate TBI",
+            "5": "5. Severe TBI"
+        }
+    },
+    "tbi_ss_before15_nm_l": {
+        "Description": "TBI-LOC before age 15\nnumber missing"
+    },
+    "tbi_ss_worst1_l": {
+        "Description": "Worst injury1 = improbable TBI\n(No TBI)"
+    },
+    "tbi_ss_worst1b_l": {
+        "Description": "Worst injury1b = improbable TBI complex\n (TBI w/o LOC or memory loss)"
+    },
+    "tbi_ss_worst2_l": {
+        "Description": "Worst Injury2 = possible mild TBI\n (TBI w/o LOC but memory loss)"
+    },
+    "tbi_ss_worst3_l": {
+        "Description": "Worst Injury3 = Mild TBI\n(TBI w/ LOC \u2264 30 m)"
+    },
+    "tbi_ss_worst4_l": {
+        "Description": "Worst Injury4 = moderate TBI\n(TBI w/ LOC 30 m - 24 h)"
+    },
+    "tbi_ss_worst5_l": {
+        "Description": "Worst Injury5 = Severe TBI\n(TBI w/ LOC \u2265 24 h)"
+    },
+    "tbi_ss_agefirst_nt_l": {
+        "Description": "Age at first TBI-LOC"
+    },
+    "tbi_ss_before15_l": {
+        "Description": "TBI-LOC before age 15"
+    }
+}

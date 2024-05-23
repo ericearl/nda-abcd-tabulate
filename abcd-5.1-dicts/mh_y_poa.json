@@ -1,0 +1,113 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "poa_nihtb_1_y": {
+        "Description": "I felt attentive (that is, alert or able to pay attention). | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_2_y": {
+        "Description": "I felt delighted. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_3_y": {
+        "Description": "I felt calm. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_4_y": {
+        "Description": "I felt at ease  Definition of At ease: relaxed, comfortable. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_5_y": {
+        "Description": "I felt enthusiastic Definition of enthusiastic: very excited. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_6_y": {
+        "Description": "I felt interested. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_7_y": {
+        "Description": "I felt confident. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_8_y": {
+        "Description": "I felt energetic. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_nihtb_9_y": {
+        "Description": "I felt able to concentrate. | 1 = Not True; 2 = Somewhat True; 3 = Very True; 777 = Refuse to answer; 999 = Don't know",
+        "Levels": {
+            "1": "Not True",
+            "2": "Somewhat True",
+            "3": "Very True",
+            "777": "Refuse to answer",
+            "999": "Don't know"
+        }
+    },
+    "poa_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event-name] = 3_year_follow_up_y_arm_1''''",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "poa_y_ss_sum": {
+        "Description": "NIH Toolbox Positive Affect; Sum(poa_nihtb_1_y plus poa_nihtb_2_yplus  poa_nihtb_3_y plus poa_nihtb_4_y plus poa_nihtb_5_y plus poa_nihtb_6_y plus  poa_nihtb_7_y plus poa_nihtb_8_y]plus poa_nihtb_9_y); Validation: All items must be answered"
+    },
+    "poa_y_ss_sum_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "poa_y_ss_sum_nt": {
+        "Description": "Number Total Questions"
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "macv_q1": {
+        "Description": "One's belief in God or Higher Power(s) gives inner strength and meaning to life. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q2": {
+        "Description": "Parents should teach their children that the family always comes first. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q3": {
+        "Description": "Children should be taught that it is their duty to care for their parents when their parents get old. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q4": {
+        "Description": "Children should always do things to make their parents happy. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q5": {
+        "Description": "People should learn how to take care of themselves and not depend on others. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q6": {
+        "Description": "God or Higher Power(s) is first; family is second. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q7": {
+        "Description": "Family provides a sense of security because they will always be there for you. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q8": {
+        "Description": "If a relative is having a hard time financially, one should help them out if possible. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q9": {
+        "Description": "When it comes to important decisions, the family should ask for advice from close relatives. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q10": {
+        "Description": "The most important thing parents can teach their children is to be independent from others. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q11": {
+        "Description": "Parents should teach their children how to pray. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q12": {
+        "Description": "It is always important to be united as a family | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q13": {
+        "Description": "A person should share their home with relatives if they need a place to stay | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q14": {
+        "Description": "As children get older their parents should allow them to make their own decisions | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q15": {
+        "Description": "If everything is taken away, one still has their faith in God or Higher Power(s). | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q16": {
+        "Description": "It is important to have close relationships with aunts/uncles, grandparents, and cousins. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q17": {
+        "Description": "Older kids should take care of and be role models for their younger brothers and sisters. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q18": {
+        "Description": "Children should be taught to always be good because they represent the family. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q19": {
+        "Description": "When there are problems in life, a person can only count on him or herself. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q20": {
+        "Description": "It is important to thank God or Higher Power(s) every day for all one has. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q21": {
+        "Description": "Holidays and celebrations are important because the whole family comes together. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q22": {
+        "Description": "Parents should be willing to make great sacrifices to make sure their children have a better life. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q23": {
+        "Description": "A person should always think about their family when making important decisions. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q24": {
+        "Description": "Parents should encourage children to solve their own problems. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q25": {
+        "Description": "It is important to follow the Word of God or Higher Power(s). | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q26": {
+        "Description": "It is important for family members to show their love and affection to one another. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q27": {
+        "Description": "It is important to work hard and do one's best because this work reflects on the family. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_q28": {
+        "Description": "Religion should be an important part of one's life. | 1 = Not at All; 2 = A Little; 3 = Somewhat; 4 = Very Much; 5 = Completely",
+        "Levels": {
+            "1": "Not at All",
+            "2": "A Little",
+            "3": "Somewhat",
+            "4": "Very Much",
+            "5": "Completely"
+        }
+    },
+    "macv_comprehend": {
+        "Description": "Did youth meet comprehension criteria? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "macv_admin": {
+        "Description": "Please indicate how instrument was administered: | 1 = RA-Administered; 2 = Youth Self-Administered; 3 = Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "macv_y_ss_fr_nm": {
+        "Description": "Family Referrent Number Missing"
+    },
+    "macv_y_ss_fr_nt": {
+        "Description": "Family Referrent Number Total"
+    },
+    "macv_y_ss_fs": {
+        "Description": "Family Support Sum Score mean([macv_q2], [macv_q7], [macv_q12], [macv_q16], [macv_q21], [macv_q26]) Validation: All items must be answered"
+    },
+    "macv_y_ss_fs_nm": {
+        "Description": "Family Support Number Missing"
+    },
+    "macv_y_ss_fs_nt": {
+        "Description": "Family Support Number Total"
+    },
+    "macv_y_ss_fo": {
+        "Description": "Family Obligation mean([macv_q3], [macv_q8], [macv_q13], [macv_q17], [macv_q22]) Validation: All questions must be answered"
+    },
+    "macv_y_ss_fo_nm": {
+        "Description": "Family Obligation Number Missing"
+    },
+    "macv_y_ss_fo_nt": {
+        "Description": "Family Obligation Number Total"
+    },
+    "macv_y_ss_fr": {
+        "Description": "Family Referrent Sum Score  mean[macv_q4], [macv_q9], [macv_q18], [macv_q23], [macv_q27]) Validation: All items must be answered"
+    },
+    "macv_y_ss_isr": {
+        "Description": "Independence/Self Reliance: mean:indep/self reliance = 5, 10, 14, 19, 24"
+    },
+    "macv_y_ss_r": {
+        "Description": "Religion: mean: religion = 1, 6, 11, 15, 20, 25, 28"
+    }
+}

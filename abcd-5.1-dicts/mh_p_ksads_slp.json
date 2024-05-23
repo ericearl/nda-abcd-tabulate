@@ -1,0 +1,36 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ksads_sleepprob_raw_814_p": {
+        "Description": "In the past two weeks, how often did your child have trouble falling asleep or staying asleep when he or she was tired and wanted to sleep? | 0=Not at all; 1=Rarely; 2=Several days; 3=More than half the days; 4=Nearly every day",
+        "Levels": {
+            "0": "Not at all",
+            "1": "Rarely",
+            "2": "Several days",
+            "3": "More than half the days",
+            "4": "Nearly every day"
+        }
+    },
+    "ksads_sleepprob_raw_816_p": {
+        "Description": "Was there ever a time, for two weeks or longer, that your child had trouble falling asleep or staying asleep when he or she was tired and wanted to sleep? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_sleepprob_raw_817_p": {
+        "Description": "Was there ever another time, for two weeks or longer, that your child had trouble falling asleep or staying asleep when he or she was tired and wanted to sleep? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_sleepprob_raw_815_p": {
+        "Description": "When did this begin?"
+    },
+    "ksads_sleepprob_raw_818_p": {
+        "Description": "When was that? If this was true of your child more than once, let me know when it was the worst."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_urban_area": {
+        "Description": "Census Tract Urban Classification at current address #1 | 1 = Urbanized Area; 2 = Urban Clusters ; 3 = Rural",
+        "Levels": {
+            "1": "Urbanized Area",
+            "2": "Urban Clusters",
+            "3": "Rural"
+        }
+    },
+    "reshist_addr2_urban_area": {
+        "Description": "Census Tract Urban Classification at current address #2 | 1 = Urbanized Area; 2 = Urban Clusters ; 3 = Rural",
+        "Levels": {
+            "1": "Urbanized Area",
+            "2": "Urban Clusters",
+            "3": "Rural"
+        }
+    },
+    "reshist_addr3_urban_area": {
+        "Description": "Census Tract Urban Classification at current address # 3 | 1 = Urbanized Area; 2 = Urban Clusters ; 3 = Rural",
+        "Levels": {
+            "1": "Urbanized Area",
+            "2": "Urban Clusters",
+            "3": "Rural"
+        }
+    }
+}

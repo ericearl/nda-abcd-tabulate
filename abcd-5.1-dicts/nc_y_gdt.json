@@ -1,0 +1,71 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "gdt_scr_parameters_gdtversion": {
+        "Description": "Task version | 1 = original version with feedback (default); 2 = version without feedback",
+        "Levels": {
+            "1": "original version with feedback (default)",
+            "2": "version without feedback"
+        }
+    },
+    "gdt_scr_values_account_balance": {
+        "Description": "Amount participant owns at the end"
+    },
+    "gdt_scr_values_single": {
+        "Description": "Counts how many times participant has bet on 1 specific dice face"
+    },
+    "gdt_scr_values_double": {
+        "Description": "Counts how many times participant has bet on 2 specific dice face"
+    },
+    "gdt_scr_values_triple": {
+        "Description": "Counts how many times participant has bet on 3 specific dice face"
+    },
+    "gdt_scr_values_quadruple": {
+        "Description": "Counts how many times participant has bet on 4 possible dice faces"
+    },
+    "gdt_scr_values_safe": {
+        "Description": "Counts how many times participants selected a safe bet (bets on 3 or 4 dice faces)"
+    },
+    "gdt_scr_values_risky": {
+        "Description": "Counts how many times participants selected a risky bet (bets on 1 or 2 dice faces)"
+    },
+    "gdt_scr_expressions_net_score": {
+        "Description": "Reflects the number of safe (bets on 3 or 4 numbers) vs. risky (bets on 1 or 2 numbers) choices. It is computed as number of safe bets minus number of risky bets."
+    },
+    "gdt_scr_values_wins": {
+        "Description": "Adds the number of winning bets"
+    },
+    "gdt_scr_values_losses": {
+        "Description": "Adds the number of losing bets"
+    },
+    "neurocog_2_god___1": {
+        "Description": "Method of GoD administration [Check all that apply]: 1, Audio | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_god___2": {
+        "Description": "Method of GoD administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_god___3": {
+        "Description": "Method of GoD administration [Check all that apply]: 3, In person (ONLY if issues arise and hybrid) | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_god___4": {
+        "Description": "Method of GoD administration [Check all that apply]: 4, Unmonitored | 1=Yes; 0=No [sched_hybrid] = '1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_seg_diss_bw_m": {
+        "Description": "Residential history derived- Black-White Dissimilarity Index, metro-level, ACS2014-2018 (addr1)"
+    },
+    "reshist_addr1_seg_diss_aw_m": {
+        "Description": "Residential history derived- Asian-White Dissimilarity Index, metro-level, ACS2014-2018 (addr1)"
+    },
+    "reshist_addr1_seg_diss_hw_m": {
+        "Description": "Residential history derived- Hispanic-White Dissimilarity Index, metro-level, ACS2014-2018 (addr1)"
+    },
+    "reshist_addr1_seg_diss_nww_m": {
+        "Description": "Residential history derived- NonWhite-White Dissimilarity Index, metro-level, ACS2014-2018 (addr1)"
+    },
+    "reshist_addr2_seg_diss_bw_m": {
+        "Description": "Residential history derived- Black-White Dissimilarity Index, metro-level, ACS2014-2018 (addr2)"
+    },
+    "reshist_addr2_seg_diss_aw_m": {
+        "Description": "Residential history derived- Asian-White Dissimilarity Index, metro-level, ACS2014-2018 (addr2)"
+    },
+    "reshist_addr2_seg_diss_hw_m": {
+        "Description": "Residential history derived- Hispanic-White Dissimilarity Index, metro-level, ACS2014-2018 (addr2)"
+    },
+    "reshist_addr2_seg_diss_nww_m": {
+        "Description": "Residential history derived- NonWhite-White Dissimilarity Index, metro-level, ACS2014-2018 (addr2)"
+    },
+    "reshist_addr3_seg_diss_bw_m": {
+        "Description": "Residential history derived- Black-White Dissimilarity Index, metro-level, ACS2014-2018 (addr3)"
+    },
+    "reshist_addr3_seg_diss_aw_m": {
+        "Description": "Residential history derived- Asian-White Dissimilarity Index, metro-level, ACS2014-2018 (addr3)"
+    },
+    "reshist_addr3_seg_diss_hw_m": {
+        "Description": "Residential history derived- Hispanic-White Dissimilarity Index, metro-level, ACS2014-2018 (addr3)"
+    },
+    "reshist_addr3_seg_diss_nww_m": {
+        "Description": "Residential history derived- NonWhite-White Dissimilarity Index, metro-level, ACS2014-2018 (addr3)"
+    }
+}

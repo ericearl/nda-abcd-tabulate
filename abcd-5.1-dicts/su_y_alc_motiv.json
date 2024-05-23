@@ -1,0 +1,214 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_alc_motiv_01": {
+        "Description": "To forget your worries | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_02": {
+        "Description": "Because your friends pressure you to drink | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_03": {
+        "Description": "Because it helps you enjoy a party | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_04": {
+        "Description": "Because it helps you when you feel depressed or nervous | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_05": {
+        "Description": "To be sociable | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_06": {
+        "Description": "To cheer up when you are in a bad mood | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_07": {
+        "Description": "Because you like the feeling | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_08": {
+        "Description": "So that others won't kid you about not drinking | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_09": {
+        "Description": "Because it's exciting | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_10": {
+        "Description": "To get high | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_11": {
+        "Description": "Because it makes social gatherings more fun | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_12": {
+        "Description": "To fit in with a group you like | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_13": {
+        "Description": "Because it gives you a pleasant feeling | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_14": {
+        "Description": "Because it improves parties and celebrations | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_15": {
+        "Description": "Because you feel more self-confident or sure of yourself | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_16": {
+        "Description": "To celebrate a special occasion with friends | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_17": {
+        "Description": "To forget about your problems | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_18": {
+        "Description": "Because it's fun | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_19": {
+        "Description": "To be liked | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_motiv_20": {
+        "Description": "So you won't feel left out | 1 =  almost never/never; 2 =  some of the time; 3 =  half of the time; 4 =  most of the time; 5 =  almost always/always",
+        "Levels": {
+            "1": "almost never/never",
+            "2": "some of the time",
+            "3": "half of the time",
+            "4": "most of the time",
+            "5": "almost always/always"
+        }
+    },
+    "su_alc_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

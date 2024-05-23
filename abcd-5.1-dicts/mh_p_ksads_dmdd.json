@@ -1,0 +1,91 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ksads_dmdd_raw_963_p": {
+        "Description": "How many times per week does your child yell when he or she is upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_972_p": {
+        "Description": "When would you say the problems with your child's temper began?"
+    },
+    "ksads_dmdd_raw_971_p": {
+        "Description": "Was there a time in the past year when your child did not lose his or her temper at all for 3 months or longer? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_970_p": {
+        "Description": "In the past year, in which situations has your child lost their temper:Others Places | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_969_p": {
+        "Description": "In the past year, in which situations has your child lost their temper:With Family | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_968_p": {
+        "Description": "In the past year, in which situations has your child lost their temper:With Friends | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_967_p": {
+        "Description": "In the past year, in which situations has your child lost their temper:At School | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_dmdd_raw_965_p": {
+        "Description": "How many times per week does your child kick or punch people or things when he or she is upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_964_p": {
+        "Description": "How many times per week does your child throw things when he or she is upset? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_962_p": {
+        "Description": "How many temper outbursts does your child typically have per week? | 0=Zero; 1=One; 2=Two; 3=Three; 4=Four or more",
+        "Levels": {
+            "0": "Zero",
+            "1": "One",
+            "2": "Two",
+            "3": "Three",
+            "4": "Four or more"
+        }
+    },
+    "ksads_dmdd_raw_961_p": {
+        "Description": "Has your child had trouble with his or her temper since he or she was young, since before your child was 10? | 0=No; 1=Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

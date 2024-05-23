@@ -1,0 +1,78 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_gstat_w_rook": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, rook neighborhood tracts, census tract;ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_b_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, rook neighborhood tracts, census tract; ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_a_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, rook neighborhood tracts, census tract; ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_h_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, rook neighborhood tracts, census tract; ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_w_queen": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, queen neighborhood tracts, census tract;ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_b_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, queen neighborhood tracts, census tract; ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_a_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, queen neighborhood tracts, census tract; ICPSR (addr1)"
+    },
+    "reshist_addr1_gstat_h_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, queen neighborhood tracts, census tract; NaNDA (addr1)"
+    },
+    "reshist_addr2_gstat_w_rook": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, rook neighborhood tracts, census tract;ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_b_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, rook neighborhood tracts, census tract; ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_a_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, rook neighborhood tracts, census tract; ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_h_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, rook neighborhood tracts, census tract; ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_w_queen": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, queen neighborhood tracts, census tract;ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_b_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, queen neighborhood tracts, census tract; ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_a_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, queen neighborhood tracts, census tract; ICPSR (addr2)"
+    },
+    "reshist_addr2_gstat_h_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, queen neighborhood tracts, census tract; NaNDA (addr2)"
+    },
+    "reshist_addr3_gstat_w_rook": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, rook neighborhood tracts, census tract;ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_b_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, rook neighborhood tracts, census tract; ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_a_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, rook neighborhood tracts, census tract; ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_h_rook": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, rook neighborhood tracts, census tract; ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_w_queen": {
+        "Description": "Residential history derived - Local GI* statistic, non-Hispanic white, queen neighborhood tracts, census tract;ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_b_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Black, queen neighborhood tracts, census tract; ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_a_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, non-Hispanic Asian, queen neighborhood tracts, census tract; ICPSR (addr3)"
+    },
+    "reshist_addr3_gstat_h_queen": {
+        "Description": "Residential history derived - Local Gi* statistic, Hispanic, queen neighborhood tracts, census tract; NaNDA (addr3)"
+    }
+}

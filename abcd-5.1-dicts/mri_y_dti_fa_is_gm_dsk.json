@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dtifagm_cdsn_banksstslh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI  left-banks of superior temporal sulcus"
+    },
+    "dmri_dtifagm_cdsn_banksstsrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-banks of superior temporal sulcus"
+    },
+    "dmri_dtifagm_cdsn_cdancntelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-caudal anterior cingulate"
+    },
+    "dmri_dtifagm_cdsn_cdancnterh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-caudal anterior cingulate"
+    },
+    "dmri_dtifagm_cdsn_cdmfrlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-caudal middle frontal"
+    },
+    "dmri_dtifagm_cdsn_cdmfrrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-caudal middle frontal"
+    },
+    "dmri_dtifagm_cdsn_cuneuslh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-cuneus"
+    },
+    "dmri_dtifagm_cdsn_cuneusrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-cuneus"
+    },
+    "dmri_dtifagm_cdsn_ehinallh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-entorhinal"
+    },
+    "dmri_dtifagm_cdsn_ehinalrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-entorhinal"
+    },
+    "dmri_dtifagm_cdsn_frpolelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-frontal pole"
+    },
+    "dmri_dtifagm_cdsn_frpolerh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-frontal pole"
+    },
+    "dmri_dtifagm_cdsn_fusiformlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-fusiform"
+    },
+    "dmri_dtifagm_cdsn_fusiformrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-fusiform"
+    },
+    "dmri_dtifagm_cdsn_ifpalh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-inferior parietal"
+    },
+    "dmri_dtifagm_cdsn_ifparh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-inferior parietal"
+    },
+    "dmri_dtifagm_cdsn_iftplh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-inferior temporal"
+    },
+    "dmri_dtifagm_cdsn_iftprh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-inferior temporal"
+    },
+    "dmri_dtifagm_cdsn_insulalh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-insula"
+    },
+    "dmri_dtifagm_cdsn_insularh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-insula"
+    },
+    "dmri_dtifagm_cdsn_ihcntelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-isthmus cingulate"
+    },
+    "dmri_dtifagm_cdsn_ihcnterh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-isthmus cingulate"
+    },
+    "dmri_dtifagm_cdsn_loclh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-lateral occipital"
+    },
+    "dmri_dtifagm_cdsn_locrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-lateral occipital"
+    },
+    "dmri_dtifagm_cdsn_lobfrlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-lateral orbital frontal"
+    },
+    "dmri_dtifagm_cdsn_lobfrrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-lateral orbital frontal"
+    },
+    "dmri_dtifagm_cdsn_linguallh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-lingual"
+    },
+    "dmri_dtifagm_cdsn_lingualrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-lingual"
+    },
+    "dmri_dtifagm_cdsn_mean": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI whole brain"
+    },
+    "dmri_dtifagm_cdsn_meanlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-hemisphere"
+    },
+    "dmri_dtifagm_cdsn_meanrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-hemisphere"
+    },
+    "dmri_dtifagm_cdsn_mlobfrlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-medial orbito frontal"
+    },
+    "dmri_dtifagm_cdsn_mlobfrrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-medial orbito frontal"
+    },
+    "dmri_dtifagm_cdsn_mtplh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-middle temporal"
+    },
+    "dmri_dtifagm_cdsn_mtprh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-middle temporal"
+    },
+    "dmri_dtifagm_cdsn_pctlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-paracentral"
+    },
+    "dmri_dtifagm_cdsn_pctrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-paracentral"
+    },
+    "dmri_dtifagm_cdsn_parahplh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-parahippocampal"
+    },
+    "dmri_dtifagm_cdsn_parahprh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-parahippocampal"
+    },
+    "dmri_dtifagm_cdsn_ppslh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-pars opercularis"
+    },
+    "dmri_dtifagm_cdsn_ppsrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-pars opercularis"
+    },
+    "dmri_dtifagm_cdsn_parsoblh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-pars orbitalis"
+    },
+    "dmri_dtifagm_cdsn_parsobrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-pars orbitalis"
+    },
+    "dmri_dtifagm_cdsn_parstanglh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-pars triangularis"
+    },
+    "dmri_dtifagm_cdsn_parstangrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-pars triangularis"
+    },
+    "dmri_dtifagm_cdsn_pcrinelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-pericalcarine"
+    },
+    "dmri_dtifagm_cdsn_pcrinerh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-pericalcarine"
+    },
+    "dmri_dtifagm_cdsn_postlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-post central"
+    },
+    "dmri_dtifagm_cdsn_postrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-post central"
+    },
+    "dmri_dtifagm_cdsn_pscntelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-post cingulate"
+    },
+    "dmri_dtifagm_cdsn_pscnterh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-post cingulate"
+    },
+    "dmri_dtifagm_cdsn_precnlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-precentral"
+    },
+    "dmri_dtifagm_cdsn_precnrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-precentral"
+    },
+    "dmri_dtifagm_cdsn_pslh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-precuneus"
+    },
+    "dmri_dtifagm_cdsn_psrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-precuneus"
+    },
+    "dmri_dtifagm_cdsn_rncntelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-rostral anterior cingulate"
+    },
+    "dmri_dtifagm_cdsn_rncnterh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-rostral anterior cingulate"
+    },
+    "dmri_dtifagm_cdsn_rsmfrlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-rostral middle frontal"
+    },
+    "dmri_dtifagm_cdsn_rsmfrrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-rostral middle frontal"
+    },
+    "dmri_dtifagm_cdsn_spfrlh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI  left-superior frontal"
+    },
+    "dmri_dtifagm_cdsn_spfrrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-superior frontal"
+    },
+    "dmri_dtifagm_cdsn_sppalh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-superior parietal"
+    },
+    "dmri_dtifagm_cdsn_spparh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-superior parietal"
+    },
+    "dmri_dtifagm_cdsn_sptplh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-superior temporal"
+    },
+    "dmri_dtifagm_cdsn_sptprh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-superior temporal"
+    },
+    "dmri_dtifagm_cdsn_samglh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-superior marginal"
+    },
+    "dmri_dtifagm_cdsn_samgrh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-superior marginal"
+    },
+    "dmri_dtifagm_cdsn_tppolelh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-temporal pole"
+    },
+    "dmri_dtifagm_cdsn_tppolerh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-temporal pole"
+    },
+    "dmri_dtifagm_cdsn_trvtplh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI left-transverse temporal"
+    },
+    "dmri_dtifagm_cdsn_trvtprh": {
+        "Description": "Average fractional anisotropy, parcellation of cortical gray matter associated with cortical ROI right-transverse temporal"
+    }
+}

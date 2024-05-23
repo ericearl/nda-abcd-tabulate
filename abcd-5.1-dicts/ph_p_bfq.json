@@ -1,0 +1,512 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bfq_marijuana_amt_p_dk": {
+        "Description": "How many times per day? | 999=Don't know"
+    },
+    "bfq_med1_fu_p": {
+        "Description": "Any other prescription medications? | 1=Yes ;  0=No; [bfq_rxnorm_med1_p] <> ''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "bfq_med1_how_much_p": {
+        "Description": "How much each time? | [bfq_rxnorm_med1_p] <> '' and [bfq_med1_how_much_p_dk] = ''"
+    },
+    "bfq_med1_how_much_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_rxnorm_med1_p] <> '' and [bfq_med1_how_much_p] = ''"
+    },
+    "bfq_med1_prn_p": {
+        "Description": "PRN (as needed) Medication? | 1=Yes ;  0=No ;  999=Don't Know [bfq_rxnorm_med1_p] <> ''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't Know [bfq_rxnorm_med1_p] <> ''"
+        }
+    },
+    "bfq_med1_times_p": {
+        "Description": "How many times per day? | [bfq_rxnorm_med1_p] <> '' and [bfq_med1_times_p_dk] = ''"
+    },
+    "bfq_med1_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_rxnorm_med1_p] <> '' and [bfq_med1_times_p] = ''"
+    },
+    "bfq_med1_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_rxnorm_med1_p] <> '' and [bfq_med1_how_much_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_med2_fu_p": {
+        "Description": "Any other prescription medications? | 1=Yes ;  0=No [bfq_rxnorm_med2_p] <> ''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No [bfq_rxnorm_med2_p] <> ''"
+        }
+    },
+    "bfq_med2_how_much_p": {
+        "Description": "How much each time? | [bfq_rxnorm_med2_p] <> '' and [bfq_med2_how_much_p_dk] = ''"
+    },
+    "bfq_med2_how_much_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_rxnorm_med2_p] <> '' and [bfq_med2_how_much_p] = ''"
+    },
+    "bfq_med2_prn_p": {
+        "Description": "PRN (as needed) Medication? | 1=Yes ;  0=No ;  999=Don't Know [bfq_rxnorm_med2_p] <> ''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't Know [bfq_rxnorm_med2_p] <> ''"
+        }
+    },
+    "bfq_med2_times_p": {
+        "Description": "How many times per day? | [bfq_rxnorm_med2_p] <> '' and [bfq_med2_times_p_dk] = ''"
+    },
+    "bfq_med2_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_rxnorm_med2_p] <> '' and [bfq_med2_times_p] = ''"
+    },
+    "bfq_med2_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_rxnorm_med2_p] <> '' and [bfq_med2_how_much_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_med3_how_much_p": {
+        "Description": "How much each time? | [bfq_rxnorm_med3_p] <> '' and [bfq_med3_how_much_p_dk] = ''"
+    },
+    "bfq_med3_how_much_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_rxnorm_med3_p] <> '' and [bfq_med3_how_much_p] = ''"
+    },
+    "bfq_med3_prn_p": {
+        "Description": "PRN (as needed) Medication? | 1=Yes ;  0=No ;  999=Don't Know [bfq_rxnorm_med3_p] <> '' and [bfq_med3_times_p_dk] = ''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't Know"
+        }
+    },
+    "bfq_med3_times_p": {
+        "Description": "How many times per day? | [bfq_rxnorm_med3_p] <> '' and [bfq_med3_times_p_dk] = ''"
+    },
+    "bfq_marijuana_p": {
+        "Description": "Marijuana? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_alcohol_avg_p": {
+        "Description": "Average drinks per/week | [bfq_alcohol_p] ='1' and [bfq_alcohol_avg_p_dk] = ''"
+    },
+    "bfq_alcohol_avg_p_dk": {
+        "Description": "Average drinks per/week | 999=Don't know [bfq_alcohol_p] ='1' and [bfq_alcohol_avg_p] = ''"
+    },
+    "bfq_alcohol_effects_p": {
+        "Description": "How many drinks did it take to feel the effects of alcohol? | [bfq_alcohol_p] ='1' and [bfq_alcohol_effects_p_dk] = ''"
+    },
+    "bfq_alcohol_effects_p_dk": {
+        "Description": "How many drinks did it take to feel the effects of alcohol? | 999=Don't know [bfq_alcohol_p] ='1' and [bfq_alcohol_effects_p] = ''"
+    },
+    "bfq_alcohol_max_p": {
+        "Description": "Maximum drinks in one sitting? | [bfq_alcohol_p] ='1' and [bfq_alcohol_max_p_dk] = ''"
+    },
+    "bfq_alcohol_max_p_dk": {
+        "Description": "Maximum drinks in one sitting? | 999=Don't know [bfq_alcohol_p] ='1' and [bfq_alcohol_max_p] = ''"
+    },
+    "bfq_alcohol_p": {
+        "Description": "Alcohol? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_breastfeed_p": {
+        "Description": "When the child was a baby, did (you/ the biological mother) breastfeed him/her? | 0=No - Formula Only ;  1=Yes=s/he was breastfed ;  999=Don't Know",
+        "Levels": {
+            "0": "No - Formula Only",
+            "999": "Don't Know"
+        }
+    },
+    "bfq_breastfeed_time_p": {
+        "Description": "If yes, for how long was s/he breastfed? | 1=Several days ;  2=1-3 months  ;  3=4-6 months ;  4=7-9 months ;  5=10-12 months ;  6=13-18 months ;  7=19-24 months ;  8=more than 24 months ;  999=Don't Know [bfq_breastfeed_p] = '1'",
+        "Levels": {
+            "1": "Several days",
+            "2": "1-3 months",
+            "3": "4-6 months",
+            "4": "7-9 months",
+            "5": "10-12 months",
+            "6": "13-18 months",
+            "7": "19-24 months",
+            "8": "more than 24 months",
+            "999": "Don't Know"
+        }
+    },
+    "bfq_caff_amt_p": {
+        "Description": "How many times per day? | [bfq_caff_p] ='1' and [bfq_caff_amt_p_dk] = ''"
+    },
+    "bfq_med3_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_rxnorm_med3_p] <> '' and [bfq_med3_times_p] = ''"
+    },
+    "bfq_caff_p": {
+        "Description": "Caffeine? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_cigs_per_day_p": {
+        "Description": "How many times per day? | [bfq_tobacco_p] = '1' and [bfq_cigs_per_day_p_dk] = ''"
+    },
+    "bfq_cigs_per_day_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_tobacco_p] = '1' and [bfq_cigs_per_day_p] = ''"
+    },
+    "bfq_coc_crack_amt_p": {
+        "Description": "How many times per day? | [bfq_coc_crack_p] = '1' and [bfq_coc_crack_amt_p_dk] = ''"
+    },
+    "bfq_coc_crack_amt_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_coc_crack_p] = '1' and [bfq_coc_crack_amt_p] = ''"
+    },
+    "bfq_coc_crack_p": {
+        "Description": "Cocaine/Crack? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_her_morph_amt_p": {
+        "Description": "How many times per day? | [bfq_her_morph_p] = '1' and [bfq_her_morph_amt_p_dk] = ''"
+    },
+    "bfq_her_morph_amt_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_her_morph_p] = '1' and [bfq_her_morph_amt_p] = ''"
+    },
+    "bfq_her_morph_p": {
+        "Description": "Heroin/Morphine? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_marijuana_amt_p": {
+        "Description": "How many times per day? | [bfq_marijuana_p] = '1' and [bfq_marijuana_amt_p_dk] = ''"
+    },
+    "bfq_caff_amt_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_caff_p] ='1' and [bfq_caff_amt_p] = ''"
+    },
+    "bfq_other4_name_2_p": {
+        "Description": "Name of drug | 0=None ;  1=Amphetamines or methamphetamine (meth=crystal meth=ice) ;  2=Benzodiazepines ;  3=Caffeine ;  4=Cathinones (bath salts=drone=M-cat=MDVP or MEPH) ;  5=Fake or synthetic marijuana (like spice or K2) ;  6=GHB (liquid G or Georgia home boy)  ;  7=Hallucinogens (LSD or acid=PCP or angel dust,psilocybin=magic mushrooms=shrooms=peyote,mescaline=DMT=salvia=steroids (arnolds=pumpers=or roids) ;  8=Inhalants ;  9=Ketamine (special K) ;  10=MDMA (ecstasy=molly) ;  11=Opioids ;  12=Other ;  999=Don't Know [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\"",
+        "Levels": {
+            "0": "None",
+            "2": "Benzodiazepines",
+            "3": "Caffeine",
+            "5": "Fake or synthetic marijuana (like spice or K2)",
+            "6": "GHB (liquid G or Georgia home boy)",
+            "8": "Inhalants",
+            "9": "Ketamine (special K)",
+            "11": "Opioids",
+            "12": "Other",
+            "999": "Don't Know [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\""
+        }
+    },
+    "bfq_other4_name_oth_p": {
+        "Description": "Other Drug | [bfq_other4_name_2_p] = '12'"
+    },
+    "bfq_other4_times_p": {
+        "Description": "How many times per day? | [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\" and [bfq_other4_times_p_dk] = ''"
+    },
+    "bfq_other4_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\" and [bfq_other4_times_p] = ''"
+    },
+    "bfq_other4_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\" and [bfq_other4_amt_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_other5_amt_p": {
+        "Description": "How much each time? | [bfq_other5_name_2_p] <> '0' and [bfq_other5_name_2_p] <> \"\" and [bfq_other5_amt_p_dk] = ''"
+    },
+    "bfq_other5_amt_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_other5_name_2_p] <> '0' and [bfq_other5_name_2_p] <> \"\" and [bfq_other5_amt_p] = ''"
+    },
+    "bfq_other5_name_2_p": {
+        "Description": "Name of drug | 0=None ;  1=Amphetamines or methamphetamine (meth=crystal meth=ice) ;  2=Benzodiazepines ;  3=Caffeine ;  4=Cathinones (bath salts=drone=M-cat=MDVP or MEPH) ;  5=Fake or synthetic marijuana (like spice or K2) ;  6=GHB (liquid G or Georgia home boy)  ;  7=Hallucinogens (LSD or acid=PCP or angel dust,psilocybin=magic mushrooms=shrooms=peyote,mescaline=DMT=salvia=steroids (arnolds=pumpers=or roids) ;  8=Inhalants ;  9=Ketamine (special K) ;  10=MDMA (ecstasy=molly) ;  11=Opioids ;  12=Other ;  999=Don't Know [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\"",
+        "Levels": {
+            "0": "None",
+            "2": "Benzodiazepines",
+            "3": "Caffeine",
+            "5": "Fake or synthetic marijuana (like spice or K2)",
+            "6": "GHB (liquid G or Georgia home boy)",
+            "8": "Inhalants",
+            "9": "Ketamine (special K)",
+            "11": "Opioids",
+            "12": "Other",
+            "999": "Don't Know [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\""
+        }
+    },
+    "bfq_other5_name_oth_p": {
+        "Description": "Other Drug | [bfq_other5_name_2_p] = '12'"
+    },
+    "bfq_other5_times_p": {
+        "Description": "How many times per day? | [bfq_other5_name_2_p] <> '0' and [bfq_other5_name_2_p] <> \"\" and [bfq_other5_times_p_dk] = ''"
+    },
+    "bfq_other5_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_other5_name_2_p] <> '0' and [bfq_other5_name_2_p] <> \"\" and [bfq_other5_times_p] = ''"
+    },
+    "bfq_med3_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_rxnorm_med3_p] <> '' and [bfq_med3_how_much_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_oxycont_amt_p": {
+        "Description": "How many times per day? | [bfq_oxycont_p] ='1' and [bfq_oxycont_amt_p_dk] = ''"
+    },
+    "bfq_oxycont_amt_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_oxycont_p] ='1' and [bfq_oxycont_amt_p] = ''"
+    },
+    "bfq_oxycont_p": {
+        "Description": "Oxycontin? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_p_select_language___1": {
+        "Description": "Espanol? | 1=Si"
+    },
+    "bfq_prescript_med_p": {
+        "Description": "Prescription medications? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_rxnorm_med1_p": {
+        "Description": "Medication Name (please choose the formulation that most closely matches the medication; no need to include dosage) | BIOPORTAL:RXNORM [bfq_prescript_med_p] = '1'"
+    },
+    "bfq_rxnorm_med2_p": {
+        "Description": "Medication Name (please choose the formulation that most closely matches the medication; no need to include dosage) | BIOPORTAL:RXNORM [bfq_med1_fu_p] = '1'"
+    },
+    "bfq_rxnorm_med3_p": {
+        "Description": "Medication Name (please choose the formulation that most closely matches the medication; no need to include dosage) | BIOPORTAL:RXNORM [bfq_med2_fu_p] = '1'"
+    },
+    "bfq_start_time": {
+        "Description": "start time"
+    },
+    "bfq_tobacco_p": {
+        "Description": "Tobacco? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_other5_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_other5_name_2_p] <> '0' and [bfq_other5_name_2_p] <> \"\" and [bfq_other5_amt_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_other_drugs_p": {
+        "Description": "Any other drugs? | 1=Yes ;  0=No ;  999=Don't know [bfq_breastfeed_time_p]<>''",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "999": "Don't know [bfq_breastfeed_time_p]<>''"
+        }
+    },
+    "bfq_other1_amt_p": {
+        "Description": "How much each time? | [bfq_other_drugs_p] = '1' and [bfq_other1_amt_p_dk] = ''"
+    },
+    "bfq_other1_amt_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_other_drugs_p] = '1' and [bfq_other1_amt_p] = ''"
+    },
+    "bfq_other1_name_2_p": {
+        "Description": "Name of drug | 0=None ;  1=Amphetamines or methamphetamine (meth=crystal meth=ice) ;  2=Benzodiazepines ;  3=Caffeine ;  4=Cathinones (bath salts=drone=M-cat=MDVP or MEPH) ;  5=Fake or synthetic marijuana (like spice or K2) ;  6=GHB (liquid G or Georgia home boy)  ;  7=Hallucinogens (LSD or acid=PCP or angel dust,psilocybin=magic mushrooms=shrooms=peyote,mescaline=DMT=salvia=steroids (arnolds=pumpers=or roids) ;  8=Inhalants ;  9=Ketamine (special K) ;  10=MDMA (ecstasy=molly) ;  11=Opioids ;  12=Other ;  999=Don't Know [bfq_other_drugs_p] = '1'",
+        "Levels": {
+            "0": "None",
+            "2": "Benzodiazepines",
+            "3": "Caffeine",
+            "5": "Fake or synthetic marijuana (like spice or K2)",
+            "6": "GHB (liquid G or Georgia home boy)",
+            "8": "Inhalants",
+            "9": "Ketamine (special K)",
+            "11": "Opioids",
+            "12": "Other",
+            "999": "Don't Know"
+        }
+    },
+    "bfq_other1_name_oth_p": {
+        "Description": "Other Drug | [bfq_other1_name_2_p] = '12'"
+    },
+    "bfq_other1_times_p": {
+        "Description": "How many times per day? | [bfq_other_drugs_p] = '1' and [bfq_other1_times_p_dk] = ''"
+    },
+    "bfq_other1_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_other_drugs_p] = '1' and [bfq_other1_times_p] = ''"
+    },
+    "bfq_other1_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_other_drugs_p] = '1' and [bfq_other1_amt_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_other2_amt_p": {
+        "Description": "How much each time? | [bfq_other2_name_2_p] <> '0' and [bfq_other2_name_2_p] <> \"\"  and [bfq_other2_amt_p_dk] = \"\""
+    },
+    "bfq_other2_amt_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_other2_name_2_p] <> '0' and [bfq_other2_name_2_p] <> \"\"  and  [bfq_other2_amt_p] = ''"
+    },
+    "bfq_other2_name_2_p": {
+        "Description": "Name of drug | 0=None ;  1=Amphetamines or methamphetamine (meth=crystal meth=ice) ;  2=Benzodiazepines ;  3=Caffeine ;  4=Cathinones (bath salts=drone=M-cat=MDVP or MEPH) ;  5=Fake or synthetic marijuana (like spice or K2) ;  6=GHB (liquid G or Georgia home boy)  ;  7=Hallucinogens (LSD or acid=PCP or angel dust,psilocybin=magic mushrooms=shrooms=peyote,mescaline=DMT=salvia=steroids (arnolds=pumpers=or roids) ;  8=Inhalants ;  9=Ketamine (special K) ;  10=MDMA (ecstasy=molly) ;  11=Opioids ;  12=Other ;  999=Don't Know [bfq_other1_name_2_p] <> \"0\" and [bfq_other1_name_2_p] <> \"\"",
+        "Levels": {
+            "0": "None",
+            "2": "Benzodiazepines",
+            "3": "Caffeine",
+            "5": "Fake or synthetic marijuana (like spice or K2)",
+            "6": "GHB (liquid G or Georgia home boy)",
+            "8": "Inhalants",
+            "9": "Ketamine (special K)",
+            "11": "Opioids",
+            "12": "Other",
+            "999": "Don't Know [bfq_other1_name_2_p] <> \"0\" and [bfq_other1_name_2_p] <> \"\""
+        }
+    },
+    "bfq_other4_amt_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\" and [bfq_other4_amt_p] = ''"
+    },
+    "bfq_other2_times_p": {
+        "Description": "How many times per day? | [bfq_other2_name_2_p] <> '0' and [bfq_other2_name_2_p] <> \"\" and [bfq_other2_times_p_dk] = ''"
+    },
+    "bfq_other2_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_other2_name_2_p] <> '0'  and [bfq_other2_name_2_p] <> \"\" and [bfq_other2_times_p] = ''"
+    },
+    "bfq_other2_unit_p": {
+        "Description": "Unit(s): | 1=gram (g) ;  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) ([bfq_other2_name_2_p] > '0')",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU) ([bfq_other2_name_2_p] > '0')"
+        }
+    },
+    "bfq_other3_amt_p": {
+        "Description": "How much each time? | [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\" and [bfq_other3_amt_p_dk] = ''"
+    },
+    "bfq_other3_amt_p_dk": {
+        "Description": "How much each time? | 999=Don't know [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\" and [bfq_other3_amt_p] = ''"
+    },
+    "bfq_other3_name_2_p": {
+        "Description": "Name of drug | 0=None ;  1=Amphetamines or methamphetamine (meth=crystal meth=ice) ;  2=Benzodiazepines ;  3=Caffeine ;  4=Cathinones (bath salts=drone=M-cat=MDVP or MEPH) ;  5=Fake or synthetic marijuana (like spice or K2) ;  6=GHB (liquid G or Georgia home boy)  ;  7=Hallucinogens (LSD or acid=PCP or angel dust,psilocybin=magic mushrooms=shrooms=peyote,mescaline=DMT=salvia=steroids (arnolds=pumpers=or roids) ;  8=Inhalants ;  9=Ketamine (special K) ;  10=MDMA (ecstasy=molly) ;  11=Opioids ;  12=Other ;  999=Don't Know [bfq_other2_name_2_p] <> '0' and [bfq_other2_name_2_p] <> \"\"",
+        "Levels": {
+            "0": "None",
+            "2": "Benzodiazepines",
+            "3": "Caffeine",
+            "5": "Fake or synthetic marijuana (like spice or K2)",
+            "6": "GHB (liquid G or Georgia home boy)",
+            "8": "Inhalants",
+            "9": "Ketamine (special K)",
+            "11": "Opioids",
+            "12": "Other",
+            "999": "Don't Know [bfq_other2_name_2_p] <> '0' and [bfq_other2_name_2_p] <> \"\""
+        }
+    },
+    "bfq_other3_name_oth_p": {
+        "Description": "Other Drug | [bfq_other2_name_2_p] = '12'"
+    },
+    "bfq_other3_times_p": {
+        "Description": "How many times per day? | [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\" and [bfq_other3_times_p_dk] = ''"
+    },
+    "bfq_other3_times_p_dk": {
+        "Description": "How many times per day? | 999=Don't know [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\" and [bfq_other3_times_p] = ''"
+    },
+    "bfq_other3_unit_p": {
+        "Description": "Unit(s): | 1=gram (g);  2=microgram (mcg) ;  3=milligram (mg) ;  4=kilogram (kg) ;  5=megagram (mgg) ;  6=liter (L) ;  7=ounce (oz) ;  8=pound (lb) ;  9=quart (qt) ;  10=International Units (IU) [bfq_other3_name_2_p] <> '0' and [bfq_other3_name_2_p] <> \"\" and [bfq_other3_amt_p_dk] = ''",
+        "Levels": {
+            "1": "gram (g)",
+            "2": "microgram (mcg)",
+            "3": "milligram (mg)",
+            "4": "kilogram (kg)",
+            "5": "megagram (mgg)",
+            "6": "liter (L)",
+            "7": "ounce (oz)",
+            "8": "pound (lb)",
+            "9": "quart (qt)",
+            "10": "International Units (IU)"
+        }
+    },
+    "bfq_other4_amt_p": {
+        "Description": "How much each time? | [bfq_other4_name_2_p] <> '0' and [bfq_other4_name_2_p] <> \"\" and [bfq_other4_amt_p_dk] = ''"
+    },
+    "bfq_other2_name_oth_p": {
+        "Description": "Other Drug | [bfq_other2_name_2_p] = '12'"
+    }
+}

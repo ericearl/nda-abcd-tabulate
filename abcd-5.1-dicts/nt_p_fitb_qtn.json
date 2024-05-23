@@ -1,0 +1,276 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "fitpr_select_language": {
+        "Description": "\u00bfEspa\u00f1ol? | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "fitpr_physical_p": {
+        "Description": "In your opinion compared to other kids your child's age how much physical activity does your child engage in? / En su opini\u00c3\u00b3n en comparaci\u00c3\u00b3n con otros ni\u00c3\u00b1os(as) de la edad de su hijo/a \u00c2\u00bfcu\u00c3\u00a1nta actividad f\u00c3\u00adsica realiza su hijo/a? | 1= Much less / Mucho menos; 2 = A little less / Un poco menos; 3 =About the same / M\u00c3\u00a1s o menos la misma; 4=  A little more / Un poco m\u00c3\u00a1s; 5  =Much more / Mucho m\u00c3\u00a1s",
+        "Levels": {
+            "1": "Much less / Mucho menos",
+            "2": "A little less / Un poco menos",
+            "3": "About the same / M\u00c3\u00a1s o menos la misma",
+            "4": "A little more / Un poco m\u00c3\u00a1s",
+            "5": "Much more / Mucho m\u00c3\u00a1s"
+        }
+    },
+    "fitpr_physical_health_p": {
+        "Description": "In your opinion do you think the amount of physical activity your child does is healthy? / En su opini\u00c3\u00b3n \u00c2\u00bfcree usted que la cantidad de actividad f\u00c3\u00adsica que su hijo/a hace es saludable? | 1=Yes /Si; 0 = No / No",
+        "Levels": {
+            "1": "Yes /Si",
+            "0": "No / No"
+        }
+    },
+    "fitpr_sedentary_p": {
+        "Description": "In your opinion compared to other kids your child's age how many sedentary behaviors does your child engage in? / En su opini\u00c3\u00b3n en comparaci\u00c3\u00b3n con otros ni\u00c3\u00b1os de la edad de su hijo/a \u00c2\u00bfen cu\u00c3\u00a1ntas conductas sedentarias participa su hijo/a? | 1= Much less / Mucho menos; 2 = A little less / Un poco menos; 3 =About the same / M\u00c3\u00a1s o menos la misma; 4=  A little more / Un poco m\u00c3\u00a1s; 5  =Much more / Mucho m\u00c3\u00a1s",
+        "Levels": {
+            "1": "Much less / Mucho menos",
+            "2": "A little less / Un poco menos",
+            "3": "About the same / M\u00c3\u00a1s o menos la misma",
+            "4": "A little more / Un poco m\u00c3\u00a1s",
+            "5": "Much more / Mucho m\u00c3\u00a1s"
+        }
+    },
+    "fitpr_sedentary_health_p": {
+        "Description": "In your opinion do you think the amount of sedentary behaviors your child engages in is healthy? / En su opini\u00c3\u00b3n \u00c2\u00bfcree usted que la cantidad de conductas sedentarias en las que su hijo/a participa es saludable? | 1=Yes /Si; 0 = No / No",
+        "Levels": {
+            "1": "Yes /Si",
+            "0": "No / No"
+        }
+    },
+    "fitpr_worn_tracker_p": {
+        "Description": "Has your child ever worn a Fitbit or other activity tracker? / \u00c2\u00bfAlguna vez su hijo/a ha usado un Fitbit u otro dispositivo de seguimiento de actividades? | 1=Yes /Si; 0 = No / No",
+        "Levels": {
+            "1": "Yes /Si",
+            "0": "No / No"
+        }
+    },
+    "fitpr_consistent_p": {
+        "Description": "Did s/he wear it consistently? / \u00c2\u00bfLo us\u00c3\u00b3 constantemente? | 1=Yes /Si; 0 = No / No",
+        "Levels": {
+            "1": "Yes /Si",
+            "0": "No / No"
+        }
+    },
+    "fitpr_remove_amt_p": {
+        "Description": "How often did he/she have to remove it? / \u00c2\u00bfCon qu\u00c3\u00a9 frecuencia ten\u00c3\u00ada que quit\u00c3\u00a1rselo? | 1= Often / Con frecuencia; 2  Sometimes / A veces; 3  Infrequently / Con poca frecuencia; 4  Never / Nunca",
+        "Levels": {
+            "1": "Often / Con frecuencia"
+        }
+    },
+    "fitpr_check_amt_p": {
+        "Description": "How often did s/he check the activity tracker throughout the day (while awake)? / \u00c2\u00bfCon qu\u00c3\u00a9 frecuencia revisaba el rastreador de actividades durante el d\u00c3\u00ada (mientras estaba despierto/a)? | 1= Several time per day / Varias veces al d\u00c3\u00ada; 2  =About once per day / Aproximadamente una vez al d\u00c3\u00ada; 3 = Several time per week / Varias veces a la semana; 4=  About once per week / Aproximadamente una vez a la semana",
+        "Levels": {
+            "1": "Several time per day / Varias veces al d\u00c3\u00ada",
+            "2": "About once per day / Aproximadamente una vez al d\u00c3\u00ada",
+            "3": "Several time per week / Varias veces a la semana",
+            "4": "About once per week / Aproximadamente una vez a la semana"
+        }
+    },
+    "fitpr_change_p": {
+        "Description": "Has s/he changed her activity based on the Information from the tracker? / \u00c2\u00bfEl/ella ha modificado su actividad seg\u00c3\u00ban la Informaci\u00c3\u00b3n del dispositivo de seguimiento? | 1=Yes /Si; 0 = No / No",
+        "Levels": {
+            "1": "Yes /Si",
+            "0": "No / No"
+        }
+    },
+    "fitpr_remove_p___1": {
+        "Description": "When did s/he take it off (during what activities)? Shower/Bath | 1 =Yes; 0= No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "fitpr_remove_p___2": {
+        "Description": "When did s/he take it off (during what activities)? Sports | 1 =Yes; 0= No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "fitpr_remove_p___3": {
+        "Description": "When did s/he take it off (during what activities)? Swimming | 1 =Yes; 0= No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "fitpr_remove_p___4": {
+        "Description": "When did s/he take it off (during what activities)? Sleep | 1 =Yes; 0= No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "fitpr_remove_p___5": {
+        "Description": "When did s/he take it off (during what activities)? Others | 1 =Yes; 0= No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "fitpo_select_language": {
+        "Description": "\u00bfEspa\u00f1ol? | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "fitpo_physical_p": {
+        "Description": "In your opinion compared to other kids your child's age how much physical activity does your child engage in? / En su opini\u00c3\u00b3n en comparaci\u00c3\u00b3n con otros ni\u00c3\u00b1os(as) de la edad de su hijo/a \u00c2\u00bfcu\u00c3\u00a1nta actividad f\u00c3\u00adsica realiza su hijo/a? | 1= Much less / Mucho menos; 2=A little less / Un poco menos; 3=About the same / M\u00c3\u00a1s o menos la misma; 4=A little more / Un poco m\u00c3\u00a1s; 5= Much more / Mucho m\u00c3\u00a1s",
+        "Levels": {
+            "1": "Much less / Mucho menos",
+            "2": "A little less / Un poco menos",
+            "3": "About the same / M\u00c3\u00a1s o menos la misma",
+            "4": "A little more / Un poco m\u00c3\u00a1s",
+            "5": "Much more / Mucho m\u00c3\u00a1s"
+        }
+    },
+    "fitpo_physical_health_p": {
+        "Description": "In your opinion do you think the amount of physical activity your child does is healthy? / En su opini\u00c3\u00b3n \u00c2\u00bfcree usted que la cantidad de actividad f\u00c3\u00adsica que su hijo/a hace es saludable? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_sedentary_p": {
+        "Description": "In your opinion compared to other kids your child's age how many sedentary behaviors does your child engage in? / En su opini\u00c3\u00b3n en comparaci\u00c3\u00b3n con otros ni\u00c3\u00b1os de la edad de su hijo/a \u00c2\u00bfen cu\u00c3\u00a1ntas conductas sedentarias participa su hijo/a? | 1= Much less / Mucho menos; 2=A little less / Un poco menos; 3=About the same / M\u00c3\u00a1s o menos la misma; 4=A little more / Un poco m\u00c3\u00a1s; 5= Much more / Mucho m\u00c3\u00a1s",
+        "Levels": {
+            "1": "Much less / Mucho menos",
+            "2": "A little less / Un poco menos",
+            "3": "About the same / M\u00c3\u00a1s o menos la misma",
+            "4": "A little more / Un poco m\u00c3\u00a1s",
+            "5": "Much more / Mucho m\u00c3\u00a1s"
+        }
+    },
+    "fitpo_sedentary_healthy_p": {
+        "Description": "In your opinion do you think the amount of sedentary behaviors your child engages in is healthy? / En su opini\u00c3\u00b3n \u00c2\u00bfcree usted que la cantidad de conductas sedentarias en las que su hijo/a participa es saludable? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_sleep_health_p": {
+        "Description": "In your opinion do you think the amount your child sleeps is healthy? / En su opini\u00c3\u00b3n \u00c2\u00bfcree que la cantidad que duerme su hijo/a es saludable? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_sleep_amt_p": {
+        "Description": "In your opinion compared to other kids your child's age how much sleep does your child get? / En su opini\u00c3\u00b3n en comparaci\u00c3\u00b3n con otros ni\u00c3\u00b1os de la edad de su hijo/a \u00c2\u00bfcu\u00c3\u00a1nto duerme su hijo/a? | 1= Much less / Mucho menos; 2=A little less / Un poco menos; 3=About the same / M\u00c3\u00a1s o menos la misma; 4=A little more / Un poco m\u00c3\u00a1s; 5= Much more / Mucho m\u00c3\u00a1s",
+        "Levels": {
+            "1": "Much less / Mucho menos",
+            "2": "A little less / Un poco menos",
+            "3": "About the same / M\u00c3\u00a1s o menos la misma",
+            "4": "A little more / Un poco m\u00c3\u00a1s",
+            "5": "Much more / Mucho m\u00c3\u00a1s"
+        }
+    },
+    "fitpo_use_app_p": {
+        "Description": "Did you use the app and/or website to see your child's Fitbit activity? / \u00c2\u00bfUtiliz\u00c3\u00b3 la aplicaci\u00c3\u00b3n y/o el sitio web para ver la actividad de su hijo/a en el Fitbit? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_encourage_p": {
+        "Description": "Did you encourage your child to change his/her activity or sleep based on the information? / \u00c2\u00bfAnim\u00c3\u00b3 a su hijo/a a cambiar su actividad o sus h\u00c3\u00a1bitos de sue\u00c3\u00b1o bas\u00c3\u00a1ndose en la informaci\u00c3\u00b3n? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_child_app_p": {
+        "Description": "Did your child use the app and/or website to see his/her Fitbit activity? / \u00c2\u00bfSu hijo/a us\u00c3\u00b3 la aplicaci\u00c3\u00b3n y/o el sitio web para ver su actividad en Fitbit? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_change_p": {
+        "Description": "Did s/he change his/her activity or sleep based on the information? / \u00c2\u00bfCambi\u00c3\u00b3 su actividad o h\u00c3\u00a1bitos de sue\u00c3\u00b1o bas\u00c3\u00a1ndose en la informaci\u00c3\u00b3n? | 1=Yes / Si; 0=No / No",
+        "Levels": {
+            "1": "Yes / Si",
+            "0": "No / No"
+        }
+    },
+    "fitpo_in_school_p___1": {
+        "Description": "Was your child in school? First Week | 1, Yes | 0 No"
+    },
+    "fitpo_in_school_p___2": {
+        "Description": "Was your child in school?  Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_in_school_p___3": {
+        "Description": "Was your child in school? Third Week | 1, Yes | 0 No"
+    },
+    "fitpo_in_school_p___0": {
+        "Description": "Was your child in school? Not Applicable | 1, Yes | 0 No"
+    },
+    "fitpo_at_camp_p___1": {
+        "Description": "Was your child at camp? First Week | 1, Yes | 0 No"
+    },
+    "fitpo_at_camp_p___2": {
+        "Description": "Was your child at camp? Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_at_camp_p___3": {
+        "Description": "Was your child at camp? Third Week | 1, Yes | 0 No"
+    },
+    "fitpo_at_camp_p___0": {
+        "Description": "Was your child at camp? Not Applicable | 1, Yes | 0 No"
+    },
+    "fitpo_vacation_p___1": {
+        "Description": "Was your child on vacation? First Week | 1, Yes | 0 No"
+    },
+    "fitpo_vacation_p___2": {
+        "Description": "Was your child on vacation? Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_vacation_p___3": {
+        "Description": "Was your child on vacation? Third  Week | 1, Yes | 0 No"
+    },
+    "fitpo_vacation_p___0": {
+        "Description": "Was your child on vacation? Not Applicable | 1, Yes | 0 No"
+    },
+    "fitpo_sick_p___1": {
+        "Description": "Was your child sick? First Week | 1, Yes | 0 No"
+    },
+    "fitpo_sick_p___2": {
+        "Description": "Was your child sick? Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_sick_p___3": {
+        "Description": "Was your child sick? Third Week | 1, Yes | 0 No"
+    },
+    "fitpo_sick_p___0": {
+        "Description": "Was your child sick? Not Applicable | 1, Yes | 0 No"
+    },
+    "fitpo_beyond_typical_p___1": {
+        "Description": "Was your child more active than usual for him/herself? First Week | 1, Yes | 0 No"
+    },
+    "fitpo_beyond_typical_p___2": {
+        "Description": "Was your child more active than usual for him/herself? Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_beyond_typical_p___3": {
+        "Description": "Was your child more active than usual for him/herself? Third Week | 1, Yes | 0 No"
+    },
+    "fitpo_beyond_typical_p___0": {
+        "Description": "Was your child more active than usual for him/herself? Not Applicable | 1, Yes | 0 No"
+    },
+    "fitpo_unusual_routine_p___1": {
+        "Description": "Did anything unusual happen that changed your child's usual routine and changed his/her physical activity and/or sleep (e.g. had visitors staying in your house got a pet)?  First Week | 1, Yes | 0 No"
+    },
+    "fitpo_unusual_routine_p___2": {
+        "Description": "Did anything unusual happen that changed your child's usual routine and changed his/her physical activity and/or sleep (e.g. had visitors staying in your house got a pet)?  Second Week | 1, Yes | 0 No"
+    },
+    "fitpo_unusual_routine_p___3": {
+        "Description": "Did anything unusual happen that changed your child's usual routine and changed his/her physical activity and/or sleep (e.g. had visitors staying in your house got a pet)?  Third Week | 1, Yes | 0 No"
+    },
+    "fitpo_unusual_routine_p___0": {
+        "Description": "Did anything unusual happen that changed your child's usual routine and changed his/her physical activity and/or sleep (e.g. had visitors staying in your house got a pet)?  Not Applicable | 1, Yes | 0 No"
+    }
+}

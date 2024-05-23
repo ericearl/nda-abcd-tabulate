@@ -1,0 +1,48 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "iqc_event_multirev": {
+        "Description": "A given pguidevent has all series reviewed by at least two reviewers (which also means this pguidevent passed QC totally)"
+    },
+    "iqc_event_needrawqc": {
+        "Description": "A  given pguidevent has at least one series needs rawQC"
+    },
+    "iqc_event_procfail": {
+        "Description": "A given pguidevent has at least one series with process error before autoQC"
+    },
+    "iqc_event_qcd": {
+        "Description": "DAIC has received full protocol for this pGUID and it has been QC'ed"
+    },
+    "iqc_event_revdisagree": {
+        "Description": "A given pguidevent has at least one series with reviewer disagreement"
+    },
+    "iqc_event_rsfmri_autoqcd": {
+        "Description": "rsfMRI: Decide whether rsfmri series in a given pguidevent pass qc or not."
+    },
+    "iqc_event_waitautoqc": {
+        "Description": "A given pguidevent has at least one series is waiting for autoQC"
+    },
+    "iqc_incomingtopc_event": {
+        "Description": "Given series has been sent to PC check"
+    },
+    "iqc_missing_ks": {
+        "Description": "Series has missing kspace data"
+    },
+    "iqc_ra_series_missing_memo": {
+        "Description": "RA report missing series memo"
+    },
+    "iqc_recon_err": {
+        "Description": "Series has reconstruction errors"
+    },
+    "iqc_rename_err": {
+        "Description": "Total number of rename error"
+    },
+    "iqc_series_missing": {
+        "Description": "Total number missing series"
+    },
+    "iqc_unpack_err": {
+        "Description": "Series has unpack error"
+    }
+}

@@ -1,0 +1,1215 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "cbcl_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cbcl_q01_p": {
+        "Description": "Acts too young for their age | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q02_p": {
+        "Description": "Drinks alcohol without parents' approval Toma bebidas alcoh\u00f3licas sin permiso de los padres | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q03_p": {
+        "Description": "Argues a lot Discute mucho | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q04_p": {
+        "Description": "Fails to finish things they start | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q05_p": {
+        "Description": "There is very little they enjoy | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q06_p": {
+        "Description": "Bowel movements outside toilet Hace sus necesidades en la ropa o en lugares inadecuados | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q07_p": {
+        "Description": "Bragging, boasting  Es engre\u00eddo(a), presumido(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q08_p": {
+        "Description": "Can't concentrate, can't pay attention for long No puede concentrarse o prestar atenci\u00f3n por mucho tiempo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q09_p": {
+        "Description": "Can't get their mind off certain thoughts; obsessions | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q10_p": {
+        "Description": "Can't sit still, restless, or hyperactive No puede quedarse quieto(a); es inquieto(a) o hiperactivo(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q11_p": {
+        "Description": "Clings to adults or too dependent Es demasiado dependiente o apegado(a) a los adultos | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q12_p": {
+        "Description": "Complains of loneliness Se queja de que se siente solo(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q13_p": {
+        "Description": "Confused or seems to be in a fog Est\u00e1 confundido(a) o parece como si estuviera en las nubes | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q14_p": {
+        "Description": "Cries a lot Llora mucho | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q15_p": {
+        "Description": "Cruel to animals Es cruel con los animales | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q16_p": {
+        "Description": "Cruelty, bullying, or meanness to others Es cruel, abusador(a), y malo(a) con los dem\u00e1s | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q17_p": {
+        "Description": "Daydreams or gets lost in their thoughts | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q18_p": {
+        "Description": "Deliberately harms self or attempts suicide Se hace da\u00f1o a s\u00ed mismo(a) deliberadamente o ha intentado suicidarse | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q19_p": {
+        "Description": "Demands a lot of attention Exige mucha atenci\u00f3n | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q20_p": {
+        "Description": "Destroys their own things | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q21_p": {
+        "Description": "Destroys things belonging to their family or others | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q22_p": {
+        "Description": "Disobedient at home  Desobedece en casa | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q23_p": {
+        "Description": "Disobedient at school Desobedece en la escuela | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q24_p": {
+        "Description": "Doesn't eat well No come bien | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q25_p": {
+        "Description": "Doesn't get along with other kids No se lleva bien con otros ni\u00f1os(as)/j\u00f3venes | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q26_p": {
+        "Description": "Doesn't seem to feel guilty after misbehaving No parece sentirse culpable despu\u00e9s de portarse mal | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q27_p": {
+        "Description": "Easily jealous Se pone celoso(a) facilmente | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q28_p": {
+        "Description": "Breaks rules at home, school or elsewhere  No respeta/rompe las reglas en casa, en la escuela, o en otro lugar | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q29_p": {
+        "Description": "Fears certain animals, situations, or places, other than school Tiene miedo de ciertas situaciones, animales o lugares (no incluya la escuela) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q30_p": {
+        "Description": "Fears going to school Le da miedo ir a la escuela | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q31_p": {
+        "Description": "Fears they might think or do something bad | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q32_p": {
+        "Description": "Feels they have to be perfect | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q33_p": {
+        "Description": "Feels or complains that no one loves them | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q34_p": {
+        "Description": "Feels others are out to get them | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q35_p": {
+        "Description": "Feels worthless or inferior Se siente inferior o cree que no vale nada | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q36_p": {
+        "Description": "Gets hurt a lot, accident prone Se lastima accidentalmente con mucha frecuencia, propenso(a) a accidentes | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q37_p": {
+        "Description": "Gets in many fights Se mete mucho en peleas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q38_p": {
+        "Description": "Gets teased a lot Los dem\u00e1s se burlan de \u00e9l/ella a menudo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q39_p": {
+        "Description": "Hangs around with others who get in trouble Se junta con ni\u00f1os(as)/j\u00f3venes que se meten en problemas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q40_p": {
+        "Description": "Hears sound or voices that aren't there Oye sonidos o voces que no existen | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q41_p": {
+        "Description": "Impulsive or acts without thinking Impulsivo(a); act\u00faa sin pensar | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q42_p": {
+        "Description": "Would rather be alone than with others Prefiere estar solo(a) que con otras personas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q43_p": {
+        "Description": "Lying or cheating Dice mentiras o hace trampas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q44_p": {
+        "Description": "Bites fingernails Se come/muerde las u\u00f1as | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q45_p": {
+        "Description": "Nervous, highstrung, or tense Nervioso(a), tenso(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q46_p": {
+        "Description": "Nervous movements or twitching Movimientos involuntarios o tics | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q47_p": {
+        "Description": "Nightmares Pesadillas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q48_p": {
+        "Description": "Not liked by other kids No le cae bien a otros ni\u00f1os(as)/j\u00f3venes | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q49_p": {
+        "Description": "Constipated, doesn't move bowels Padece de estre\u00f1imiento | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q50_p": {
+        "Description": "Too fearful or anxious Demasiado ansioso(a) o miedoso(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q51_p": {
+        "Description": "Feels dizzy or lightheaded Se siente mareado(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q52_p": {
+        "Description": "Feels too guilty Se siente demasiado culpable | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q53_p": {
+        "Description": "Overeating Come demasiado | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q54_p": {
+        "Description": "Overtired without good reason Se siente demasiado cansado(a) sin raz\u00f3n para estarlo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q55_p": {
+        "Description": "Overweight Tiene sobrepeso | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56a_p": {
+        "Description": "Aches or pains (not stomach or headaches) Dolores o molestias (sin que sean del est\u00f3mago o dolores de cabeza) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56b_p": {
+        "Description": "Headaches Dolores de cabeza | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56c_p": {
+        "Description": "Nausea, feels sick N\u00e1useas, ganas de vomitar | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56d_p": {
+        "Description": "Problems with eyes (not if corrected by glasses)  Problemas con los ojos (no incluya si se corrigi\u00f3 con gafas/lentes/espejuelos) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56e_p": {
+        "Description": "Rashes or other skin problems Salpullido o irritaci\u00f3n en la piel | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56f_p": {
+        "Description": "Stomachaches Dolores de est\u00f3mago | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56g_p": {
+        "Description": "Vomiting, throwing up V\u00f3mitos | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q56h_p": {
+        "Description": "Other (physical problems without known physical cause) Otros (problemas f\u00edsicos sin causa m\u00e9dica conocida) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q57_p": {
+        "Description": "Physically attacks people Ataca/agrede f\u00edsicamente a otras personas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q58_p": {
+        "Description": "Picks nose, skin, or other parts of body Mete el dedo en la nariz, se ara\u00f1a la piel u otras partes del cuerpo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q59_p": {
+        "Description": "Plays with own sex parts in public Se toca/juega con sus partes sexuales en p\u00fablico | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q60_p": {
+        "Description": "Plays with own sex parts too much Se toca/juega demasiado con sus partes sexuales | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q61_p": {
+        "Description": "Poor school work Tiene bajo rendimiento en la escuela | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q62_p": {
+        "Description": "Poorly coordinated or clumsy Mala coordinaci\u00f3n o torpeza | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q63_p": {
+        "Description": "Prefers being with older kids Prefiere estar con ni\u00f1os(as) mayores que \u00e9l/ella | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q64_p": {
+        "Description": "Prefers being with younger kids Prefiere estar con ni\u00f1os(as) menores que \u00e9l/ella | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q65_p": {
+        "Description": "Refuses to talk Se rehusa a hablar | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q66_p": {
+        "Description": "Repeats certain acts over and over; compulsions Repite ciertas acciones una y otra vez; compulsiones | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q67_p": {
+        "Description": "Runs away from home Se fuga de la casa | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q68_p": {
+        "Description": "Screams a lot Grita mucho | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q69_p": {
+        "Description": "Secretive, keeps things to self Reservado(a); se calla todo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q70_p": {
+        "Description": "Sees things that aren't there Ve cosas que no existen | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q71_p": {
+        "Description": "Self-conscious or easily embarrassed Se coh\u00edbe y se averg\u00fcenza con facilidad | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q72_p": {
+        "Description": "Sets fires Prende fuegos/inicia incendios | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q73_p": {
+        "Description": "Sexual problems Problemas sexuales | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q74_p": {
+        "Description": "Showing off or clowning Le gusta llamar la atenci\u00f3n o hacerse el/la payaso(a), gracioso(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q75_p": {
+        "Description": "Too shy or timid Demasiado t\u00edmido(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q76_p": {
+        "Description": "Sleeps less than most kids Duerme menos que la mayor\u00eda de los/las ni\u00f1os(as)/j\u00f3venes | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q77_p": {
+        "Description": "Sleeps more than most kids during day and/or night Duerme m\u00e1s que la mayor\u00eda de los/las ni\u00f1os(as)/j\u00f3venes durante el d\u00eda y/o la noche | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q78_p": {
+        "Description": "Inattentive or easily distracted  No presta atenci\u00f3n o se distrae f\u00e1cilmente | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q79_p": {
+        "Description": "Speech problem  Problemas con el habla (describa) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q80_p": {
+        "Description": "Stares blankly Se queda con la mirada fija, mirando al vac\u00edo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q81_p": {
+        "Description": "Steals at home Roba en casa | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q82_p": {
+        "Description": "Steals outside the home Roba fuera de casa | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q83_p": {
+        "Description": "Stores up too many things they don't need | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q84_p": {
+        "Description": "Strange behavior Comportamiento raro | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q85_p": {
+        "Description": "Strange ideas Ideas raras | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q86_p": {
+        "Description": "Stubborn, sullen, or irritable Obstinado(a), malhumorado(a), irritable | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q87_p": {
+        "Description": "Sudden changes in mood or feelings S\u00fabitos cambios de humor o sentimientos | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q88_p": {
+        "Description": "Sulks a lot Queda contrariado(a), pone mala cara con frecuencia | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q89_p": {
+        "Description": "Suspicious Desconfiado(a), receloso(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q90_p": {
+        "Description": "Swearing or obscene language Dice groser\u00edas, usa lenguaje obsceno | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q91_p": {
+        "Description": "Talks about killing self Habla de querer matarse | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q92_p": {
+        "Description": "Talks or walks in sleep Habla o camina cuando est\u00e1 dormido(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q93_p": {
+        "Description": "Talks too much Habla demasiado | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q94_p": {
+        "Description": "Teases a lot Se burla mucho de los dem\u00e1s | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q95_p": {
+        "Description": "Temper tantrums or hot temper Le dan rabietas o tiene mal genio | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q96_p": {
+        "Description": "Thinks about sex too much Parece pensar demasiado sobre temas sexuales | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q97_p": {
+        "Description": "Threatens people Amenaza a otros | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q98_p": {
+        "Description": "Thumb-sucking Se chupa el dedo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q99_p": {
+        "Description": "Smokes, chews, or sniffs tobacco Fuma, masca o inhala tabaco | 0 = Not True No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  En cierta manera; 2 = Very True/Often True Muy cierto o cierto con frecuencia",
+        "Levels": {
+            "0": "Not True No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  En cierta manera",
+            "2": "Very True/Often True Muy cierto o cierto con frecuencia"
+        }
+    },
+    "cbcl_q100_p": {
+        "Description": "Trouble sleeping No duerme bien | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q101_p": {
+        "Description": "Truancy, skips school Falta a la escuela sin motivo | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q102_p": {
+        "Description": "Underactive, slow moving, or lacks energy Poco activo(a), lento(a), o le falta energ\u00eda | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q103_p": {
+        "Description": "Unhappy, sad, or depressed Infeliz, triste, o deprimido(a) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q104_p": {
+        "Description": "Unusually loud M\u00e1s ruidoso(a) de lo com\u00fan | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q105_p": {
+        "Description": "Uses drugs for non medical purposes (don't include alcohol or tobacco) Usa drogas sin motivo m\u00e9dico (no incluya alcohol o tabaco) | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q106_p": {
+        "Description": "Vandalism Comete actos de vandalismo, como romper ventanas u otras cosas | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q107_p": {
+        "Description": "Wets self during the day Se orina en la ropa durante el d\u00eda | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q108_p": {
+        "Description": "Wets the bed Se orina en la cama | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q109_p": {
+        "Description": "Whining Se queja mucho | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q110_p": {
+        "Description": "Wishes to be of opposite sex Desea ser del sexo opuesto | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q111_p": {
+        "Description": "Withdrawn, doesn't get involved with others Se a\u00edsla, no se relaciona con los dem\u00e1s | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_q112_p": {
+        "Description": "Worries Se preocupa mucho | 0 = Not True /No es cierto (que sepa usted); 1 = Somewhat/Sometimes True  /En cierta manera; 2 = Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months",
+        "Levels": {
+            "0": "Not True /No es cierto (que sepa usted)",
+            "1": "Somewhat/Sometimes True  /En cierta manera",
+            "2": "Very True/Often True/ Muy cierto o cierto con frecuencia// Below is a list of items that describe children and youths. For each item that describes your child now or within the past 6 months"
+        }
+    },
+    "cbcl_scr_syn_anxdep_r": {
+        "Description": "AnxDep CBCL Syndrome Scale (raw score) = cbcl_q14_p and cbcl_q29_p and cbcl_q30_p and cbcl_q31_p and cbcl_q32_p and cbcl_q33_p and cbcl_q35_p and cbcl_q45_p and cbcl_q50_p and cbcl_q52_p and cbcl_q71_p and cbcl_q91_p and cbcl_q112_p | 0= Image artifacts prevent radiology read; \n1= No abnormal findings\n; 2 =Normal anatomical variant of no clinical significance; \n3 =Consider clinical referral; \n4-=Consider immediate clinical referral",
+        "Levels": {
+            "0": "Image artifacts prevent radiology read",
+            "1": "No abnormal findings",
+            "2": "Normal anatomical variant of no clinical significance",
+            "3": "Consider clinical referral",
+            "4-": "Consider immediate clinical referral"
+        }
+    },
+    "cbcl_scr_syn_anxdep_t": {
+        "Description": "AnxDep CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_anxdep_m": {
+        "Description": "AnxDep CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_anxdep_nm": {
+        "Description": "AnxDep CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_withdep_r": {
+        "Description": "WithDep CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_withdep_t": {
+        "Description": "WithDep CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_withdep_m": {
+        "Description": "WithDep CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_withdep_nm": {
+        "Description": "WithDep CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_somatic_r": {
+        "Description": "Somatic CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_somatic_t": {
+        "Description": "Somatic CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_somatic_m": {
+        "Description": "Somatic CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_somatic_nm": {
+        "Description": "Somatic CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_social_r": {
+        "Description": "Social CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_social_t": {
+        "Description": "Social CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_social_m": {
+        "Description": "Social CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_social_nm": {
+        "Description": "Social CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_thought_r": {
+        "Description": "Thought CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_thought_t": {
+        "Description": "Thought CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_thought_m": {
+        "Description": "Thought CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_thought_nm": {
+        "Description": "Thought CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_attention_r": {
+        "Description": "Attention CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_attention_t": {
+        "Description": "Attention CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_attention_m": {
+        "Description": "Attention CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_attention_nm": {
+        "Description": "Attention CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_rulebreak_r": {
+        "Description": "RuleBreak CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_rulebreak_t": {
+        "Description": "RuleBreak CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_rulebreak_m": {
+        "Description": "RuleBreak CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_rulebreak_nm": {
+        "Description": "RuleBreak CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_aggressive_r": {
+        "Description": "Aggressive CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_aggressive_t": {
+        "Description": "Aggressive CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_aggressive_m": {
+        "Description": "Aggressive CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_aggressive_nm": {
+        "Description": "Aggressive CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_internal_r": {
+        "Description": "Internal CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_internal_t": {
+        "Description": "Internal CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_internal_m": {
+        "Description": "Internal CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_internal_nm": {
+        "Description": "Internal CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_external_r": {
+        "Description": "External CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_external_t": {
+        "Description": "External CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_external_m": {
+        "Description": "External CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_external_nm": {
+        "Description": "External CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_syn_totprob_r": {
+        "Description": "TotProb CBCL Syndrome Scale (raw score)"
+    },
+    "cbcl_scr_syn_totprob_t": {
+        "Description": "TotProb CBCL Syndrome Scale (t-score)"
+    },
+    "cbcl_scr_syn_totprob_m": {
+        "Description": "TotProb CBCL Syndrome Scale (missing values)"
+    },
+    "cbcl_scr_syn_totprob_nm": {
+        "Description": "TotProb CBCL Syndrome Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_depress_r": {
+        "Description": "Depress CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_depress_t": {
+        "Description": "Depress CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_depress_m": {
+        "Description": "Depress CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_depress_nm": {
+        "Description": "Depress CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_anxdisord_r": {
+        "Description": "AnxDisord CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_anxdisord_t": {
+        "Description": "AnxDisord CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_anxdisord_m": {
+        "Description": "AnxDisord CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_anxdisord_nm": {
+        "Description": "AnxDisord CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_somaticpr_r": {
+        "Description": "SomaticPr CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_somaticpr_t": {
+        "Description": "SomaticPr CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_somaticpr_m": {
+        "Description": "SomaticPr CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_somaticpr_nm": {
+        "Description": "SomaticPr CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_adhd_r": {
+        "Description": "ADHD CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_adhd_t": {
+        "Description": "ADHD CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_adhd_m": {
+        "Description": "ADHD CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_adhd_nm": {
+        "Description": "ADHD CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_opposit_r": {
+        "Description": "Opposit CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_opposit_t": {
+        "Description": "Opposit CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_opposit_m": {
+        "Description": "Opposit CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_opposit_nm": {
+        "Description": "Opposit CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_dsm5_conduct_r": {
+        "Description": "Conduct CBCL DSM5 Scale (raw score)"
+    },
+    "cbcl_scr_dsm5_conduct_t": {
+        "Description": "Conduct CBCL DSM5 Scale (t-score)"
+    },
+    "cbcl_scr_dsm5_conduct_m": {
+        "Description": "Conduct CBCL DSM5 Scale (missing values)"
+    },
+    "cbcl_scr_dsm5_conduct_nm": {
+        "Description": "Conduct CBCL DSM5 Scale (number of missing values)"
+    },
+    "cbcl_scr_07_sct_r": {
+        "Description": "Sluggish Cognitive Tempo (SCT) CBCL Scale2007 Scale (raw score)"
+    },
+    "cbcl_scr_07_sct_t": {
+        "Description": "Sluggish Cognitive Tempo (SCT) CBCL Scale2007 Scale (t-score)"
+    },
+    "cbcl_scr_07_sct_m": {
+        "Description": "Sluggish Cognitive Tempo (SCT) CBCL Scale2007 Scale (missing values)"
+    },
+    "cbcl_scr_07_sct_nm": {
+        "Description": "Sluggish Cognitive Tempo (SCT) CBCL Scale2007 Scale (number of missing values)"
+    },
+    "cbcl_scr_07_ocd_r": {
+        "Description": "Obsessive-Compulsive Problems (OCD) CBCL Scale2007 Scale (raw score)"
+    },
+    "cbcl_scr_07_ocd_t": {
+        "Description": "Obsessive-Compulsive Problems (OCD) CBCL Scale2007 Scale (t-score)"
+    },
+    "cbcl_scr_07_ocd_m": {
+        "Description": "Obsessive-Compulsive Problems (OCD) CBCL Scale2007 Scale (missing values)"
+    },
+    "cbcl_scr_07_ocd_nm": {
+        "Description": "Obsessive-Compulsive Problems (OCD) CBCL Scale2007 Scale (number of missing values)"
+    },
+    "cbcl_scr_07_stress_r": {
+        "Description": "Stress CBCL Scale2007 Scale (raw score)"
+    },
+    "cbcl_scr_07_stress_t": {
+        "Description": "Stress CBCL Scale2007 Scale (t-score)"
+    },
+    "cbcl_scr_07_stress_m": {
+        "Description": "Stress CBCL Scale2007 Scale (missing values)"
+    },
+    "cbcl_scr_07_stress_nm": {
+        "Description": "Stress CBCL Scale2007 Scale (number of missing values)"
+    },
+    "cbcl_scr_07_stress_nm_2": {
+        "Description": "Stress CBCL Scale2007 Scale (number of missing values)"
+    }
+}

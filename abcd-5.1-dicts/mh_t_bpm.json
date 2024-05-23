@@ -1,0 +1,252 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bpmt_q1": {
+        "Description": "Acts too young for his/her age. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q2": {
+        "Description": "Argues a lot. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q3": {
+        "Description": "Fails to finish things he/she starts. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q4": {
+        "Description": "Can't concentrate, can't pay attention for long. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q5": {
+        "Description": "Can't sit still, restless, or hyperactive. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q6": {
+        "Description": "Destroys property belonging to others. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q7": {
+        "Description": "Disobedient at school. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q8": {
+        "Description": "Feels worthless or inferior. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q9": {
+        "Description": "Impulsive or acts without thinking. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q10": {
+        "Description": "Too fearful or anxious. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q11": {
+        "Description": "Feels too guilty. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q12": {
+        "Description": "Self-conscious or easily embarrassed. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q13": {
+        "Description": "Inattentive or easily distracted. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q14": {
+        "Description": "Stubborn, sullen, or irritable. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q15": {
+        "Description": "Temper tantrums or hot temper. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q16": {
+        "Description": "Threatens people. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q17": {
+        "Description": "Unhappy, sad, or depressed. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_q18": {
+        "Description": "Worries. | 0 = Not True (as far as you know); 1 = Somewhat True; 2 = Very True",
+        "Levels": {
+            "0": "Not True (as far as you know)",
+            "1": "Somewhat True",
+            "2": "Very True"
+        }
+    },
+    "bpmt_dte_last": {
+        "Description": "Last date sent"
+    },
+    "bpmt_dte_sent1": {
+        "Description": "Date sent 1"
+    },
+    "bpmt_dte_sent2": {
+        "Description": "Date sent 2"
+    },
+    "bpmt_dte_sent3": {
+        "Description": "Date sent 3"
+    },
+    "bpmt_sent_count": {
+        "Description": "Number of times sent"
+    },
+    "bpmt_status": {
+        "Description": "Status"
+    },
+    "bpm_t_scr_attention_r": {
+        "Description": "Raw Score:  bpmt_q1 plus  bpmt_q3 plus  bpmt_q4 plus  bpmt_q5 plus  bpmt_q9 plus  bpmt_q13 Validation: All items must be answered"
+    },
+    "bpm_t_scr_attention_t": {
+        "Description": "T-Score | T scores are based on the \"r\" score and the sex at birth (male or female) of the child"
+    },
+    "bpm_t_scr_attention_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_scr_attention_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_ss_attention_mean": {
+        "Description": "Mean: Mean(bpmt_q1 plus  bpmt_q3 plus  bpmt_q4 plus  bpmt_q5 plus  bpmt_q9 plus  bpmt_q13); Validation: All items must be answered"
+    },
+    "bpm_t_ss_attention_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_ss_attention_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_scr_internal_r": {
+        "Description": "Raw Score: bpmt_q8 plus  bpmt_q10 plus  bpmt_q11 plus  bpmt_q12 plus  bpmt_q17 plus  bpmt_q18); Validation: All items must be answered"
+    },
+    "bpm_t_scr_internal_t": {
+        "Description": "T-Score"
+    },
+    "bpm_t_scr_internal_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_scr_internal_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_ss_internal_mean": {
+        "Description": "Mean: Mean(bpmt_q8 plus  bpmt_q10 plus  bpmt_q11 plus  bpmt_q12 plus  bpmt_q17 plus  bpmt_q18); Validation: All items must be answered"
+    },
+    "bpm_t_ss_internal_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_ss_internal_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_scr_external_r": {
+        "Description": "Raw Score: bpmt_q2 plus  bpmt_q6 plus  bpmt_q7 plus  bpmt_q14 plus  bpmt_q15 plus  bpmt_q16; Validation: All items must be answered"
+    },
+    "bpm_t_scr_external_t": {
+        "Description": "T-Score"
+    },
+    "bpm_t_scr_external_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_scr_external_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_ss_external_mean": {
+        "Description": "Mean: Mean(bpmt_q2 plus  bpmt_q6 plus  bpmt_q7 plus  bpmt_q14 plus  bpmt_q15 plus  bpmt_q16); Validation: All items must be answered"
+    },
+    "bpm_t_ss_external_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_ss_external_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_scr_totalprob_r": {
+        "Description": "Raw Score: bpmt_q1 plus  bpmt_q2 plus  bpmt_q3 plus  bpmt_q4 plus  bpmt_q5 plus  bpmt_q6 plus  bpmt_q7 plus  bpmt_q8 plus  bpmt_q9 plus  bpmt_q10 plus  bpmt_q11 plus  bpmt_q12 plus  bpmt_q13 plus  bpmt_q14 plus  bpmt_q15 plus  bpmt_q16 plus bpmt_q17 plus  bpmt_q18; Validation: All items must be answered"
+    },
+    "bpm_t_scr_totalprob_t": {
+        "Description": "T-Score"
+    },
+    "bpm_t_scr_totalprob_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_scr_totalprob_nt": {
+        "Description": "Number Total Questions"
+    },
+    "bpm_t_ss_totalprob_mean": {
+        "Description": "Mean: Mean(bpmt_q1 plus  bpmt_q2 plus  bpmt_q3 plus  bpmt_q4 plus bpmt_q5 plus  bpmt_q6 plus  bpmt_q7 plus  bpmt_q8 plus bpmt_q9 plus  bpmt_q10 plus  bpmt_q11 plus  bpmt_q12 plus bpmt_q13 plus  bpmt_q14 plus  bpmt_q15 plus  bpmt_q16 plus bpmt_q17 plus  bpmt_q18); Validation: All items must be answered"
+    },
+    "bpm_t_ss_totalprob_nm": {
+        "Description": "Number Missing Answers"
+    },
+    "bpm_t_ss_totalprob_nt": {
+        "Description": "Number Total Questions"
+    }
+}

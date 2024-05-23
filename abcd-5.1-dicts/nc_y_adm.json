@@ -1,0 +1,84 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ncog_device": {
+        "Description": "What was the make and model of the phone with technical issues? (e.g. iPhone 8, iPhone XR, Samsung Galaxy S10e, Pixel 3 XL, OnePlus 7T Pro, LG G8 ThinkQ, etc) | [ncog_session] = '2' or [ncog_session] = '3' or [ncog_session] = '5'"
+    },
+    "neurocog_2_device": {
+        "Description": "NCog Session: | 1=Completed in full without disruption ; 2=Completed in full with temporary technical disruption ; 3=Completed partially due to technical disruption ; 4=Completed partially due to not having a smart phone ; 5=Did not complete due to other technical issues [sched_delay] = '9'",
+        "Levels": {
+            "1": "Completed in full without disruption",
+            "2": "Completed in full with temporary technical disruption",
+            "3": "Completed partially due to technical disruption",
+            "4": "Completed partially due to not having a smart phone",
+            "5": "Did not complete due to other technical issues"
+        }
+    },
+    "neurocog_device": {
+        "Description": "NCog Session: | 1=Completed in full without disruption ; 2=Completed in full with temporary technical disruption ; 3=Completed partially due to technical disruption ; 4=Did not complete due to not being able to share screen ; 5=Did not complete due to technical issues [sched_delay] = '9'",
+        "Levels": {
+            "1": "Completed in full without disruption",
+            "2": "Completed in full with temporary technical disruption",
+            "3": "Completed partially due to technical disruption",
+            "4": "Did not complete due to not being able to share screen",
+            "5": "Did not complete due to technical issues"
+        }
+    },
+    "neurocog_2_remote___1": {
+        "Description": "Remote method of Neurocognitive tasks pt 2 administration [Check all that apply]:  1, Audio | 1=Yes; 0=No  [sched_delay] = '9' AND [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_remote___2": {
+        "Description": "Remote method of Neurocognitive tasks pt 2 administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No  [sched_delay] = '9' AND [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_remote___3": {
+        "Description": "Remote method of Neurocognitive tasks pt 2 administration [Check all that apply]:  3, Unmonitored | 1=Yes; 0=No [sched_delay] = '9' AND [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_intro_ipad_y": {
+        "Description": "Which iPAD model will you use? | 1=iPad Air II (otterbox defender series cover) ; 2=9.7'' iPad PRO (otterbox defender series cover) ; 4=9.7'' iPad (NON-Pro) (otterbox defender series cover) ; 5=10.2'' iPad (NON-Pro) (otterbox defender series cover) ; 3=Other iPad model or Model/cover combination [sched_delay] = '9' and [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "iPad Air II (otterbox defender series cover)",
+            "2": "9.7'' iPad PRO (otterbox defender series cover)",
+            "4": "9.7'' iPad (NON-Pro) (otterbox defender series cover)",
+            "5": "10.2'' iPad (NON-Pro) (otterbox defender series cover)",
+            "3": "Other iPad model or Model/cover combination"
+        }
+    },
+    "neurocog_intro2_ipad_y": {
+        "Description": "Which iPAD model will you use? | 1=iPad Air II (otterbox defender series cover) ; 2=9.7'' iPad PRO (otterbox defender series cover) ; 4=9.7'' iPad (NON-Pro) (otterbox defender series cover) ; 5=10.2'' iPad (NON-Pro) (otterbox defender series cover) ; 3=Other iPad model or Model/cover combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "iPad Air II (otterbox defender series cover)",
+            "2": "9.7'' iPad PRO (otterbox defender series cover)",
+            "4": "9.7'' iPad (NON-Pro) (otterbox defender series cover)",
+            "5": "10.2'' iPad (NON-Pro) (otterbox defender series cover)",
+            "3": "Other iPad model or Model/cover combination"
+        }
+    },
+    "neurocog_remote___1": {
+        "Description": "Additional methods of neurocognitive tasks pt 1 administration: 1, Audio | 1=Yes; 0=No [sched_delay] = '9' AND [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_remote___2": {
+        "Description": "Additional methods of neurocognitive tasks pt 1 administration: 2, Video/Webcam | 1=Yes; 0=No [sched_delay] = '9' AND [sched_hybrid] = '0'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

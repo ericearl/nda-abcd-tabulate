@@ -1,0 +1,99 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pea_ravlt_sd_trial_i_tc": {
+        "Description": "RAVLT Short Delay Trial I Total Correct"
+    },
+    "pea_ravlt_sd_trial_i_tr": {
+        "Description": "RAVLT Short Delay Trial I Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_i_ti": {
+        "Description": "RAVLT Short Delay Trial I Total Intrusions"
+    },
+    "pea_ravlt_sd_trial_ii_tc": {
+        "Description": "RAVLT Short Delay Trial II Total Correct"
+    },
+    "pea_ravlt_sd_trial_ii_tr": {
+        "Description": "RAVLT Short Delay Trial II Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_ii_ti": {
+        "Description": "RAVLT Short Delay Trial II Total Intrusions"
+    },
+    "pea_ravlt_sd_trial_iii_tc": {
+        "Description": "RAVLT Short Delay Trial III Total Correct"
+    },
+    "pea_ravlt_sd_trial_iii_tr": {
+        "Description": "RAVLT Short Delay Trial III Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_iii_ti": {
+        "Description": "RAVLT Short Delay Trial III Total Intrusions"
+    },
+    "pea_ravlt_sd_trial_iv_tc": {
+        "Description": "RAVLT Short Delay Trial IV Total Correct"
+    },
+    "pea_ravlt_sd_trial_iv_tr": {
+        "Description": "RAVLT Short Delay Trial IV Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_iv_ti": {
+        "Description": "RAVLT Short Delay Trial IV Total Intrusions"
+    },
+    "pea_ravlt_sd_trial_v_tc": {
+        "Description": "RAVLT Short Delay Trial V Total Correct"
+    },
+    "pea_ravlt_sd_trial_v_tr": {
+        "Description": "RAVLT Short Delay Trial V Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_v_ti": {
+        "Description": "RAVLT Short Delay Trial V Total Intrusions"
+    },
+    "pea_ravlt_sd_listb_tc": {
+        "Description": "RAVLT Short Delay List B Total Correct"
+    },
+    "pea_ravlt_sd_listb_tr": {
+        "Description": "RAVLT Short Delay List B Total Repetitions"
+    },
+    "pea_ravlt_sd_listb_ti": {
+        "Description": "RAVLT Short Delay List B Total Intrusions"
+    },
+    "pea_ravlt_sd_trial_vi_tc": {
+        "Description": "RAVLT Short Delay Trial VI Total Correct"
+    },
+    "pea_ravlt_sd_trial_vi_tr": {
+        "Description": "RAVLT Short Delay Trial VI Total Repetitions"
+    },
+    "pea_ravlt_sd_trial_vi_ti": {
+        "Description": "RAVLT Short Delay Trial VI Total Intrusions"
+    },
+    "pea_ravlt_ld_trial_vii_tc": {
+        "Description": "RAVLT Long Delay Trial VII Total Correct"
+    },
+    "pea_ravlt_ld_trial_vii_tr": {
+        "Description": "RAVLT Long Delay Trial VII Total Repetitions"
+    },
+    "pea_ravlt_ld_trial_vii_ti": {
+        "Description": "RAVLT Long Delay Trial VII Total Intrusions"
+    },
+    "neurocog_2_ravlt___1": {
+        "Description": "Method of RAVLT administration [Check all that apply]: 1, Audio | 1=Yes; 0=No [sched_hybrid] = '1' and [event-name]!='4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_ravlt___2": {
+        "Description": "Method of RAVLT administration [Check all that apply]:  2, Video/Webcam | 1=Yes; 0=No [sched_hybrid] = '1' and [event-name]!='4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "neurocog_2_ravlt___3": {
+        "Description": "Method of RAVLT administration [Check all that apply]: 3, In person (ONLY if issues arise and hybrid) | 1=Yes; 0=No [sched_hybrid] = '1' and [event-name]!='4_year_follow_up_y_arm_1'",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    }
+}

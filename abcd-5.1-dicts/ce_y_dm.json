@@ -1,0 +1,135 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dim_yesno_q1": {
+        "Description": "In the past 12 months, have you felt discriminated against: because of your race, ethnicity, or color?  Definition of  ethnicity: groups of people who have the same customs, or origin | 1 = Yes; 0 = No; 777 = Don't know; 999 = Refused to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Don't know",
+            "999": "Refused to answer"
+        }
+    },
+    "dim_yesno_q2": {
+        "Description": "In the past 12 months, have you felt discriminated against: because you are (or your family is) from another country? | 1 = Yes; 0 = No; 777 = Don't know; 999 = Refused to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Don't know",
+            "999": "Refused to answer"
+        }
+    },
+    "dim_yesno_q3": {
+        "Description": "In the past 12 months, have you felt discriminated against: because someone thought you were gay, lesbian, or bisexual? | 1 = Yes; 0 = No; 777 = Don't know; 999 = Refused to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Don't know",
+            "999": "Refused to answer"
+        }
+    },
+    "dim_yesno_q4": {
+        "Description": "In the past 12 months, have you felt discriminated against: because of your weight? | 1 = Yes; 0 = No; 777 = Don't know; 999 = Refused to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Don't know",
+            "999": "Refused to answer"
+        }
+    },
+    "dim_matrix_q1": {
+        "Description": "How often do the following people treat you unfairly or negatively because of your ethnic background? Teachers: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q2": {
+        "Description": "How often do the following people treat you unfairly or negatively because of your ethnic background? Other adults outside school: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q3": {
+        "Description": "How often do the following people treat you unfairly or negatively because of your ethnic background? Other students: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q4": {
+        "Description": "I feel that others behave in an unfair or negative way toward my ethnic group: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q5": {
+        "Description": "I feel that I am not wanted in American society: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q6": {
+        "Description": "I don't feel accepted by other Americans: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_matrix_q7": {
+        "Description": "I feel that other Americans have something against me: | 1 = almost never; 2 = rarely; 3 = sometimes; 4 = often; 5 = very often; 777 = don't know; 999 = refused to answer",
+        "Levels": {
+            "1": "almost never",
+            "2": "rarely",
+            "3": "sometimes",
+            "4": "often",
+            "5": "very often",
+            "777": "don't know",
+            "999": "refused to answer"
+        }
+    },
+    "dim_y_ss_mean": {
+        "Description": "Discrimination Measure mean(dim_matrix_q1,dim_matrix_q2,dim_matrix_q3,dim_matrix_q4,dim_matrix_q5,dim_matrix_q6,dim_matrix_q7); Only add if value 1 - 5; Validation: Minimum of four items must be answered"
+    },
+    "dim_y_ss_mean_nm": {
+        "Description": "Discrimination Measure mean: Number Missing Answers"
+    },
+    "dim_y_ss_mean_nt": {
+        "Description": "Discrimination Measure mean: Number Total Questions"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_rsirnt_scs_cwmlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-cerebral-white-matter"
+    },
+    "dmri_rsirnt_scs_lvlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-lateral-ventricle"
+    },
+    "dmri_rsirnt_scs_ilvlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-inf-lat-vent"
+    },
+    "dmri_rsirnt_scs_cbwmlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-cerebellum-white-matter"
+    },
+    "dmri_rsirnt_scs_cbclh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-cerebellum-cortex"
+    },
+    "dmri_rsirnt_scs_tplh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-thalamus-proper"
+    },
+    "dmri_rsirnt_scs_cdlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-caudate"
+    },
+    "dmri_rsirnt_scs_ptlh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-putamen"
+    },
+    "dmri_rsirnt_scs_pllh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-pallidum"
+    },
+    "dmri_rsirnt_scs_3rdv": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation 3rd-ventricle"
+    },
+    "dmri_rsirnt_scs_4thv": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation 4th-ventricle"
+    },
+    "dmri_rsirnt_scs_bs": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation brain-stem"
+    },
+    "dmri_rsirnt_scs_hclh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-hippocampus"
+    },
+    "dmri_rsirnt_scs_aglh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-amygdala"
+    },
+    "dmri_rsirnt_scs_csf": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation csf"
+    },
+    "dmri_rsirnt_scs_ablh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-accumbens-area"
+    },
+    "dmri_rsirnt_scs_vdclh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation left-ventraldc"
+    },
+    "dmri_rsirnt_scs_cwmrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-cerebral-white-matter"
+    },
+    "dmri_rsirnt_scs_lvrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-lateral-ventricle"
+    },
+    "dmri_rsirnt_scs_ilvrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-inf-lat-vent"
+    },
+    "dmri_rsirnt_scs_cbwmrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-cerebellum-white-matter"
+    },
+    "dmri_rsirnt_scs_cbcrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-cerebellum-cortex"
+    },
+    "dmri_rsirnt_scs_tprh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-thalamus-proper"
+    },
+    "dmri_rsirnt_scs_cdrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-caudate"
+    },
+    "dmri_rsirnt_scs_ptrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-putamen"
+    },
+    "dmri_rsirnt_scs_plrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-pallidum"
+    },
+    "dmri_rsirnt_scs_hcrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-hippocampus"
+    },
+    "dmri_rsirnt_scs_agrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-amygdala"
+    },
+    "dmri_rsirnt_scs_abrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-accumbens-area"
+    },
+    "dmri_rsirnt_scs_vdcrh": {
+        "Description": "restricted normalized total diffusion aseg subcortical segmentation right-ventraldc"
+    }
+}

@@ -1,0 +1,408 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ledsch_seda_m_cellcount_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) all"
+    },
+    "ledsch_seda_m_cellcount_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) economically disadvantaged"
+    },
+    "ledsch_seda_m_cellcount_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) female"
+    },
+    "ledsch_seda_m_cellcount_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) male"
+    },
+    "ledsch_seda_m_cellcount_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) male minus female opportunity gap"
+    },
+    "ledsch_seda_m_cellcount_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) not disadvantaged economically"
+    },
+    "ledsch_seda_m_cellcount_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates EdFacts (Metro) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_grdcenter_all": {
+        "Description": "Grade used for pooled centering (Metro)"
+    },
+    "ledsch_seda_m_mn_asmts_all": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) all"
+    },
+    "ledsch_seda_m_mn_asmts_ecd": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_asmts_fem": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) female"
+    },
+    "ledsch_seda_m_mn_asmts_mal": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) male"
+    },
+    "ledsch_seda_m_mn_asmts_mfg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_asmts_nec": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_asmts_neg": {
+        "Description": "Per grade number of math and Reading Language Arts cells for pooled estimates (tot_asmts/cellcount) (Metro) not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_avg_eb_all": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_avg_eb_ecd": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_avg_eb_fem": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_avg_eb_mal": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_avg_eb_mfg": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_avg_eb_nec": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_avg_eb_neg": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_all": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_ecd": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_fem": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_mal": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_mfg": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_nec": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_avg_eb_se_neg": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_avg_ol_all": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_avg_ol_ecd": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_avg_ol_fem": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_avg_ol_mal": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_avg_ol_mfg": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_avg_ol_nec": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_avg_ol_neg": {
+        "Description": "Metro Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_all": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_ecd": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_fem": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_mal": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_mfg": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_nec": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_avg_ol_se_neg": {
+        "Description": "Metro SE of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_coh_eb_all": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_coh_eb_ecd": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_coh_eb_fem": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_coh_eb_mal": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_coh_eb_mfg": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_coh_eb_nec": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_coh_eb_neg": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_all": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_ecd": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_fem": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_mal": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_mfg": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_nec": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_coh_eb_se_neg": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_coh_ol_all": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_coh_ol_ecd": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_coh_ol_fem": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_coh_ol_mal": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_coh_ol_mfg": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_coh_ol_nec": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_coh_ol_neg": {
+        "Description": "Metro Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_all": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_ecd": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_fem": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_mal": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_mfg": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_nec": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_coh_ol_se_neg": {
+        "Description": "Metro SE of Cohort Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_grd_eb_all": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_grd_eb_ecd": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_grd_eb_fem": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_grd_eb_mal": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_grd_eb_mfg": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_grd_eb_nec": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_grd_eb_neg": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_all": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_ecd": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_fem": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_mal": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_mfg": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_nec": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_grd_eb_se_neg": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_grd_ol_all": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_grd_ol_ecd": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_grd_ol_fem": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_grd_ol_mal": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_grd_ol_mfg": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_grd_ol_nec": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_grd_ol_neg": {
+        "Description": "Metro Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_all": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_ecd": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_fem": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_mal": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_mfg": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_nec": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_grd_ol_se_neg": {
+        "Description": "Metro SE of Grade Slope of Mean Ach, Math&Reading Language Arts, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_mth_eb_all": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_mth_eb_ecd": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_mth_eb_fem": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_mth_eb_mal": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_mth_eb_mfg": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_mth_eb_nec": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_mth_eb_neg": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_all": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS all"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_ecd": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_fem": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS female"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_mal": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_mfg": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_nec": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_mth_eb_se_neg": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, EB est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_mth_ol_all": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_mth_ol_ecd": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_mth_ol_fem": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_mth_ol_mal": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_mth_ol_mfg": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_mth_ol_nec": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_mth_ol_neg": {
+        "Description": "Metro Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_all": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS all"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_ecd": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS economically disadvantaged"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_fem": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS female"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_mal": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_mfg": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS male minus female opportunity gap"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_nec": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically"
+    },
+    "ledsch_seda_m_mn_mth_ol_se_neg": {
+        "Description": "Metro SE of Math-ELA Diff in Mean Ach, Math&ELA, OLS est, CS not disadvantaged economically minus economically disadvantaged gap"
+    },
+    "ledsch_seda_m_tot_asmts_all": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) all"
+    },
+    "ledsch_seda_m_tot_asmts_ecd": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) economically disadvantaged"
+    },
+    "ledsch_seda_m_tot_asmts_fem": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) female"
+    },
+    "ledsch_seda_m_tot_asmts_mal": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) male"
+    },
+    "ledsch_seda_m_tot_asmts_mfg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) male minus female opportunity gap"
+    },
+    "ledsch_seda_m_tot_asmts_nec": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) not disadvantaged economically"
+    },
+    "ledsch_seda_m_tot_asmts_neg": {
+        "Description": "Total number of math and Reading Language Arts tests for pooled estimates HML using SEDA HETOP EST (Metro) not disadvantaged economically minus economically disadvantaged gap"
+    }
+}

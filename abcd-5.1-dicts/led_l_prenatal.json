@@ -1,0 +1,18 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_pm25_prenatal_avg": {
+        "Description": "9 month average PM2.5 exposure at current address #1 of birth year"
+    },
+    "reshist_addr1_no2_prenatal_avg": {
+        "Description": "9 month average NO2 exposure at current address #1 of birth year"
+    },
+    "reshist_addr1_o3_prenatal_avg": {
+        "Description": "9 month average O3 exposure at current address #1 of birth year"
+    },
+    "prenatal_exposure_qc": {
+        "Description": "ranking of expected accuracy of prenatal data"
+    }
+}

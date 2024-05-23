@@ -1,0 +1,400 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "gish2_had_bf_gf": {
+        "Description": "Have you ever had a romantic relationship (like a boyfriend or girlfriend)? | 1=Yes; 0=No; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_want_bf_gf": {
+        "Description": "Have you ever wanted to have a romantic relationship (like a boyfriend or girlfriend)? | 1=Yes; 0=No; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_nr_kiss": {
+        "Description": "Have you ever kissed anyone on the mouth? | 1=Yes; 0=No; 777=Refuse to answer; 555, Not administered",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Refuse to answer"
+        }
+    },
+    "gish2_nr_hands": {
+        "Description": "Has anyone ever put their hands under your clothes? | 1=Yes; 0=No; 777=Refuse to answer; 555, Not administered",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Refuse to answer"
+        }
+    },
+    "gish2_nr_self_hands": {
+        "Description": "Have you ever put your hands under someone's clothes? | 1=Yes; 0=No; 777=Refuse to answer; 555, Not administered",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Refuse to answer"
+        }
+    },
+    "gish2_cf_have_bf_gf": {
+        "Description": "Having a romantic relationship (like a boyfriend or girlfriend) | 1=Approve; 2=Neither Approve / Disapprove; 3=Disapprove; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Approve",
+            "2": "Neither Approve / Disapprove",
+            "3": "Disapprove",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_cf_kiss": {
+        "Description": "Kissing someone on the mouth | 1=Approve; 2=Neither Approve / Disapprove; 3=Disapprove; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Approve",
+            "2": "Neither Approve / Disapprove",
+            "3": "Disapprove",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_cf_hands": {
+        "Description": "Someone putting their hands under your clothes | 1=Approve; 2=Neither Approve / Disapprove; 3=Disapprove; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Approve",
+            "2": "Neither Approve / Disapprove",
+            "3": "Disapprove",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_cf_self_hands": {
+        "Description": "Putting your hands under someone's clothes? | 1=Approve; 2=Neither Approve / Disapprove; 3=Disapprove; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "Approve",
+            "2": "Neither Approve / Disapprove",
+            "3": "Disapprove",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_f_had_bf_gf": {
+        "Description": "Had a romantic relationship (like a boyfriend/girlfriend) | 1=None; 2=A Few; 3=Most; 4=All; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "None",
+            "2": "A Few",
+            "3": "Most",
+            "4": "All",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_f_kiss": {
+        "Description": "Kissed someone on the mouth | 1=None; 2=A Few; 3=Most; 4=All; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "None",
+            "2": "A Few",
+            "3": "Most",
+            "4": "All",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_f_hands": {
+        "Description": "Had someone put their hands under your friend's clothes. | 1=None; 2=A Few; 3=Most; 4=All; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "None",
+            "2": "A Few",
+            "3": "Most",
+            "4": "All",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_f_self_hands": {
+        "Description": "Put their hands under someone's clothes | 1=None; 2=A Few; 3=Most; 4=All; 999=Don't Know; 777=Refuse to Answer",
+        "Levels": {
+            "1": "None",
+            "2": "A Few",
+            "3": "Most",
+            "4": "All",
+            "999": "Don't Know",
+            "777": "Refuse to Answer"
+        }
+    },
+    "gish2_device": {
+        "Description": "Youth's Device: | 1=Phone Screen ; 2=Tablet/iPad Screen ; 3=Computer Screen",
+        "Levels": {
+            "1": "Phone Screen",
+            "2": "Tablet/iPad Screen",
+            "3": "Computer Screen"
+        }
+    },
+    "gish2_sexual_attract": {
+        "Description": "People differ in their sexual attraction to other people. Which best describes your feelings? I am... | 0=1, I am attracted only to girls; 1=2, I am attracted mostly to girls and a little to boys; 2=3, I am attracted equally to girls and boys; 3=4, I am attracted mostly to boys and a little to girls; 4=5, I am attracted only to boys; 5=6, I am not attracted to either boys or girls; 999=7, I don't know; 777=8, Decline to answer",
+        "Levels": {
+            "0": "1, I am attracted only to girls",
+            "1": "2, I am attracted mostly to girls and a little to boys",
+            "2": "3, I am attracted equally to girls and boys",
+            "3": "4, I am attracted mostly to boys and a little to girls",
+            "4": "5, I am attracted only to boys",
+            "5": "6, I am not attracted to either boys or girls",
+            "999": "7, I don't know",
+            "777": "8, Decline to answer"
+        }
+    },
+    "gish2_girls": {
+        "Description": "I am attracted to girls | 1=Not at all; 2=A little; 3=A lot; 999=I don't know; 777=Decline to answer",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little",
+            "3": "A lot",
+            "999": "I don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_boys": {
+        "Description": "I am attracted to boys: | 1=Not at all; 2=A little; 3=A lot; 999=I don't know; 777=Decline to answer",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little",
+            "3": "A lot",
+            "999": "I don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_nonbinary_1": {
+        "Description": "I am attracted to people who are another gender (e.g. nonbinary) | 1=Not at all; 2=A little; 3=A lot; 999=I don't know; 4=I don't understand this question; 777=Decline to answer",
+        "Levels": {
+            "1": "Not at all",
+            "2": "A little",
+            "3": "A lot",
+            "999": "I don't know",
+            "4": "I don't understand this question",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_nr_kiss_type_rd": {
+        "Description": "I have kissed... | 0=Only boyfriends; 1=Only girlfriends; 2=Both boyfriends and girlfriends; 777=Decline to answer",
+        "Levels": {
+            "0": "Only boyfriends",
+            "1": "Only girlfriends",
+            "2": "Both boyfriends and girlfriends",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_nr_kiss_type___3": {
+        "Description": "I have kissed... boys | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_nr_kiss_type___4": {
+        "Description": "I have kissed... girls | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_nr_kiss_type___5": {
+        "Description": "I have kissed... people who are another gender (e.g. nonbinary) | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_nr_kiss_type___777": {
+        "Description": "I have kissed... decline to answer | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_ever_type_rd": {
+        "Description": "I have had romantic relationship with... | 0=Only boyfriends; 1=Only girlfriends; 2=Both boyfriends and girlfriends; 777=Decline to answer",
+        "Levels": {
+            "0": "Only boyfriends",
+            "1": "Only girlfriends",
+            "2": "Both boyfriends and girlfriends",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_ever_type___3": {
+        "Description": "I have had romantic relationship with... boys | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_ever_type___4": {
+        "Description": "I have had romantic relationship with... girls | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_ever_type___5": {
+        "Description": "I have had romantic relationship with... people who are another gender (e.g. nonbinary) | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_ever_type___777": {
+        "Description": "I have had romantic relationship with... decline to answer | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_currently_have": {
+        "Description": "Are you currently in a romantic relationship? | 1=Yes; 0=No; 777=Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "0": "No",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_how_old": {
+        "Description": "How old are they compared to you? | 0=Younger; 1=About the same age; 2=Older; 777=Decline to Answer",
+        "Levels": {
+            "0": "Younger",
+            "1": "About the same age",
+            "2": "Older",
+            "777": "Decline to Answer"
+        }
+    },
+    "gish2_spend_time": {
+        "Description": "How often do you spend time after school or on weekends with them? | 0=Once a day; 1=A few times a week; 2=Once a week; 3=Once a month or less; 4=Only online or over the phone and never or rarely in person; 777=Decline to answer",
+        "Levels": {
+            "0": "Once a day",
+            "1": "A few times a week",
+            "2": "Once a week",
+            "3": "Once a month or less",
+            "4": "Only online or over the phone and never or rarely in person",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_use_alc": {
+        "Description": "Alcohol (beer, wine, or liquor) | 0=Never; 1=Sometimes; 2=Often; 999=Don't know; 777=Decline to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often",
+            "999": "Don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_use_tob": {
+        "Description": "Tobacco products (cigarettes, smokeless tobacco, cigars, hookah, electronic or e-cigarettes) | 0=Never; 1=Sometimes; 2=Often; 999=Don't know; 777=Decline to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often",
+            "999": "Don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_use_mj": {
+        "Description": "Marijuana (weed, pot, blunts, dabs, drinks or food with marijuana) | 0=Never; 1=Sometimes; 2=Often; 999=Don't know; 777=Decline to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often",
+            "999": "Don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_use_other": {
+        "Description": "Other drugs | 0=Never; 1=Sometimes; 2=Often; 999=Don't know; 777=Decline to answer",
+        "Levels": {
+            "0": "Never",
+            "1": "Sometimes",
+            "2": "Often",
+            "999": "Don't know",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_want_type_rd": {
+        "Description": "I have wanted to have a romantic relationship with... | 0=Only boyfriends; 1=Only girlfriends; 2=Both boyfriends and girlfriends; 777=Decline to answer",
+        "Levels": {
+            "0": "Only boyfriends",
+            "1": "Only girlfriends",
+            "2": "Both boyfriends and girlfriends",
+            "777": "Decline to answer"
+        }
+    },
+    "gish2_want_type___3": {
+        "Description": "I have wanted to have a romantic relationship with... boys | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_want_type___4": {
+        "Description": "I have wanted to have a romantic relationship with... girls | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_want_type___5": {
+        "Description": "I have wanted to have a romantic relationship with... people who are another gender (e.g. nonbinary) | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_want_type___777": {
+        "Description": "I have wanted to have a romantic relationship with... decline to answer | 1=Yes; 0=No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "gish2_abstinences": {
+        "Description": "Abstinence/waiting to have sex | 1=Yes; 2=No; 3=Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "gish2_safe_practices": {
+        "Description": "Safe sex practices | 1=Yes; 2=No; 3=Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "gish2_convo": {
+        "Description": "Other conversation about sex | 1=Yes; 2=No; 3=Decline to answer",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Decline to answer"
+        }
+    },
+    "kbi_y_sex_orient": {
+        "Description": "Are you gay or bisexual? | 1, Yes | 2, Maybe | 3, No | 4, I do not understand this question | 777, Refuse to answer"
+    },
+    "kbi_desc_self": {
+        "Description": "Would you describe yourself as: | 1, 1, Heterosexual (straight) | 2, 2, Other | 3, 3, Unsure | 777, 4, Decline to answer"
+    },
+    "kbi_desc_self_2": {
+        "Description": "Would you describe yourself as: | 1, 1, Gay or lesbian | 2, 2, Bisexual | 3, 3, Other | 4, 4, Unsure | 777, 5, Decline to answer"
+    },
+    "kbi_desc_self_3": {
+        "Description": "Would you describe yourself as: | 1, 1, Gay or lesbian | 2, 2, Bisexual | 3, 3, Heterosexual (straight) | 4, 4, Other | 5, 5, Unsure | 777, 6, Decline to answer"
+    },
+    "kbi_y_sex_orient_probs": {
+        "Description": "Has this caused any problems for you with your family or with kids at school? | 1, Not at all | 2, Some | 3, A lot | 777, Refuse to answer"
+    }
+}

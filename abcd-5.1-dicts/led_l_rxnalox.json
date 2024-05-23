@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_eff_nalcop": {
+        "Description": "Residential history derived - indicates if any state co-prescribing nalaxone policy was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_eff_all": {
+        "Description": "Residential history derived - indicates if state co-prescribing nalaxone policy was effective for all patients at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_eff_nalcop": {
+        "Description": "Residential history derived - indicates if any state co-prescribing nalaxone policy was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_eff_all": {
+        "Description": "Residential history derived - indicates if state co-prescribing nalaxone policy was effective for all patients at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_eff_nalcop": {
+        "Description": "Residential history derived - indicates if any state co-prescribing nalaxone policy was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_eff_all": {
+        "Description": "Residential history derived - indicates if state co-prescribing nalaxone policy was effective for all patients at date of baseline visit (address 3)"
+    }
+}

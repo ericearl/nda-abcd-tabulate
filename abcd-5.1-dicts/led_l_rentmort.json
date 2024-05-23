@@ -1,0 +1,51 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_oz_pcownership": {
+        "Description": "Residential history derived - Percent Homeownership;ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr1_oz_medhvalue": {
+        "Description": "Residential history derived - Median house value; ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr1_oz_rentburden": {
+        "Description": "Residential history derived - Percent rent burden(30% or more of income); ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr1_oz_sevrentburden": {
+        "Description": "Residential history derived - Percent severe rent burden (50% or more of income); ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr1_oz_medrent": {
+        "Description": "Residential history derived - Median rent per month; ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr2_oz_pcownership": {
+        "Description": "Residential history derived - Percent Homeownership;ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr2_oz_medhvalue": {
+        "Description": "Residential history derived - Median house value; ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr2_oz_rentburden": {
+        "Description": "Residential history derived - Percent rent burden(30% or more of income); ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr2_oz_sevrentburden": {
+        "Description": "Residential history derived - Percent severe rent burden (50% or more of income); ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr2_oz_medrent": {
+        "Description": "Residential history derived - Median rent per month; ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_oz_pcownership": {
+        "Description": "Residential history derived - Percent Homeownership;ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_oz_medhvalue": {
+        "Description": "Residential history derived - Median house value; ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_oz_rentburden": {
+        "Description": "Residential history derived - Percent rent burden(30% or more of income); ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_oz_sevrentburden": {
+        "Description": "Residential history derived - Percent severe rent burden (50% or more of income); ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_oz_medrent": {
+        "Description": "Residential history derived - Median rent per month; ACS2014-2018; census tract (addr3)"
+    }
+}

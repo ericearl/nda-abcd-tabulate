@@ -1,0 +1,121 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ssrs_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ssrs_6_p": {
+        "Description": "Would rather be alone than with others. Prefiere estar solo(a) que con otros. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_15r_p": {
+        "Description": "Is able to understand the meaning of other people's tone of voice and facial expressions. Es capaz de entender el significado del tono de voz y las expresiones faciales de otras personas. | 4 = Not True No es cierto; 3 = Sometimes True Algunas veces cierto; 2 = Often True Frequentemente cierto; 1 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "4": "Not True No es cierto",
+            "3": "Sometimes True Algunas veces cierto",
+            "2": "Often True Frequentemente cierto",
+            "1": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_16_p": {
+        "Description": "Avoids eye contact or has unusual eye contact. Evita el contacto con los ojos o tiene contacto visual inusual. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_18_p": {
+        "Description": "Has difficulty making friends, even when trying his or her best. Tiene dificultades para hacer amigos, incluso cuando intenta con su mejor esfuerzo. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_24_p": {
+        "Description": "Has more difficulty than other children with changes in his or her routine. Tiene m\u00e1s dificultad que otros ni\u00f1os/(as) con cambios en su rutina. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_29_p": {
+        "Description": "Is regarded by other children as odd or weird. Es considerado/a por otros ni\u00f1os como extra\u00f1o/a o raro/a. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_35_p": {
+        "Description": "Has trouble keeping up with the flow of normal conversation. Tiene problemas para mantener el flujo de una conversaci\u00f3n normal. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_37_p": {
+        "Description": "Has difficulty relating to peers. Tiene dificultades para relacionarse con sus compa\u00f1eros. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_39_p": {
+        "Description": "Has an unusually narrow range of interests. Tiene una gama inusualmente estrecha de intereses. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_42_p": {
+        "Description": "Seems overly sensitive to sounds, textures or smells. Parece demasiado/a sensible a los sonidos, las texturas o los olores. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_58_p": {
+        "Description": "Concentrates too much on parts of things rather than seeing the whole picture.  For example, if asked to describe what happened in a story, he or she may talk only about the kind of clothes the characters were wearing. Se concentra demasiado en partes de las cosas en vez de ver la imagen completa. Por ejemplo, si se le pide que describa lo que sucedi\u00f3 en una historia, \u00e9l o ella hablar\u00edan s\u00f3lo sobre la clase/tipo de ropas que los personajes llevaban. | 1 = Not True No es cierto; 2 = Sometimes True Algunas veces cierto; 3 = Often True Frequentemente cierto; 4 = Almost Always True Casi siempre cierto",
+        "Levels": {
+            "1": "Not True No es cierto",
+            "2": "Sometimes True Algunas veces cierto",
+            "3": "Often True Frequentemente cierto",
+            "4": "Almost Always True Casi siempre cierto"
+        }
+    },
+    "ssrs_p_ss_sum": {
+        "Description": "SSRS sum[ssrs_15r, ssrs_6, ssrs_16, ssrs_18, ssrs_24, ssrs_29, ssrs_35, ssrs_37, ssrs_39, ssrs_42, ssrs_58]\n; Validation: All items must be answered"
+    },
+    "ssrs_p_ss_sum_nm": {
+        "Description": "SSRS Sum: Number Missing Questions"
+    },
+    "ssrs_ss_sum_nt": {
+        "Description": "SSRS \nSum: Number Total Questions"
+    }
+}

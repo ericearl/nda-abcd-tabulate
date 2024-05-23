@@ -1,0 +1,157 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "school_2_y": {
+        "Description": "In my school, students have lots of chances to help decide things like class activities and rules. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_3_y": {
+        "Description": "I get along with my teachers. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_4_y": {
+        "Description": "My teacher(s) notices when I am doing a good job and lets me know about it. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_5_y": {
+        "Description": "There are lots of chances for students in my school to get involved in sports, clubs, or other school activities outside of class. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_6_y": {
+        "Description": "I feel safe at my school. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_7_y": {
+        "Description": "The school lets my parents know when I have done something well. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_8_y": {
+        "Description": "I like school because I do well in class. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_9_y": {
+        "Description": "I feel I'm just as smart as other kids my age. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_10_y": {
+        "Description": "There are lots of chances to be part of class discussions or activities. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_12_y": {
+        "Description": "In general, I like school a lot. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_15_y": {
+        "Description": "Usually, school bores me. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_17_y": {
+        "Description": "Getting good grades is not so important to me. | 1 = NO!; 2 = no; 3 = yes; 4 = YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you",
+        "Levels": {
+            "1": "NO!",
+            "2": "no",
+            "3": "yes",
+            "4": "YES! //Mark (the BIG) YES! if you think the statement is definitely true for you. Mark (the little) yes if you think the statement is mostly true for you. Mark (the little) no if you think the statement is mostly not true for you. Mark (the BIG) NO! if you think the statement is definitely not true for you"
+        }
+    },
+    "school_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "school_device": {
+        "Description": "Youth's Device: | 1=Phone Screen ; 2=Tablet/iPad Screen ; 3=Computer Screen  [school_remote(2)] = ''1'' or [school_remote(3)] = ''1''",
+        "Levels": {
+            "1": "Phone Screen",
+            "2": "Tablet/iPad Screen",
+            "3": "Computer Screen"
+        }
+    },
+    "srpf_y_ss_ses": {
+        "Description": "SRPF School Environment Subscale, Sum: school_2_y + school_3_y + school_4_y + school_5_y + school_6_y + school_7_y; Validation: Minimum of five items answered | Arthur, M. W., Briney, J. S., et al. (2007) Measuring risk and protection in communities using the Communities That Care Youth Survey. Eval Program Plann 30(2): 197-211."
+    },
+    "srpf_y_ss_ses_nm": {
+        "Description": "SRPF School Environment Subscale, Sum: Number Missing Answers"
+    },
+    "srpf_y_ss_ses_nt": {
+        "Description": "SRPF School Environment Subscale, Sum: Number Total Questions"
+    },
+    "srpf_y_ss_iiss": {
+        "Description": "SRPF School Involvement Subscale, Sum: school_8_y + school_9_y + school_10_y + school_12_y; Validation: Minimum of three items answered | Arthur, M. W., Briney, J. S., et al. (2007) Measuring risk and protection in communities using the Communities That Care Youth Survey. Eval Program Plann 30(2): 197-211."
+    },
+    "srpf_y_ss_iiss_nm": {
+        "Description": "SRPF School Involvement Subscale, Sum: Number Missing Answers"
+    },
+    "srpf_y_ss_iiss_nt": {
+        "Description": "SRPF School Involvement Subscale, Sum: Number Total Questions"
+    },
+    "srpf_y_ss_dfs": {
+        "Description": "SRPF School Disengagement Subscale, Sum: school_15_y + school_17_y; Validation: All items must be answered | Arthur, M. W., Briney, J. S., et al. (2007) Measuring risk and protection in communities using the Communities That Care Youth Survey. Eval Program Plann 30(2): 197-211."
+    },
+    "srpf_y_ss_dfs_nm": {
+        "Description": "SRPF School Disengagement Subscale, Sum: Number Missing Answers"
+    },
+    "srpf_y_ss_dfs_nt": {
+        "Description": "SRPF School Disengagement Subscale, Sum: Number Total Questions"
+    }
+}

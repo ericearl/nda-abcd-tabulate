@@ -1,0 +1,39 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "dmri_dti_postqc_containertype": {
+        "Description": "Container type"
+    },
+    "dmri_dti_postqc_stype": {
+        "Description": "Series type"
+    },
+    "dmri_dti_postqc_nrev": {
+        "Description": "Number of reviews"
+    },
+    "dmri_dti_postqc_revdisp": {
+        "Description": "Disparity between reviewers"
+    },
+    "dmri_dti_postqc_qc": {
+        "Description": "Overall QC score"
+    },
+    "dmri_dti_postqc_quregt1": {
+        "Description": "Registration error score (0=good registration, 1=mild rotation or translation, 2=moderate rotation or translation, 3=severe rotation or translation)"
+    },
+    "dmri_dti_postqc_qub0warp": {
+        "Description": "Residual distortion score (0=no distortion, 1=mild distortion, 2=moderate distortion, 3=severe distortion)"
+    },
+    "dmri_dti_postqc_quimgqual": {
+        "Description": "Image quality score (0=good image quality, 1=mild artifact, 2=moderate artifact, 3=severe artifact)"
+    },
+    "dmri_dti_postqc_qucutoff": {
+        "Description": "Cutoff score (0=no cutoff, 1=mild cutoff, 2=moderate cutoff, 3=severe cutoff)"
+    },
+    "dmri_dti_postqc_qufseg": {
+        "Description": "Segmentation score (0=good segmentation; 1=mild segmentation patchiness; 2=moderate segmentation patchiness or mislocation; 3=segmentation missing, severely patchy, or severely mislocated)"
+    },
+    "dmri_dti_postqc_fsqc_notes": {
+        "Description": "dMRI postprocessing QC Notes"
+    }
+}

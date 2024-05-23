@@ -1,0 +1,110 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "pm_p_select_language___1": {
+        "Description": "\u00bfEspa\u00f1ol? (1, S\u00ed) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "parental_monitor_q1_p": {
+        "Description": "Do you know what your child is doing on his/her free time? / \u00bfSabe lo qu\u00e9 hace su ni\u00f1o(a) en su tiempo libre? | 1 = Almost always / Casi siempre; 2 = Most of the time / La mayor parte del tiempo; 3 = It varies / Var\u00eda; 4 = Seldom / Casi nunca; 5 = Never / Nunca; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "Almost always / Casi siempre",
+            "2": "Most of the time / La mayor parte del tiempo",
+            "3": "It varies / Var\u00eda",
+            "4": "Seldom / Casi nunca",
+            "5": "Never / Nunca",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q2_p": {
+        "Description": "Do you know which friends the child spends time with in their free time? / \u00bfConoce con cu\u00e1les amigos su ni\u00f1o(a) comparte su tiempo libre? | 1 = We know all of them / Conocemos a todos; 2 = We know most of them / Conocemos a la mayor\u00eda; 3 = We know some of them / Conocemos a algunos; 4 = We know none of them / No conocemos a ningunos; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "We know all of them / Conocemos a todos",
+            "2": "We know most of them / Conocemos a la mayor\u00eda",
+            "3": "We know some of them / Conocemos a algunos",
+            "4": "We know none of them / No conocemos a ningunos",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q3_p": {
+        "Description": "Do you usually know what homework your child has? / \u00bfSabe qu\u00e9 tareas tiene su ni\u00f1o(a) usualmente? | 1 = Almost always / Casi siempre; 2 = Most of the time / La mayor parte del tiempo; 3 = It varies / Var\u00eda; 4 = Seldom / Casi nunca; 5 = Never / Nunca; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "Almost always / Casi siempre",
+            "2": "Most of the time / La mayor parte del tiempo",
+            "3": "It varies / Var\u00eda",
+            "4": "Seldom / Casi nunca",
+            "5": "Never / Nunca",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q4_p": {
+        "Description": "Do you know what your child spends his/her money on? / \u00bfSabe en qu\u00e9 gasta su ni\u00f1o(a) su dinero? | 1 = Almost always / Casi siempre; 2 = Most of the time / La mayor parte del tiempo; 3 = It varies / Var\u00eda; 4 = Seldom / Casi nunca; 5 = Never / Nunca; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "Almost always / Casi siempre",
+            "2": "Most of the time / La mayor parte del tiempo",
+            "3": "It varies / Var\u00eda",
+            "4": "Seldom / Casi nunca",
+            "5": "Never / Nunca",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q5_p": {
+        "Description": "Do you usually know when your child has an exam or paper due in school? / \u00bfUsualmente sabe cu\u00e1ndo su ni\u00f1o(a) tiene un examen o trabajo pendiente en la escuela? | 1 = Almost always / Casi siempre; 2 = Most of the time / La mayor parte del tiempo; 3 = It varies / Var\u00eda; 4 = Seldom / Casi nunca; 5 = Never / Nunca; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "Almost always / Casi siempre",
+            "2": "Most of the time / La mayor parte del tiempo",
+            "3": "It varies / Var\u00eda",
+            "4": "Seldom / Casi nunca",
+            "5": "Never / Nunca",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q6_p": {
+        "Description": "Do you avoid taking up certain issues with your child due to bad experiences, e.g. how the child reacted earlier? / \u00bfEvita discutir ciertos asuntos con su ni\u00f1o(a) a causa de malas experiencias (por ejemplo, la manera en que su ni\u00f1o(a) reaccion\u00f3 anteriormente)? | 1 = No / No; 2 = On some occasions / En algunas ocasiones; 3 = Sometimes / A veces; 4 = Quite often / Muy a menudo; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "No / No",
+            "2": "On some occasions / En algunas ocasiones",
+            "3": "Sometimes / A veces",
+            "4": "Quite often / Muy a menudo",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q7_p": {
+        "Description": "Do you know how well your child achieves in different subjects in school? / \u00bfSabe qu\u00e9 tan bien se desempe\u00f1a su ni\u00f1o(a) en diferentes materias escolares? | 1 = Yes = completely / S\u00ed = completamente; 2 = Yes = quite well / S\u00ed = bastante bien; 3 = Yes = partly / S\u00ed = en parte; 4 = No = very little / No = muy poco; 5 = No = nothing / No = nada; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q8_p": {
+        "Description": "Do you know which places your child visits when he/she is out with friends at night? / \u00bfConoce cuales lugares visita su ni\u00f1o(a) cuando sale con sus amigos(as) en la noche? | 1 = We know all of them / Conocemos a todos; 2 = We know most of them / Conocemos a la mayor\u00eda; 3 = We know some of them / Conocemos a algunos; 4 = We know none of them / No conocemos a ningunos; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "1": "We know all of them / Conocemos a todos",
+            "2": "We know most of them / Conocemos a la mayor\u00eda",
+            "3": "We know some of them / Conocemos a algunos",
+            "4": "We know none of them / No conocemos a ningunos",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q9_p": {
+        "Description": "Has it happened in the last month that you have not had a clue where your child has been at night? / En el \u00faltimo mes, \u00bfha sucedido que no tiene ninguna idea acerca de d\u00f3nde ha estado su ni\u00f1o(a) en la noche? | 0 = No / No; 1 = Yes / S\u00ed; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "0": "No / No",
+            "1": "Yes / S\u00ed",
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_q10_p": {
+        "Description": "Do you usually know where your child is, and what he/she is doing in the afternoon right after school? / \u00bfUsualmente sabe d\u00f3nde est\u00e1 su ni\u00f1o(a) y qu\u00e9 est\u00e1 haciendo en la tarde justo despu\u00e9s de la escuela? | 1 = Yes = completely / S\u00ed = completamente; 2 = Yes = quite well / S\u00ed = bastante bien; 3 = Yes = partly / S\u00ed = en parte; 4 = No = very little / No = muy poco; 5 = No = nothing / No = nada; 777 = Decline to answer / Me niego a contestar",
+        "Levels": {
+            "777": "Decline to answer / Me niego a contestar"
+        }
+    },
+    "parental_monitor_ss_mean": {
+        "Description": "Parental Monitoring Summary Score: Mean of all items; Validation: minimum of 7 items answered"
+    }
+}

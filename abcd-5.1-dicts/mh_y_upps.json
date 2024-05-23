@@ -1,0 +1,231 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "upps6_y": {
+        "Description": "I like to stop and think about things before I do it. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps7_y": {
+        "Description": "When I feel bad, I often do things I later regret in order to make myself feel better now. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps11_y": {
+        "Description": "Sometimes when I feel bad, I keep doing something even though it is making me feel worse. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps12_y": {
+        "Description": "I enjoy taking risks. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps15_y": {
+        "Description": "I finish what I start. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps16_y": {
+        "Description": "I try to take a careful approach to things. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps17_y": {
+        "Description": "When I am upset I often act without thinking. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps18_y": {
+        "Description": "I like new, thrilling things, even if they are a little scary. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps19_y": {
+        "Description": "I tend to get things done on time. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps20_y": {
+        "Description": "When I feel rejected, I often say things that I later regret. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps21_y": {
+        "Description": "I would like to learn to fly an airplane. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps22_y": {
+        "Description": "I am a person who always gets the job done. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps23_y": {
+        "Description": "I am very careful. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps24_y": {
+        "Description": "I almost always finish projects that I start. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps27_y": {
+        "Description": "I would like to ski very fast down a high mountain slope. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps28_y": {
+        "Description": "I tend to stop and think before doing things. | 4 = Not at all like me; 3 = Not like me; 2 = Somewhat like me; 1 = Very much like me",
+        "Levels": {
+            "4": "Not at all like me",
+            "3": "Not like me",
+            "2": "Somewhat like me",
+            "1": "Very much like me"
+        }
+    },
+    "upps35_y": {
+        "Description": "When I am in a great mood, I tend to do things that can cause me problems. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps36_y": {
+        "Description": "I tend to act without thinking when I am very, very happy. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps37_y": {
+        "Description": "When I get really happy about something, I tend to do things that can lead to trouble. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps39_y": {
+        "Description": "I tend to lose control when I am in a great mood. | 1 = Not at all like me; 2 = Not like me; 3 = Somewhat like me; 4 = Very much like me",
+        "Levels": {
+            "1": "Not at all like me",
+            "2": "Not like me",
+            "3": "Somewhat like me",
+            "4": "Very much like me"
+        }
+    },
+    "upps_y_ss_negative_urgency": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Negative Urgency: upps7_y + upps11_y + upps17_y +  upps20_y; Validation: Minimum of three items answered | Barch, D. M.,  Albaugh, M.D., et al. (2017)  Demographic, physical and mental health assessments in the adolescent brain and cognitive development study: Rationale and description. Dev Cogn Neurosci (In Press)."
+    },
+    "upps_y_ss_negative_urgency_nm": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Negative Urgency:  Number Missing Answers"
+    },
+    "upps_y_ss_negative_urgency_nt": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Negative Urgency:  Number Total Questions"
+    },
+    "upps_y_ss_lack_of_planning": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version),  Lack of Planning: upps6_y + upps16_y + upps23_y + upps28_y; Validation: Minimum of three items answered | Barch, D. M.,  Albaugh, M.D., et al. (2017)  Demographic, physical and mental health assessments in the adolescent brain and cognitive development study: Rationale and description. Dev Cogn Neurosci (In Press)."
+    },
+    "upps_y_ss_lack_of_planning_nm": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Lack of Planning:  Number Missing Answers"
+    },
+    "upps_y_ss_lack_of_planning_nt": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Lack of Planning:  Number Total Questions"
+    },
+    "upps_y_ss_sensation_seeking": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Sensation Seeking: upps12_y + upps18_y + upps21_y + upps27_y; Validation: Minimum of three items answered | Barch, D. M.,  Albaugh, M.D., et al. (2017)  Demographic, physical and mental health assessments in the adolescent brain and cognitive development study: Rationale and description. Dev Cogn Neurosci (In Press)."
+    },
+    "upps_y_ss_sensation_seeking_nm": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Sensation Seeking:  Number Missing Answers"
+    },
+    "upps_y_ss_sensation_seeking_nt": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Sensation Seeking:  Number Total Questions"
+    },
+    "upps_y_ss_positive_urgency": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Positive Urgency: upps35_y + upps36_y + upps37_y + upps39_y; Validation: Minimum of three items answered | Barch, D. M.,  Albaugh, M.D., et al. (2017)  Demographic, physical and mental health assessments in the adolescent brain and cognitive development study: Rationale and description. Dev Cogn Neurosci (In Press)."
+    },
+    "upps_y_ss_positive_urgency_nm": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Positive Urgency:  Number Missing Answers"
+    },
+    "upps_y_ss_positive_urgency_nt": {
+        "Description": "UPPS-P for Children Short Form (ABCD-version), Positive Urgency:  Number Total Questions"
+    },
+    "upps_y_ss_lack_of_perseverance": {
+        "Description": "UPPS: Lack of Perseverance (GSSF)\nupps15_y plus upps19_y plus upps22_y plus upps24_y\nValidation : Minimum of three items answered"
+    },
+    "upps_y_ss_lack_of_pers_nm": {
+        "Description": "UPPS: Lack of Perseverance (GSSF)\nNumber Missing Answers"
+    },
+    "upps_y_ss_lack_of_pers_nt": {
+        "Description": "UPPS: Lack of Perseverance (GSSF)\nNumber Total Questions"
+    }
+}

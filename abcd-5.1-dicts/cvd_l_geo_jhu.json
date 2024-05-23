@@ -1,0 +1,1056 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_cases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newcase100k_7_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_deaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr1_covidgeo_jhu_newdeath100k7_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_cases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newcase100k_7_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_deaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr2_covidgeo_jhu_newdeath100k7_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_cases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newcase100k_7_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_deaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr3_covidgeo_jhu_newdeath100k7_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_cases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newcase100k_7_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_deaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr4_covidgeo_jhu_newdeath100k7_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_cases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcases100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db0": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db1": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db2": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db3": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db4": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db5": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newcase100k_7_db6": {
+        "Description": "Johns Hopkins Covid-19 new case count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_deaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 cumulative death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeaths100k_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) county-level. 6 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db0": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db1": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 1 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db2": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 2 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db3": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 3 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db4": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 4 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db5": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 5 days before from questionnaire dissemenation date"
+    },
+    "reshist_addr5_covidgeo_jhu_newdeath100k7_db6": {
+        "Description": "Johns Hopkins Covid-19 new death count normalized by population (per 100k) 7 day rolling mean. 6 days before from questionnaire dissemenation date"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_seg_ice_income": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes (income), (Households income >= $100k) - (Households income < $25k)/total population, ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr1_seg_ice_inc_bw": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes(Income+ BW), (non-Hispanic white Households income >= $100k) - (non-Hispanic Black Households income < $25k)/total population, ACS2014-2018; census tract (addr1)"
+    },
+    "reshist_addr2_seg_ice_income": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes (income), (Households income >= $100k) - (Households income < $25k)/total population, ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr2_seg_ice_inc_bw": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes(Income+ BW), (non-Hispanic white Households income >= $100k) - (non-Hispanic Black Households income < $25k)/total population, ACS2014-2018; census tract (addr2)"
+    },
+    "reshist_addr3_seg_ice_income": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes (income), (Households income >= $100k) - (Households income < $25k)/total population, ACS2014-2018; census tract (addr3)"
+    },
+    "reshist_addr3_seg_ice_inc_bw": {
+        "Description": "Residential history derived- Index of Concentration at the Extremes(Income+ BW), (non-Hispanic white Households income >= $100k) - (non-Hispanic Black Households income < $25k)/total population, ACS2014-2018; census tract (addr3)"
+    }
+}

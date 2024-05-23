@@ -1,0 +1,752 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "biospec_urine_start_time": {
+        "Description": "Time page loads"
+    },
+    "biospec_urine_collect": {
+        "Description": "Was urine collected? | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "biospec_urine_collect2": {
+        "Description": "Which of the two urine tests were administered? | 1 = Both; 2 = Only iCup; 3 = Only Reditest Smoke Cassette; 4 = None",
+        "Levels": {
+            "1": "Both",
+            "2": "Only iCup",
+            "3": "Only Reditest Smoke Cassette",
+            "4": "None"
+        }
+    },
+    "biospec_urine_toxscrn_sp": {
+        "Description": "Was the sample provided under observed conditions? (For example, if in a bathroom with multiple stalls, was staff person present outside the bathroom with the door open, to ensure no tampering of the sample occurred) | 1 = Yes; 2 = No; 3 = Unknown",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unknown"
+        }
+    },
+    "biospec_urine_toxscrn_sp_5": {
+        "Description": "Was the sample provided under observed conditions? (For example, if in a bathroom with multiple stalls, was staff person present outside the bathroom with the door open, to ensure no tampering of the sample occurred) | 1 = Yes; 2 = No; 3 = Unknown",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unknown"
+        }
+    },
+    "biospec_urine_discard": {
+        "Description": "Reason sample discarded | 0 = This specimen collection was attempted and discarded due to blood or other biological matter in the specimen"
+    },
+    "biospec_urine_toxscrn_reason": {
+        "Description": "Reason if NOT collected: | 13 = Not applicable (not randomized); 1 = Youth refused; 2 = Parent refused youth to do this; 3 = Youth was willing but could not provide a sample; 4 = Supplies not available; 5 = Screen did not work; 7 = Unable to collect due to COVID restrictions; 9 = Institution not authorized to collect samples due to COVID; 10 = Staff discomfort due to COVID; 11 = Exceed 15min of < 6ft distance from youth (COVID); 12 = Not approved by ABCD for collection; 8 = Other; 6 = Unknown",
+        "Levels": {
+            "13": "Not applicable (not randomized)",
+            "1": "Youth refused",
+            "2": "Parent refused youth to do this",
+            "3": "Youth was willing but could not provide a sample",
+            "4": "Supplies not available",
+            "5": "Screen did not work",
+            "7": "Unable to collect due to COVID restrictions",
+            "9": "Institution not authorized to collect samples due to COVID",
+            "10": "Staff discomfort due to COVID",
+            "11": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "12": "Not approved by ABCD for collection",
+            "8": "Other",
+            "6": "Unknown"
+        }
+    },
+    "icup_adulterated": {
+        "Description": "ADULTERATED (SVT) | 0 = Normal; 1 = Abnormal",
+        "Levels": {
+            "0": "Normal",
+            "1": "Abnormal"
+        }
+    },
+    "icup_creatinine": {
+        "Description": "Creatinine | 0 = Normal; 1 = Abnormal",
+        "Levels": {
+            "0": "Normal",
+            "1": "Abnormal"
+        }
+    },
+    "icup_ph": {
+        "Description": "pH | 0 = Normal; 1 = Abnormal",
+        "Levels": {
+            "0": "Normal",
+            "1": "Abnormal"
+        }
+    },
+    "icup_oxidants": {
+        "Description": "Oxidants | 0 = Normal; 1 = Abnormal",
+        "Levels": {
+            "0": "Normal",
+            "1": "Abnormal"
+        }
+    },
+    "icup_methamphetamine": {
+        "Description": "METHAMPHETAMINE (mAMP1000) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_opiate": {
+        "Description": "OPIATE (OPI2000) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_pcp": {
+        "Description": "PCP (PCP25) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_benzodiazepine": {
+        "Description": "BENZODIAZEPINE (BZO300) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_tricyclics": {
+        "Description": "TRICYCLICS (TCA) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_barbiturate": {
+        "Description": "BARBITURATE (BAR300) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_oxycodone": {
+        "Description": "OXYCODONE (OXY100) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_propoxyohene": {
+        "Description": "PROPOXYPHENE (DARVON) (PPX300) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_methadone": {
+        "Description": "METHADONE (MTD300) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_amphetamine": {
+        "Description": "AMPHETAMINE (AMP1000) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_cocaine": {
+        "Description": "COCAINE (COC300) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_thc": {
+        "Description": "THC/MARIJUANA (THC50) | 0 = Negative; 1 = Preliminary Positive",
+        "Levels": {
+            "0": "Negative",
+            "1": "Preliminary Positive"
+        }
+    },
+    "icup_reason": {
+        "Description": "Reason iCup was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "icup_nicotine": {
+        "Description": "Nicotine (COT200) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "icup_reditest_reason": {
+        "Description": "Reason Reditest Smoke Cassette was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "biospec_urine_collect_day2": {
+        "Description": "Was a second additional Urine Drug Screen administered on a separate day? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "biospec_urine_collect2_2": {
+        "Description": "Which of the two urine tests was administered? | 1 = Both; 2 = Only iCup; 3 = Only Reditest Smoke Cassette; 4 = None",
+        "Levels": {
+            "1": "Both",
+            "2": "Only iCup",
+            "3": "Only Reditest Smoke Cassette",
+            "4": "None"
+        }
+    },
+    "biospec_urine_toxscrn_sp_2": {
+        "Description": "Was the sample provided under observed conditions? (That is, if in a bathroom with multiple stalls, was a same-sex staff person present in the bathroom, but not the stall, to ensure no tampering of the sample occurred) | 1 = Yes; 2 = No; 3 = Unknown",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unknown"
+        }
+    },
+    "biospec_urine_discard_2": {
+        "Description": "Reason sample discarded | 0 = This specimen collection was attempted and discarded due to blood or other biological matter in the specimen"
+    },
+    "biospec_urine_toxscrn_reason_2": {
+        "Description": "Reason if NOT collected: | 6 = Not applicable (not randomized); 1 = Youth refused; 2 = Parent refused youth to do this; 3 = Youth was willing but could not provide a sample; 4 = Supplies not available; 5 = Screen did not work; 8 = Institution not authorized to collect samples due to COVID; 7 = Staff discomfort due to COVID; 10 = Exceed 15min of < 6ft distance from youth (COVID); 9 = Not approved by ABCD for collection; 12 = Other",
+        "Levels": {
+            "6": "Not applicable (not randomized)",
+            "1": "Youth refused",
+            "2": "Parent refused youth to do this",
+            "3": "Youth was willing but could not provide a sample",
+            "4": "Supplies not available",
+            "5": "Screen did not work",
+            "8": "Institution not authorized to collect samples due to COVID",
+            "7": "Staff discomfort due to COVID",
+            "10": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "9": "Not approved by ABCD for collection",
+            "12": "Other"
+        }
+    },
+    "biospec_urine_toxscrn_date_2": {
+        "Description": "Date/time of urine sample collection:"
+    },
+    "icup_adulterated_2": {
+        "Description": "ADULTERATED (SVT) | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_creatine_2": {
+        "Description": "Creatinine | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_ph_2": {
+        "Description": "pH | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_oxidants_2": {
+        "Description": "Oxidants | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_methamphetamine_2": {
+        "Description": "METHAMPHETAMINE (mAMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_opiate_2": {
+        "Description": "OPIATE (OP120000 | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_pcp_2": {
+        "Description": "PCP (PCP25) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_benzodiazepine_2": {
+        "Description": "BENZODIAZEPINE (BZO300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_tyricyclics_2": {
+        "Description": "TRICYCLICS (TCA) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_barbiturate_2": {
+        "Description": "BARBITURATE (BAR300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_oxycodone_2": {
+        "Description": "OXYCODONE (OXY100) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_propoxyphene_2": {
+        "Description": "PROPOXYPHENE (DARVON) (PPX300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_methadone_2": {
+        "Description": "METHADONE (MTD300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_amphetamine_2": {
+        "Description": "AMPHETAMINE (AMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_cocaine_2": {
+        "Description": "COCAINE (COC300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_thc_2": {
+        "Description": "THC/MARIJUANA (THC50) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_reason2": {
+        "Description": "Reason iCup was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "icup_nicotine_2": {
+        "Description": "Nicotine (COT200) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "icup_reditest_reason2": {
+        "Description": "Reason Reditest Smoke Cassette was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "biospec_urine_collect_day3": {
+        "Description": "Was a third additional Urine Drug Screen administered on a separate day? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "biospec_urine_collect2_3": {
+        "Description": "Which of the two urine tests was administered? | 1 = Both; 2 = Only iCup; 3 = Only Reditest Smoke Cassette; 4 = None",
+        "Levels": {
+            "1": "Both",
+            "2": "Only iCup",
+            "3": "Only Reditest Smoke Cassette",
+            "4": "None"
+        }
+    },
+    "biospec_urine_toxscrn_sp_3": {
+        "Description": "Was the sample provided under observed conditions? (That is, if in a bathroom with multiple stalls, was a same-sex staff person present in the bathroom, but not the stall, to ensure no tampering of the sample occurred) | 1 = Yes; 2 = No; 3 = Unknown",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unknown"
+        }
+    },
+    "biospec_urine_discard_3": {
+        "Description": "Reason sample discarded | 0 = This specimen collection was attempted and discarded due to blood or other biological matter in the specimen"
+    },
+    "biospec_urine_toxscrn_reason_3": {
+        "Description": "Reason if NOT collected: | 6 = Not applicable (not randomized); 1 = Youth refused; 2 = Parent refused youth to do this; 3 = Youth was willing but could not provide a sample; 4 = Supplies not available; 5 = Screen did not work; 8 = Institution not authorized to collect samples due to COVID; 7 = Staff discomfort due to COVID; 10 = Exceed 15min of < 6ft distance from youth (COVID); 9 = Not approved by ABCD for collection; 12 = Other",
+        "Levels": {
+            "6": "Not applicable (not randomized)",
+            "1": "Youth refused",
+            "2": "Parent refused youth to do this",
+            "3": "Youth was willing but could not provide a sample",
+            "4": "Supplies not available",
+            "5": "Screen did not work",
+            "8": "Institution not authorized to collect samples due to COVID",
+            "7": "Staff discomfort due to COVID",
+            "10": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "9": "Not approved by ABCD for collection",
+            "12": "Other"
+        }
+    },
+    "biospec_urine_toxscrn_date_3": {
+        "Description": "Date/time of urine sample collection:"
+    },
+    "icup_adulterated_3": {
+        "Description": "ADULTERATED (SVT) | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_creatinine_3": {
+        "Description": "Creatinine | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_ph_3": {
+        "Description": "pH | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_oxidants_3": {
+        "Description": "Oxidants | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "biospec_urine_result_date_3": {
+        "Description": "Date/time that urine sample was read for iCUP:"
+    },
+    "icup_methamphetamine_3": {
+        "Description": "METHAMPHETAMINE (mAMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_opiate_3": {
+        "Description": "OPIATE (OP120000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_pcp_3": {
+        "Description": "PCP (PCP25) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_benzodiazepine_3": {
+        "Description": "BENZODIAZEPINE (BZO300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_tyricyclics_3": {
+        "Description": "TRICYCLICS (TCA) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_barbiturate_3": {
+        "Description": "BARBITURATE (BAR300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_oxycodone_3": {
+        "Description": "OXYCODONE (OXY100) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_propoxyphene_3": {
+        "Description": "PROPOXYPHENE (DARVON) (PPX300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_methadone_3": {
+        "Description": "METHADONE (MTD300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_amphetamine_3": {
+        "Description": "AMPHETAMINE (AMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_cocaine_3": {
+        "Description": "COCAINE (COC300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_thc_3": {
+        "Description": "THC/MARIJUANA (THC50) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_reason3": {
+        "Description": "Reason iCup was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "biospec_urine_result_2_date_3": {
+        "Description": "Date/time that urine sample was read for Reditest Smoke Cassette:"
+    },
+    "icup_nicotine_3": {
+        "Description": "Nicotine (COT200) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "icup_reditest_reason3": {
+        "Description": "Reason Reditest Smoke Cassette was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "biospec_urine_collect_day4": {
+        "Description": "Was a fourth additional Urine Drug Screen administered on a separate day? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "biospec_urine_collect2_4": {
+        "Description": "Which of the two urine tests was administered? | 1 = Both; 2 = Only iCup; 3 = Only Reditest Smoke Cassette; 4 = None",
+        "Levels": {
+            "1": "Both",
+            "2": "Only iCup",
+            "3": "Only Reditest Smoke Cassette",
+            "4": "None"
+        }
+    },
+    "biospec_urine_toxscrn_sp_4": {
+        "Description": "Was the sample provided under observed conditions? (That is, if in a bathroom with multiple stalls, was a same-sex staff person present in the bathroom, but not the stall, to ensure no tampering of the sample occurred) | 1 = Yes; 2 = No; 3 = Unknown",
+        "Levels": {
+            "1": "Yes",
+            "2": "No",
+            "3": "Unknown"
+        }
+    },
+    "biospec_urine_discard_4": {
+        "Description": "Reason sample discarded | 0 = This specimen collection was attempted and discarded due to blood or other biological matter in the specimen"
+    },
+    "biospec_urine_toxscrn_reason_4": {
+        "Description": "Reason if NOT collected: | 6 = Not applicable (not randomized); 1 = Youth refused; 2 = Parent refused youth to do this; 3 = Youth was willing but could not provide a sample; 4 = Supplies not available; 5 = Screen did not work; 8 = Institution not authorized to collect samples due to COVID; 7 = Staff discomfort due to COVID; 10 = Exceed 15min of < 6ft distance from youth (COVID); 9 = Not approved by ABCD for collection; 12 = Other",
+        "Levels": {
+            "6": "Not applicable (not randomized)",
+            "1": "Youth refused",
+            "2": "Parent refused youth to do this",
+            "3": "Youth was willing but could not provide a sample",
+            "4": "Supplies not available",
+            "5": "Screen did not work",
+            "8": "Institution not authorized to collect samples due to COVID",
+            "7": "Staff discomfort due to COVID",
+            "10": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "9": "Not approved by ABCD for collection",
+            "12": "Other"
+        }
+    },
+    "biospec_urine_toxscrn_date_4": {
+        "Description": "Date/time of urine sample collection:"
+    },
+    "icup_adulterated_4": {
+        "Description": "ADULTERATED (SVT) | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_creatinine_4": {
+        "Description": "Creatinine | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_ph_4": {
+        "Description": "pH | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "icup_oxidants_4": {
+        "Description": "Oxidants | 1 = Normal; 2 = Abnormal",
+        "Levels": {
+            "1": "Normal",
+            "2": "Abnormal"
+        }
+    },
+    "biospec_urine_result_date_4": {
+        "Description": "Date/time that urine sample was read for iCUP:"
+    },
+    "icup_methamphetamine_4": {
+        "Description": "METHAMPHETAMINE (mAMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_opiate_4": {
+        "Description": "OPIATE (OP120000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_pcp_4": {
+        "Description": "PCP (PCP25) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_benzodiazepine_4": {
+        "Description": "BENZODIAZEPINE (BZO300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_tyricyclics_4": {
+        "Description": "TRICYCLICS (TCA) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_barbiturate_4": {
+        "Description": "BARBITURATE (BAR300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_oxycodone_4": {
+        "Description": "OXYCODONE (OXY100) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_propoxyphene_4": {
+        "Description": "PROPOXYPHENE (DARVON) (PPX300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_methadone_4": {
+        "Description": "METHADONE (MTD300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_amphetamine_4": {
+        "Description": "AMPHETAMINE (AMP1000) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_cocaine_4": {
+        "Description": "COCAINE (COC300) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_thc_4": {
+        "Description": "THC/MARIJUANA (THC50) | 1 = Negative; 2 = Preliminary Positive",
+        "Levels": {
+            "1": "Negative",
+            "2": "Preliminary Positive"
+        }
+    },
+    "icup_reason4": {
+        "Description": "Reason iCup was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    },
+    "biospec_urine_result_2_date_4": {
+        "Description": "Date/time that urine sample was read for Reditest Smoke Cassette:"
+    },
+    "icup_nicotine_4": {
+        "Description": "Nicotine (COT200) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "icup_reditest_reason4": {
+        "Description": "Reason Reditest Smoke Cassette was not collected: | 1 = Not applicable (not randomized); 2 = Supplies not available; 3 = Other",
+        "Levels": {
+            "1": "Not applicable (not randomized)",
+            "2": "Supplies not available",
+            "3": "Other"
+        }
+    }
+}

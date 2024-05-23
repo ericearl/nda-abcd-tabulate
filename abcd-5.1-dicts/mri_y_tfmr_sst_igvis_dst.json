@@ -1,0 +1,2670 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "tfsstabwdp_894": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_968": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_895": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_969": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_896": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_970": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstabwdp_889": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstabwdp_963": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstabwdp_890": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstabwdp_964": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstabwdp_891": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstabwdp_965": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstabwdp_892": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstabwdp_966": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstabwdp_893": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstabwdp_967": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstabwdp_897": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstabwdp_971": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstabwdp_898": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstabwdp_972": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstabwdp_899": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstabwdp_973": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstabwdp_900": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_974": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_901": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_975": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_902": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_976": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstabwdp_903": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstabwdp_977": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstabwdp_904": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstabwdp_978": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstabwdp_905": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstabwdp_979": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstabwdp_906": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstabwdp_980": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstabwdp_907": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstabwdp_981": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstabwdp_908": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstabwdp_982": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstabwdp_909": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstabwdp_983": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstabwdp_910": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstabwdp_984": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstabwdp_911": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstabwdp_985": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstabwdp_912": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstabwdp_986": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstabwdp_915": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstabwdp_989": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstabwdp_913": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstabwdp_987": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstabwdp_914": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstabwdp_988": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstabwdp_916": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstabwdp_990": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstabwdp_917": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstabwdp_991": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstabwdp_918": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstabwdp_992": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstabwdp_919": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstabwdp_993": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstabwdp_920": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstabwdp_994": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstabwdp_925": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstabwdp_999": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstabwdp_926": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstabwdp_1000": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstabwdp_921": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstabwdp_995": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstabwdp_922": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstabwdp_996": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstabwdp_923": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstabwdp_997": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstabwdp_924": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstabwdp_998": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstabwdp_927": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_1001": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_928": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_1002": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstabwdp_929": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstabwdp_1003": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstabwdp_930": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstabwdp_1004": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstabwdp_931": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstabwdp_1005": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstabwdp_932": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstabwdp_1006": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstabwdp_933": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstabwdp_1007": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstabwdp_934": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstabwdp_1008": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstabwdp_935": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_1009": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_936": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_1010": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_937": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_1011": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstabwdp_938": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_1012": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_939": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_1013": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstabwdp_940": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstabwdp_1014": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstabwdp_941": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstabwdp_1015": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstabwdp_942": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstabwdp_1016": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstabwdp_943": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstabwdp_1017": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstabwdp_944": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstabwdp_1018": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstabwdp_947": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstabwdp_1021": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstabwdp_945": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstabwdp_1019": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstabwdp_946": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstabwdp_1020": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstabwdp_948": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstabwdp_1022": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstabwdp_949": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstabwdp_1023": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstabwdp_952": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstabwdp_1026": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstabwdp_950": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstabwdp_1024": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstabwdp_951": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstabwdp_1025": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstabwdp_953": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstabwdp_1027": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstabwdp_954": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstabwdp_1028": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstabwdp_955": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstabwdp_1029": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstabwdp_956": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstabwdp_1030": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstabwdp_957": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstabwdp_1031": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstabwdp_958": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstabwdp_1032": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstabwdp_959": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstabwdp_1033": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstabwdp_960": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstabwdp_1034": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstabwdp_961": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstabwdp_1035": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstabwdp_962": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstabwdp_1036": {
+        "Description": "Beta weight for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstasemdp_894": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_968": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_895": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_969": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_896": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_970": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstasemdp_889": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstasemdp_963": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstasemdp_890": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstasemdp_964": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstasemdp_891": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstasemdp_965": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstasemdp_892": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstasemdp_966": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstasemdp_893": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstasemdp_967": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstasemdp_897": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstasemdp_971": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstasemdp_898": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstasemdp_972": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstasemdp_899": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstasemdp_973": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstasemdp_900": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_974": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_901": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_975": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_902": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_976": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstasemdp_903": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstasemdp_977": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstasemdp_904": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstasemdp_978": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstasemdp_905": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstasemdp_979": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstasemdp_906": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstasemdp_980": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstasemdp_907": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstasemdp_981": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstasemdp_908": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstasemdp_982": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstasemdp_909": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstasemdp_983": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstasemdp_910": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstasemdp_984": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstasemdp_911": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstasemdp_985": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstasemdp_912": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstasemdp_986": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstasemdp_915": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstasemdp_989": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstasemdp_913": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstasemdp_987": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstasemdp_914": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstasemdp_988": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstasemdp_916": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstasemdp_990": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstasemdp_917": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstasemdp_991": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstasemdp_918": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstasemdp_992": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstasemdp_919": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstasemdp_993": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstasemdp_920": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstasemdp_994": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstasemdp_925": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstasemdp_999": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstasemdp_926": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstasemdp_1000": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstasemdp_921": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstasemdp_995": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstasemdp_922": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstasemdp_996": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstasemdp_923": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstasemdp_997": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstasemdp_924": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstasemdp_998": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstasemdp_927": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_1001": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_928": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_1002": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstasemdp_929": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstasemdp_1003": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstasemdp_930": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstasemdp_1004": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstasemdp_931": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstasemdp_1005": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstasemdp_932": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstasemdp_1006": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstasemdp_933": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstasemdp_1007": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstasemdp_934": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstasemdp_1008": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstasemdp_935": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_1009": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_936": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_1010": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_937": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_1011": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstasemdp_938": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_1012": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_939": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_1013": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstasemdp_940": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstasemdp_1014": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstasemdp_941": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstasemdp_1015": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstasemdp_942": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstasemdp_1016": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstasemdp_943": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstasemdp_1017": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstasemdp_944": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstasemdp_1018": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstasemdp_947": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstasemdp_1021": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstasemdp_945": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstasemdp_1019": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstasemdp_946": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstasemdp_1020": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstasemdp_948": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstasemdp_1022": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstasemdp_949": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstasemdp_1023": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstasemdp_952": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstasemdp_1026": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstasemdp_950": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstasemdp_1024": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstasemdp_951": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstasemdp_1025": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstasemdp_953": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstasemdp_1027": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstasemdp_954": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstasemdp_1028": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstasemdp_955": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstasemdp_1029": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstasemdp_956": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstasemdp_1030": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstasemdp_957": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstasemdp_1031": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstasemdp_958": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstasemdp_1032": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstasemdp_959": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstasemdp_1033": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstasemdp_960": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstasemdp_1034": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstasemdp_961": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstasemdp_1035": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstasemdp_962": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstasemdp_1036": {
+        "Description": "Standard error of the mean for SST all incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1bwdp_894": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_968": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_895": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_969": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_896": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_970": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1bwdp_889": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1bwdp_963": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1bwdp_890": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1bwdp_964": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1bwdp_891": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1bwdp_965": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1bwdp_892": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1bwdp_966": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1bwdp_893": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1bwdp_967": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1bwdp_897": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_971": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_898": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_972": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1bwdp_899": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr1bwdp_973": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr1bwdp_900": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_974": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_901": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_975": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_902": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_976": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1bwdp_903": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr1bwdp_977": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr1bwdp_904": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr1bwdp_978": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr1bwdp_905": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1bwdp_979": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1bwdp_906": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr1bwdp_980": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr1bwdp_907": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr1bwdp_981": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr1bwdp_908": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr1bwdp_982": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr1bwdp_909": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1bwdp_983": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1bwdp_910": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr1bwdp_984": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr1bwdp_911": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1bwdp_985": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1bwdp_912": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr1bwdp_986": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr1bwdp_915": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr1bwdp_989": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr1bwdp_913": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr1bwdp_987": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr1bwdp_914": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr1bwdp_988": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr1bwdp_916": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr1bwdp_990": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr1bwdp_917": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr1bwdp_991": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr1bwdp_918": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr1bwdp_992": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr1bwdp_919": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr1bwdp_993": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr1bwdp_920": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr1bwdp_994": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr1bwdp_925": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1bwdp_999": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1bwdp_926": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr1bwdp_1000": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr1bwdp_921": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1bwdp_995": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1bwdp_922": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_996": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_923": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_997": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1bwdp_924": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr1bwdp_998": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr1bwdp_927": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_1001": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_928": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_1002": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1bwdp_929": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1bwdp_1003": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1bwdp_930": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr1bwdp_1004": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr1bwdp_931": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr1bwdp_1005": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr1bwdp_932": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr1bwdp_1006": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr1bwdp_933": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr1bwdp_1007": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr1bwdp_934": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1bwdp_1008": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1bwdp_935": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_1009": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_936": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_1010": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_937": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_1011": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1bwdp_938": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_1012": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_939": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_1013": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1bwdp_940": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1bwdp_1014": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1bwdp_941": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr1bwdp_1015": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr1bwdp_942": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr1bwdp_1016": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr1bwdp_943": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1bwdp_1017": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1bwdp_944": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1bwdp_1018": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1bwdp_947": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1bwdp_1021": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1bwdp_945": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1bwdp_1019": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1bwdp_946": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1bwdp_1020": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1bwdp_948": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1bwdp_1022": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1bwdp_949": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1bwdp_1023": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1bwdp_952": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr1bwdp_1026": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr1bwdp_950": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1bwdp_1024": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1bwdp_951": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr1bwdp_1025": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr1bwdp_953": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1bwdp_1027": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1bwdp_954": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr1bwdp_1028": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr1bwdp_955": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr1bwdp_1029": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr1bwdp_956": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_1030": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_957": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_1031": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1bwdp_958": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr1bwdp_1032": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr1bwdp_959": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr1bwdp_1033": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr1bwdp_960": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1bwdp_1034": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1bwdp_961": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr1bwdp_1035": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr1bwdp_962": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1bwdp_1036": {
+        "Description": "Beta weight for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1semdp_894": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_968": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_895": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_969": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_896": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_970": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr1semdp_889": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1semdp_963": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr1semdp_890": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1semdp_964": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr1semdp_891": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1semdp_965": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr1semdp_892": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1semdp_966": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr1semdp_893": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1semdp_967": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr1semdp_897": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_971": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_898": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_972": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr1semdp_899": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr1semdp_973": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr1semdp_900": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_974": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_901": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_975": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_902": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_976": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr1semdp_903": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr1semdp_977": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr1semdp_904": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr1semdp_978": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr1semdp_905": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1semdp_979": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr1semdp_906": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr1semdp_980": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr1semdp_907": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr1semdp_981": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr1semdp_908": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr1semdp_982": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr1semdp_909": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1semdp_983": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr1semdp_910": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr1semdp_984": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr1semdp_911": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1semdp_985": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr1semdp_912": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr1semdp_986": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr1semdp_915": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr1semdp_989": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr1semdp_913": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr1semdp_987": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr1semdp_914": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr1semdp_988": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr1semdp_916": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr1semdp_990": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr1semdp_917": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr1semdp_991": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr1semdp_918": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr1semdp_992": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr1semdp_919": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr1semdp_993": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr1semdp_920": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr1semdp_994": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr1semdp_925": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1semdp_999": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr1semdp_926": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr1semdp_1000": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr1semdp_921": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1semdp_995": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr1semdp_922": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_996": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_923": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_997": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr1semdp_924": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr1semdp_998": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr1semdp_927": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_1001": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_928": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_1002": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr1semdp_929": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1semdp_1003": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr1semdp_930": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr1semdp_1004": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr1semdp_931": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr1semdp_1005": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr1semdp_932": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr1semdp_1006": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr1semdp_933": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr1semdp_1007": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr1semdp_934": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1semdp_1008": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr1semdp_935": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_1009": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_936": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_1010": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_937": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_1011": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr1semdp_938": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_1012": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_939": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_1013": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr1semdp_940": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1semdp_1014": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr1semdp_941": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr1semdp_1015": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr1semdp_942": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr1semdp_1016": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr1semdp_943": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1semdp_1017": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr1semdp_944": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1semdp_1018": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr1semdp_947": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1semdp_1021": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr1semdp_945": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1semdp_1019": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr1semdp_946": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1semdp_1020": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr1semdp_948": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1semdp_1022": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr1semdp_949": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1semdp_1023": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr1semdp_952": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr1semdp_1026": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr1semdp_950": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1semdp_1024": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr1semdp_951": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr1semdp_1025": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr1semdp_953": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1semdp_1027": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr1semdp_954": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr1semdp_1028": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr1semdp_955": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr1semdp_1029": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr1semdp_956": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_1030": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_957": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_1031": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr1semdp_958": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr1semdp_1032": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr1semdp_959": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr1semdp_1033": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr1semdp_960": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1semdp_1034": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr1semdp_961": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr1semdp_1035": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr1semdp_962": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr1semdp_1036": {
+        "Description": "Standard error of the mean for SST run1 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2bwdp_894": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_968": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_895": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_969": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_896": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_970": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2bwdp_889": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2bwdp_963": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2bwdp_890": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2bwdp_964": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2bwdp_891": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2bwdp_965": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2bwdp_892": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2bwdp_966": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2bwdp_893": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2bwdp_967": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2bwdp_897": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_971": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_898": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_972": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2bwdp_899": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr2bwdp_973": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr2bwdp_900": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_974": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_901": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_975": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_902": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_976": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2bwdp_903": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr2bwdp_977": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr2bwdp_904": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr2bwdp_978": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr2bwdp_905": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2bwdp_979": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2bwdp_906": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr2bwdp_980": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr2bwdp_907": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr2bwdp_981": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr2bwdp_908": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr2bwdp_982": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr2bwdp_909": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2bwdp_983": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2bwdp_910": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr2bwdp_984": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr2bwdp_911": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2bwdp_985": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2bwdp_912": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr2bwdp_986": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr2bwdp_915": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr2bwdp_989": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr2bwdp_913": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr2bwdp_987": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr2bwdp_914": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr2bwdp_988": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr2bwdp_916": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr2bwdp_990": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr2bwdp_917": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr2bwdp_991": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr2bwdp_918": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr2bwdp_992": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr2bwdp_919": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr2bwdp_993": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr2bwdp_920": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr2bwdp_994": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr2bwdp_925": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2bwdp_999": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2bwdp_926": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr2bwdp_1000": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr2bwdp_921": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2bwdp_995": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2bwdp_922": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_996": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_923": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_997": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2bwdp_924": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr2bwdp_998": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr2bwdp_927": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_1001": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_928": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_1002": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2bwdp_929": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2bwdp_1003": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2bwdp_930": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr2bwdp_1004": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr2bwdp_931": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr2bwdp_1005": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr2bwdp_932": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr2bwdp_1006": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr2bwdp_933": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr2bwdp_1007": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr2bwdp_934": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2bwdp_1008": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2bwdp_935": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_1009": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_936": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_1010": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_937": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_1011": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2bwdp_938": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_1012": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_939": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_1013": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2bwdp_940": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2bwdp_1014": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2bwdp_941": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr2bwdp_1015": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr2bwdp_942": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr2bwdp_1016": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr2bwdp_943": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2bwdp_1017": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2bwdp_944": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2bwdp_1018": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2bwdp_947": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2bwdp_1021": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2bwdp_945": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2bwdp_1019": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2bwdp_946": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2bwdp_1020": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2bwdp_948": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2bwdp_1022": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2bwdp_949": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2bwdp_1023": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2bwdp_952": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr2bwdp_1026": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr2bwdp_950": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2bwdp_1024": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2bwdp_951": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr2bwdp_1025": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr2bwdp_953": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2bwdp_1027": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2bwdp_954": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr2bwdp_1028": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr2bwdp_955": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr2bwdp_1029": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr2bwdp_956": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_1030": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_957": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_1031": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2bwdp_958": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr2bwdp_1032": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr2bwdp_959": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr2bwdp_1033": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr2bwdp_960": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2bwdp_1034": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2bwdp_961": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr2bwdp_1035": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr2bwdp_962": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2bwdp_1036": {
+        "Description": "Beta weight for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2semdp_894": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_968": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_895": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_969": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_896": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_970": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "tfsstr2semdp_889": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2semdp_963": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere fronto-marginal gyrus and sulcus"
+    },
+    "tfsstr2semdp_890": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2semdp_964": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior occipital gyrus and sulcus"
+    },
+    "tfsstr2semdp_891": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2semdp_965": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere paracentral lobule and sulcus"
+    },
+    "tfsstr2semdp_892": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2semdp_966": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcentral gyrus and sulci"
+    },
+    "tfsstr2semdp_893": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2semdp_967": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse frontopolar gyri and sulci"
+    },
+    "tfsstr2semdp_897": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_971": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-dorsal part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_898": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_972": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior-ventral part of the cingulate gyrus"
+    },
+    "tfsstr2semdp_899": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere cuneus"
+    },
+    "tfsstr2semdp_973": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere cuneus"
+    },
+    "tfsstr2semdp_900": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_974": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere opercular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_901": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_975": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_902": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_976": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere triangular part of the inferior frontal gyrus"
+    },
+    "tfsstr2semdp_903": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal gyrus"
+    },
+    "tfsstr2semdp_977": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal gyrus"
+    },
+    "tfsstr2semdp_904": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal gyrus"
+    },
+    "tfsstr2semdp_978": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal gyrus"
+    },
+    "tfsstr2semdp_905": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2semdp_979": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere long insular gyrus and central sulcus of the insula"
+    },
+    "tfsstr2semdp_906": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere short insular gyri"
+    },
+    "tfsstr2semdp_980": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere short insular gyri"
+    },
+    "tfsstr2semdp_907": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital gyrus"
+    },
+    "tfsstr2semdp_981": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital gyrus"
+    },
+    "tfsstr2semdp_908": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital gyrus"
+    },
+    "tfsstr2semdp_982": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital gyrus"
+    },
+    "tfsstr2semdp_909": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2semdp_983": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal gyrus"
+    },
+    "tfsstr2semdp_910": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lingual gyrus"
+    },
+    "tfsstr2semdp_984": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lingual gyrus"
+    },
+    "tfsstr2semdp_911": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2semdp_985": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parahippocampal gyrus"
+    },
+    "tfsstr2semdp_912": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital gyri"
+    },
+    "tfsstr2semdp_986": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital gyri"
+    },
+    "tfsstr2semdp_915": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior parietal lobule"
+    },
+    "tfsstr2semdp_989": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior parietal lobule"
+    },
+    "tfsstr2semdp_913": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere angular gyrus"
+    },
+    "tfsstr2semdp_987": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere angular gyrus"
+    },
+    "tfsstr2semdp_914": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere supramarginal gyrus"
+    },
+    "tfsstr2semdp_988": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere supramarginal gyrus"
+    },
+    "tfsstr2semdp_916": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral gyrus"
+    },
+    "tfsstr2semdp_990": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral gyrus"
+    },
+    "tfsstr2semdp_917": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precentral gyrus"
+    },
+    "tfsstr2semdp_991": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precentral gyrus"
+    },
+    "tfsstr2semdp_918": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere precuneus"
+    },
+    "tfsstr2semdp_992": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere precuneus"
+    },
+    "tfsstr2semdp_919": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere gyrus rectus"
+    },
+    "tfsstr2semdp_993": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere gyrus rectus"
+    },
+    "tfsstr2semdp_920": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subcallosal gyrus"
+    },
+    "tfsstr2semdp_994": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subcallosal gyrus"
+    },
+    "tfsstr2semdp_925": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2semdp_999": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal gyrus"
+    },
+    "tfsstr2semdp_926": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle temporal gyrus"
+    },
+    "tfsstr2semdp_1000": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle temporal gyrus"
+    },
+    "tfsstr2semdp_921": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2semdp_995": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse temporal gyrus"
+    },
+    "tfsstr2semdp_922": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_996": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral aspect of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_923": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_997": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum polare of the superior temporal gyrus"
+    },
+    "tfsstr2semdp_924": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere planum temporale"
+    },
+    "tfsstr2semdp_998": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere planum temporale"
+    },
+    "tfsstr2semdp_927": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_1001": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_928": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_1002": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "tfsstr2semdp_929": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2semdp_1003": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior ramus of the lateral sulcus"
+    },
+    "tfsstr2semdp_930": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere occipital pole"
+    },
+    "tfsstr2semdp_1004": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere occipital pole"
+    },
+    "tfsstr2semdp_931": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere temporal pole"
+    },
+    "tfsstr2semdp_1005": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere temporal pole"
+    },
+    "tfsstr2semdp_932": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere calcarine sulcus"
+    },
+    "tfsstr2semdp_1006": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere calcarine sulcus"
+    },
+    "tfsstr2semdp_933": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere central sulcus"
+    },
+    "tfsstr2semdp_1007": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere central sulcus"
+    },
+    "tfsstr2semdp_934": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2semdp_1008": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere marginal branch of the cingulate sulcus"
+    },
+    "tfsstr2semdp_935": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_1009": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_936": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_1010": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_937": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_1011": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior segment of the circular sulcus of the insula"
+    },
+    "tfsstr2semdp_938": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_1012": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_939": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_1013": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere posterior transverse collateral sulcus"
+    },
+    "tfsstr2semdp_940": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2semdp_1014": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior frontal sulcus"
+    },
+    "tfsstr2semdp_941": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle frontal sulcus"
+    },
+    "tfsstr2semdp_1015": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle frontal sulcus"
+    },
+    "tfsstr2semdp_942": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior frontal sulcus"
+    },
+    "tfsstr2semdp_1016": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior frontal sulcus"
+    },
+    "tfsstr2semdp_943": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2semdp_1017": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere sulcus intermedius primus"
+    },
+    "tfsstr2semdp_944": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2semdp_1018": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere intraparietal sulcus and transverse parietal sulci"
+    },
+    "tfsstr2semdp_947": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2semdp_1021": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere anterior occipital sulcus and preoccipital notch"
+    },
+    "tfsstr2semdp_945": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2semdp_1019": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere middle occipital sulcus and lunatus sulcus"
+    },
+    "tfsstr2semdp_946": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2semdp_1020": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior occipital sulcus and transverse occipital sulcus"
+    },
+    "tfsstr2semdp_948": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2semdp_1022": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral occipito-temporal sulcus"
+    },
+    "tfsstr2semdp_949": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2semdp_1023": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "tfsstr2semdp_952": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere orbital sulci"
+    },
+    "tfsstr2semdp_1026": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere orbital sulci"
+    },
+    "tfsstr2semdp_950": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2semdp_1024": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere lateral orbital sulcus"
+    },
+    "tfsstr2semdp_951": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere medial orbital sulcus"
+    },
+    "tfsstr2semdp_1025": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere medial orbital sulcus"
+    },
+    "tfsstr2semdp_953": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2semdp_1027": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere parieto-occipital sulcus"
+    },
+    "tfsstr2semdp_954": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere pericallosal sulcus"
+    },
+    "tfsstr2semdp_1028": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere pericallosal sulcus"
+    },
+    "tfsstr2semdp_955": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere postcentral sulcus"
+    },
+    "tfsstr2semdp_1029": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere postcentral sulcus"
+    },
+    "tfsstr2semdp_956": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_1030": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_957": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_1031": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior part of the precentral sulcus"
+    },
+    "tfsstr2semdp_958": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere suborbital sulcus"
+    },
+    "tfsstr2semdp_1032": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere suborbital sulcus"
+    },
+    "tfsstr2semdp_959": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere subparietal sulcus"
+    },
+    "tfsstr2semdp_1033": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere subparietal sulcus"
+    },
+    "tfsstr2semdp_960": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2semdp_1034": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere inferior temporal sulcus"
+    },
+    "tfsstr2semdp_961": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere superior temporal sulcus"
+    },
+    "tfsstr2semdp_1035": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere superior temporal sulcus"
+    },
+    "tfsstr2semdp_962": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI left hemisphere transverse temporal sulcus"
+    },
+    "tfsstr2semdp_1036": {
+        "Description": "Standard error of the mean for SST run2 incorrect go versus incorrect stop contrast in cortical Destrieux ROI right hemisphere transverse temporal sulcus"
+    }
+}

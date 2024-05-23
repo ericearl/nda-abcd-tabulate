@@ -1,0 +1,286 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_cws_1": {
+        "Description": "Anger | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_2": {
+        "Description": "Aggression | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_3": {
+        "Description": "Irritability | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_4": {
+        "Description": "Nervousness or anxiety | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_5": {
+        "Description": "Restlessness | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_6": {
+        "Description": "Depressed mood | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_7": {
+        "Description": "Low appetite | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_8": {
+        "Description": "Sleep problems | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_9": {
+        "Description": "Normal (usual) dreams | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_10": {
+        "Description": "Strange (unusual) dreams | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_11": {
+        "Description": "Chills | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_12": {
+        "Description": "Stomach pain | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_13": {
+        "Description": "Shakiness or hand tremors | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_14": {
+        "Description": "Sweating | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_15": {
+        "Description": "Craving/wanting to use marijuana | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_16": {
+        "Description": "Body aches or pains | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_cws_17": {
+        "Description": "Concentration problems | 0=None ; 1=1 ; 2=2 ; 3=3 ; 4=Some ; 5=5 ; 6=6 ; 7=7 ; 8=8 ; 9=A Lot ; 10=10 [xskipout_mj_l] = '1' and [event-name] = '3_year_follow_up_y_arm_1'",
+        "Levels": {
+            "0": "None",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "Some",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "A Lot",
+            "10": "10"
+        }
+    },
+    "su_mj_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    }
+}

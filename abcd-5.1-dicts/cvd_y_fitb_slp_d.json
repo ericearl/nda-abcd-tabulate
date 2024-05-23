@@ -1,0 +1,90 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "cvd_fit_ss_sleepdate": {
+        "Description": "Date of the night (PM portion of sleep period) of sleep being considered"
+    },
+    "cvd_fit_ss_wkno": {
+        "Description": "Week number since start of protocol | Only first 3 weeks will be included in weekly aggregation (protocol length of wear)"
+    },
+    "cvd_fit_ss_weekday": {
+        "Description": "Day of the week | 1=Sunday, 2=Monday, 3=Tuesday, 4=Wednesday, 5=Thursday, 6=Friday, 7=Saturday"
+    },
+    "cvd_fit_ss_weekend_ind": {
+        "Description": "Is this day a weekend (Saturday or Sunday) | 0=no; 1=yes",
+        "Levels": {
+            "0": "no",
+            "1": "yes"
+        }
+    },
+    "cvd_fit_ss_protocol_date": {
+        "Description": "First day of (expected) wear by 3 week protocol"
+    },
+    "cvd_fit_ss_protocol_wear": {
+        "Description": "Is this day during the 3 week protocol period? | 0=no; 1=yes",
+        "Levels": {
+            "0": "no",
+            "1": "yes"
+        }
+    },
+    "cvd_fit_ss_first_inbed_minutes": {
+        "Description": "First Minute that the participant was identified as being in-bed (but not necessarily asleep) | All data is offset by 12 hours so that 00:00= noon;  23:59=11:59A",
+        "Levels": {
+            "All data is offset by 12 hours so that 00:00": "noon",
+            "23:59": "11:59A"
+        }
+    },
+    "cvd_fit_ss_first_sleep_minutes": {
+        "Description": "First Minute that the participant was identified as being asleep | All data is offset by 12 hours so that 00:00= noon;  23:59=11:59A",
+        "Levels": {
+            "All data is offset by 12 hours so that 00:00": "noon",
+            "23:59": "11:59A"
+        }
+    },
+    "cvd_fit_ss_outbed_minutes": {
+        "Description": "First Minute that the participant was identified as being out-bed (but may have woken up prior to this) | All data is offset by 12 hours so that 00:00= noon;  23:59=11:59A",
+        "Levels": {
+            "All data is offset by 12 hours so that 00:00": "noon",
+            "23:59": "11:59A"
+        }
+    },
+    "cvd_fit_ss_wakeup_minutes": {
+        "Description": "First Minute that the participant was identified as being awake | All data is offset by 12 hours so that 00:00= noon;  23:59=11:59A",
+        "Levels": {
+            "All data is offset by 12 hours so that 00:00": "noon",
+            "23:59": "11:59A"
+        }
+    },
+    "cvd_fit_ss_sleepperiod_minutes": {
+        "Description": "Total time in sleep (light plus deep plusREM)"
+    },
+    "cvd_fit_ss_wake_minutes": {
+        "Description": "Total number of Minutes (in 30 second increments) identified as being awake during the sleep window | Does not include any Minutes anotated as awake prior to the first Minute of sleep (i.e. does not count latency)"
+    },
+    "cvd_fit_ss_light_minutes": {
+        "Description": "Total number of Minutes (in 30 second increments) identified as being in \"light\" sleep stage during the sleep window"
+    },
+    "cvd_fit_ss_deep_minutes": {
+        "Description": "Total number of Minutes (in 30 second increments) identified as being in \"deep\" sleep stage during the sleep window"
+    },
+    "cvd_fit_ss_rem_minutes": {
+        "Description": "Total number of Minutes (in 30 second increments) identified as being in \"REM\" sleep stage during the sleep window"
+    },
+    "cvd_fit_ss_wake_count": {
+        "Description": "Total number of unique awakenings during the sleep period (excludes final awakening)"
+    },
+    "cvd_fit_ss_avg_hr_wake": {
+        "Description": "Average heart rate during Minutes that were classified as awake | In the event that the two (2) 30-second epochs within the Minute under review did not agree regarding sleep stage the HR for that Minute was not included."
+    },
+    "cvd_fit_ss_avg_hr_light": {
+        "Description": "Average heart rate during Minutes that were classified as light sleep stage | In the event that the two (2) 30-second epochs within the Minute under review did not agree regarding sleep stage the HR for that Minute was not included."
+    },
+    "cvd_fit_ss_avg_hr_deep": {
+        "Description": "Average heart rate during Minutes that were classified as deep sleep stage | In the event that the two (2) 30-second epochs within the Minute under review did not agree regarding sleep stage the HR for that Minute was not included."
+    },
+    "cvd_fit_ss_avg_hr_rem": {
+        "Description": "Average heart rate during Minutes that were classified as REM sleep stage | In the event that the two (2) 30-second epochs within the Minute under review did not agree regarding sleep stage the HR for that Minute was not included."
+    }
+}

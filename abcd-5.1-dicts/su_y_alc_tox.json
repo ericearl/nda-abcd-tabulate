@@ -1,0 +1,71 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "bal_test1_result_y": {
+        "Description": "Breathalyzer Test 1 Result: | 3=Not applicable (not randomized) ; 1=Negative (.000) ; 2=Positive (.001 or above) ; 4=Participant unable to complete (tried 3 times) ; 5=Participant refused ; 7=Not collected - remote completion ; 8=Institution not authorized to collect samples due to COVID ; 9=Staff discomfort due to COVID ; 10=Exceed 15min of < 6ft distance from youth (COVID) ; 11=Not approved by ABCD for collection ; 6=Not collected (other)",
+        "Levels": {
+            "3": "Not applicable (not randomized)",
+            "1": "Negative (.000)",
+            "2": "Positive (.001 or above)",
+            "4": "Participant unable to complete (tried 3 times)",
+            "5": "Participant refused",
+            "7": "Not collected - remote completion",
+            "8": "Institution not authorized to collect samples due to COVID",
+            "9": "Staff discomfort due to COVID",
+            "10": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "11": "Not approved by ABCD for collection",
+            "6": "Not collected (other)"
+        }
+    },
+    "bal1_dot_y": {
+        "Description": "Breathalyzer Test 1 Date Completed:"
+    },
+    "bal_test2_result_y": {
+        "Description": "Breathalyzer Test 2 Result: | 1 = Negative (.000); 2 = Positive (.001 or above); 4 = Participant unable to complete (tried 3 times); 5 = Participant refused; 6 = Not collected (other)",
+        "Levels": {
+            "1": "Negative (.000)",
+            "2": "Positive (.001 or above)",
+            "4": "Participant unable to complete (tried 3 times)",
+            "5": "Participant refused",
+            "6": "Not collected (other)"
+        }
+    },
+    "bal2_dot_y": {
+        "Description": "Breathalyzer Test 2 Date Completed:"
+    },
+    "bal2_need": {
+        "Description": "Is BAL Test Day 2 needed for this participant? | 1 = Yes; 0 = No",
+        "Levels": {
+            "1": "Yes",
+            "0": "No"
+        }
+    },
+    "bal2_test1_result_y": {
+        "Description": "Breathalyzer Test 1 Day 2 Result: | 1 = Negative (.000); 2 = Positive (.001 or above); 4 = Participant unable to complete (tried 3 times); 5 = Participant refused; 6 = Not collected (other)",
+        "Levels": {
+            "1": "Negative (.000)",
+            "2": "Positive (.001 or above)",
+            "4": "Participant unable to complete (tried 3 times)",
+            "5": "Participant refused",
+            "6": "Not collected (other)"
+        }
+    },
+    "bal21_dot_y": {
+        "Description": "Breathalyzer Test1 Day 2 Date Completed:"
+    },
+    "bal2_test2_result_y": {
+        "Description": "Breathalyzer Test 2 Day 2 Result: | 1 = Negative (.000); 2 = Positive (.001 or above); 4 = Participant unable to complete (tried 3 times); 5 = Participant refused; 6 = Not collected (other)",
+        "Levels": {
+            "1": "Negative (.000)",
+            "2": "Positive (.001 or above)",
+            "4": "Participant unable to complete (tried 3 times)",
+            "5": "Participant refused",
+            "6": "Not collected (other)"
+        }
+    },
+    "bal22_dot_y": {
+        "Description": "Breathalyzer Test 2 Day 2 Date Completed:"
+    }
+}

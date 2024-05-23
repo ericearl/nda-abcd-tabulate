@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mrisdp_303": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_304": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_305": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_306": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_307": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_308": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_309": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_310": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_311": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_312": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_313": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_314": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_315": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_316": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_317": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_318": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_319": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_320": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_321": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_322": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_323": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_324": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_325": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_326": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_327": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_328": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_329": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_330": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_331": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_332": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_333": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_334": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_335": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_336": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_337": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_338": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_339": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_340": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_341": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_342": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_343": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_344": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_345": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_346": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_347": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_348": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_349": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_350": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_351": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_352": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_353": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_354": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_355": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_356": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_357": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_358": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_359": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_360": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_361": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_362": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_363": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_364": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_365": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_366": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_367": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_368": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_369": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_370": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_371": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_372": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_373": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_374": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_375": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_376": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_377": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI fronto-marginal gyrus and sulcus"
+    },
+    "mrisdp_378": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior occipital gyrus and sulcus"
+    },
+    "mrisdp_379": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI paracentral lobule and sulcus"
+    },
+    "mrisdp_380": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI subcentral gyrus and sulci"
+    },
+    "mrisdp_381": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI transverse frontopolar gyri and sulci"
+    },
+    "mrisdp_382": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_383": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle-anterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_384": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle-posterior part of the cingulate gyrus and sulcus"
+    },
+    "mrisdp_385": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI posterior-dorsal part of the cingulate gyrus"
+    },
+    "mrisdp_386": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI posterior-ventral part of the cingulate gyrus"
+    },
+    "mrisdp_387": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI cuneus"
+    },
+    "mrisdp_388": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI opercular part of the inferior frontal gyrus"
+    },
+    "mrisdp_389": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI orbital part of the inferior frontal gyrus"
+    },
+    "mrisdp_390": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI triangular part of the inferior frontal gyrus"
+    },
+    "mrisdp_391": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle frontal gyrus"
+    },
+    "mrisdp_392": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior frontal gyrus"
+    },
+    "mrisdp_393": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI long insular gyrus and central sulcus of the insula"
+    },
+    "mrisdp_394": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI short insular gyri"
+    },
+    "mrisdp_395": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle occipital gyrus"
+    },
+    "mrisdp_396": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior occipital gyrus"
+    },
+    "mrisdp_397": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI lateral occipito-temporal gyrus"
+    },
+    "mrisdp_398": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI lingual gyrus"
+    },
+    "mrisdp_399": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI parahippocampal gyrus"
+    },
+    "mrisdp_400": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI orbital gyri"
+    },
+    "mrisdp_401": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI angular gyrus"
+    },
+    "mrisdp_402": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI supramarginal gyrus"
+    },
+    "mrisdp_403": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior parietal lobule"
+    },
+    "mrisdp_404": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI postcentral gyrus"
+    },
+    "mrisdp_405": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI precentral gyrus"
+    },
+    "mrisdp_406": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI precuneus"
+    },
+    "mrisdp_407": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI gyrus rectus"
+    },
+    "mrisdp_408": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI subcallosal gyrus"
+    },
+    "mrisdp_409": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI anterior transverse temporal gyrus"
+    },
+    "mrisdp_410": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI lateral aspect of the superior temporal gyrus"
+    },
+    "mrisdp_411": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI planum polare of the superior temporal gyrus"
+    },
+    "mrisdp_412": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI planum temporale"
+    },
+    "mrisdp_413": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior temporal gyrus"
+    },
+    "mrisdp_414": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle temporal gyrus"
+    },
+    "mrisdp_415": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI horizontal ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_416": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI vertical ramus of the anterior segment of the lateral sulcus"
+    },
+    "mrisdp_417": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI posterior ramus of the lateral sulcus"
+    },
+    "mrisdp_418": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI occipital pole"
+    },
+    "mrisdp_419": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI temporal pole"
+    },
+    "mrisdp_420": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI calcarine sulcus"
+    },
+    "mrisdp_421": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI central sulcus"
+    },
+    "mrisdp_422": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI marginal branch of the cingulate sulcus"
+    },
+    "mrisdp_423": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI anterior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_424": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_425": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior segment of the circular sulcus of the insula"
+    },
+    "mrisdp_426": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI anterior transverse collateral sulcus"
+    },
+    "mrisdp_427": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI posterior transverse collateral sulcus"
+    },
+    "mrisdp_428": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior frontal sulcus"
+    },
+    "mrisdp_429": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle frontal sulcus"
+    },
+    "mrisdp_430": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior frontal sulcus"
+    },
+    "mrisdp_431": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI sulcus intermedius primus"
+    },
+    "mrisdp_432": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI intraparietal sulcus and transverse parietal sulci"
+    },
+    "mrisdp_433": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI middle occipital sulcus and lunatus sulcus"
+    },
+    "mrisdp_434": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior occipital sulcus and transverse occipital sulcus"
+    },
+    "mrisdp_435": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI anterior occipital sulcus and preoccipital notch"
+    },
+    "mrisdp_436": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI lateral occipito-temporal sulcus"
+    },
+    "mrisdp_437": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI medial occipito-temporal sulcus and lingual sulcus"
+    },
+    "mrisdp_438": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI lateral orbital sulcus"
+    },
+    "mrisdp_439": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI medial orbital sulcus"
+    },
+    "mrisdp_440": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI orbital sulci"
+    },
+    "mrisdp_441": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI parieto-occipital sulcus"
+    },
+    "mrisdp_442": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI pericallosal sulcus"
+    },
+    "mrisdp_443": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI postcentral sulcus"
+    },
+    "mrisdp_444": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior part of the precentral sulcus"
+    },
+    "mrisdp_445": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior part of the precentral sulcus"
+    },
+    "mrisdp_446": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI suborbital sulcus"
+    },
+    "mrisdp_447": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI subparietal sulcus"
+    },
+    "mrisdp_448": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI inferior temporal sulcus"
+    },
+    "mrisdp_449": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI superior temporal sulcus"
+    },
+    "mrisdp_450": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI transverse temporal sulcus"
+    },
+    "mrisdp_451": {
+        "Description": "Cortical area in mm^2 for left hemisphere cortical Destrieux ROI total"
+    },
+    "mrisdp_452": {
+        "Description": "Cortical area in mm^2 for right hemisphere cortical Destrieux ROI total"
+    },
+    "mrisdp_453": {
+        "Description": "Cortical area in mm^2 for cortical Destrieux ROI total"
+    }
+}

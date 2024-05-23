@@ -1,0 +1,219 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_vol_cdk_banksstslh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_vol_cdk_cdacatelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-caudalanteriorcingulate"
+    },
+    "smri_vol_cdk_cdmdfrlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-caudalmiddlefrontal"
+    },
+    "smri_vol_cdk_cuneuslh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-cuneus"
+    },
+    "smri_vol_cdk_ehinallh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-entorhinal"
+    },
+    "smri_vol_cdk_fusiformlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-fusiform"
+    },
+    "smri_vol_cdk_ifpllh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-inferiorparietal"
+    },
+    "smri_vol_cdk_iftmlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-inferiortemporal"
+    },
+    "smri_vol_cdk_ihcatelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-isthmuscingulate"
+    },
+    "smri_vol_cdk_locclh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-lateraloccipital"
+    },
+    "smri_vol_cdk_lobfrlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-lateralorbitofrontal"
+    },
+    "smri_vol_cdk_linguallh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-lingual"
+    },
+    "smri_vol_cdk_mobfrlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-medialorbitofrontal"
+    },
+    "smri_vol_cdk_mdtmlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-middletemporal"
+    },
+    "smri_vol_cdk_parahpallh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-parahippocampal"
+    },
+    "smri_vol_cdk_paracnlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-paracentral"
+    },
+    "smri_vol_cdk_parsopclh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-parsopercularis"
+    },
+    "smri_vol_cdk_parsobislh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-parsorbitalis"
+    },
+    "smri_vol_cdk_parstgrislh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-parstriangularis"
+    },
+    "smri_vol_cdk_pericclh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-pericalcarine"
+    },
+    "smri_vol_cdk_postcnlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-postcentral"
+    },
+    "smri_vol_cdk_ptcatelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-posteriorcingulate"
+    },
+    "smri_vol_cdk_precnlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-precentral"
+    },
+    "smri_vol_cdk_pclh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-precuneus"
+    },
+    "smri_vol_cdk_rracatelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-rostralanteriorcingulate"
+    },
+    "smri_vol_cdk_rrmdfrlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-rostralmiddlefrontal"
+    },
+    "smri_vol_cdk_sufrlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-superiorfrontal"
+    },
+    "smri_vol_cdk_supllh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-superiorparietal"
+    },
+    "smri_vol_cdk_sutmlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-superiortemporal"
+    },
+    "smri_vol_cdk_smlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-supramarginal"
+    },
+    "smri_vol_cdk_frpolelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-frontalpole"
+    },
+    "smri_vol_cdk_tmpolelh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-temporalpole"
+    },
+    "smri_vol_cdk_trvtmlh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-transversetemporal"
+    },
+    "smri_vol_cdk_insulalh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI lh-insula"
+    },
+    "smri_vol_cdk_banksstsrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-Banks of Superior Temporal Sulcus"
+    },
+    "smri_vol_cdk_cdacaterh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-caudalanteriorcingulate"
+    },
+    "smri_vol_cdk_cdmdfrrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-caudalmiddlefrontal"
+    },
+    "smri_vol_cdk_cuneusrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-cuneus"
+    },
+    "smri_vol_cdk_ehinalrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-entorhinal"
+    },
+    "smri_vol_cdk_fusiformrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-fusiform"
+    },
+    "smri_vol_cdk_ifplrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-inferiorparietal"
+    },
+    "smri_vol_cdk_iftmrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-inferiortemporal"
+    },
+    "smri_vol_cdk_ihcaterh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-isthmuscingulate"
+    },
+    "smri_vol_cdk_loccrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-lateraloccipital"
+    },
+    "smri_vol_cdk_lobfrrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-lateralorbitofrontal"
+    },
+    "smri_vol_cdk_lingualrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-lingual"
+    },
+    "smri_vol_cdk_mobfrrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-medialorbitofrontal"
+    },
+    "smri_vol_cdk_mdtmrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-middletemporal"
+    },
+    "smri_vol_cdk_parahpalrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-parahippocampal"
+    },
+    "smri_vol_cdk_paracnrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-paracentral"
+    },
+    "smri_vol_cdk_parsopcrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-parsopercularis"
+    },
+    "smri_vol_cdk_parsobisrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-parsorbitalis"
+    },
+    "smri_vol_cdk_parstgrisrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-parstriangularis"
+    },
+    "smri_vol_cdk_periccrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-pericalcarine"
+    },
+    "smri_vol_cdk_postcnrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-postcentral"
+    },
+    "smri_vol_cdk_ptcaterh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-posteriorcingulate"
+    },
+    "smri_vol_cdk_precnrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-precentral"
+    },
+    "smri_vol_cdk_pcrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-precuneus"
+    },
+    "smri_vol_cdk_rracaterh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-rostralanteriorcingulate"
+    },
+    "smri_vol_cdk_rrmdfrrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-rostralmiddlefrontal"
+    },
+    "smri_vol_cdk_sufrrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-superiorfrontal"
+    },
+    "smri_vol_cdk_suplrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-superiorparietal"
+    },
+    "smri_vol_cdk_sutmrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-superiortemporal"
+    },
+    "smri_vol_cdk_smrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-supramarginal"
+    },
+    "smri_vol_cdk_frpolerh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-frontalpole"
+    },
+    "smri_vol_cdk_tmpolerh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-temporalpole"
+    },
+    "smri_vol_cdk_trvtmrh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-transversetemporal"
+    },
+    "smri_vol_cdk_insularh": {
+        "Description": "Cortical volume in mm^3 of APARC ROI rh-insula"
+    },
+    "smri_vol_cdk_totallh": {
+        "Description": "Total left hemisphere cortical volume in mm^3"
+    },
+    "smri_vol_cdk_totalrh": {
+        "Description": "Total right hemisphere cortical volume in mm^3"
+    },
+    "smri_vol_cdk_total": {
+        "Description": "Total whole brain cortical volume in mm^3"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_mustaccess": {
+        "Description": "Residential history derived - indicates if legislation requiring Prescribers to access PDMP before prescribing as interpreted by PDAPS was effective at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_AnyPDMP": {
+        "Description": "Residential history derived - indicates if PDMP enabling legislation for any type of PDMP in effect (including paper-based systems was first enacted at date of baseline visit (address 1)"
+    },
+    "reshist_addr1_Op_PDMP": {
+        "Description": "Residential history derived - indicates if a \u201cmodern PDMP system\u201d became operational and users could access was enabled at date of baseline visit (address 1)"
+    },
+    "reshist_addr2_mustaccess": {
+        "Description": "Residential history derived - indicates if legislation requiring Prescribers to access PDMP before prescribing as interpreted by PDAPS was effective at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_AnyPDMP": {
+        "Description": "Residential history derived - indicates if PDMP enabling legislation for any type of PDMP in effect (including paper-based systems was first enacted at date of baseline visit (address 2)"
+    },
+    "reshist_addr2_Op_PDMP": {
+        "Description": "Residential history derived - indicates if a \u201cmodern PDMP system\u201d became operational and users could access was enabled at date of baseline visit (address 2)"
+    },
+    "reshist_addr3_mustaccess": {
+        "Description": "Residential history derived - indicates if legislation requiring Prescribers to access PDMP before prescribing as interpreted by PDAPS was effective at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_AnyPDMP": {
+        "Description": "Residential history derived - indicates if PDMP enabling legislation for any type of PDMP in effect (including paper-based systems was first enacted at date of baseline visit (address 3)"
+    },
+    "reshist_addr3_Op_PDMP": {
+        "Description": "Residential history derived - indicates if a \u201cmodern PDMP system\u201d became operational and users could access was enabled at date of baseline visit (address 3)"
+    }
+}

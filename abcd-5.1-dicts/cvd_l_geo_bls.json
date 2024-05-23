@@ -1,0 +1,51 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_covidgeo_bls_unemployment": {
+        "Description": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr1_covidgeo_bls_unemploymentYearPrior": {
+        "Description": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr2_covidgeo_bls_unemployment": {
+        "Description": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr2_covidgeo_bls_unemploymentYearPrior": {
+        "Description": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr3_covidgeo_bls_unemployment": {
+        "Description": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr3_covidgeo_bls_unemploymentYearPrior": {
+        "Description": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr4_covidgeo_bls_unemployment": {
+        "Description": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr4_covidgeo_bls_unemploymentYearPrior": {
+        "Description": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr5_covidgeo_bls_unemployment": {
+        "Description": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr5_covidgeo_bls_unemploymentYearPrior": {
+        "Description": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level"
+    },
+    "reshist_addr1_covidgeo_census_population2019": {
+        "Description": "US Census 2019 Population data county-level"
+    },
+    "reshist_addr2_covidgeo_census_population2019": {
+        "Description": "US Census 2019 Population data county-level"
+    },
+    "reshist_addr3_covidgeo_census_population2019": {
+        "Description": "US Census 2019 Population data county-level"
+    },
+    "reshist_addr4_covidgeo_census_population2019": {
+        "Description": "US Census 2019 Population data county-level"
+    },
+    "reshist_addr5_covidgeo_census_population2019": {
+        "Description": "US Census 2019 Population data county-level"
+    }
+}

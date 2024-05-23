@@ -1,0 +1,86 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "erq_admin": {
+        "Description": "Please indicate how instrument was administered: | 1= RA-Administered ; 2= Youth Self-Administered ; 3= Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "erq_feelings_control": {
+        "Description": "I control my feelings by not showing them | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_feelings_happy": {
+        "Description": "When I want to feel happier about something, I change the way I'm thinking about it | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_feelings_hide": {
+        "Description": "When I'm feeling bad (e.g., sad, angry, worried), I'm careful not to show it | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_feelings_less_bad": {
+        "Description": "When I want to feel less bad (e.g., sad, angry, worried) about something, I change the way I'm thinking about it. | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_feelings_self": {
+        "Description": "I keep my feelings to myself | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_feelings_think": {
+        "Description": "When I want to feel less bad (e.g., sad, angry, worried) about something, I think about something different. | 1= strongly disagree ; 2= disagree ; 3= half and half ; 4= agree ; 5= strongly agree ; 777= Refuse to Answer",
+        "Levels": {
+            "1": "strongly disagree",
+            "2": "disagree",
+            "3": "half and half",
+            "4": "agree",
+            "5": "strongly agree",
+            "777": "Refuse to Answer"
+        }
+    },
+    "erq_ss_reappraisal_pr": {
+        "Description": "prorate the  sum of Qs 2,4,6"
+    },
+    "erq_ss_suppress_pr": {
+        "Description": "prorate the  sum of Qs 1,3,5"
+    }
+}

@@ -1,0 +1,1152 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mt_pil_pguid": {
+        "Description": "Participant ID"
+    },
+    "mt_pil_ears_act_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_act_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_act_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_act_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_act_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_act_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Action (minutes)"
+    },
+    "mt_pil_ears_adv_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_adv_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_adv_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_adv_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_adv_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_adv_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Adventure (minutes)"
+    },
+    "mt_pil_ears_app_dur_avg": {
+        "Description": "Average per Day duration across all apps (minutes)"
+    },
+    "mt_pil_ears_app_dur_tot": {
+        "Description": "Total duration across all apps (minutes)"
+    },
+    "mt_pil_ears_app_dur_wday_avg": {
+        "Description": "Average per Weekday Day duration across all apps (minutes)"
+    },
+    "mt_pil_ears_app_dur_wend_avg": {
+        "Description": "Average per Weekend Day duration across all apps (minutes)"
+    },
+    "mt_pil_ears_app_dur_wend_tot": {
+        "Description": "Total weekend duration across all apps (minutes)"
+    },
+    "mt_pil_ears_app_open_cnt": {
+        "Description": "Total number of times apps were opened across all apps over duration (count)"
+    },
+    "mt_pil_ears_app_open_cnt_avg": {
+        "Description": "Average per Day number of times apps were opened across all apps (count)"
+    },
+    "mt_pil_ears_app_unique_cnt": {
+        "Description": "Total number of unique apps used over duration (count)"
+    },
+    "mt_pil_ears_app_unique_cnt_avg": {
+        "Description": "Average per day number of unique apps used over duration (count)"
+    },
+    "mt_pil_ears_app_wday_dur_tot": {
+        "Description": "Total weekday duration across all apps (minutes)"
+    },
+    "mt_pil_ears_arc_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_arc_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_arc_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_arc_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_arc_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_arc_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Arcade (minutes)"
+    },
+    "mt_pil_ears_art_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_art_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_art_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_art_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_artdes_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_artdes_goog_tot": {
+        "Description": "Total duration Google Play Store category: Art & Design (minutes)"
+    },
+    "mt_pil_ears_beau_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_beau_goog_tot": {
+        "Description": "Total duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_beau_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_beau_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_beau_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_beau_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Beauty (minutes)"
+    },
+    "mt_pil_ears_biz_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_biz_goog_tot": {
+        "Description": "Total duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_biz_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_biz_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_biz_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_biz_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Business (minutes)"
+    },
+    "mt_pil_ears_book_goog_avg": {
+        "Description": "Average daily durationGoogle Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_book_goog_tot": {
+        "Description": "Total duration Google Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_book_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_book_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_book_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_book_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Books & Reference (minutes)"
+    },
+    "mt_pil_ears_brd_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_brd_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_brd_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_brd_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_brd_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_brd_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Board (minutes)"
+    },
+    "mt_pil_ears_call_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_call_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_call_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_call_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_call_open_cnt": {
+        "Description": "Total number of times phone call app opened over duration (count)"
+    },
+    "mt_pil_ears_call_open_cnt_avg": {
+        "Description": "Average Day number of times phone call app opened (count)"
+    },
+    "mt_pil_ears_card_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_card_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_card_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_card_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_card_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_card_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Card (minutes)"
+    },
+    "mt_pil_ears_cas_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_cas_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_cas_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_cas_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_cas_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_cas_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Casino (minutes)"
+    },
+    "mt_pil_ears_com_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_com_goog_tot": {
+        "Description": "Total duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_com_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_com_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_com_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_com_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Comics (minutes)"
+    },
+    "mt_pil_ears_comm_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Communications"
+    },
+    "mt_pil_ears_comm_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_comm_goog_tot": {
+        "Description": "Total duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_comm_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_comm_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_comm_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_comm_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Communications (minutes)"
+    },
+    "mt_pil_ears_csl_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_csl_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_csl_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_csl_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_csl_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_csl_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Casual (minutes)"
+    },
+    "mt_pil_ears_date_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_date_goog_tot": {
+        "Description": "Total duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_date_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_date_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_date_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_date_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Dating (minutes)"
+    },
+    "mt_pil_ears_ed_game_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_edgamgoog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_edgamgoog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_edgamgoog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_edgamgoog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_edgamgoog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Educational (minutes)"
+    },
+    "mt_pil_ears_educ_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_educ_goog_tot": {
+        "Description": "Total duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_educ_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_educ_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_educ_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_educ_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Education (minutes)"
+    },
+    "mt_pil_ears_ent_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_ent_goog_tot": {
+        "Description": "Total duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_ent_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_ent_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_ent_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_ent_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Entertainment (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_tot": {
+        "Description": "Total duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_evnt_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Events (minutes)"
+    },
+    "mt_pil_ears_fin_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_fin_goog_tot": {
+        "Description": "Total duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_fin_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_fin_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_fin_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_fin_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Finance (minutes)"
+    },
+    "mt_pil_ears_food_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_food_goog_tot": {
+        "Description": "Total duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_food_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_food_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_food_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_food_goog_wend_tot": {
+        "Description": "Total daily Weekend duration Google Play Store category: Food & Drink (minutes)"
+    },
+    "mt_pil_ears_game_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_game_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_game_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_game_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_game_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_game_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Gaming"
+    },
+    "mt_pil_ears_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_tot": {
+        "Description": "Total duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_hlth_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Health & Fitness (minutes)"
+    },
+    "mt_pil_ears_home_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_home_goog_tot": {
+        "Description": "Total duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_home_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_home_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_home_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_home_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: House & Home (minutes)"
+    },
+    "mt_pil_ears_lengthdays": {
+        "Description": "Number of days during usage tracking period with at least 1 upload (days)"
+    },
+    "mt_pil_ears_lengthdays_wday": {
+        "Description": "Number of weekday days during usage tracking period with at least 1 upload (days)"
+    },
+    "mt_pil_ears_lengthdays_wend": {
+        "Description": "Number of weekdend days during usage tracking period with at least 1 upload (days)"
+    },
+    "mt_pil_ears_lib_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_lib_goog_tot": {
+        "Description": "Total duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_lib_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_lib_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_lib_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_lib_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Libraries & Demo (minutes)"
+    },
+    "mt_pil_ears_ls_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_ls_goog_tot": {
+        "Description": "Total duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_ls_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_ls_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_ls_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_ls_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Lifestyle (minutes)"
+    },
+    "mt_pil_ears_maps_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_maps_goog_tot": {
+        "Description": "Total duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_maps_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_maps_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_maps_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_maps_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Maps & Navigation (minutes)"
+    },
+    "mt_pil_ears_med_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_med_goog_tot": {
+        "Description": "Total duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_med_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_med_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_med_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_med_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Medical (minutes)"
+    },
+    "mt_pil_ears_mus_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Music"
+    },
+    "mt_pil_ears_mus_game_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_mus_game_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_mus_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_mus_goog_tot": {
+        "Description": "Total duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_mus_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_mus_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_mus_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Music & Audio (minutes)"
+    },
+    "mt_pil_ears_musgamgoog_wday_av": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_musgamgoog_wend_av": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_musgamgoog_wend_to": {
+        "Description": "Total weekend duration Google Play Store category: Game - Music (minutes)"
+    },
+    "mt_pil_ears_news_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: News"
+    },
+    "mt_pil_ears_news_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_news_goog_tot": {
+        "Description": "Total duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_news_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_news_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_news_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_news_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: News & Magazines (minutes)"
+    },
+    "mt_pil_ears_phon_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_phon_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD single-app category: Phone Calls"
+    },
+    "mt_pil_ears_pic_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_pic_goog_tot": {
+        "Description": "Total duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_pic_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_pic_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_pic_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_pic_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Photography (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_tot": {
+        "Description": "Total duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prnt_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Parenting (minutes)"
+    },
+    "mt_pil_ears_prod_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prod_goog_tot": {
+        "Description": "Total duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prod_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prod_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prod_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prod_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Productivity (minutes)"
+    },
+    "mt_pil_ears_prs_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_prs_goog_tot": {
+        "Description": "Total duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_prs_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_prs_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_prs_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_prs_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Personalization (minutes)"
+    },
+    "mt_pil_ears_puz_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_puz_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_puz_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_puz_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_puz_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_puz_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Puzzle (minutes)"
+    },
+    "mt_pil_ears_race_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_race_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_race_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_race_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_race_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_race_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Racing (minutes)"
+    },
+    "mt_pil_ears_read_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_read_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_read_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_read_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_read_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_read_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Reading"
+    },
+    "mt_pil_ears_rp_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_rp_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_rp_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_rp_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_rp_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_rp_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Role Playing (minutes)"
+    },
+    "mt_pil_ears_scrn_dur_avg": {
+        "Description": "Average per Day duration (minutes) screen-on when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_dur_tot": {
+        "Description": "Total duration (minutes) screen-on when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_dur_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) screen-on when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_dur_wday_tot": {
+        "Description": "Total duration (minutes) screen-on weekday when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_dur_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) screen-on when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_dur_wend_tot": {
+        "Description": "Total duration (minutes) screen-on weekend when not on an app (e.g., systems app; if screen on while charging)"
+    },
+    "mt_pil_ears_scrn_on_cnt": {
+        "Description": "Total number of times screen is turned on over total duration (count)"
+    },
+    "mt_pil_ears_scrn_on_cnt_avg": {
+        "Description": "Average per Day number of times screen is turned on (count)"
+    },
+    "mt_pil_ears_shop_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_shop_goog_tot": {
+        "Description": "Total duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_shop_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_shop_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_shop_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_shop_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Shopping (minutes)"
+    },
+    "mt_pil_ears_sim_goog_avg": {
+        "Description": "Average daily duration duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sim_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sim_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sim_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sim_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sim_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Simulation (minutes)"
+    },
+    "mt_pil_ears_sms_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD single-app category: SMS Messages"
+    },
+    "mt_pil_ears_sms_open_cnt": {
+        "Description": "Total number of times sms message app opened over duration (count)"
+    },
+    "mt_pil_ears_sms_open_cnt_avg": {
+        "Description": "Average Day number of times sms message app opened (count)"
+    },
+    "mt_pil_ears_soc_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Social Media"
+    },
+    "mt_pil_ears_soc_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_soc_goog_tot": {
+        "Description": "Total duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_soc_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_soc_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_soc_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_soc_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Social (minutes)"
+    },
+    "mt_pil_ears_sprt_game_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_game_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_tot": {
+        "Description": "Total duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprt_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Sports (minutes)"
+    },
+    "mt_pil_ears_sprtggog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_sprtgamgog_wday_to": {
+        "Description": "Total weekday duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_sprtgamgog_wend_av": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_sprtgamgog_wend_to": {
+        "Description": "Total weekend duration Google Play Store category: Game - Sports (minutes)"
+    },
+    "mt_pil_ears_stg_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_stg_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_stg_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_stg_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_stg_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_stg_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Strategy (minutes)"
+    },
+    "mt_pil_ears_strm_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_strm_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_strm_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_strm_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_strm_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_strm_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD composite category: Streaming"
+    },
+    "mt_pil_ears_tls_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_tls_goog_tot": {
+        "Description": "Total duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_tls_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_tls_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_tls_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_tls_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Tools (minutes)"
+    },
+    "mt_pil_ears_triv_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_triv_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_triv_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_triv_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_triv_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_triv_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Trivia (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_tot": {
+        "Description": "Total duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_trvl_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Travel & Local (minutes)"
+    },
+    "mt_pil_ears_usetracking_end": {
+        "Description": "End of usage tracking period"
+    },
+    "mt_pil_ears_usetracking_start": {
+        "Description": "Start of usage tracking period"
+    },
+    "mt_pil_ears_veh_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_veh_goog_tot": {
+        "Description": "Total duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_veh_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_veh_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_veh_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_veh_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Auto & Vehicles (minutes)"
+    },
+    "mt_pil_ears_vid_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_vid_goog_tot": {
+        "Description": "Total duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_vid_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_vid_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_vid_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_vid_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Video Players & Editors (minutes)"
+    },
+    "mt_pil_ears_word_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_word_goog_tot": {
+        "Description": "Total duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_word_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_word_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_word_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_word_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Game - Word (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_avg": {
+        "Description": "Average daily duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_tot": {
+        "Description": "Total duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_wday_avg": {
+        "Description": "Average daily Weekday duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_wday_tot": {
+        "Description": "Total weekday duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_wend_avg": {
+        "Description": "Average daily Weekend duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_wthr_goog_wend_tot": {
+        "Description": "Total weekend duration Google Play Store category: Weather (minutes)"
+    },
+    "mt_pil_ears_yt_abcd_avg": {
+        "Description": "Average per Day duration (minutes) ABCD single-app category: YouTube"
+    },
+    "mt_pil_ears_yt_abcd_tot": {
+        "Description": "Total duration (minutes) ABCD single-app category: YouTube"
+    },
+    "mt_pil_ears_yt_abcd_wday_avg": {
+        "Description": "Average per Weekday Day duration (minutes) ABCD single-app category: YouTube"
+    },
+    "mt_pil_ears_yt_abcd_wday_tot": {
+        "Description": "Total weekday duration (minutes) ABCD single-app category: YouTube"
+    },
+    "mt_pil_ears_yt_abcd_wend_avg": {
+        "Description": "Average per Weekend Day duration (minutes) ABCD single-app category: YouTube"
+    },
+    "mt_pil_ears_yt_abcd_wend_tot": {
+        "Description": "Total weekend duration (minutes) ABCD single-app category: YouTube"
+    }
+}

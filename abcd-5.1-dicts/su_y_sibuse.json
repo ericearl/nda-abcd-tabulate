@@ -1,0 +1,282 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "su_sry_1": {
+        "Description": "Cigarettes | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_2": {
+        "Description": "Alcohol (beer, wine, or liquor) | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_3": {
+        "Description": "Marijuana (cannabis, weed) | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_4": {
+        "Description": "Inhalants (gas, glue, nitrous oxide) | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_5": {
+        "Description": "Electronic nicotine or vaping products, such as e-cigarettes, vape pens, or Juuls | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_6": {
+        "Description": "Prescription stimulants (such as Adderall or Ritalin) that were not prescribed to them by a doctor. | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_7": {
+        "Description": "Prescription anxiolytics (such as Xanax and Ativan) that were not prescribed to them by a doctor | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_8": {
+        "Description": "Prescription pain relievers (such as Vicodin, hydrocodone, or Oxycontin) that were not prescribed to them by a doctor. | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_9": {
+        "Description": "Other drugs not listed yet, like cocaine, heroin, or LSD. | 0=None ; 1=Less than once a month ; 2=A Few Times a Month ; 3=A Few Times a Week ; 4=Every Day or Nearly Daily ; 5=Don't Know [su_sry_gate]=1",
+        "Levels": {
+            "0": "None",
+            "1": "Less than once a month",
+            "2": "A Few Times a Month",
+            "3": "A Few Times a Week",
+            "4": "Every Day or Nearly Daily",
+            "5": "Don't Know"
+        }
+    },
+    "su_sry_gate": {
+        "Description": "Do you have any older siblings | 0=No ; 1=Yes  [event-name] = ''3_year_follow_up_y_arm_1'' or [event-name] = ''4_year_follow_up_y_arm_1''",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "su_sry_give_1": {
+        "Description": "Cigarettes | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_1]=1 or [su_sry_1]=2 or [su_sry_1]=3 or [su_sry_1]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_2": {
+        "Description": "Alcohol (beer, wine, or liquor) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_2]=1 or [su_sry_2]=2 or [su_sry_2]=3 or [su_sry_2]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_3": {
+        "Description": "Marijuana (cannabis, weed) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_3]=1 or [su_sry_3]=2 or [su_sry_3]=3 or [su_sry_3]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_4": {
+        "Description": "Inhalants (gas, glue, nitrous oxide) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_4]=1 or [su_sry_4]=2 or [su_sry_4]=3 or [su_sry_4]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_5": {
+        "Description": "Electronic nicotine or vaping products, such as e-cigarettes, vape pens, or Juuls | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_5]=1 or [su_sry_5]=2 or [su_sry_5]=3 or [su_sry_5]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_6": {
+        "Description": "Prescription stimulants (such as Adderall or Ritalin) that were not prescribed to them by a doctor. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_6]=1 or [su_sry_6]=2 or [su_sry_6]=3 or [su_sry_6]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_7": {
+        "Description": "Prescription anxiolytics (such as Xanax and Ativan) that were not prescribed to them by a doctor | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_7]=1 or [su_sry_7]=2 or [su_sry_7]=3 or [su_sry_7]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_8": {
+        "Description": "Prescription pain relievers (such as Vicodin, hydrocodone, or Oxycontin) that were not prescribed to them by a doctor. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_8]=1 or [su_sry_8]=2 or [su_sry_8]=3 or [su_sry_8]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_give_9": {
+        "Description": "Other drugs not listed yet, like cocaine, heroin, or LSD. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_9]=1 or [su_sry_9]=2 or [su_sry_9]=3 or [su_sry_9]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_1": {
+        "Description": "Cigarettes | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_1]=1 or [su_sry_1]=2 or [su_sry_1]=3 or [su_sry_1]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_2": {
+        "Description": "Alcohol (beer, wine, or liquor) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_2]=1 or [su_sry_2]=2 or [su_sry_2]=3 or [su_sry_2]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_3": {
+        "Description": "Marijuana (cannabis, weed) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_3]=1 or [su_sry_3]=2 or [su_sry_3]=3 or [su_sry_3]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_4": {
+        "Description": "Inhalants (gas, glue, nitrous oxide) | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_4]=1 or [su_sry_4]=2 or [su_sry_4]=3 or [su_sry_4]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_5": {
+        "Description": "Electronic nicotine or vaping products, such as e-cigarettes, vape pens, or Juuls | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_5]=1 or [su_sry_5]=2 or [su_sry_5]=3 or [su_sry_5]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_6": {
+        "Description": "Prescription stimulants (such as Adderall or Ritalin) that were not prescribed to them by a doctor. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_6]=1 or [su_sry_6]=2 or [su_sry_6]=3 or [su_sry_6]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_7": {
+        "Description": "Prescription anxiolytics (such as Xanax and Ativan) that were not prescribed to them by a doctor | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_7]=1 or [su_sry_7]=2 or [su_sry_7]=3 or [su_sry_7]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_8": {
+        "Description": "Prescription pain relievers (such as Vicodin, hydrocodone, or Oxycontin) that were not prescribed to them by a doctor. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_8]=1 or [su_sry_8]=2 or [su_sry_8]=3 or [su_sry_8]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "su_sry_seen_9": {
+        "Description": "Other drugs not listed yet, like cocaine, heroin, or LSD. | 0=Never ; 1=Just a few times ; 2=Many times ; 999=Don't Know [su_sry_9]=1 or [su_sry_9]=2 or [su_sry_9]=3 or [su_sry_9]=4",
+        "Levels": {
+            "0": "Never",
+            "1": "Just a few times",
+            "2": "Many times",
+            "999": "Don't Know"
+        }
+    },
+    "sua_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self_Administered ; 3=Combination [sched_delay] = '7'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self_Administered",
+            "3": "Combination"
+        }
+    }
+}

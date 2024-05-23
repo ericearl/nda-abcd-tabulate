@@ -1,0 +1,50 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "prosocial_q1_y": {
+        "Description": "I try to be nice to other people. I care about their feelings. | 0 = Not True; 1 = Somewhat True; 2 = Certainly True",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+    "prosocial_q2_y": {
+        "Description": "I am helpful if someone is hurt, upset, or feeling sick. | 0 = Not True; 1 = Somewhat True; 2 = Certainly True",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+    "prosocial_q3_y": {
+        "Description": "I often offer to help others (parents, teachers, children). | 0 = Not True; 1 = Somewhat True; 2 = Certainly True",
+        "Levels": {
+            "0": "Not True",
+            "1": "Somewhat True",
+            "2": "Certainly True"
+        }
+    },
+    "prosocial_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination"
+        }
+    },
+    "psb_y_ss_mean": {
+        "Description": "Prosocial Behavior Subscale Mean of Youth Self Report: (prosocial_q1_y + prosocial_q2_y +  prosocial_q3_y)/3; Validation:Minimum of two items answered | Goodman, R. (1997) The Strengths and Difficulties Questionnaire: a research note. J Child Psychol Psychiatry 38(5):581-6; Goodman, R., Meltzer, H., & Bailey V. (1998) The Strengths and Difficulties Questionnaire: A pilot study of the validity of the self-report version. European Child and Adolescent Psychiatry 7: 125\u2013130."
+    },
+    "psb_y_ss_answered": {
+        "Description": "Prosocial Behavior Subscale, Mean of Youth Self Report: Number Answered"
+    },
+    "psb_y_ss_mean_nm": {
+        "Description": "Prosocial Behavior Subscale, Mean of Youth Self Report: Number Missing Answers"
+    },
+    "psb_y_ss_mean_nt": {
+        "Description": "Prosocial Behavior Subscale, Mean of Youth Self Report: Number Total Questions"
+    }
+}

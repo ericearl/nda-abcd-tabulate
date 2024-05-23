@@ -1,0 +1,170 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "gish_m1_y": {
+        "Description": "How much do you feel like a boy? | 5 = Totally; 4 = Mostly; 3 = Somewhat; 2 = A little; 1 = Not at all; 0 = Decline to answer",
+        "Levels": {
+            "5": "Totally",
+            "4": "Mostly",
+            "3": "Somewhat",
+            "2": "A little",
+            "1": "Not at all",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_m2_y": {
+        "Description": "How much do you feel like a girl? | 1 = Totally; 2 = Mostly; 3 = Somewhat; 4 = A little; 5 = Not at all; 0 = Decline to answer",
+        "Levels": {
+            "1": "Totally",
+            "2": "Mostly",
+            "3": "Somewhat",
+            "4": "A little",
+            "5": "Not at all",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_f1_y": {
+        "Description": "How much do you feel like a girl? | 5 = Totally; 4 = Mostly; 3 = Somewhat; 2 = A little; 1 = Not at all; 0 = Decline to answer",
+        "Levels": {
+            "5": "Totally",
+            "4": "Mostly",
+            "3": "Somewhat",
+            "2": "A little",
+            "1": "Not at all",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_f2_y": {
+        "Description": "How much do you feel like a boy? | 1 = Totally; 2 = Mostly; 3 = Somewhat; 4 = A little; 5 = Not at all; 0 = Decline to answer",
+        "Levels": {
+            "1": "Totally",
+            "2": "Mostly",
+            "3": "Somewhat",
+            "4": "A little",
+            "5": "Not at all",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_m3_y": {
+        "Description": "How much have you had the wish to be a girl? | 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_m4_y": {
+        "Description": "How much have you dressed or acted as a girl during play? | 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_f3_y": {
+        "Description": "How much have you had the wish to be a boy? | 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_f4_y": {
+        "Description": "How much have you dressed or acted as a boy during play? | 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "0": "Decline to answer"
+        }
+    },
+    "gish_admin": {
+        "Description": "Please indicate how instrument was administered: | 1=RA-Administered ; 2=Youth Self-Administered ; 3=Combination [event_name_number] > '21'",
+        "Levels": {
+            "1": "RA-Administered",
+            "2": "Youth Self-Administered",
+            "3": "Combination [event_name_number] > '21'"
+        }
+    },
+    "y_gish2_desc_fem": {
+        "Description": "How do you think other people would describe you? | 1 = Very feminine; 2 = Mostly feminine; 3 = Somewhat feminine; 4 = Equally feminine and masculine; 5 = Somewhat masculine; 6 = Mostly masculine; 7 = Very masculine; 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "6": "Mostly masculine",
+            "7": "Very masculine",
+            "0": "Decline to answer"
+        }
+    },
+    "y_gish2_desc_fem_self": {
+        "Description": "How would you describe yourself? | 1 = Very feminine; 2 = Mostly feminine; 3 = Somewhat feminine; 4 = Equally feminine and masculine; 5 = Somewhat masculine; 6 = Mostly masculine; 7 = Very masculine; 1 = Always; 2 = Often; 3 = Sometimes; 4 = Rarely; 5 = Never; 0 = Decline to answer",
+        "Levels": {
+            "1": "Always",
+            "2": "Often",
+            "3": "Sometimes",
+            "4": "Rarely",
+            "5": "Never",
+            "6": "Mostly masculine",
+            "7": "Very masculine",
+            "0": "Decline to answer"
+        }
+    },
+    "y_gish2_desc_male": {
+        "Description": "How do you think others would describe you? | 1 = Very masculine; 2 = Mostly masculine; 3 = Somewhat masculine; 4 = Equally feminine and masculine; 5 = Somewhat feminine; 6 = Mostly feminine; 7 = Very feminine",
+        "Levels": {
+            "1": "Very masculine",
+            "2": "Mostly masculine",
+            "3": "Somewhat masculine",
+            "4": "Equally feminine and masculine",
+            "5": "Somewhat feminine",
+            "6": "Mostly feminine",
+            "7": "Very feminine"
+        }
+    },
+    "y_gish2_desc_male_self": {
+        "Description": "How would you describe yourself? | 1 = Very masculine; 2 = Mostly masculine; 3 = Somewhat masculine; 4 = Equally feminine and masculine; 5 = Somewhat feminine; 6 = Mostly feminine; 7 = Very feminine",
+        "Levels": {
+            "1": "Very masculine",
+            "2": "Mostly masculine",
+            "3": "Somewhat masculine",
+            "4": "Equally feminine and masculine",
+            "5": "Somewhat feminine",
+            "6": "Mostly feminine",
+            "7": "Very feminine"
+        }
+    },
+    "gish_y_ss_m_avg": {
+        "Description": "GISH Male Gender Averaged (gish_m1_y:gish_m4_y); Validation: No more than 1 item missing or decline"
+    },
+    "gish_y_ss_f_avg": {
+        "Description": "GISH Female Gender Averaged (gish_f1_y:gish_f4_y); Validation: No more than 1 item missing or decline"
+    },
+    "kbi_sex_assigned_at_birth": {
+        "Description": "What was your sex assigned at birth, on your birth certificate? | 1, Male | 2, Female | 999, Don't know | 777, Refuse to answer"
+    },
+    "kbi_gender": {
+        "Description": "What is your current gender identity? | 1, Boy | 2, Girl | 3, Another gender (e.g. nonbinary) | 999, I don't understand the question | 777, Refuse to answer"
+    },
+    "kbi_y_trans_id": {
+        "Description": "Are you transgender? | 1, Yes | 2, Maybe | 3, No | 4, I do not understand this question | 777, Refuse to answer"
+    },
+    "kbi_y_trans_prob": {
+        "Description": "Has this caused any problems for you with your family or with kids at school? | 1, Not at all | 2, Some | 3, A lot | 777, Refuse to answer"
+    }
+}

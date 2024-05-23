@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "latent_factor_ss_general_ses": {
+        "Description": "General latent factor of economic, social, and physiological well-being."
+    },
+    "latent_factor_ss_social": {
+        "Description": "Latent factor for youth perceived social support."
+    },
+    "latent_factor_ss_perinatal": {
+        "Description": "Latent factor for perinatal health"
+    }
+}

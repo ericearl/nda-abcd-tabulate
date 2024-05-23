@@ -1,0 +1,45 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "blood_pressure_start_time": {
+        "Description": "Start time"
+    },
+    "blood_pressure_test_sys_1": {
+        "Description": "Reading #1\nSYS (Systolic)"
+    },
+    "blood_pressure_test_dia_1": {
+        "Description": "Reading #1\nDIA (Diastolic)"
+    },
+    "blood_pressure_pulse_1": {
+        "Description": "Reading #1\nBPM (pulse/min)"
+    },
+    "blood_pressure_test_sys_2": {
+        "Description": "Reading #2\nSYS (Systolic)"
+    },
+    "blood_pressure_test_dia_2": {
+        "Description": "Reading #2\nDIA (Diastolic)"
+    },
+    "blood_pressure_pulse_2": {
+        "Description": "Reading #2\nBPM (pulse/min)"
+    },
+    "blood_pressure_test_sys_3": {
+        "Description": "Reading #3\nSYS (Systolic)"
+    },
+    "blood_pressure_test_dia_3": {
+        "Description": "Reading #3\nDIA (Diastolic)"
+    },
+    "blood_pressure_pulse_3": {
+        "Description": "Reading #3\nBPM (pulse/min)"
+    },
+    "blood_pressure_sys_mean": {
+        "Description": "Mean\nSystolic | mean([blood_pressure_test_sys_1], [blood_pressure_test_sys_2], [blood_pressure_test_sys_3])"
+    },
+    "blood_pressure_dia_mean": {
+        "Description": "Mean\nDiastolic | mean([blood_pressure_test_dia_1], [blood_pressure_test_dia_2], [blood_pressure_test_dia_3])"
+    },
+    "blood_pressure_pulse_mean": {
+        "Description": "Mean\n Pulse | mean([blood_pressure_pulse_1], [blood_pressure_pulse_2], [blood_pressure_pulse_3])"
+    }
+}

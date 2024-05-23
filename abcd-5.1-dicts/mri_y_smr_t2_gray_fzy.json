@@ -1,0 +1,114 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "smri_t2wg02_cf2_flh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 2 clusters-lh-frontal"
+    },
+    "smri_t2wg02_cf2_pslh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 2 clusters-lh-posterior"
+    },
+    "smri_t2wg02_cf4_flh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-lh-frontal"
+    },
+    "smri_t2wg02_cf4_occlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-lh-occipital"
+    },
+    "smri_t2wg02_cf4_tmlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-lh-temporal"
+    },
+    "smri_t2wg02_cf4_pllh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-lh-parietal"
+    },
+    "smri_t2wg02_cf12_ctlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-central"
+    },
+    "smri_t2wg02_cf12_occlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-occipital"
+    },
+    "smri_t2wg02_cf12_polttmlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-posterolateraltemporal"
+    },
+    "smri_t2wg02_cf12_supllh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-superiorparietal"
+    },
+    "smri_t2wg02_cf12_oboflh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-orbitofrontal"
+    },
+    "smri_t2wg02_cf12_sutmlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-superiortemporal"
+    },
+    "smri_t2wg02_cf12_ifpllh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-inferiorparietal"
+    },
+    "smri_t2wg02_cf12_dmflh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-dorsomedialfrontal"
+    },
+    "smri_t2wg02_cf12_aomtmlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-anteromedialtemporal"
+    },
+    "smri_t2wg02_cf12_pnlh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-precuneus"
+    },
+    "smri_t2wg02_cf12_dltpreflh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-dorsolateralprefrontal"
+    },
+    "smri_t2wg02_cf12_popclh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-lh-parsopercularis"
+    },
+    "smri_t2wg02_cf2_frh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 2 clusters-rh-frontal"
+    },
+    "smri_t2wg02_cf2_psrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 2 clusters-rh-posterior"
+    },
+    "smri_t2wg02_cf4_frh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-rh-frontal"
+    },
+    "smri_t2wg02_cf4_occrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-rh-occipital"
+    },
+    "smri_t2wg02_cf4_tmrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-rh-temporal"
+    },
+    "smri_t2wg02_cf4_plrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 4 clusters-rh-parietal"
+    },
+    "smri_t2wg02_cf12_ctrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-central"
+    },
+    "smri_t2wg02_cf12_occrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-occipital"
+    },
+    "smri_t2wg02_cf12_polttmrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-posterolateraltemporal"
+    },
+    "smri_t2wg02_cf12_suplrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-superiorparietal"
+    },
+    "smri_t2wg02_cf12_obofrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-orbitofrontal"
+    },
+    "smri_t2wg02_cf12_sutmrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-superiortemporal"
+    },
+    "smri_t2wg02_cf12_ifplrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-inferiorparietal"
+    },
+    "smri_t2wg02_cf12_dmfrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-dorsomedialfrontal"
+    },
+    "smri_t2wg02_cf12_aomtmrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-anteromedialtemporal"
+    },
+    "smri_t2wg02_cf12_pnrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-precuneus"
+    },
+    "smri_t2wg02_cf12_dltprefrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-dorsolateralprefrontal"
+    },
+    "smri_t2wg02_cf12_popcrh": {
+        "Description": "Weighted average T2 intensity of gray matter voxels 0.2 mm from the white matter surface for genetically derived parcellation with 12 clusters-rh-parsopercularis"
+    }
+}

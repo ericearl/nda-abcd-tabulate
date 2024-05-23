@@ -1,0 +1,221 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ecbq_time": {
+        "Description": "Time stamp"
+    },
+    "ecbq_assent_consent": {
+        "Description": "Child and Parent assented/consented to ABCD eCBq Substudy YES (RA Note: administer eCBq and draw additional 3ml blood sample) NO (RA Note: do not administer eCBq) | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "ecbq_meal": {
+        "Description": "How many hours ago did you last eat any food, such as a meal or snack? | 1 = 0.5; 2 = 1.0; 3 = 1.5; 4 = 2.0; 5 = 2.5; 6 = 3.0; 7 = 3.5; 8 = 4.0; 9 = 4.5; 10 = 5.0; 11 = 5.5; 12 = 6.0; 13 = 6.5; 14 = 7.0; 15 = 7.5; 16 = 8.0; 17 = 8.5; 18 = 9.0; 19 = 9.5; 20 = 10.0; 21 = 10.5; 22 = 11.0; 23 = 11.5; 24 = 12.0",
+        "Levels": {
+            "1": "0.5",
+            "2": "1.0",
+            "3": "1.5",
+            "4": "2.0",
+            "5": "2.5",
+            "6": "3.0",
+            "7": "3.5",
+            "8": "4.0",
+            "9": "4.5",
+            "10": "5.0",
+            "11": "5.5",
+            "12": "6.0",
+            "13": "6.5",
+            "14": "7.0",
+            "15": "7.5",
+            "16": "8.0",
+            "17": "8.5",
+            "18": "9.0",
+            "19": "9.5",
+            "20": "10.0",
+            "21": "10.5",
+            "22": "11.0",
+            "23": "11.5",
+            "24": "12.0"
+        }
+    },
+    "ecbq_drink": {
+        "Description": "How long ago did you last have a drink besides water, such as juice, milk, or non-diet soda? | 1 = 0.5; 2 = 1.0; 3 = 1.5; 4 = 2.0; 5 = 2.5; 6 = 3.0; 7 = 3.5; 8 = 4.0; 9 = 4.5; 10 = 5.0; 11 = 5.5; 12 = 6.0; 13 = 6.5; 14 = 7.0; 15 = 7.5; 16 = 8.0; 17 = 8.5; 18 = 9.0; 19 = 9.5; 20 = 10.0; 21 = 10.5; 22 = 11.0; 23 = 11.5; 24 = 12.0",
+        "Levels": {
+            "1": "0.5",
+            "2": "1.0",
+            "3": "1.5",
+            "4": "2.0",
+            "5": "2.5",
+            "6": "3.0",
+            "7": "3.5",
+            "8": "4.0",
+            "9": "4.5",
+            "10": "5.0",
+            "11": "5.5",
+            "12": "6.0",
+            "13": "6.5",
+            "14": "7.0",
+            "15": "7.5",
+            "16": "8.0",
+            "17": "8.5",
+            "18": "9.0",
+            "19": "9.5",
+            "20": "10.0",
+            "21": "10.5",
+            "22": "11.0",
+            "23": "11.5",
+            "24": "12.0"
+        }
+    },
+    "ecbq_physical_breathe": {
+        "Description": "Did you do any physical activity today that made you breathe somewhat harder than normal, such as running, swimming, bicycling, or playing a sport? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "ecbq_breathe_time": {
+        "Description": "How many hours ago did you finish the activity? | 1 = 0.5; 2 = 1.0; 3 = 1.5; 4 = 2.0; 5 = 2.5; 6 = 3.0; 7 = 3.5; 8 = 4.0; 9 = 4.5; 10 = 5.0; 11 = 5.5; 12 = 6.0; 13 = 6.5; 14 = 7.0; 15 = 7.5; 16 = 8.0; 17 = 8.5; 18 = 9.0; 19 = 9.5; 20 = 10.0; 21 = 10.5; 22 = 11.0; 23 = 11.5; 24 = 12.0",
+        "Levels": {
+            "1": "0.5",
+            "2": "1.0",
+            "3": "1.5",
+            "4": "2.0",
+            "5": "2.5",
+            "6": "3.0",
+            "7": "3.5",
+            "8": "4.0",
+            "9": "4.5",
+            "10": "5.0",
+            "11": "5.5",
+            "12": "6.0",
+            "13": "6.5",
+            "14": "7.0",
+            "15": "7.5",
+            "16": "8.0",
+            "17": "8.5",
+            "18": "9.0",
+            "19": "9.5",
+            "20": "10.0",
+            "21": "10.5",
+            "22": "11.0",
+            "23": "11.5",
+            "24": "12.0"
+        }
+    },
+    "ecbq_pain": {
+        "Description": "How much pain do you have right now, using a number from 0 to 10, where 0 is no pain or hurt and 10 is the most or worst pain? | 0 = 0 no pain; 1 = 1; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = 6; 7 = 7; 8 = 8; 9 = 9; 10 = 10 worst pain",
+        "Levels": {
+            "0": "0 no pain",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10 worst pain"
+        }
+    },
+    "ecbq_stress": {
+        "Description": "On a scale of 0 to 10, with 0 being no stress and 10 being worst stress possible, what number best describes your level of stress right now? | 0 = 0 no pain; 1 = 1; 2 = 2; 3 = 3; 4 = 4; 5 = 5; 6 = 6; 7 = 7; 8 = 8; 9 = 9; 10 = 10 worst pain",
+        "Levels": {
+            "0": "0 no pain",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10 worst pain"
+        }
+    },
+    "ecbq_collected_yn": {
+        "Description": "Was the eCB blood sample collected? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "ecbq_reason_not_collected": {
+        "Description": "Reason blood sample was not collected | 1 = youth refused; 2 = unable to get sample; 3 = session terminated for other reason; 4 = ran out of time in protocol; 5 = other",
+        "Levels": {
+            "1": "youth refused",
+            "2": "unable to get sample",
+            "3": "session terminated for other reason",
+            "4": "ran out of time in protocol",
+            "5": "other"
+        }
+    },
+    "ecbq_blood_time_stamp": {
+        "Description": "Collected 3 ml blood sample and enter time stamp | Date and time entered: M-D-Y H:M"
+    },
+    "cbq_temp_store": {
+        "Description": "RA: which storage fridge will you use | 1 = -20 C freezer; 2 = -80 C freezer",
+        "Levels": {
+            "1": "-20 C freezer",
+            "2": "-80 C freezer"
+        }
+    },
+    "ecb_site": {
+        "Description": "Site collected? | 1 = site01; 2 = site04; 3 = site05; 4 = site07; 5 = site10; 6 = site17; 7 = site18; 8 = site20",
+        "Levels": {
+            "1": "site01",
+            "2": "site04",
+            "3": "site05",
+            "4": "site07",
+            "5": "site10",
+            "6": "site17",
+            "7": "site18",
+            "8": "site20"
+        }
+    },
+    "ecb_ship_date": {
+        "Description": "Shipping date: | Date entered: D-M-Y"
+    },
+    "ecb_ship_receive": {
+        "Description": "Sample received at MCW: | Date entered: D-M-Y"
+    },
+    "ecb_sample_processed": {
+        "Description": "Sample processed at MCW? | 1 = Yes; 2 = No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "ecb_sample_processed_n": {
+        "Description": "Provide Reason: | 1 = Sample quantity too small; 2 = Sample quality too poor; 3 = Lab Error; 4 = Sample Missing; 5 = Other; 6 = Don't know",
+        "Levels": {
+            "1": "Sample quantity too small",
+            "2": "Sample quality too poor",
+            "3": "Lab Error",
+            "4": "Sample Missing",
+            "5": "Other",
+            "6": "Don't know"
+        }
+    },
+    "ecb_aea": {
+        "Description": "AEA: | AEA (pmol/mL)"
+    },
+    "ecb_2ag": {
+        "Description": "2-AG: | 2AG (pmol/mL)"
+    },
+    "ecb_pea": {
+        "Description": "PEA: | PEA (pmol/mL)"
+    },
+    "ecb_oea": {
+        "Description": "OEA: | OEA (pmol/mL)"
+    },
+    "ecb_2og": {
+        "Description": "2-OG: | 2OG (pmol/mL)"
+    }
+}

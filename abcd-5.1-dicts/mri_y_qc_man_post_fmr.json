@@ -1,0 +1,36 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "fmri_postqc_containertype": {
+        "Description": "Container type"
+    },
+    "fmri_postqc_stype": {
+        "Description": "Series type"
+    },
+    "fmri_postqc_nrev": {
+        "Description": "Number of reviews"
+    },
+    "fmri_postqc_revdisp": {
+        "Description": "Disparity between reviewers"
+    },
+    "fmri_postqc_qc": {
+        "Description": "Overall QC score"
+    },
+    "fmri_postqc_regt1": {
+        "Description": "Registration error score (0=good registration, 1=mild rotation or translation, 2=moderate rotation or translation, 3=severe rotation or translation)"
+    },
+    "fmri_postqc_b0warp": {
+        "Description": "Residual distortion score (0=no distortion, 1=mild distortion, 2=moderate distortion, 3=severe distortion)"
+    },
+    "fmri_postqc_imgqual": {
+        "Description": "Image quality score (0=good image quality, 1=mild artifact, 2=moderate artifact, 3=severe artifact)"
+    },
+    "fmri_postqc_cutoff": {
+        "Description": "Cutoff score (0=no cutoff, 1=mild cutoff, 2=moderate cutoff, 3=severe cutoff)"
+    },
+    "fmri_postqc_notes": {
+        "Description": "fMRI postprocessing QC Notes"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "ksads_ptsd_raw_754_p": {
+        "Description": "A car accident in which your child or another person in the car was hurt bad enough to require medical attention | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_755_p": {
+        "Description": "Another significant accident for which your child needed specialized and intensive medical treatment | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_756_p": {
+        "Description": "Witnessed or caught in a fire that caused significant property damage or personal injury | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_757_p": {
+        "Description": "Witnessed or caught in a natural disaster that caused significant property damage or personal injury | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_758_p": {
+        "Description": "Witnessed or present during an act of terrorism (e.g., Boston marathon bombing) | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_759_p": {
+        "Description": "Witnessed death or mass destruction in a war zone | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_760_p": {
+        "Description": "Witnessed someone shot or stabbed in the community | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_761_p": {
+        "Description": "Shot, stabbed, or beaten brutally by a non-family member | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_762_p": {
+        "Description": "Shot, stabbed, or beaten brutally by a grown up in the home | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_763_p": {
+        "Description": "Beaten to the point of having bruises by a grown up in the home | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_764_p": {
+        "Description": "A non-family member threatened to kill your child | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_765_p": {
+        "Description": "A family member threatened to kill your child | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_766_p": {
+        "Description": "Witness the grownups in the home push, shove or hit one another | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_767_p": {
+        "Description": "A grown up in the home touched your child in their privates, had your child touch their privates, or did other sexual things to your child | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_768_p": {
+        "Description": "An adult outside your family touched your child in their privates, had your child touch their privates or did other sexual things to your child | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_769_p": {
+        "Description": "A peer forced your child to do something sexually | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ksads_ptsd_raw_770_p": {
+        "Description": "Learned about the sudden unexpected death of a loved one | 0 = No; 1 = Yes",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

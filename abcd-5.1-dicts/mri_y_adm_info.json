@@ -1,0 +1,27 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "mri_info_visitid": {
+        "Description": "Visit name"
+    },
+    "mri_info_manufacturer": {
+        "Description": "Imaging device manufacturer"
+    },
+    "mri_info_manufacturersmn": {
+        "Description": "Imaging device manufacturer's model name"
+    },
+    "mri_info_deviceserialnumber": {
+        "Description": "Hashed version of imaging device serial number"
+    },
+    "mri_info_magneticfieldstrength": {
+        "Description": "Magnetic field strength of imaging device in teslas"
+    },
+    "mri_info_softwareversion": {
+        "Description": "Imaging device software version"
+    },
+    "mri_info_studydate": {
+        "Description": "Date associated with MRI scans"
+    }
+}

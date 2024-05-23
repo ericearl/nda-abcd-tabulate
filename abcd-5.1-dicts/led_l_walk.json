@@ -1,0 +1,15 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "reshist_addr1_walkindex": {
+        "Description": "Residential history derived - national walkability index 1"
+    },
+    "reshist_addr2_walkindex": {
+        "Description": "Residential history derived- national walkability index 2"
+    },
+    "reshist_addr3_walkindex": {
+        "Description": "Residential history derived- national walkability index 3"
+    }
+}

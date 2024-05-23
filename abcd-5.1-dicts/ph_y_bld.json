@@ -1,0 +1,232 @@
+{
+    "participant_id": {
+        "LongName": "Participant Identifier",
+        "Description": "Unique BIDS identifier for the participant in this study."
+    },
+    "biospec_blood_consent": {
+        "Description": "Participant agreed to have their blood drawn?"
+    },
+    "biospec_blood_tube1_collect": {
+        "Description": "Tube 1 (<font color = red\">RED</font> Top: SST) Blood Sample collected?\" | 1=Yes ; 0=Unable to Complete ; 777=Refused ; 3=Institution not authorized to collect samples due to COVID ; 4=Staff discomfort due to COVID ; 5=Exceed 15min of < 6ft distance from youth (COVID) ; 6=Not approved by ABCD for collection ; 2=Not collected (other)",
+        "Levels": {
+            "1": "Yes",
+            "0": "Unable to Complete",
+            "777": "Refused",
+            "3": "Institution not authorized to collect samples due to COVID",
+            "4": "Staff discomfort due to COVID",
+            "5": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "6": "Not approved by ABCD for collection",
+            "2": "Not collected (other)"
+        }
+    },
+    "biospec_blood_tube1_dot": {
+        "Description": "Tube 1 (<font color = red\">RED</font> Top: SST)  blood sample date and time collected:\""
+    },
+    "biospec_blood_tube2_collect": {
+        "Description": "Tube 2 (<font color = purple\">Purple</font> Top: EDTA) Blood Sample collected?\" | 1=Yes ; 0=Unable to Complete ; 777=Refused ; 3=Institution not authorized to collect samples due to COVID ; 4=Staff discomfort due to COVID ; 5=Exceed 15min of < 6ft distance from youth (COVID) ; 6=Not approved by ABCD for collection ; 2=Not collected (other)",
+        "Levels": {
+            "1": "Yes",
+            "0": "Unable to Complete",
+            "777": "Refused",
+            "3": "Institution not authorized to collect samples due to COVID",
+            "4": "Staff discomfort due to COVID",
+            "5": "Exceed 15min of < 6ft distance from youth (COVID)",
+            "6": "Not approved by ABCD for collection",
+            "2": "Not collected (other)"
+        }
+    },
+    "biospec_blood_tube2_dot": {
+        "Description": "Tube 2 (<font color = purple\">Purple</font> Top: EDTA) Blood sample date and time collected:\""
+    },
+    "biospec_blood_tube2_fuge_dot": {
+        "Description": "Tube 1 (<font color = red\">Red</font> Top: SST) - enter the date and time for the centrifuge: \""
+    },
+    "biospec_blood_freeze_ship_dot": {
+        "Description": "Enter the date and time for refrigerating or freezing the sample (if you are shipping the same day, enter the date and time that the sample was put in the mailer"
+    },
+    "biospec_blood_accession_date": {
+        "Description": "RUCDR Accession Date"
+    },
+    "biospec_blood_col_date": {
+        "Description": "Blood Sample Collection Date"
+    },
+    "biospec_blood_ruid": {
+        "Description": "RUCDR ID"
+    },
+    "biospec_blood_ruid_2": {
+        "Description": "RUCDR ID 2"
+    },
+    "biospec_blood_purple_tube_barc": {
+        "Description": "Purple Tube Inventory Code:"
+    },
+    "biospec_blood_fluid_tube_barc": {
+        "Description": "Serum Tube Inventory Code:"
+    },
+    "biospec_blood_rucdr_comment": {
+        "Description": "RUCDR Comments"
+    },
+    "biospec_blood_baso_percent": {
+        "Description": "BASO %"
+    },
+    "biospec_blood_baso_abs": {
+        "Description": "BASO ABS"
+    },
+    "biospec_blood_eos_percent": {
+        "Description": "EOS %"
+    },
+    "biospec_blood_eos_abs": {
+        "Description": "EOS ABS"
+    },
+    "biospec_blood_hemoglobin": {
+        "Description": "Hemoglobin"
+    },
+    "biospec_blood_mcv": {
+        "Description": "MCV"
+    },
+    "biospec_blood_plt_count": {
+        "Description": "PLT Count"
+    },
+    "biospec_blood_wbc_count": {
+        "Description": "WBC Count"
+    },
+    "biospec_blood_ferritin": {
+        "Description": "Ferritin"
+    },
+    "biospec_blood_hemoglobin_a1": {
+        "Description": "hemoglobin_a1"
+    },
+    "biospec_blood_imm_gran_per": {
+        "Description": "Immature Gran %"
+    },
+    "biospec_blood_imm_gran_abs": {
+        "Description": "Immature Gran Abs"
+    },
+    "biospec_blood_lymph_percent": {
+        "Description": "LYMPH %"
+    },
+    "biospec_blood_lymph_abs": {
+        "Description": "LYMPH ABS"
+    },
+    "biospec_blood_mch": {
+        "Description": "MCH"
+    },
+    "biospec_blood_mchc": {
+        "Description": "MCHC"
+    },
+    "biospec_blood_mono_percent": {
+        "Description": "MONO %"
+    },
+    "biospec_blood_mono_abs": {
+        "Description": "MONO ABS"
+    },
+    "biospec_blood_mpv": {
+        "Description": "MPV"
+    },
+    "biospec_blood_neut_percent": {
+        "Description": "NEUT %"
+    },
+    "biospec_blood_neut_abs": {
+        "Description": "NEUTABS"
+    },
+    "biospec_blood_nrbc_abs": {
+        "Description": "NRBC ABS"
+    },
+    "biospec_blood_nrbc_percent": {
+        "Description": "NRBC%"
+    },
+    "biospec_blood_rdw": {
+        "Description": "RDW"
+    },
+    "biospec_blood_cholesterol": {
+        "Description": "Cholesterol"
+    },
+    "biospec_blood_hdl_cholesterol": {
+        "Description": "HDL Cholesterol"
+    },
+    "biospec_blood_burr_cells": {
+        "Description": "Burr Cells"
+    },
+    "biospec_blood_poikilocytosis": {
+        "Description": "Poikilocytosis"
+    },
+    "biospec_bl_red_blo_cell_morph": {
+        "Description": "Red blood Cell Morph"
+    },
+    "biospec_blood_rbc_count": {
+        "Description": "RBC count"
+    },
+    "biospec_blood_hematocrit": {
+        "Description": "Hematocrit"
+    },
+    "biospec_blood_report_status": {
+        "Description": "biospec blood results report send status"
+    },
+    "biospec_blood_report_datetime": {
+        "Description": "biospec blood results report send TimeStamp"
+    },
+    "biospec_blood_alert_date": {
+        "Description": "Youth Blood Result Alert Date"
+    },
+    "biospec_blood_receiv": {
+        "Description": "I confirm having received this report."
+    },
+    "biospec_blood_resolution_date": {
+        "Description": "I confirm that we have either made contact with the family or decided not to contact the family about this finding."
+    },
+    "biospec_blood_resolve___1": {
+        "Description": "Resolution: Report reviewed but no action needed | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve___2": {
+        "Description": "Resolution: Report reviewed and discussed with family | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve___3": {
+        "Description": "Resolution: Report reviewed and referral recommended | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve___4": {
+        "Description": "Resolution: Report reviewed=clinical follow-up confirmed | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve___5": {
+        "Description": "Resolution: New diagnosis resulting from clinical followup on Blood Sample findings | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve___6": {
+        "Description": "Resolution: Exclusionary Condition or Recommended Withdrawal from Study | 1=Yes; 2=No",
+        "Levels": {
+            "1": "Yes",
+            "2": "No"
+        }
+    },
+    "biospec_blood_resolve_ndnotes": {
+        "Description": "New diagnosis"
+    },
+    "biospec_blood_resolve_ecnotes": {
+        "Description": "Exclusionary condition"
+    },
+    "biospec_blood_ship": {
+        "Description": "Shipping to RUCDR: | 1=Same Day of Collection; 2=The Day Following Collection; 3=Frozen (in bulk monthly shipment)",
+        "Levels": {
+            "1": "Same Day of Collection",
+            "2": "The Day Following Collection",
+            "3": "Frozen (in bulk monthly shipment)"
+        }
+    }
+}
