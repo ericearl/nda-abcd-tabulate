@@ -2,6 +2,10 @@
 
 This repository houses a utility to make BIDS TSV and JSON files out of ABCD Release data.  It is currently tested and working on the NIH `helix` system with the ABCD Release 4.0 data.
 
+## Resource consumption
+
+I feel it's important to forewarn about this tool's resource consumption.  Given about 400 variables/fields in the `selections.txt` file in a test performed 5/26/2022, the tool utilized about 45 GB of memory on 1 CPU for 3 hours to produce the output files.  If you need 400 or so variables, I recommend performing this on an HPC cluster with 64GB memory, 1 CPU, and 4 hours.  Tests with about 30 variables performed with negligible resource consumption.
+
 ## Installation and Usage
 
 You can copy all the following text in the code block and paste it directly into a terminal on the NIH `helix` system.  As long as you have access to `/data/ABCD_DSST/ABCD_BIDS/tabulated_data/release4`, this `tabulate.py` code will work.
