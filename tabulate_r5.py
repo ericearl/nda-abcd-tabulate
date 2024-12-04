@@ -92,7 +92,7 @@ data = data.reindex(columns=essentials+list([col for col in data.columns if col 
 # correct datatypes and fill empties/NaNs
 for field in data.columns:
     if field not in ['src_subject_id', 'eventname']:
-        if field in ['interiview_age', 'demo_sex_v2', 'ehi_y_ss_scoreb']:
+        if field in ['interview_age', 'demo_sex_v2', 'ehi_y_ss_scoreb']:
             data[field] = data[field].fillna(-999)
             data[field] = data[field].astype(int)
         # elif STARTER_JSON[field]['DataType'] == 'Integer':
